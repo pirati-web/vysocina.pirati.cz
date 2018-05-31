@@ -13,11 +13,12 @@ Pokud byste z tohoto našeho chtěli vyjít pro tvorbu webu svého místního sd
 - v adresáři `assets/img/people` dejte fotky vašich lidí. Pokud nemáte fotku, používejte `assets/img/people/ppp.jpg`
 - v adresáři `_posts` odstraňte naše blogové příspěvky a dávejte vlastní
 - v adresáři `assets/img/posts` odstraňte naše fotky pro blogové příspěvky a dávejte vlastní
-- smažte adresáře `_vystavba`, `vystavba` a `assets/img/vystavba` a odstraňte tuto sekci i z `_data/main-menu.yml` a `_config.yml`
 
 Jekyll se dá rozběhat nejen na Linuxu, jak se píše níže, ale docela snadno i na macOS a s trochou úsilí i na Windows 10. Návod je například v readme [Pardubického kraje](https://github.com/pirati-web/pardubicky.pirati.cz).
 
 Níže následuje obsah copypastovaný z centrální verze.
+
+
 ## Lokální spuštění
 
 Instalace na Fedora 25: `dnf install rubygem-jekyll`
@@ -56,3 +57,14 @@ Některé údaje jsou uvedeny v složce `_data`. Jsou zde ve formátu yaml nebo 
 
 Jekyll má velmi podrobnou [dokumentaci](http://jekyllrb.com/docs/home/). A při vývoji též doporučuji [cheat sheet](http://jekyll.tips/jekyll-cheat-sheet/)
 Example web which use jekyll-pirati-theme. You can modify it to your region web.
+
+
+## Úprava designu
+
+TODO podrobněji
+Horní řádek se mění v `_data/top-menu.yml`.
+Menu pod ním je v `_includes/header`.
+Obrázek v hlavičce stránky se mění tak že do assets/header/ vložíte vlastní background.jpg
+
+Čtěte dokumentaci jekyll a kopirujte z pirátskych webů.
+
