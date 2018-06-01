@@ -7,33 +7,19 @@ Pokud byste z tohoto našeho chtěli vyjít pro tvorbu webu svého místního sd
 
 - v souboru `_config.yml` změňte hodnoty v horní části (title, description, url)
 - v souboru `_data/links.yaml` změňte hodnoty proměnných, aby se místo pražských věcí zobrazovaly vaše místní
-
-
-
-- obrázek `assets/img/header/background.jpg` změňte na nějaký váš lokální
+- přidejte tmavý obrázek `assets/img/header/background.jpg` velikost cca 1920 × 829  na něm bude bílí text z daty z links.yaml
 - v adresáři `_people` odstraňte naše lidi a místo toho založte vlastní
 - v adresáři `assets/img/people` dejte fotky vašich lidí. Pokud nemáte fotku, používejte `assets/img/people/ppp.jpg`
-- v adresáři `_posts` odstraňte naše blogové příspěvky a dávejte vlastní
+- v `_lide/index.html` můžete vybrat kreté skupiny lidí se ojeví na stránce lide
+- v adresáři `_posts` odstraňte vzorový blogové příspěvek a dávejte vlastní
 - v adresáři `assets/img/posts` odstraňte naše fotky pro blogové příspěvky a dávejte vlastní
 
+Pokud chcete více přispůsobovat:
+- odkazy v horním řádku mění v `_data/top-menu.yml`.
+- menu pod ním je v `_includes/header`.
+
+
 Jekyll se dá rozběhat nejen na Linuxu, jak se píše níže, ale docela snadno i na macOS a s trochou úsilí i na Windows 10. Návod je například v readme [Pardubického kraje](https://github.com/pirati-web/pardubicky.pirati.cz).
-
-Níže následuje obsah copypastovaný z centrální verze.
-
-
-Jednoduchý web používající jekyll-theme-pirati který vznikl kompilací designu pirati.cz praha.pirati.cz a praha12.piratic.cz
-
-
-## TODO
-
-TODO podrobněji
-Horní řádek se mění v `_data/top-menu.yml`.
-Menu pod ním je v `_includes/header`.
-Obrázek v hlavičce stránky se mění tak že do assets/header/ vložíte vlastní background.jpg
-
-Čtěte dokumentaci jekyll a kopirujte z pirátskych webů.
-
-## Změny
 
 ## Lokální spuštění
 
