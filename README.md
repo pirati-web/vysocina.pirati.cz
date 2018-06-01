@@ -1,13 +1,15 @@
 # example.pirati.cz
 
-Jednoduchý web používající jekyll-theme-pirati který vznikl kompilací designu pirati.cz praha.pirati.cz a praha12.piratic.cz
-
-Editujte branch `gh-pages`, jejíž obsah se po commitu automaticky přegeneruje na [github.io](https://pirati-web.github.io/nazev-repozitare). Po zkontrolování, že vše funguje, udělejte pull request do branch `master`.
+Tento web slouží jako výchozi stanice pro tvorbu dalších webu. Ať už regionálních nebo specializovaných celostátních.
+Nebojte se cokoliv přiohnout, koukejte se do dalšich pirátských webů o featurach které se vám líbí a přidejte si je do svého.
 
 Pokud byste z tohoto našeho chtěli vyjít pro tvorbu webu svého místního sdružení, změňte následující:
 
 - v souboru `_config.yml` změňte hodnoty v horní části (title, description, url)
 - v souboru `_data/links.yaml` změňte hodnoty proměnných, aby se místo pražských věcí zobrazovaly vaše místní
+
+
+
 - obrázek `assets/img/header/background.jpg` změňte na nějaký váš lokální
 - v adresáři `_people` odstraňte naše lidi a místo toho založte vlastní
 - v adresáři `assets/img/people` dejte fotky vašich lidí. Pokud nemáte fotku, používejte `assets/img/people/ppp.jpg`
@@ -18,6 +20,20 @@ Jekyll se dá rozběhat nejen na Linuxu, jak se píše níže, ale docela snadno
 
 Níže následuje obsah copypastovaný z centrální verze.
 
+
+Jednoduchý web používající jekyll-theme-pirati který vznikl kompilací designu pirati.cz praha.pirati.cz a praha12.piratic.cz
+
+
+## TODO
+
+TODO podrobněji
+Horní řádek se mění v `_data/top-menu.yml`.
+Menu pod ním je v `_includes/header`.
+Obrázek v hlavičce stránky se mění tak že do assets/header/ vložíte vlastní background.jpg
+
+Čtěte dokumentaci jekyll a kopirujte z pirátskych webů.
+
+## Změny
 
 ## Lokální spuštění
 
@@ -58,13 +74,6 @@ Některé údaje jsou uvedeny v složce `_data`. Jsou zde ve formátu yaml nebo 
 Jekyll má velmi podrobnou [dokumentaci](http://jekyllrb.com/docs/home/). A při vývoji též doporučuji [cheat sheet](http://jekyll.tips/jekyll-cheat-sheet/)
 Example web which use jekyll-pirati-theme. You can modify it to your region web.
 
+Editujte branch `gh-pages`, jejíž obsah se po commitu automaticky přegeneruje na [github.io](https://pirati-web.github.io/nazev-repozitare). Po zkontrolování, že vše funguje, udělejte pull request do branch `master`.
 
-## Úprava designu
-
-TODO podrobněji
-Horní řádek se mění v `_data/top-menu.yml`.
-Menu pod ním je v `_includes/header`.
-Obrázek v hlavičce stránky se mění tak že do assets/header/ vložíte vlastní background.jpg
-
-Čtěte dokumentaci jekyll a kopirujte z pirátskych webů.
 

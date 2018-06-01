@@ -1,0 +1,11 @@
+group:
+  name: "Jmeno skupiny používající web - př Pirástá strana"
+  short_name: "Název skupiny"
+  facebook_page: "https://www.facebook.com/ceska.piratska.strana/"
+  twitter: "https://twitter.com/piratskastrana"
+  local_contact_uid: "jakub.pirat"  # uid mistniho kontaktu definovane v _people
+  github_repository: "https://github.com/pirati-web/example.pirati.cz/"
+
+calendar:
+  bar: "https://calendar.google.com/calendar/r?cid=kddvdvu3adcjef2kro4j6mm838@group.calendar.google.com"
+  bar_title: "Celostátní kalendář"
