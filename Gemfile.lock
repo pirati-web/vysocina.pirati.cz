@@ -24,7 +24,7 @@ GEM
       sass (~> 3.4)
     jekyll-sitemap (1.2.0)
       jekyll (~> 3.3)
-    jekyll-theme-pirati (0.1.0)
+    jekyll-theme-pirati (0.2.0)
       jekyll (~> 3.6)
     jekyll-watch (1.5.1)
       listen (~> 3.0)
@@ -55,7 +55,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-paginate
   jekyll-sitemap
-  jekyll-theme-pirati
+  jekyll-theme-pirati (~> 0.2.0)
   tzinfo-data
 
 BUNDLED WITH
