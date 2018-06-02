@@ -23,7 +23,12 @@ Jekyll se dá rozběhat nejen na Linuxu, jak se píše níže, ale docela snadno
 
 ## Lokální spuštění
 
-Instalace na Fedora 25: `dnf install rubygem-jekyll`
+Instalace na Fedora 25: 
+```
+sudo dnf group install "C Development Tools and Libraries"
+sudo dnf install ruby-devel
+sudo dnf install rubygem-jekyll
+```
 
 Instalace Ubuntu 16.04:
 
