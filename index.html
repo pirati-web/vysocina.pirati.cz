@@ -13,12 +13,11 @@ rbar: fb, calendar
         </header>
         {% for article in site.posts limit: 6 %}
         <article itemtype="http://schema.org/BlogPosting" class="c-BlogPosting-excerpt" itemscope="">
-          <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
           <div class="c-BlogPosting-excerpt-contentWrapper u-cf">
             <div class="c-BlogPosting-excerpt-photoBox">
               <!-- BlogPosting image -->
               <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-BlogPosting-excerpt__image" itemscope="">
-                <a href="{{article.url | relative_url}}">
+                <a href="{{ site.baseurl }}{{article.url | relative_url}}">
                   <img src="{{ article.image | relative_url }}" alt="{{article.title}}">
                 </a>
                 <meta itemprop="url" content="{{ article.image | relative_url }}">
@@ -28,11 +27,11 @@ rbar: fb, calendar
             <div class="c-BlogPosting-excerpt-contentBox">
               <!-- Headline -->
               <h2 itemprop="headline" class="c-BlogPosting-excerpt__title">
-                <a href="{{article.url | relative_url}}" itemprop="url">{{article.title}}</a>
+                <a href="{{ site.baseurl }}{{article.url | relative_url}}" itemprop="url">{{article.title}}</a>
               </h2>
               <!-- BlogPosting description-->
               <div itemprop="description" class="c-BlogPosting-excerpt-content">{{ article.excerpt | truncatewords: 33 }} </div>
-              <a href="{{article.url | relative_url }}" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>
+              <a href="{{ site.baseurl }}{{article.url | relative_url }}" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>
             </div>
             <!-- Publisher -->
             <div itemprop="publisher" itemtype="http://schema.org/Organization" class="u-hidden" itemscope="">
@@ -56,7 +55,7 @@ rbar: fb, calendar
         </article>
         {% endfor %}
         <div class="c-BlogPosting-excerpt-nextBox">
-          <a href="{{'/aktuality/' | relative_url}}" rel="next" class="button expanded large">Další články</a>
+          <a href="{{ site.baseurl }}{{'/aktuality/' | relative_url}}" rel="next" class="button expanded large">Další články</a>
         </div>
       </div>
     </section>
