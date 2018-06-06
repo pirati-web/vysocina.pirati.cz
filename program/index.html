@@ -31,7 +31,7 @@ rbar: ""
 {% for topic in program %}
 <div class="medium-12 large-4 columns o-section-block--medium">
   <ul>
-    <li><a href="{{topic.url}}">{{topic.title}}</a></li>
+    <li><a href="{{topic.url | relative_url}}">{{topic.title}}</a></li>
   </ul>
 </div>
 {% endfor %}
