@@ -24,6 +24,16 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# Loccalhost setting
+baseurl: ""
+theme: jekyll-theme-pirati
+
+# Github pages setting
+#baseurl: "example.pirati.cz" # the subpath of your site, e.g. /blog
+#remote_theme: jitka/jekyll-theme-pirati
+
+
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-pirati
