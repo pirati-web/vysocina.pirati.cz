@@ -21,6 +21,10 @@ Pokud chcete více přispůsobovat:
 
 Jekyll se dá rozběhat nejen na Linuxu, jak se píše níže, ale docela snadno i na macOS a s trochou úsilí i na Windows 10. Návod je například v readme [Pardubického kraje](https://github.com/pirati-web/pardubicky.pirati.cz).
 
+Pokud chcete ukázovat verzi, která jesně není ready k nazazení na pirati.cz, můžete
+použít github pages. K tomu odkomentujte příslužné soubory v `_config` a zakomentuje
+lokální buildování.
+
 ## Lokální spuštění
 
 Instalace na Fedora 25: 
