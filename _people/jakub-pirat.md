@@ -3,7 +3,7 @@ uid: jakub.pirat
 name:     Jakub Pirát  	# běžně používáné jméno
 fullname: Bc. Jakub Pirát  	# jméno s tituly etc.
 category:  clenove
-img: people/jakub-pirat.jpg   # 165 x 220
+img: people/jakub-pirat.jpg   # 165 x 220 zakomentujte pokud nemate fotku
 description: mistr světa ve skoku pro něco
 mail:
 profiles:
