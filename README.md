@@ -9,7 +9,7 @@ Pokud byste z tohoto našeho chtěli vyjít pro tvorbu webu svého místního sd
 - v souboru `_data/links.yaml` změňte hodnoty proměnných, aby se místo pražských věcí zobrazovaly vaše místní
 - přidejte tmavý obrázek `assets/img/header/background.jpg` velikost cca 2000 × 860  na něm bude bílí text z daty z links.yaml
 - v adresáři `_people` odstraňte naše lidi a místo toho založte vlastní
-- v adresáři `assets/img/people` dejte fotky vašich lidí. Pokud nemáte fotku, používejte `assets/img/people/ppp.jpg`
+- v adresáři `assets/img/people` dejte fotky vašich lidí. JPG 165 × 220 pixels Pokud nemáte fotku, používejte `assets/img/people/ppp.jpg`
 - v `_lide/index.html` můžete vybrat kreté skupiny lidí se ojeví na stránce lide
 - v adresáři `_posts` odstraňte vzorový blogové příspěvek a dávejte vlastní
 - v adresáři `assets/img/posts` odstraňte naše fotky pro blogové příspěvky a dávejte vlastní
@@ -20,6 +20,10 @@ Pokud chcete více přispůsobovat:
 
 
 Jekyll se dá rozběhat nejen na Linuxu, jak se píše níže, ale docela snadno i na macOS a s trochou úsilí i na Windows 10. Návod je například v readme [Pardubického kraje](https://github.com/pirati-web/pardubicky.pirati.cz).
+
+Pokud chcete ukázovat verzi, která jesně není ready k nazazení na pirati.cz, můžete
+použít github pages. K tomu odkomentujte příslužné soubory v `_config` a zakomentuje
+lokální buildování.
 
 ## Lokální spuštění
 
