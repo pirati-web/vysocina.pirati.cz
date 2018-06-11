@@ -18,6 +18,7 @@ Pokud chcete více přispůsobovat:
 - odkazy v horním řádku mění v `_data/top-menu.yml`.
 - menu pod ním je v `_includes/header`.
 
+Jako UID lidí používejte loginy na foru.
 
 Jekyll se dá rozběhat nejen na Linuxu, jak se píše níže, ale docela snadno i na macOS a s trochou úsilí i na Windows 10. Návod je například v readme [Pardubického kraje](https://github.com/pirati-web/pardubicky.pirati.cz).
 
