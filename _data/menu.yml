@@ -1,0 +1,9 @@
+- link: "/aktuality"
+  name: "Aktuality"
+- link: "/lide"
+  name: "O nás"
+  submenu:
+      - link: "/lide"
+        name: "Naši lidé"
+- link: "/komunalni-volby"
+  name: "Komunální volby"

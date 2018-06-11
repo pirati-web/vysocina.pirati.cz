@@ -3,28 +3,6 @@
 Tento web slouží jako výchozi stanice pro tvorbu dalších webu. Ať už regionálních nebo specializovaných celostátních.
 Nebojte se cokoliv přiohnout, koukejte se do dalšich pirátských webů o featurach které se vám líbí a přidejte si je do svého.
 
-Pokud byste z tohoto našeho chtěli vyjít pro tvorbu webu svého místního sdružení, změňte následující:
-
-- v souboru `_config.yml` změňte hodnoty v horní části (title, description, url)
-- v souboru `_data/links.yaml` změňte hodnoty proměnných, aby se místo pražských věcí zobrazovaly vaše místní
-- přidejte tmavý obrázek `assets/img/header/background.jpg` velikost cca 2000 × 860  na něm bude bílí text z daty z links.yaml
-- v adresáři `_people` odstraňte naše lidi a místo toho založte vlastní
-- v adresáři `assets/img/people` dejte fotky vašich lidí. JPG 165 × 220 pixels Pokud nemáte fotku, používejte `assets/img/people/ppp.jpg`
-- v `_lide/index.html` můžete vybrat kreté skupiny lidí se ojeví na stránce lide
-- v adresáři `_posts` odstraňte vzorový blogové příspěvek a dávejte vlastní
-- v adresáři `assets/img/posts` odstraňte naše fotky pro blogové příspěvky a dávejte vlastní
-
-Pokud chcete více přispůsobovat:
-- odkazy v horním řádku mění v `_data/top-menu.yml`.
-- menu pod ním je v `_includes/header`.
-
-Jako UID lidí používejte loginy na foru.
-
-Jekyll se dá rozběhat nejen na Linuxu, jak se píše níže, ale docela snadno i na macOS a s trochou úsilí i na Windows 10. Návod je například v readme [Pardubického kraje](https://github.com/pirati-web/pardubicky.pirati.cz).
-
-Pokud chcete ukázovat verzi, která jesně není ready k nazazení na pirati.cz, můžete
-použít github pages. K tomu odkomentujte příslužné soubory v `_config` a zakomentuje
-lokální buildování.
 
 ## Lokální spuštění
 
@@ -50,16 +28,17 @@ Repozitář můžeme naklonovat do jakékoliv složky (nemusí být ve `/var/www
 
 Popřípadě můžeme spustit jen: `jekyll build`, což do složky `_site` připraví kompletní web (ten můžeme otevřít z prohlíže pomocí klavesové zkratky `ctrl+o`).
 
+Jekyll se dá rozběhat nejen na Linuxu, jak se píše níže, ale docela snadno i na macOS a s trochou úsilí i na Windows 10. Návod je například v readme [Pardubického kraje](https://github.com/pirati-web/pardubicky.pirati.cz).
+
 ## Struktura
 
 Samotné stránky jsou v markdownu nebo v html (složitější struktura, např. vícesloupců apod)
 
-Kolekce jsou markdown soubory s yaml frontend v přísliušné složce, na webu jsou použity 4:
+Kolekce jsou markdown soubory s yaml frontend v přísliušné složce, na webu jsou použity tyto:
 
 - posts (články)
 - people (lidé)
 - program
-- teams (týmy)
 
 Některé údaje jsou uvedeny v složce `_data`. Jsou zde ve formátu yaml nebo json.
 
@@ -68,8 +47,26 @@ Některé údaje jsou uvedeny v složce `_data`. Jsou zde ve formátu yaml nebo 
 **JavaScript** je ve složce `_include/js`. Knihovny jsou linkovány skrze CDN v minifikované podobě. Další JS je v spojen do jednoho scriptu bez minifikace (zatím).
 
 Jekyll má velmi podrobnou [dokumentaci](http://jekyllrb.com/docs/home/). A při vývoji též doporučuji [cheat sheet](http://jekyll.tips/jekyll-cheat-sheet/)
-Example web which use jekyll-pirati-theme. You can modify it to your region web.
 
-Editujte branch `gh-pages`, jejíž obsah se po commitu automaticky přegeneruje na [github.io](https://pirati-web.github.io/nazev-repozitare). Po zkontrolování, že vše funguje, udělejte pull request do branch `master`.
+Example web používá [jekyll-pirati-theme](https://github.com/jitka/jekyll-theme-pirati). Cokoliv z něj jde přepsat. Používejte co nejnovějši verzi.
 
 
+## Vytvoření regionálního webu
+
+Pokud byste z tohoto našeho chtěli vyjít pro tvorbu webu svého místního sdružení, změňte následující:
+
+- v souboru `_config.yml` změňte hodnoty v horní části (title, description, url)
+- v souboru `_data/links.yml` změňte hodnoty proměnných, aby se místo pražských věcí zobrazovaly vaše místní
+- přidejte tmavý obrázek `assets/img/header/background.jpg` velikost cca 2000 × 860  na něm bude bílí text z daty z links.yaml
+- v adresáři `_people` odstraňte naše lidi a místo toho založte vlastní, UID je login lidí z fora.
+- v adresáři `assets/img/people` dejte fotky vašich lidí. JPG 165 × 220 pixels Pokud nemáte fotku, používejte `assets/img/people/ppp.jpg`
+- v `_lide/index.html` můžete vybrat kreté skupiny lidí se objeví na stránce lide
+- v adresáři `_posts` odstraňte vzorový blogové příspěvek a dávejte vlastní
+- v adresáři `assets/img/posts` odstraňte naše fotky pro blogové příspěvky a dávejte vlastní
+
+Pokud chcete více přispůsobovat:
+- v souboru `_data/menu.yml` se mění položky hlavního menu.
+
+Pokud chcete vystavit ukázku:
+- odkomentujte `github pages setting` a zakomentujte `localhost setting`  řádky v `_config`
+- v nastavení vašeho githubu zvolte vygenerování stránek z větvě `master`

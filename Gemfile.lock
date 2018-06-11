@@ -170,7 +170,7 @@ GEM
     jekyll-theme-modernist (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
-    jekyll-theme-pirati (1.0.0)
+    jekyll-theme-pirati (1.1.0)
       jekyll (~> 3.6)
     jekyll-theme-primer (0.5.3)
       jekyll (~> 3.5)
@@ -245,7 +245,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-paginate
   jekyll-sitemap
-  jekyll-theme-pirati (~> 1.0.0)
+  jekyll-theme-pirati (~> 1.1.0)
   tzinfo-data
 
 BUNDLED WITH
