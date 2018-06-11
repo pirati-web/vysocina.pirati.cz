@@ -69,6 +69,6 @@ defaults:   # defaults values for collection scope
       path: "_program"
     values:
       layout: "page"
-      rbar: "volby-2018"
+      rbar: "garant, program"
 
 emptyArray: []

@@ -2,10 +2,16 @@
 uid: jakub.pirat
 name:     Jakub Pirát  	# běžně používáné jméno
 fullname: Bc. Jakub Pirát  	# jméno s tituly etc.
-category:  clenove
+profession: knihovník
+category:  
+  - clenove
+  - kandidat-obec
 img: people/jakub-pirat.jpg   # 165 x 220 zakomentujte pokud nemate fotku
 description: mistr světa ve skoku pro něco
-mail:
+candidateDescription: expert na skoky # zobrazuje se v komunalni-volby
+cityCandidatePosition: 1
+mail: 
+  - jakub.pirat@pirati.cz
 profiles:
   facebook: https://www.facebook.com/uzivatel.na.fb  # pokud nema, staci smazat tuto radku
   googleplus: https://plus.google.com/+uzivatel.na.googleplus
