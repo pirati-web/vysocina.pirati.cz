@@ -58,7 +58,7 @@ Pokud byste z tohoto našeho chtěli vyjít pro tvorbu webu svého místního sd
 - v souboru `_config.yml` změňte hodnoty v horní části (title, description, url)
 - v souboru `_data/links.yml` změňte hodnoty proměnných, aby se místo pražských věcí zobrazovaly vaše místní
 - přidejte tmavý obrázek `assets/img/header/background.jpg` velikost cca 2000 × 860  na něm bude bílí text z daty z links.yaml
-- v adresáři `_people` odstraňte naše lidi a místo toho založte vlastní, UID je login lidí z fora.
+- v adresáři `_people` odstraňte naše lidi a místo toho založte vlastní.
 - v adresáři `assets/img/people` dejte fotky vašich lidí. JPG 165 × 220 pixels Pokud nemáte fotku, používejte `assets/img/people/ppp.jpg`
 - v `_lide/index.html` můžete vybrat kreté skupiny lidí se objeví na stránce lide
 - v adresáři `_posts` odstraňte vzorový blogové příspěvek a dávejte vlastní
