@@ -72,3 +72,51 @@ defaults:   # defaults values for collection scope
       rbar: "garant, program"
 
 emptyArray: []
+
+organization:
+  name: Jmeno skupiny používající web - př Pirástá strana
+  shortName: Název skupiny
+  contactUid: jakub.pirat
+  email: example@pirati.cz
+  phone: +420 777 123 456 789
+  address: |
+    Piratská planeta 1
+    100 00 Pirátsko
+  residenceImg:
+  mapLink: https://mapy.cz/zakladni?base=ophoto&q=Radou%C5%A1ova%2014,%20Chrudim
+  redmineLink: https://redmine.pirati.cz/projects
+
+homepageTeaser:
+  display: true
+  link: /komunalni-volby/
+  title: Komunální volby 2018
+
+calendar:
+  title: Celostátní kalendář
+  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=nk73m1m89vhf5g2vojp6tnqe58%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
+
+facebook:
+  loadSDK: true
+  profilePage:
+  appId: 1526197851008996
+
+twitter:
+  loadSDK: true
+  profile: PiratskaStrana
+
+instagram:
+  profilePage: https://www.instagram.com/pirati.cz/
+
+gplus:
+  profilePage: https://plus.google.com/u/0/+piratskastrana
+
+flicker:
+  profilePage: https://www.flickr.com/photos/pirati/
+
+forum:
+  page: https://forum.pirati.cz/
+
+github:
+  url: https://github.com/pirati-web/jekyll-theme-pirati/
+  branch: master
+
