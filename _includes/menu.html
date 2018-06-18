@@ -1,0 +1,56 @@
+<div class="row">
+  <div class="columns small-12">
+    <div class="c-top-bar">
+      <div class="c-top-bar__brand">
+        <a href="{{ '/' | relative_url }}">
+          <img src="{{ '/assets/img/brand/logo_napis.svg' | relative_url }}" alt="Pirátská strana">
+        </a>
+      </div>
+
+      <div class="c-top-bar__search">
+        <div class="__vue-root" data-app="SiteSearch">
+          <!-- this will get replaced by Vue.js content, placeholder only -->
+          <div class="c-search">
+            <input class="c-search__input" type="search" id="search" placeholder="Hledaný výraz">
+            <button type="button" class="c-search__confirm" id="searchsub"><i class="fa fa-search" aria-hidden="true"></i></button>
+          </div>
+        </div>
+      </div>
+
+      <div id="responsive-menu" class="c-responsive-menu">
+        <ul class="c-responsive-menu__items" data-dropdown-menu="">
+          {% for item in site.data.menu.main %}
+          <li class="c-responsive-menu__item {% if page.url contains item.match %}c-responsive-menu__item--active{% endif %}">
+            <a href="{{ item.link | relative_url }}">{{ item.name }}</a>
+
+            {% comment %}
+            <!-- submenu not yet implemented -->
+            {% if item.submenu %}
+            <ul class="menu vertical">
+              {% for subitem in item.submenu %}
+              <li{% if page.url contains 'lide'%} class="is-active"{% endif %}>
+                  <a href="{{ subitem.lik | relative_url }}"> {{ subitem.name }} </a>
+              </li>
+              {% endfor %}
+            </ul>
+            {% endif %}
+            {% endcomment %}
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <div class="c-responsive-menu-toggle hide-for-large">
+        <span data-responsive-toggle="responsive-menu" id="menuTogge" data-hide-for="large">
+          <button class="c-responsive-menu-toogle__button" type="button" data-toggle="">
+            <span class="c-responsive-menu-toggle__caption">Menu</span>
+            <i class="menu-icon dark"></i>
+          </button>
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="c-top-bar__divider"></div>
+

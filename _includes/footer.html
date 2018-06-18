@@ -1,0 +1,103 @@
+<div class="text-right show-for-medium-up hide-for-print">
+    <a href="{{ site.github.url }}edit/{{ site.github.branch }}/{{ page.path }}" class="label secondary" style="background-color:#bbb">
+      <i class="fa fa-pencil"></i>
+      Navrhni úpravu
+    </a>
+</div>
+
+<footer class="o-section o-section--tiled o-section--bigger u-inverted u-cf">
+  <div class="o-section-inner">
+    <div class="row">
+      <div class="medium-12 large-3 u-stacked-medium-down columns">
+        <img src="{{ 'assets/img/brand/logo-round.svg' | relative_url }}" alt="Česká pirátská strana" class="logo u-center-medium-down u-10paddingTop">
+        <p class="u-0margin u-noWrap u-50paddingTop u-smaller-line-height show-for-large">
+          <span class="u-mirror-horizontally">&copy;</span> Piráti, {{ site.time | date: '%Y' }}. Všechna práva vyhlazena.
+          <br>Sdílejte a nechte ostatní sdílet za stejných
+          <br>podmínek.
+      </div>
+      <div class="medium-12 large-6 u-stacked-medium-down columns">
+        <div class="row u-custom-gutter">
+          {% for linkGroup in site.data.menu.bottom %}
+            <div class="columns {{ linkGroup.class }}">
+                <nav class="c-vertical-navigation u-center-medium-only">
+                  {% if linkGroup.title %}
+                    <h3 class="c-vertical-navigation__title">{{ linkGroup.title }}</h3>
+                  {% endif %}
+                  <ul class="c-vertical-navigation-items">
+                    {% for linkGroupItem in linkGroup.links %}
+                    <li class="c-vertical-navigation__item">
+                      <a href="{{ linkGroupItem.link }}">{{ linkGroupItem.name }}</a>
+                    </li>
+                    {% endfor %}
+                  </ul>
+                </nav>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+      <div class="medium-12 large-3 u-stacked-medium-down columns u-center-medium-down">
+        <nav class="c-vertical-navigation">
+          <h3 class="c-vertical-navigation__title">Buďte s námi v síti</h3>
+          <ul class="c-vertical-navigation-items c-vertical-navigation-items--horizontal">
+            {% if site.facebook.profilePage %}
+            <li class="c-vertical-navigation__item">
+              <a href="{{ site.facebook.profilePage }}" rel="noopener noreferrer" title="Facebook - {{ site.organization.shortName }}">
+                <i class="fa fa-facebook c-icon c-icon--rounded c-icon--facebook" aria-hidden="true"></i>
+              </a>
+            </li>
+            {% endif %}
+            {% if site.twitter.profile %}
+            <li class="c-vertical-navigation__item">
+              <a href="https://www.twitter.com/{{ site.twitter.profile }}" rel="noopener noreferrer" title="Twitter - {{ site.organization.shortName }}">
+                <i class="fa fa-twitter c-icon c-icon--rounded c-icon--twitter" aria-hidden="true"></i>
+              </a>
+            </li>
+            {% endif %}
+            {% if site.instagram.profilePage %}
+            <li class="c-vertical-navigation__item">
+              <a href="{{ site.instagram.profilePage }}" rel="noopener noreferrer" title="Instagram - {{ site.organization.shortName }}">
+                <i class="fa fa-instagram c-icon c-icon--rounded c-icon--instagram" aria-hidden="true"></i>
+              </a>
+            </li>
+            {% endif %}
+            {% if site.gplus.profilePage %}
+            <li class="c-vertical-navigation__item">
+              <a href="{{ site.gplus.profilePage }}" rel="noopener noreferrer" title="Google Plus - {{ site.organization.shortName }}">
+                <i class="fa fa-google-plus c-icon c-icon--rounded c-icon--googlePlus" aria-hidden="true"></i>
+              </a>
+            </li>
+            {% endif %}
+          </ul>
+        </nav>
+        <p class="u-10paddingTop u-maxWidth80percent u-smaller-line-height hide-for-large">
+          <span class="u-mirror-horizontally">&copy;</span> Piráti, {{ site.time | date: '%Y' }}. Všechna práva vyhlazena.
+          <br> Sdílejte a nechte ostatní sdílet za stejných podmínek.
+      </div>
+    </div>
+  </div>
+</footer>
+
+{% assign contactPerson = site.people | where_exp: "item","item.uid contains site.organization.contactUid" | first %}
+
+{% if contactPerson %}
+<aside class="o-section o-section--bigger c-contact-bar u-inverted u-center-medium-down">
+  <div class="o-section-inner">
+    <div class="row">
+      <div class="small-12 columns">
+        <header class="c-contact-bar-header u-stacked-medium-down">
+          <h3 class="c-contact-bar__heading"> <a href="{{ '/kontakt/' | relative_url }}">Kontakt</a> </h3>
+        </header>
+        <ul class="c-contact-bar-items u-stacked-medium-down">
+          <li class="c-contact-bar__item u-stacked-medium-down">
+            <div class="c-contact-bar__description"> {{ contactPerson.fullname }},
+              <a href="mailto:{{ contactPerson.mail }}">{{ contactPerson.mail }}</a>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</aside>
+{% endif %}
+
+<div class="__vue-root" data-app="ScrollTop"></div>
