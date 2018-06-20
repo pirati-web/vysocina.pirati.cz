@@ -1,3 +1,11 @@
+GIT
+  remote: git://github.com/pirati-web/jekyll-theme-pirati.git
+  revision: e86490b5fba49843c803a41cbd44360cf06b50dc
+  branch: master
+  specs:
+    jekyll-theme-pirati (2.0.0)
+      jekyll (~> 3.6)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -170,8 +178,6 @@ GEM
     jekyll-theme-modernist (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
-    jekyll-theme-pirati (1.2.0)
-      jekyll (~> 3.6)
     jekyll-theme-primer (0.5.3)
       jekyll (~> 3.5)
       jekyll-github-metadata (~> 2.9)
@@ -197,7 +203,9 @@ GEM
     kramdown (1.16.2)
     liquid (4.0.0)
     listen (3.1.5)
+      rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
+      ruby_dep (~> 1.2)
     mercenary (0.3.6)
     mini_portile2 (2.3.0)
     minima (2.4.1)
@@ -219,6 +227,7 @@ GEM
     rouge (2.2.1)
     ruby-enum (0.7.2)
       i18n
+    ruby_dep (1.5.0)
     rubyzip (1.2.1)
     safe_yaml (1.0.4)
     sass (3.5.6)
@@ -247,7 +256,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-paginate
   jekyll-sitemap
-  jekyll-theme-pirati (~> 1.2.0)
+  jekyll-theme-pirati!
   tzinfo-data
 
 BUNDLED WITH

@@ -28,12 +28,12 @@ main:
     match: kontakt
 
 bottom:
-  - class: small-6 medium-4
+  - class: small-12 medium-4
     title: Připoj se
     links:
       - link: /pripoj-se/
         name: Dej nám vědět
-  - class: small-6 medium-4
+  - class: small-12 medium-4
     title: Makáme
     links:
       - link: /lide/
@@ -42,7 +42,7 @@ bottom:
         name: Volby
       - link: /aktuality/
         name: Aktuality
-  - class: small-6 medium-4
+  - class: small-12 medium-4
     title: Otevřenost
     links:
       - link: https://ucet.pirati.cz

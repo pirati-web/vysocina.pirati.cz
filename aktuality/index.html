@@ -13,5 +13,5 @@ title: Aktuality
 </div>
 
 {% assign posts = paginator.posts %}
-
-{% include articles/pagination.html %}
+{% include articles/list_3col.html posts=posts %}
+{% include articles/pagination.html paginator=paginator %}

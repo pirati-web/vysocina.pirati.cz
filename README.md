@@ -6,7 +6,7 @@ Nebojte se cokoliv přiohnout, koukejte se do dalšich pirátských webů o feat
 
 ## Lokální spuštění
 
-Instalace na Fedora 25: 
+Instalace na Fedora 25:
 ```
 sudo dnf group install "C Development Tools and Libraries"
 sudo dnf install ruby-devel
@@ -24,7 +24,7 @@ bundle
 
 Repozitář můžeme naklonovat do jakékoliv složky (nemusí být ve `/var/www/`).
 
-`jekyll serve`, což stránku zkompiluje, spustí a ještě je stránka přístupná skrz localhost: `http://127.0.0.1:4000`
+`jekyll serve --watch --livereload`, což stránku zkompiluje, spustí a ještě je stránka přístupná skrz localhost: `http://127.0.0.1:4000`
 
 Popřípadě můžeme spustit jen: `jekyll build`, což do složky `_site` připraví kompletní web (ten můžeme otevřít z prohlíže pomocí klavesové zkratky `ctrl+o`).
 
