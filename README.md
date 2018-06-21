@@ -24,6 +24,7 @@ bundle
 
 Repozitář můžeme naklonovat do jakékoliv složky (nemusí být ve `/var/www/`).
 
+`bundle install --path vendor/bundle`
 `jekyll serve --watch --livereload`, což stránku zkompiluje, spustí a ještě je stránka přístupná skrz localhost: `http://127.0.0.1:4000`
 
 Popřípadě můžeme spustit jen: `jekyll build`, což do složky `_site` připraví kompletní web (ten můžeme otevřít z prohlíže pomocí klavesové zkratky `ctrl+o`).

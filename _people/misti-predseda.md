@@ -4,7 +4,6 @@ name:     Místní Předseda  	# běžně používáné jméno
 fullname: Místní Předseda  	# jméno s tituly etc.
 category: 
   - clenove
-  - kandidat-obec
   - pms
 description: mistr světa ve skoku pro něco # zobrazuje se v lide
 profession: knihovník
@@ -12,7 +11,6 @@ profession: knihovník
 candidateDescription: expert na skoky # zobrazuje se v komunalni-volby
 mail: 
   - mistni.predsedat@pirati.cz
-cityCandidatePosition: 3
 profiles:
   facebook: https://www.facebook.com/uzivatel.na.fb  # pokud nema, staci smazat tuto radku
   googleplus: https://plus.google.com/+uzivatel.na.googleplus
