@@ -23,55 +23,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
-# Localhost setting
 baseurl: ""
 theme: jekyll-theme-pirati
 
-# Github pages setting
-#baseurl: "example.pirati.cz" # the subpath of your site, e.g. /blog
-#remote_theme: jitka/jekyll-theme-pirati
-
-
-
-# Build settings
-markdown: kramdown
-theme: jekyll-theme-pirati
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
-paginate_path: "/aktuality/:num/"
-paginate: 11
-
-exclude:
-  - readme.md
-  - Gemfile
-  - Gemfile.lock
-
-permalink: /aktuality/:title.html
-collections:
-  people:
-    output: true
-    permalink: /lide/:path/
-  program:
-    output: true
-    permalink: /program/:path/
-
-defaults:   # defaults values for collection scope
-  -
-    scope:
-      path: "_people"
-    values:
-      layout: "page"
-      rbar: "foto"
-  -
-    scope:
-      path: "_program"
-    values:
-      layout: "page"
-      rbar: "garant, program"
-
-emptyArray: []
 
 organization:
   name: Jmeno skupiny používající web - př Pirástá strana
@@ -120,3 +74,67 @@ github:
   url: https://github.com/pirati-web/jekyll-theme-pirati/
   branch: master
 
+
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-pirati
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+paginate_path: "/aktuality/:num/"
+paginate: 11
+
+exclude:
+  - readme.md
+  - Gemfile
+  - Gemfile.lock
+
+permalink: /aktuality/:title.html
+collections:
+  people:
+    output: true
+    permalink: /lide/:path/
+  program:
+    output: true
+    permalink: /program/:path/
+
+defaults:   # defaults values for collection scope
+  -
+    scope:
+      path: "_people"
+    values:
+      layout: "page"
+      rbar: "foto"
+  -
+    scope:
+      path: "_program"
+    values:
+      layout: "page"
+      rbar: "garant, program"
+
+emptyArray: []
+
+assets:
+  source_maps: true
+  compression: true
+  gzip: false
+  plugins:
+    css: { autoprefixer: {}}
+    img:
+      optim:
+        jpegoptim:
+          strip: all
+          max_quality: 80
+  autoprefixer:
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"
+  sources:
+    - node_modules
+    - assets/css
+    - assets/fonts
+    - assets/video
+    - assets/img
+    - _sass

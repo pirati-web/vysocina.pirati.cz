@@ -3,11 +3,19 @@ layout: default
 rbar: fb, calendar
 ---
 
-{% if site.homepageTeaser.display %}
-<div class="row election-teaser">
+{% if site.homepageBanner.display %}
+<div class="row c-hp-banner">
   <div class="small-12 columns">
-    <a href="{{ site.homepageTeaser.link }}" title="{{ site.homepageTeaser.title }}">
-      {{ site.homepageTeaser.title }}
+    <a href="{{ site.homepageBanner.link }}" title="{{ site.homepageBanner.title }}">
+      {% capture img %}{% asset '{{ site.homepageBanner.image.default }}' magick:resize='1135x' @path %}{% endcapture %}
+      {% if site.homepageBanner.breakpoint %}
+        <picture>
+          <source media="(min-width: {{ site.homepageBanner.breakpoint }}px)" srcset="{{ img }}">
+          <img src="{% asset '{{ site.homepageBanner.image.mobile }}' magick:resize='{{ site.homepageBanner.breakpoint +"px" }}' @path %}" alt="{{ site.homepageBanner.title }}">
+        </picture>
+      {% else %}
+        <img src="{{ img }}" alt="{{ site.homepageBanner.title }}">
+      {% endif %}
     </a>
   </div>
 </div>
@@ -21,9 +29,9 @@ rbar: fb, calendar
           <h1 class="o-section__heading">Aktuální témata</h1>
         </header>
         {% for article in site.posts limit: 6 %}
-          {% include articles/hp_article.html article=article %}
+          {% include articles/horizontal-article.html article=article %}
         {% endfor %}
-        <div class="c-BlogPosting-excerpt-nextBox">
+        <div class="c-article-listing__nextbox">
           <a href="{{'/aktuality/' | relative_url}}" rel="next" class="button expanded large">Další články</a>
         </div>
       </div>

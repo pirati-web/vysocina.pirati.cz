@@ -2,7 +2,6 @@
 title: Otevřená radnice
 uid: otevrena-radnice
 category: praha2018
-img: informatika.svg
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
 garant: jakub.pirat
 perex: >
