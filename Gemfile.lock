@@ -1,11 +1,3 @@
-GIT
-  remote: git://github.com/pirati-web/jekyll-theme-pirati.git
-  revision: 921bb89cd1338b396ea97994a01fe0ca1cb57ad5
-  branch: master
-  specs:
-    jekyll-theme-pirati (3.1.1)
-      jekyll (~> 3.6)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -80,6 +72,8 @@ GEM
       sass (~> 3.4)
     jekyll-sitemap (1.2.0)
       jekyll (~> 3.3)
+    jekyll-theme-pirati (3.1.2)
+      jekyll (~> 3.6)
     jekyll-watch (2.0.0)
       listen (~> 3.0)
     json (2.1.0)
@@ -136,7 +130,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-paginate
   jekyll-sitemap
-  jekyll-theme-pirati!
+  jekyll-theme-pirati (~> 3.1.2)
   json
   mini_magick
   sprockets (~> 4.0.0.beta)
