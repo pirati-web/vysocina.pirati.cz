@@ -19,13 +19,15 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
-baseurl: ""
 theme: jekyll-theme-pirati
 
+sass:
+  style: compressed
+  sass_dir: _sass
 
 organization:
   name: Jmeno skupiny používající web - př Pirástá strana
@@ -40,13 +42,20 @@ organization:
   mapLink: https://mapy.cz/zakladni?base=ophoto&q=Radou%C5%A1ova%2014,%20Chrudim
   redmineLink: https://redmine.pirati.cz/projects
 
-homepageTeaser:
-  display: true
+homepageBanner:
+  display: false
   link: /komunalni-volby/
   title: Komunální volby 2018
+  breakpoint: 640 # breakpoint in pixels when to start showing `default` instead of `mobile`
+  image:
+    default: path/to/img.jpg
+    mobile: path/to/img.jpg
 
 calendar:
+  # Get api key from Google Developer Console
+  apiKey: AIzaSyAXWWBxhDChm00CQv_BeK-WI_VuebYr9a8
   title: Celostátní kalendář
+  id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
   page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=nk73m1m89vhf5g2vojp6tnqe58%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
 
 facebook:
@@ -117,8 +126,8 @@ defaults:   # defaults values for collection scope
 emptyArray: []
 
 assets:
-  source_maps: true
-  compression: true
+  source_maps: false
+  compression: false
   gzip: false
   plugins:
     css: { autoprefixer: {}}
@@ -132,7 +141,6 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - node_modules
     - assets/css
     - assets/fonts
     - assets/video

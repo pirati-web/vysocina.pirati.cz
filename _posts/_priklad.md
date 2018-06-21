@@ -5,7 +5,7 @@ title: Nadpis článku
 date: 2018-03-14T12:00:00.000Z
 author: Jmeno Prijmeni
 authorId: jmeno.prijmeni    # uid nekoho z _people
-image: /assets/img/posts/obrazek.u.tohoto.postu.jpg
+image: posts/obrazek.u.tohoto.postu.jpg
 tags:
   - tag 1
   - tag 2
