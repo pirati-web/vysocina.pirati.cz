@@ -1,6 +1,6 @@
 ---
 layout: contacts
-residence: yes #vyplňte pokud chcete přidat adresu nejbližšího pice
+residence: no #vyplňte pokud chcete přidat adresu nejbližšího pice
 ---
 
 ## Přidejte se
