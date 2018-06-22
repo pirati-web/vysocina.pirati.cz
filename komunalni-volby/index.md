@@ -8,6 +8,8 @@ candidates:
   - jakub.pirat
   - mistni.predseda
   - aktivni.priznivec
+description: Text který se může objevyt v google. 
+keywords: komunalní volby, kandidátka, program, volební program, čelo kanditátky, leader, pirátská kandiátka, pirátský program 
 ---
 
 Úvodní text. Např vysvětlení koalice, podpory.

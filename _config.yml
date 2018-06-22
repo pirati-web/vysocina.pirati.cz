@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
+keywords: piráti, česká pirátská strana, svoboda, demokracie, kontrola moci a mocných, zjednodušení státu pomocí technologií, ochranu občanů před šikanou, obranu svobody, černá na bílé, ivan bartoš, e-government, politika pro 21. století # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -151,7 +152,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-3.3.0/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-3.5.0/_sass
     - assets/css
     - assets/fonts
     - assets/video
