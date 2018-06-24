@@ -1,15 +1,11 @@
 version: '3'
-volumes:
-  node_modules:
-  bundle:
 services:
   site:
     command: >
-      bash -c "bundle install && bundle exec jekyll serve --watch --livereload"
+      bash -c "bundle install --path vendor/bundle && bundle exec jekyll serve --watch --livereload"
     build: .
     volumes:
       - .:/srv/jekyll
-      - bundle:/usr/local/bundle
     ports:
       - 4000:4000
       - 35729:35729
