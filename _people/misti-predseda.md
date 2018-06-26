@@ -2,14 +2,14 @@
 uid: mistni.predseda
 name:     Místní Předseda  	# běžně používáné jméno
 fullname: Místní Předseda  	# jméno s tituly etc.
-category: 
+category:
   - clenove
   - pms
+ordpms: 1
+ordclenove: 1
 description: mistr světa ve skoku pro něco # zobrazuje se v lide
-profession: knihovník
 #img: people/ppp.jpg # zakomentuj radek dokud není fotka
-candidateDescription: expert na skoky # zobrazuje se v komunalni-volby
-mail: 
+mail:
   - mistni.predsedat@pirati.cz
 profiles:
   facebook: https://www.facebook.com/uzivatel.na.fb  # pokud nema, staci smazat tuto radku

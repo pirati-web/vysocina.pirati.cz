@@ -16,16 +16,16 @@ main:
   - link: /lide/
     name: O nás
     match: lide
-    submenu:
-        - link: /lide
-          name: Naši lidé
-          match: lide
-  - link: /komunalni-volby/
+  - link: /komunalni-volby/praha2018
     name: Komunální volby
     match: komunalni-volby
-  - link: /kontakt/
-    name: Kontakt
-    match: kontakt
+    submenu:
+      - link: /komunalni-volby/praha2018
+        name: Program na radnici
+        match: radnice
+      - link: /komunalni-volby/senat
+        name: Senát
+        match: senat
 
 bottom:
   - class: small-12 medium-4
