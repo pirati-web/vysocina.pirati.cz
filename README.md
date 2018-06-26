@@ -3,7 +3,6 @@
 Tento web slouží jako výchozí stanice pro tvorbu dalších webu. Ať už regionálních nebo specializovaných celostátních.
 Nebojte se cokoliv přiohnout, koukejte se do dalšich pirátských webů o featurach které se vám líbí a přidejte si je do svého.
 
-
 ## Obsah
 
 - [Úvod](#intro)
@@ -58,7 +57,6 @@ Spustění je pomocí
 
 Popřípadě můžeme spustit jen: `jekyll build`, což do složky `_site` připraví kompletní web (ten můžeme otevřít z prohlíže pomocí klavesové zkratky `ctrl+o`).
 
-
 ## Souborová struktura
 
 ### Pomocné soubory
@@ -78,7 +76,6 @@ Samotné stránky jsou v markdownu nebo v html (složitější struktura, např.
 * `index.html` popisuje titulní stránky
 * v dalších složkách jako je např `kontakt` nebo `lide` najdeme popis stránek, které budou na *example.pirati.cz/kontakt/* resp *example.pirati.cz/lide/* krom indexu tam lze přidávat další stránky pokud např v `komunalni-volby` přidáte soubor `harmonogram.md` ve správném formátu, tak vyrobíte stránku *example.pirati.cz/komunalni-volby/harmonogram.html*
 
-
 ## Jednoduchá změna pomocí GitHub
 
 Rozlišujeme dva typy uživatelů. 
@@ -97,63 +94,63 @@ jako username doporučuji zvolit reálné jméno a přidat i fotku. Usnadníte t
 
 ### Drobná změna
 
-Jako je např oprava gramatické chyby nebo přidání telefoního čísla.
+Jako je např. oprava gramatické chyby nebo přidání telefoního čísla.
 
-Najděte si daný soubor. Vpravo nahoře obsahu toho souboru je symbol tužky. Kliknětě a navrhněte změny. Pokud není naprosto jasné co děláte tak do commit message dole připište zdůvodnění. Dejte navrhnout upravy a pak schválit merge request. Tj je třeba kliknout dvakrat.
+Najděte si daný soubor. Vpravo nahoře obsahu toho souboru je symbol tužky. Kliknětě a navrhněte změny. Pokud není naprosto jasné co děláte tak do commit message dole připište zdůvodnění. Dejte navrhnout úpravy a pak schválit merge request. Tj. je třeba kliknout dvakrát.
 
 Existuje ještě elegantní trik jak se dostat k editaci: přímo na samotném webu najít vpravo dole tlačítko navrhnout změnu.
 
 ### Přidání textového souboru
 
-Na githubu najedte do složky kam chcete soubor přidat a klidněte na "create new file" dopručuji si zároveň otevřít jiný soubor z dané složky až z něm může zkopírovat strukturu a vyměnit jenom data.
+Na githubu najeďte do složky, kam chcete soubor přidat, a klidněte na "create new file". Doporučuji si zároveň otevřít jiný soubor z dané složky, ať z něj můžete zkopírovat strukturu a vyměnit jenom data.
 
 ### Přidání fotky
 
 Fotky může přidávat pouze 'editor'.
 
-### Schváleni změny
+### Schválení změny
 
-Na hlavní stránce nahoře je pole "merge request" tam se nachází seznam návrhů, projděte si je, rozklikejte si a když vidíte co dělá můžete kliknout na "merge pull request" a následně "confirm merge"
+Na hlavní stránce nahoře je pole "merge request" - tam se nachází seznam návrhů. Projděte si je, rozklikejte je a po kontrole můžete kliknout na "merge pull request" a následně "confirm merge".
 
 ### Kontrola
 
-Pokud děláte změny takto přes github můžou nastat chyby aniž by jste o nich věděli a je potřeba po změně zkontrolovat, že se vše povedlo. Nicméně buťte trpěliví než se změna projeví může trvat až pět minut. Existuji tři typi chyb:
+Pokud děláte změny takto přes github, může dojít k chybě, které si hned nevšimnete. Proto je po změně potřeba zkontrolovat, že se vše povedlo. Nicméně buťte trpěliví, může trvat až pět minut než se změna projeví. Existují tři typy chyb:
 
-- první je že se něco viditelně rozbije například zmizí kus textu a vi vidíte jen "tel" a za tím nic.
-- druhý je že se něco rozbije natolik, že web ani nejde přeložit, v tom případě zůstane ve staré verzi a vi nevidíte změnu kterou jste chtěli provádět.
-- třetí nejhorši je že nahrajete něco co by ste na pirati.cz vůbec neměli nahrávat. Tomu zabránite jedině tak že pečlivě kontrolujete commity a nepustíte dál žadnou změnu které nerozumíte.
+- První je, že se něco viditelně rozbije - například zmizí kus textu a vy vidíte jen "tel" a za tím nic
+- Druhý je, že se něco rozbije natolik, že web ani nejde přeložit. V tom případě zůstane ve staré verzi a vy nevidíte žádnou změnu.
+- Třetí a nejhorší je, že nahrajete něco, co byste na pirati.cz vůbec neměli nahrávat. Tomu zabráníte jedině tak, že pečlivě kontrolujete commity a nepustíte dál žadnou změnu, které nerozumíte.
 
-To, že něco pokazíte se děje každému, důležité je nebát si říct o moct a napravit to.
+To, že něco pokazíte se může stát každému. Důležité je nebát si říct o pomoc a chybu napravit.
 
 ## Složitější změny
 
-
 Tento web používá [jekyll-pirati-theme](https://github.com/jitka/jekyll-theme-pirati). Cokoliv z něj jde přepsat. Používejte co nejnovějši verzi. Verze se nastavuje v `Gemfile` a je zmíněna i v `assets` části `_config.yml`.
 
-Pokud chcete zasohovat do JS nebo CSS tak si přečtete [dokumentaci thema](https://github.com/pirati-web/jekyll-theme-pirati/blob/master/development.md)
+Pokud chcete zasahovat do JS nebo CSS tak si přečtete [dokumentaci thema](https://github.com/pirati-web/jekyll-theme-pirati/blob/master/development.md)
 
 ## Vytvoření regionálního webu
 
-Pokud byste z tohoto našeho chtěli vyjít pro tvorbu webu svého místního sdružení, změňte následující:
+Pokud byste tuto šablonu chtěli využít pro tvorbu webu svého místního sdružení, změňte následující:
 
-- v souboru `_config.yml` změňte hodnoty v horní části (title, description, url) a odkazy pod tím.
-- v adresáři `_people` odstraňte naše lidi a místo toho založte vlastní.
-- v adresáři `assets/img/people` dejte fotky vašich lidí. 
-- v adresáři `_posts` odstraňte vzorový blogové příspěvek a dávejte vlastní
+- v souboru `_config.yml` změňte hodnoty v horní části (title, description, url) a odkazy pod tím
+- v adresáři `_people` odstraňte naše lidi a místo toho založte vlastní
+- v adresáři `assets/img/people` dejte fotky vašich lidí
+- v adresáři `_posts` odstraňte vzorový blogový příspěvek a dejte vlastní
 - v adresáři `assets/img/posts` odstraňte naše fotky pro blogové příspěvky a dávejte vlastní
-
-- v souboru `kontakty/index.md` upravte doporučené kontakty, zároveň u jednoho člověk v people vyplně `category` `kontaktni_osoba`
+- v souboru `kontakty/index.md` upravte doporučené kontakty, zároveň u jednoho člověka v people vyplňte `category` `kontaktni_osoba`
 - v souboru `lide/index.html` upravte text a obsah stránky `O nas`
 
 ### Titulní obrázek
-Přidejte široký webový a úzký mobilní obrázek a nastave parametry v `_config.yml`
 
-### Kontaky na pice
-V `_config.yml` vyplně adresu pice a obrázek. Následně v `kontakty/index.html` nastavte `residence: yes`.
+Přidejte široký webový a úzký mobilní obrázek a nastavte parametry v `_config.yml`
+
+### Kontaky na PiCe
+
+V `_config.yml` vyplně adresu PiCe a obrázek. Následně v `kontakty/index.html` nastavte `residence: yes`.
 
 ### Více kandidátek
-To je trošku tricky nastavení, pro inspiraci se podívejte do `jekyll-theme-pirati`.
 
+To je trošku tricky nastavení, pro inspiraci se podívejte do `jekyll-theme-pirati`.
 
 ## Získání pomoci
 
@@ -168,4 +165,4 @@ Technicky přesné dotazy můžete směřovat na TODO-issue-theme nebo [redmine]
 
 Na cokoliv se zeptejte třeba na [chatu](https://chat.pirati.cz/channel/tech-weby)
 
-Ptejte se lidí okolo vás, kteří danou věc dělali, TO a dalších. Jak říkala moje prababička "Líná huba, holé neštěstí"
+Ptejte se lidí okolo vás, kteří danou věc dělali, TO a dalších. Jak říkala moje prababička "Líná huba, holé neštěstí".
