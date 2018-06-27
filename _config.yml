@@ -84,17 +84,6 @@ github:
   url: https://github.com/pirati-web/jekyll-theme-pirati/
   branch: master
 
-# Image banner on the top of the homepage. Useful for promoting current events.
-homepageBanner:
-  display: false
-  link: /komunalni-volby/
-  title: Komunální volby 2018
-  breakpoint: 640 # breakpoint in pixels when to start showing `default` instead of `mobile`
-  image:
-    default: filename.jpg #obrazek vložte do assets/img
-    mobile: filename.jpg #obrazek vložte do assets/img
-
-
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-pirati
