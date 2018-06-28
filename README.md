@@ -152,6 +152,9 @@ V `_config.yml` vyplně adresu PiCe a obrázek. Následně v `kontakty/index.htm
 
 To je trošku tricky nastavení, pro inspiraci se podívejte do `jekyll-theme-pirati`.
 
+### Kalednář
+
+Doporučujeme si zjisti googleapikey vašeho kaledáře a doplnit ho do `_config.yml`, pak bude kalendář v designu, který odpovída zbytku webu
 ## Získání pomoci
 
 Projděte si [návod na git](http://www.kutac.cz/blog/pocitace-a-internety/git-tutorialy-a-navody/) nebo 
