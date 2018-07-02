@@ -26,6 +26,9 @@ main:
       - link: /komunalni-volby/senat
         name: Senát
         match: senat
+  - link: /kontakt/
+    name: Kontakt
+    match: kontakt
 
 bottom:
   - class: small-12 medium-4
