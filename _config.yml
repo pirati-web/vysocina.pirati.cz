@@ -49,8 +49,8 @@ homepageBanner:
   title: Komunální volby 2018
   breakpoint: 640 # breakpoint in pixels when to start showing `default` instead of `mobile`
   image:
-    default: path/to/img.jpg
-    mobile: path/to/img.jpg
+      #    default: path/to/img.jpg
+      # mobile: path/to/img.jpg
 
 calendar:
   # Get api key from Google Developer Console
