@@ -139,7 +139,7 @@ To, že něco pokazíte se může stát každému. Důležité je nebát si ří
 
 ## Složitější změny
 
-Tento web používá [jekyll-pirati-theme](https://github.com/jitka/jekyll-theme-pirati). Cokoliv z něj jde přepsat. Používejte co nejnovějši verzi. Verze se nastavuje v `Gemfile` a je zmíněna i v `assets` části `_config.yml`.
+Tento web používá [jekyll-pirati-theme](https://github.com/pirati-web/jekyll-theme-pirati). Cokoliv z něj jde přepsat. Používejte co nejnovějši verzi. Verze se nastavuje v `Gemfile` a je zmíněna i v `assets` části `_config.yml`.
 
 Pokud chcete zasahovat do JS nebo CSS tak si přečtete [dokumentaci thema](https://github.com/pirati-web/jekyll-theme-pirati/blob/master/development.md)
 
@@ -216,7 +216,7 @@ Projděte si [návod na git](http://www.kutac.cz/blog/pocitace-a-internety/git-t
 
 Jekyll má velmi podrobnou [dokumentaci](http://jekyllrb.com/docs/home/). A při vývoji též doporučuji [cheat sheet](http://jekyll.tips/jekyll-cheat-sheet/)
 
-Example web používá [jekyll-pirati-theme](https://github.com/jitka/jekyll-theme-pirati). Cokoliv z něj jde přepsat. Používejte co nejnovějši verzi.
+Example web používá [jekyll-pirati-theme](https://github.com/pirati-web/jekyll-theme-pirati). Cokoliv z něj jde přepsat. Používejte co nejnovějši verzi.
 
 Technicky přesné dotazy můžete směřovat na TODO-issue-theme nebo [redmine](https://redmine.pirati.cz/projects/to/issues/new)
 
