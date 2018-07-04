@@ -195,8 +195,12 @@ vyberete "API key" a výsledkem bude změť písmen a znaků, které tvoří sam
 klíč. Je vhodné pomocí "Restrict key" omezit adresy, na kterých klíč může být
 používán, aby vám ho někdo neukradnul. V "Application restrictions" vyberte
 "HTTP referers" a vyplňte všechny adresy, na kterých web chcete provozovat
-(např. `https://example.pirati.cz`, nebo `http://localhost:4000`, vždy jedna na
-řádek).
+(např. `https://example.pirati.cz`, vždy jedna na řádek). Pokud chcete udělat
+klíč pro lokální vývoj (např. `http://localhost:4000`), doporučujeme si na to
+udělat samostatný klíč a ten nikomu neukazovat aby se  předešlo zneužití (protože
+`localhost` vlastní každý).
+
+Mějte na paměti, že s klíčem máte právo kromě čtení také věci editovat.
 
 Jakmile máte platný klíč, tento klíč předejte správci, který s vámi řeší uvedení
 webu do provozu. Řekněte mu, že potřebujete nastavit tzv. environment variable
