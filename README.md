@@ -5,27 +5,42 @@ Nebojte se cokoliv přiohnout, koukejte se do dalšich pirátských webů o feat
 
 ## Obsah
 
-- [Úvod](#intro)
-- [Lokální spuštění](#install)
-- [Souborová struktura](#file-structure)
-- [Jednoduchá změna pomocí GitHub](#bfu-github)
-- [Složitější změny](#development)
-- [Vytvoření regionálního webu](#forking)
-- [Získání pomoci](#getting-help)
+- [example.pirati.cz](#examplepiraticz)
+  - [Obsah](#obsah)
+  - [Úvod](#Úvod)
+  - [Lokální spuštění](#lokální-spuštění)
+  - [Souborová struktura](#souborová-struktura)
+    - [Pomocné soubory](#pomocné-soubory)
+    - [Data](#data)
+    - [Webové stránky](#webové-stránky)
+  - [Jednoduchá změna pomocí GitHub](#jednoduchá-změna-pomocí-github)
+    - [Registrace na Githubu](#registrace-na-githubu)
+    - [Drobná změna](#drobná-změna)
+    - [Přidání textového souboru](#přidání-textového-souboru)
+    - [Přidání fotky](#přidání-fotky)
+    - [Schválení změny](#schválení-změny)
+    - [Kontrola](#kontrola)
+  - [Složitější změny](#složitější-změny)
+  - [Vytvoření regionálního webu](#vytvoření-regionálního-webu)
+    - [Titulní obrázek](#titulní-obrázek)
+    - [Kontaky na PiCe](#kontaky-na-pice)
+    - [Více kandidátek](#více-kandidátek)
+    - [Kalednář](#kalednář)
+  - [Získání pomoci](#získání-pomoci)
 
 ## Úvod
 
-Pirátská strana má své weby pro veřejnost statické a umístěné na vlastním serveru. 
+Pirátská strana má své weby pro veřejnost statické a umístěné na vlastním serveru.
 
 Samotné texty a data jsou umístěné v GIT repozitářích jako je tento. Repozitář je taková
 chytrá složka souborů. Chytrá je v tom, že si pamatuje veškerou historii umožňuje více
-lidem pracovat zároveň a slučovat jejich práci. 
+lidem pracovat zároveň a slučovat jejich práci.
 
 Repozitáře si můžete stáhnout (clone) na svůj počítač nebo k němu přistupovat pomocí githubu.
 Z githubu se repozitář stahuje na naše servery.
 
 Když dojde ke změně dat tak se na naších serverech repozitář zkompiluje. K tomu se používá Jekyll,
-ten vezme soubory z aktulání verze repozitáře, přidá k nim soubory z 
+ten vezme soubory z aktulání verze repozitáře, přidá k nim soubory z
 [jekyll-theme-pirati](https://github.com/pirati-web/jekyll-theme-pirati) a vyrobí z nich samotné
 html & css, které pak čte webový prohlížeč.
 
@@ -78,13 +93,13 @@ Samotné stránky jsou v markdownu nebo v html (složitější struktura, např.
 
 ## Jednoduchá změna pomocí GitHub
 
-Rozlišujeme dva typy uživatelů. 
+Rozlišujeme dva typy uživatelů.
 Prvními jsou lidé pouze zaregistrovaný na githubu může navrhnout změnu kdekoliv.
 Druhými jsou správci (collaborants) ti můžou rovnou přispívat a schvalovat změny.
 
 Pro jednoduché weby doporučujeme mít pouze dva správce,
 jednoho 'editora' který na web dáva články informace a na začátku ho plnil a druhého
-technicky zdatného, který řeší problémy a dělat velké změny. Ostatní přispěvatelé 
+technicky zdatného, který řeší problémy a dělat velké změny. Ostatní přispěvatelé
 mohou navrhovat změny.
 
 ### Registrace na Githubu
@@ -154,10 +169,45 @@ To je trošku tricky nastavení, pro inspiraci se podívejte do `jekyll-theme-pi
 
 ### Kalednář
 
-Doporučujeme si zjisti googleapikey vašeho kaledáře a doplnit ho do `_config.yml`, pak bude kalendář v designu, který odpovída zbytku webu
+Pro vložení kaledáře existují dvě cesty:
+
+* **Jednoduchá**: prostě zkopírujte adresu kalendáře pro vložení do stránky,
+  takto vložený kalendář je zcela funkční, ale nevypadá úplně pěkně
+* **Složitější**: zahrnuje nutnost získat Google Calendar API klíč, výhodou
+  ovšem je, že kalendář bude vizuálně sladěný se zbytkem webu
+
+V případě jednoduché varianty potřebujete pouze adresu pro embeddování.
+Naleznete ji v nastavení kalendáře na Google Calendar webu. Tuto hodnotu vplňte
+v `_config.yml` do pole `calendar.page`.
+
+Složitější postup není ve skutečnosti nikterak komplikovaný. Budete potřebovat
+získat ID kalendáře (napište ho do `calendar.id`), které je také k dispozici na
+Google Calendar webu. Následně ještě budete potřebovat Google Calendar API key a
+domluvit se se správcem webu aby vám ho zapnul.
+
+API klíč získáte v [Google Developer
+Consoli](https://console.developers.google.com). Nejprve si vytvořte nový
+projekt (třeba example.pirati.cz). Poté je nutné přes "Enable APIs and services"
+povolit pro projekt `Google Calendar API`. Poté si vytvořte samotný API klíč. To
+provedete tak, že kliknete na "Create credentials" v sekci
+[Credentials](https://console.developers.google.com/apis/credentials). Jako typ
+vyberete "API key" a výsledkem bude změť písmen a znaků, které tvoří samotný
+klíč. Je vhodné pomocí "Restrict key" omezit adresy, na kterých klíč může být
+používán, aby vám ho někdo neukradnul. V "Application restrictions" vyberte
+"HTTP referers" a vyplňte všechny adresy, na kterých web chcete provozovat
+(např. `https://example.pirati.cz`, nebo `http://localhost:4000`, vždy jedna na
+řádek).
+
+Jakmile máte platný klíč, tento klíč předejte správci, který s vámi řeší uvedení
+webu do provozu. Řekněte mu, že potřebujete nastavit tzv. environment variable
+`GOOGLE_CALENDAR_APIKEY` na hodnotu klíče, kterou jste předtím získali v
+Developer Consoli. Poté bude váš kalendář vypadat jako např. na [pardubickém
+webu](https://pardubice.pirati.cz).
+
+
 ## Získání pomoci
 
-Projděte si [návod na git](http://www.kutac.cz/blog/pocitace-a-internety/git-tutorialy-a-navody/) nebo 
+Projděte si [návod na git](http://www.kutac.cz/blog/pocitace-a-internety/git-tutorialy-a-navody/) nebo
 [knížku v čestine](https://www.root.cz/knihy/pro-git/)
 
 Jekyll má velmi podrobnou [dokumentaci](http://jekyllrb.com/docs/home/). A při vývoji též doporučuji [cheat sheet](http://jekyll.tips/jekyll-cheat-sheet/)
