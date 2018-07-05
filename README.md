@@ -121,7 +121,17 @@ Na githubu najeďte do složky, kam chcete soubor přidat, a klidněte na "creat
 
 ### Přidání fotky
 
-Fotky může přidávat pouze 'editor'.
+Fotky může přidávat pouze 'editor'. Fotky přidávejte v dostatečném rozlišení
+(lepší větší než menší). Web si fotky sám škáluje a ořezává podle toho, v jakém
+formátu je zrovna na daném místě potřebuje.
+
+Fotky osob je dobré dodávat ve čtvercovém formátu, protože jejich profilové
+fotky, jsou vždycky čtvercové. Tím zamezíte nechtěným ořezům hlav lidí atp.
+
+Pokud potřebujete použít stejnou funkcionalitu i na jiném místě ve vaší kopii webu,
+mrkntěte na použítí
+[tady](https://github.com/pirati-web/jekyll-theme-pirati/blob/master/_includes/people/profile-badge.html#L12)
+a [tady](https://github.com/envygeeks/jekyll-assets).
 
 ### Schválení změny
 
