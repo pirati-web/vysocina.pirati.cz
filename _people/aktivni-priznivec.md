@@ -6,7 +6,7 @@ category:
   - priznivci
   - kandidat-obec
 description: kandidát do senátu # zobrazuje se v lide
-img: people/ppp.jpg # zakomentuj radek dokud není fotka
+#img: people/aktivni-priznivec.jpg # zakomentuj radek dokud není fotka
 asistenti:
   - name: Mgr. Věra Marušiaková
     position: Asitentka

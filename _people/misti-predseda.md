@@ -8,7 +8,7 @@ category:
 ordpms: 1
 ordclenove: 1
 description: mistr světa ve skoku pro něco # zobrazuje se v lide
-#img: people/ppp.jpg # zakomentuj radek dokud není fotka
+#img: people/mistni-predseda.jpg # zakomentuj radek dokud není fotka
 mail:
   - mistni.predsedat@pirati.cz
 profiles:

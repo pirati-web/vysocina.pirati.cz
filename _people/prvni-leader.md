@@ -8,7 +8,7 @@ category:
 ordclenove: 3
 description: mistr světa ve skoku pro něco # zobrazuje se v lide
 profession: knihovník
-img: people/ppp.jpg # zakomentuj radek dokud není fotka
+#img: people/prvni-leader.jpg # zakomentuj radek dokud není fotka
 mail:
   - prvni.leader@pirati.cz
 profiles:

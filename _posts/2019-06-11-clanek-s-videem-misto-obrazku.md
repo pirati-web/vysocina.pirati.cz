@@ -1,12 +1,14 @@
 ---
 date: 2018-06-11
 category: blog
-tags: tag1 tag2
+tags: 
+    - tag1 
+    - tag2
 layout: post
 title: Článek s videem místo obrázku
 author: Jmeno Prijmeni
 authorId: jakub.pirat    # uid nekoho z _people (nepoviné)
-image: posts/obrazek.u.tohoto.postu.jpg
+image: posts/obrazek-u-tohoto-postu.jpg
 youtubeVideoId: 5f0-nQLHHM4 # if youtubeVideoId is provided, it will replace the image as the main content
 ---
 
