@@ -6,7 +6,7 @@ category:
   - clenove
   - kontaktni_osoba
 description: mistr světa ve skoku pro něco # zobrazuje se v lide
-#img: people/jakub-pirat.jpg # zakomentuj radek dokud není fotka
+img: people/jakub-pirat.jpg # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:
   - jakub.pirat@pirati.cz

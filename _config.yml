@@ -1,34 +1,16 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
+# Toto je soubor s hlavním nastavením. Na začátku je nastavení proměných, které
+# je třeba přispůsobit si pro váš web. Později v anglicky popsané části jsou více
+# technické nastavení
 #
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-keywords: piráti, česká pirátská strana, svoboda, demokracie, kontrola moci a mocných, zjednodušení státu pomocí technologií, ochranu občanů před šikanou, obranu svobody, černá na bílé, ivan bartoš, e-government, politika pro 21. století # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-
-theme: jekyll-theme-pirati
-
-sass:
-  style: compressed
-  sass_dir: _sass
+email: info@pirati.cz
+description: >-
+  Zde potří popis webu například stránka místního sdružení. Zobrází se například ve feed/rss nebo ve výsledcích googlu.
+# dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
+keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
 
 organization:
   name: Jmeno skupiny používající web - př Pirástá strana
@@ -37,10 +19,10 @@ organization:
   email: example@pirati.cz
   phone: +420 777 123 456 789
   address: |
-    Piratská planeta 1
-    100 00 Pirátsko
+    Řehořova 943/19, 
+    130 00 Praha 3
   residenceImg:
-  mapLink: https://mapy.cz/zakladni?base=ophoto&q=Radou%C5%A1ova%2014,%20Chrudim
+  mapLink: https://mapy.cz/zakladni?vlastni-body&x=14.4418976&y=50.0863156&z=18&ut=PiCe&uc=9h2F.xXwtn&ud=ulice%20%C5%98eho%C5%99ova%20943%2F19%2C%20Praha%2C%20130%2000%2C%20okres%20Hlavn%C3%AD%20m%C4%9Bsto%20Praha
   redmineLink: https://redmine.pirati.cz/projects
 
 homepageBanner:
@@ -82,10 +64,26 @@ forum:
   page: https://forum.pirati.cz/
 
 github:
-  url: https://github.com/pirati-web/jekyll-theme-pirati/
+  url: https://github.com/pirati-web/example.pirati.cz/
   branch: master
 
-# Build settings
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+github_username:  pirati-web
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+theme: jekyll-theme-pirati
+
 markdown: kramdown
 theme: jekyll-theme-pirati
 plugins:
