@@ -44,7 +44,7 @@ calendar:
 
 facebook:
   loadSDK: true
-  profilePage:
+  profilePage: #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
   appId: 1526197851008996
 
 twitter:
@@ -145,7 +145,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-4.2.2/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-4.3.0/_sass
     - assets/css
     - assets/fonts
     - assets/video
