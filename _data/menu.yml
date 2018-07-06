@@ -27,7 +27,7 @@ bottom:
   - class: small-12 medium-4
     title: Připoj se
     links:
-      - link: /pripoj-se/
+      - link: /kontakty/
         name: Dej nám vědět
   - class: small-12 medium-4
     title: Makáme
