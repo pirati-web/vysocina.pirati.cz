@@ -44,7 +44,8 @@ calendar:
 
 facebook:
   loadSDK: true
-  profilePage: #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
+  #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
+  profilePage: https://www.facebook.com/ceska.piratska.strana/ 
   appId: 1526197851008996
 
 twitter:
@@ -119,13 +120,18 @@ defaults:   # defaults values for collection scope
       path: "_people"
     values:
       layout: "person"
-      rbar: "people, foto, personContact"
+      rbar: 
+        - foto
+        - personContact
+        - people
   -
     scope:
       path: "_program"
     values:
       layout: "program-post"
-      rbar: "garant, program"
+      rbar: 
+         - garant
+         - program
 
 emptyArray: []
 
@@ -145,7 +151,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-4.3.0/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-5.0.0/_sass
     - assets/css
     - assets/fonts
     - assets/video
