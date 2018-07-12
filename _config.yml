@@ -6,11 +6,14 @@
 #
 
 title: Your awesome title
-email: info@pirati.cz
+email: info@pirati.cz 
 description: >-
   Zde potří popis webu například stránka místního sdružení. Zobrází se například ve feed/rss nebo ve výsledcích googlu.
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
+
+administrator:
+  email: to@pirati.cz # mail kam pujdou chybove vystupy
 
 organization:
   name: Jmeno skupiny používající web - př Pirástá strana
