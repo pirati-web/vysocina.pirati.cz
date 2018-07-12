@@ -25,15 +25,6 @@ organization:
   mapLink: https://mapy.cz/zakladni?vlastni-body&x=14.4418976&y=50.0863156&z=18&ut=PiCe&uc=9h2F.xXwtn&ud=ulice%20%C5%98eho%C5%99ova%20943%2F19%2C%20Praha%2C%20130%2000%2C%20okres%20Hlavn%C3%AD%20m%C4%9Bsto%20Praha
   redmineLink: https://redmine.pirati.cz/projects
 
-homepageBanner:
-  display: false
-  link: /komunalni-volby/
-  title: Komunální volby 2018
-  breakpoint: 640 # breakpoint in pixels when to start showing `default` instead of `mobile`
-  image:
-      #    default: path/to/img.jpg
-      # mobile: path/to/img.jpg
-
 calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
   # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
