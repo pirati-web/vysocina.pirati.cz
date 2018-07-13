@@ -46,6 +46,8 @@ html & css, které pak čte webový prohlížeč.
 
 ## Lokální spuštění
 
+### Linux
+
 Instalace na Fedora 25:
 ```
 sudo dnf group install "C Development Tools and Libraries"
@@ -71,6 +73,22 @@ Spustění je pomocí
 `jekyll serve --watch --livereload`, což stránku zkompiluje, spustí a ještě je stránka přístupná skrz localhost: `http://127.0.0.1:4000`
 
 Popřípadě můžeme spustit jen: `jekyll build`, což do složky `_site` připraví kompletní web (ten můžeme otevřít z prohlíže pomocí klavesové zkratky `ctrl+o`).
+
+### Docker
+
+instalujte docker podle návodu na váš operační systém (anglicky)
+
+* [Windows](https://docs.docker.com/docker-for-windows/install/)
+* [macOS](https://docs.docker.com/docker-for-mac/install/)
+* [Ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
+* [Fedora](https://docs.docker.com/install/linux/docker-ce/fedora/)
+
+a ověřte že máte `docker-compose` [official resources](https://docs.docker.com/compose/install/ a spušteného demona.
+Pak stačí:
+```
+docker-compose up
+```
+Za vylepšení tohoto návodu budeme rádi.
 
 ## Souborová struktura
 
