@@ -9,6 +9,8 @@ Nebojte se cokoliv přiohnout, koukejte se do dalšich pirátských webů o feat
   - [Obsah](#obsah)
   - [Úvod](#Úvod)
   - [Lokální spuštění](#lokální-spuštění)
+    - [Linux](#linux)
+    - [Docker](#docker)
   - [Souborová struktura](#souborová-struktura)
     - [Pomocné soubory](#pomocné-soubory)
     - [Data](#data)
@@ -25,7 +27,8 @@ Nebojte se cokoliv přiohnout, koukejte se do dalšich pirátských webů o feat
     - [Titulní obrázek](#titulní-obrázek)
     - [Kontaky na PiCe](#kontaky-na-pice)
     - [Více kandidátek](#více-kandidátek)
-    - [Kalednář](#kalednář)
+    - [Kalendář](#kalendář)
+  - [Otestování buildu](#otestování-buildu)
   - [Získání pomoci](#získání-pomoci)
 
 ## Úvod
@@ -93,6 +96,7 @@ Za vylepšení tohoto návodu budeme rádi.
 ## Souborová struktura
 
 ### Pomocné soubory
+
 * `Gemfile` se soubor "knihoven" které potřebuje Jekyll, nastavit v něm můžete např verzi thema které použijete. `Gemfile.lock` je pomocný soubor pro stejnou věc.
 * `_config.yml` slouží jako hlavní návod pro Jekyll jak překládat, vyplňuji se v něm důležité texty a odkazy a taky nastavují některé parametry thema
 * `Dockerfile` a `docker-compose.yml` slouží k lokálnímu spuštění webu.
@@ -100,11 +104,13 @@ Za vylepšení tohoto návodu budeme rádi.
 * `_site` a `vendor` jsou složky viditelné jen při lokálním spuštení. V `_site` jsou výsledné html stránky. V `vendor` jsou uložené "knihovny".
 
 ### Data
+
 * V `assets` budete použítat primárně složku `img` kam patří fotky a obrázky.
 * `_posts`, `_people`, `_program` obsahují soubory s články, lidmi a programovými body. Soubory jsou vždy ve formátu markdown a na vrhchu mají `yml` hlavičku která je ohraničená `---`.
 * Složka `_data` obsahuje soubory které jsou pouze tou hlavičkou. Kromě `yml` mohou obsahovat i `json`.  V `_data/menu.yml` se nastavují odkazy v horní liště, menu i na spodu stránky.
 
 ### Webové stránky
+
 Samotné stránky jsou v markdownu nebo v html (složitější struktura, např. vícesloupců apod)
 * `index.html` popisuje titulní stránky
 * v dalších složkách jako je např `kontakt` nebo `lide` najdeme popis stránek, které budou na *example.pirati.cz/kontakt/* resp *example.pirati.cz/lide/* krom indexu tam lze přidávat další stránky pokud např v `komunalni-volby` přidáte soubor `harmonogram.md` ve správném formátu, tak vyrobíte stránku *example.pirati.cz/komunalni-volby/harmonogram.html*
@@ -195,7 +201,7 @@ V `_config.yml` vyplně adresu PiCe a obrázek. Následně v `kontakty/index.htm
 
 To je trošku tricky nastavení, pro inspiraci se podívejte do `jekyll-theme-pirati`.
 
-### Kalednář
+### Kalendář
 
 Pro vložení kaledáře existují dvě cesty:
 
@@ -236,6 +242,30 @@ webu do provozu. Řekněte mu, že potřebujete nastavit tzv. environment variab
 Developer Consoli. Poté bude váš kalendář vypadat jako např. na [pardubickém
 webu](https://pardubice.pirati.cz).
 
+## Otestování buildu
+
+Pokud chcete otestovat, jaké stránky se vám při nasazení vygenerují, spusťte
+následující příkaz:
+
+```
+JEKYLL_ENV=production bundle exec jekyll build
+```
+
+Výsledné stránky jsou uloženy v adresáři `_site`. Je vhodné následně ještě
+spustit [html-proofer](https://github.com/gjtorikian/html-proofer) pro ověření,
+že všechny odkazy, které na webu máte, někam vedou:
+
+```
+bundle exec htmlproofer --assume-extension --disable-external --url-ignore "#,#fn:1" ./_site
+```
+
+Pokud tento příkaz selže, znamená to, že jste nejspíš někde uvedli špatnou adresu.
+
+Můžete také využít příkaz `build.sh`, který obsahuje oba výše zmíněné příkazy:
+
+```
+./build.sh
+```
 
 ## Získání pomoci
 
