@@ -28,6 +28,7 @@ Nebojte se cokoliv přiohnout, koukejte se do dalšich pirátských webů o feat
     - [Kontaky na PiCe](#kontaky-na-pice)
     - [Více kandidátek](#více-kandidátek)
     - [Kalendář](#kalendář)
+  - [Zobrazení mapky návrhů](#zobrazení-mapky-návrhů)
   - [Otestování buildu](#otestování-buildu)
   - [Získání pomoci](#získání-pomoci)
 
@@ -241,6 +242,31 @@ webu do provozu. Řekněte mu, že potřebujete nastavit tzv. environment variab
 `GOOGLE_CALENDAR_APIKEY` na hodnotu klíče, kterou jste předtím získali v
 Developer Consoli. Poté bude váš kalendář vypadat jako např. na [pardubickém
 webu](https://pardubice.pirati.cz).
+
+## Zobrazení mapky návrhů
+
+Postupujte obdobně jako při zprovoznění kalendáře. Potřebujete v Google
+Developer Consoli povolit Google Maps API. Také potřebujete přidat environment
+variable `GOOGLE_MAPS_APIKEY`. Následně můžete do kterékoliv stránky
+přidat kód podobný tomuto:
+
+```
+{% if site.env.GOOGLE_MAPS_APIKEY %}
+  <div class="__vue-root" data-app="CustomLayerMap" data-apikey="{{ site.env.GOOGLE_MAPS_APIKEY }}" data-layer="[váš layer id]"></div>
+{% endif %}
+```
+
+Jak vidno, potřebujete vědět layer id. To získáte tak, že v aplikace Google MyMaps
+u vaší mapky kliknete na "Sdílet" a vyberete možnost vložení mapy do stránky.
+
+Google vám pak ukáže kód cca ve tvaru:
+
+```
+<iframe src="https://www.google.com/maps/d/embed?mid=12ZdsIK1_ScKE6PpIylp-4YccnOgcsr_n" width="640" height="480"></iframe>
+```
+
+Textový řetězec za `mid` je to co hledáte. V tomto případě je to tedy "12ZdsIK1_ScKE6PpIylp-4YccnOgcsr_n".
+
 
 ## Otestování buildu
 

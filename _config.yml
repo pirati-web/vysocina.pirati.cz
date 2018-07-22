@@ -104,6 +104,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-environment-variables
 paginate_path: "/aktuality/:num/"
 paginate: 11
 
@@ -164,7 +165,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-5.2.2/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-5.3.0/_sass
     - assets/css
     - assets/fonts
     - assets/video
