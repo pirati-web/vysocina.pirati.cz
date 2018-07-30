@@ -115,7 +115,7 @@ Za vylepšení tohoto návodu budeme rádi.
 Samotné stránky jsou v markdownu nebo v html (složitější struktura, např. vícesloupců apod)
 * `index.html` popisuje titulní stránky
 * v dalších složkách jako je např `kontakt` nebo `lide` najdeme popis stránek, které budou na *example.pirati.cz/kontakt/* resp *example.pirati.cz/lide/* krom indexu tam lze přidávat další stránky pokud např v `komunalni-volby` přidáte soubor `harmonogram.md` ve správném formátu, tak vyrobíte stránku *example.pirati.cz/komunalni-volby/harmonogram.html*
-* obrázek se do stránky (i v markdown formátu) vkládá pomocí kódu ```{% asset 'posts/jmeno_obrazku.jpg' alt='Popis obrázku' %}``` přičemž obrázek *assets/img/posts/jmeno_obrazku.jpg* musí existovat; kromě parametru *alt* je možné použít parametr magick pro úpravu obrázku, např.: ```magick:resize='200x'```
+* obrázek se do stránky (i v markdown formátu) vkládá pomocí kódu ```{% asset 'posts/jmeno_obrazku.jpg' alt='Popis obrázku' %}``` přičemž obrázek *assets/img/posts/jmeno_obrazku.jpg* musí existovat; kromě parametru *alt* je možné použít parametr magick pro úpravu obrázku, např.: ```magick:resize='200x'```, kompletní dokumentace je k dispozici [zde](https://github.com/envygeeks/jekyll-assets)
 
 ## Jednoduchá změna pomocí GitHub
 
