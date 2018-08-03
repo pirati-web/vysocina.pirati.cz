@@ -59,7 +59,7 @@ facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
   profilePage: https://www.facebook.com/groups/pirati.vysocina/
-  appId: pirati.vysocina
+  appId: 284247164921991
 
 twitter:
   loadSDK: true
