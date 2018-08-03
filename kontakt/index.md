@@ -1,6 +1,6 @@
 ---
 layout: contacts
-description: Pirátská strana v XY je otevřená a ráda přivítá dobrovolníky a odpoví na dotazy kritiků.
+description: Pirátská strana Vysočina je otevřená a ráda přivítá dobrovolníky a odpoví na dotazy kritiků.
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 # Pokud nechcete, aby se zobrazovalo kontaktní místo, můžete odkomentovat následující řádek:
 # noresidence: yes
@@ -11,14 +11,14 @@ contentSize: default
 
 ## Přidejte se
 
-Zajámá vás co piráti dělají? Ozvěte se Jakubu Pirátovy nebo přijďte k nám
-na schůzi kterou pořádáme v XY.
+Zajímá vás co piráti dělají? Ozvěte se Michaele Vodové nebo přijďte k nám
+na schůzi kterou pořádáme v Jihlavském pirátském centru pravidelně každou druhou neděli v měsíci od 16 hodin.
 
-Chcete přístup k pirátskym systémum? Regitrujte se na nalodění. TODO odkaz.
+Chcete přístup k pirátskym systémům? Regitrujte se na nalodění. TODO odkaz.
 
-Financí dary můžete posílat na [dary](https://dary.pirati.cz).
-Pokud chcete darovat přimo naší MS poradtě se s XY
+Finanční dary můžete posílat na [dary](https://dary.pirati.cz).
+Pokud chcete darovat přimo našemu krajskému sdružení poraďte se s koordinátorkou kraje, Michaelou Vodovou
 
 
-Strany našeho kraje jsou TODO.
+Stránky našich jednotlivých místních sdružení jsou TODO.
 
