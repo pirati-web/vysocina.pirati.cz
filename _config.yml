@@ -43,9 +43,9 @@ contactSummaryItems:
   - type: organizationDataBox
   - type: piratiRootWebsite
   - type: custom
-    iconClass: fa fa-envelope
-    label: Vlastní řádek tabulky
-    body: <a href="http://example.com">link</a>
+ #  iconClass: fa fa-envelope
+ #  label: Vlastní řádek tabulky
+ #  body: <a href="http://example.com">link</a>
 
 calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
