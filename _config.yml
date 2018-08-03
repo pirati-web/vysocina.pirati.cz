@@ -16,16 +16,16 @@ administrator:
   email: to@pirati.cz # mail kam pujdou chybove vystupy
 
 organization:
-  name: Česká pirátská strana
+  name: Krajské sdružení Vysočina
   shortName: Krajské sdružení Vysočina
   contactUid: michaela.vodova
   email: michaela.vodova@pirati.cz
   phone: +420 602 276 233
-  address: Jihlavské pirátské centrum,
+  address: 
     Matky Boží 9,
     Jihlava
   residenceImg:
-  mapLink: https://mapy.cz/zakladni?vlastni-body&x=14.4418976&y=50.0863156&z=18&ut=PiCe&uc=9h2F.xXwtn&ud=ulice%20%C5%98eho%C5%99ova%20943%2F19%2C%20Praha%2C%20130%2000%2C%20okres%20Hlavn%C3%AD%20m%C4%9Bsto%20Praha
+  mapLink: https://goo.gl/maps/uCjxZoD47N82
   redmineLink: https://redmine.pirati.cz/projects/kraj-vysocina/issues/new
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
