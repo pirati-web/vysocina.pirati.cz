@@ -5,25 +5,26 @@
 # technické nastavení
 #
 
-title: Your awesome title
-email: info@pirati.cz
+title: Pirátská strana Vysočina
+email: pirati.vysocina@gmail.com
 description: >-
-  Zde potří popis webu například stránka místního sdružení. Zobrází se například ve feed/rss nebo ve výsledcích googlu.
+  Oficiální stránka Krajského sdružení Vysočina České pirátské strany
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
+keywords: piráti, česká pirátská strana, svoboda, demokracie, vysočina, piráti na vysočině
 
 administrator:
   email: to@pirati.cz # mail kam pujdou chybove vystupy
 
 organization:
-  name: Jmeno skupiny používající web - př Pirástá strana
-  shortName: Název skupiny
-  contactUid: jakub.pirat
-  email: example@pirati.cz
-  phone: +420 777 123 456 789
+  name: Krajské sdružení Vysočina Česká pirátská strana
+  shortName: Piráti Vysočiny
+  contactUid: michaela.vodova
+  email: michaela.vodova@pirati.cz
+  phone: +420 602 276 233
   address: |
-    Řehořova 943/19,
-    130 00 Praha 3
+    Jihlavské pirátské centrum
+    Matky Boží 9
+    Jihlava
   residenceImg:
   mapLink: https://mapy.cz/zakladni?vlastni-body&x=14.4418976&y=50.0863156&z=18&ut=PiCe&uc=9h2F.xXwtn&ud=ulice%20%C5%98eho%C5%99ova%20943%2F19%2C%20Praha%2C%20130%2000%2C%20okres%20Hlavn%C3%AD%20m%C4%9Bsto%20Praha
   redmineLink: https://redmine.pirati.cz/projects
