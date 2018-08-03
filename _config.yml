@@ -21,15 +21,14 @@ organization:
   contactUid: michaela.vodova
   email: michaela.vodova@pirati.cz
   phone: +420 602 276 233
-  address: |
-    Jihlavské pirátské centrum
+  address: Jihlavské pirátské centrum
     Matky Boží 9
     Jihlava
-  residenceImg:
-  mapLink: https://mapy.cz/zakladni?vlastni-body&x=14.4418976&y=50.0863156&z=18&ut=PiCe&uc=9h2F.xXwtn&ud=ulice%20%C5%98eho%C5%99ova%20943%2F19%2C%20Praha%2C%20130%2000%2C%20okres%20Hlavn%C3%AD%20m%C4%9Bsto%20Praha
-  redmineLink: https://redmine.pirati.cz/projects
-  dataBoxId: b2i4r6j
-  transparentAccount: 2100048174/2010
+# residenceImg:
+# mapLink: https://mapy.cz/zakladni?vlastni-body&x=14.4418976&y=50.0863156&z=18&ut=PiCe&uc=9h2F.xXwtn&ud=ulice%20%C5%98eho%C5%99ova%20943%2F19%2C%20Praha%2C%20130%2000%2C%20okres%20Hlavn%C3%AD%20m%C4%9Bsto%20Praha
+  redmineLink: https://redmine.pirati.cz/projects/kraj-vysocina/issues/new
+# dataBoxId: b2i4r6j
+# transparentAccount: 2100048174/2010
 
 # Nastavení zobrazení tabulky kontaktů.
 # Lze využít:
@@ -53,18 +52,18 @@ calendar:
   # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
   # For deployment, contact website administrator to set you env variable.
   title: Celostátní kalendář
-  id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
+  id: r26esfjiivuu9temt46dholqhs@group.calendar.google.com
   page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=nk73m1m89vhf5g2vojp6tnqe58%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
 
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/ceska.piratska.strana/
+  profilePage: https://www.facebook.com/groups/pirati.vysocina/
   appId: 1526197851008996
 
 twitter:
   loadSDK: true
-  profile: PiratskaStrana
+  profile: pirativys
 
 instagram:
   profilePage: https://www.instagram.com/pirati.cz/
@@ -76,10 +75,10 @@ flicker:
   profilePage: https://www.flickr.com/photos/pirati/
 
 forum:
-  page: https://forum.pirati.cz/
+  page: https://forum.pirati.cz/vysocina-f84/
 
 github:
-  url: https://github.com/pirati-web/example.pirati.cz/
+  url: https://github.com/pirati-web/vysocina.pirati.cz/
   branch: master
 
 #
