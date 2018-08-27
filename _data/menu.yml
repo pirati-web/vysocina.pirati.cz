@@ -16,20 +16,54 @@ main:
   - link: /lide/
     name: O nás
     match: lide
+    submenu:
+      - link: /lide/pks/
+        name: Krajské předsednictvo
+        match: pks
+      - link: /lide/mo/
+        name: Mediální odbor
+        match: mo
+      - link: /lide/ms/
+        name: Místní sdružení
+        match: ms
   - link: /komunalni-volby/
     name: Komunální volby
     match: komunalni-volby
     submenu:
-      - link: /komunalni-volby/mapa-zameru/
-        name: Mapa záměrů
-        match: mapa-zameru
+      - link: /komunalni-volby/jihlava/
+        name: Jihlava
+        match: jihlava    
+      - link: /komunalni-volby/trebic/
+        name: Třebíč
+        match: trebic        
+      - link: /komunalni-volby/havlbrod/
+        name: Havlíčkův Brod
+        match: havlbrod        
+      - link: /komunalni-volby/nmnm/
+        name: Nové Město na Moravě
+        match: nmnm        
+      - link: /komunalni-volby/chotebor/
+        name: Chotěboř
+        match: chotebor
+      - link: /komunalni-volby/telc/
+        name: Telč
+        match: telc        
+      - link: /komunalni-volby/jaromerice/
+        name: Jaroměřice nad Rokytnou
+        match: jaromerice
+      - link: /komunalni-volby/obce/
+        name: ostatní obce
+        match: obce  
   - link: /senatni-volby/
     name: Senátní volby
     match: senatni-volby
     submenu:
-      - link: /senatni-volby/mapa-zameru/
-        name: Mapa záměrů
-        match: mapa-zameru
+      - link: /senatni-volby/obvod44/
+        name: Obvod č. 44 - Chrudim
+        match: obvod44
+      - link: /senatni-volby/obvod53/
+        name: Obvod č. 53 - Třebíč
+        match: obvod53
   - link: /kontakt/
     name: Kontakt
     match: kontakt
