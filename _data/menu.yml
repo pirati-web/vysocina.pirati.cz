@@ -23,6 +23,13 @@ main:
       - link: /komunalni-volby/mapa-zameru/
         name: Mapa záměrů
         match: mapa-zameru
+  - link: /senatni-volby/
+    name: Senátní volby
+    match: senatni-volby
+    submenu:
+      - link: /senatni-volby/mapa-zameru/
+        name: Mapa záměrů
+        match: mapa-zameru
   - link: /kontakt/
     name: Kontakt
     match: kontakt
