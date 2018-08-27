@@ -13,7 +13,7 @@ ordclenove: 1
 ordpks: 1
 ordtrebic: 1
 ordpmstrebic: 1
-description: předsedkyně krajského sdružení Vysočina # zobrazuje se v lide
+description: předsedkyně krajského sdružení # zobrazuje se v lide
 profession: koordinátorka
 #img: people/michaela-vodova.jpg # zakomentuj radek dokud není fotka
 mail:
