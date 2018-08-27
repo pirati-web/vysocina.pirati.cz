@@ -8,6 +8,7 @@ category:
   - trebic
   - pmstrebic
   - koks
+  - kontaktni_osoba
 ordclenove: 1
 ordpks: 1
 ordtrebic: 1
