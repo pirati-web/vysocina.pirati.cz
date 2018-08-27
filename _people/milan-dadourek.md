@@ -13,9 +13,7 @@ profession: farmář
 mail:
   - milan.dadourek@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/pasekrom  # pokud nema, staci smazat tuto radku
-  twitter: https://twitter.com/pasekrom
-  linkedin: https://www.linkedin.com/in/romanpasek
+
   
 ---
 
