@@ -9,8 +9,6 @@ contentSize: even
 # contentSize: even
 ---
 
-youtubeVideoId: EX8ozGgpMO0
-
 ## Přidejte se
 
 Zajímá vás co piráti dělají? Ozvěte se Michaele Vodové nebo přijďte k nám
