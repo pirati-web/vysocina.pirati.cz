@@ -7,19 +7,17 @@ category:
   - pks
   - trebic
   - pmstrebic
-  - koks
-  - kontaktni_osoba
 ordclenove: 1
 ordpks: 1
 ordtrebic: 1
 ordpmstrebic: 1
-description: koordinátorka kraje Vysočina # zobrazuje se v lide
+description: předsedkyně krajského sdružení Vysočina # zobrazuje se v lide
 profession: koordinátorka
 #img: people/michaela-vodova.jpg # zakomentuj radek dokud není fotka
 mail:
   - michaela.vodova@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/uzivatel.na.fb  # pokud nema, staci smazat tuto radku
+  facebook: https://www.facebook.com/michaela.vodova  # pokud nema, staci smazat tuto radku
   twitter: https://twitter.com/misavoda
   linkedin: https://www.linkedin.com/in/michaela-vodova
   
