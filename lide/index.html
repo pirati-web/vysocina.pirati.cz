@@ -4,3 +4,7 @@ title: O nás
 description: Členové a příznivci jsou to dělá Českou pirátskou stranu silnou. Seznamte se Piráty v XY.
 keywords: lidé, členové, piráti, pirátky, příznivci
 ---
+
+
+{% assign items = site._people | sort: 'ordpks' %}
+{% for item in items limit:5 %}
