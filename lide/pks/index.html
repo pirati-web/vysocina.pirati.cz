@@ -11,7 +11,10 @@ keywords: lidé, členové, piráti, pirátky, předsednictvo
   {% for group in page.groups %}
     <div class="row o-section-block">
       <section class="large-12 columns">
-          {% assign team = site.people | where_exp: "item", "item.categories contains 'pks'" | sort: "ordpks" %}          
+          {% assign team = site.people | where_exp: "item", "item.categories contains 'pks'" | sort: "ordpks" %}   
+          {% if group.sort %}
+            {% assign team = team | sort: group.sort %}
+          {% endif %}
           {% include people/list-group.html team=team teamName=group.name teamShortcut=group.category %}
       </section>
     </div>
