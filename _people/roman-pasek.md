@@ -33,7 +33,7 @@ Vystudoval Střední průmyslovou školu Třebíč v oboru počítačové systé
 Pracoval přes dva roky jako mechanik měření a regulace ve firmě I&C Energo a. s. na jaderné elektrárně Dukovany. Nyní ve stejné firmě pracuje jako programátor SCADA aplikací právě pro Dukovany.
 
 Ve svém volném čase se věnuje aktivně hudbě. Dříve to byla kytara a bicí, ale nyní už jen zpěv. 
-
+---
 **Piráti:**
 * od ledna 2018 členem
 * společně s ostatními členy MS Třebíčsko organizoval v Třebíči 6. 4. 2018 **Vyosení** a plánuje jeho pravidelné opakování
