@@ -52,7 +52,7 @@ main:
         name: Jaroměřice nad Rokytnou
         match: jaromerice
       - link: /komunalni-volby/obce/
-        name: ostatní obce
+        name: Ostatní obce
         match: obce  
   - link: /senatni-volby/
     name: Senátní volby
