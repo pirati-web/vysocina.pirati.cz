@@ -24,7 +24,7 @@ profiles:
   
 ---
 
-Roman Pašek (* 6. května 1993 Třebíč) je členem MS Třebíčsko. 
+Roman Pašek (* 6. května 1993 v Třebíči) je členem MS Třebíčsko. 
 
 Vystudoval Střední průmyslovou školu Třebíč v oboru počítačové systémy, kterou ukončil v roce 2013. Po jejím skončení absolvoval tři semestry na Filozofické fakultě Masarykovy univerzity v oboru Sdružená uměnovédná studia. Nyní je ve čtvrtém semestru na Vysoké škole polytechnické Jihlava v oboru aplikovaná informatika, který studuje kombinovanou formou.
 
