@@ -14,10 +14,7 @@ profession: programátor analytik
 #img: people/roman-pasek.jpg # zakomentuj radek dokud není fotka
 mail:
   - roman.pasek@pirati.cz
-phone: 
-  - +420 602 276 233
 profiles:
-  phone: 602 276 233
   facebook: https://www.facebook.com/pasekrom 
   twitter: https://twitter.com/pasekrom
   linkedin: https://www.linkedin.com/in/romanpasek
