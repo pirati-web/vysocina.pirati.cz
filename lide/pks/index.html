@@ -1,38 +1,9 @@
 ---
-layout: default
+layout: members
+viewMode: alltogether # or alltogether
+category: pks
+sort: ordpks
 title: Krajské předsednictvo
 description: Členové a příznivci jsou to dělá Českou pirátskou stranu silnou. Seznamte se Piráty na Vysočině.
 keywords: lidé, členové, piráti, pirátky, předsednictvo
 ---
-
-{% include page-header.html headline=page.title content=content %}
-
-{% if page.viewMode == 'grouped' %}
-  {% for group in page.groups %}
-    <div class="row o-section-block">
-      <section class="large-12 columns">
-          {% assign team = site.people | where_exp: "item", "item.categories contains 'pks'" | sort: "ordpks" %}   
-          {% if group.sort %}
-            {% assign team = team | sort: group.sort %}
-          {% endif %}
-          {% include people/list-group.html team=team teamName=group.name teamShortcut=group.category %}
-      </section>
-    </div>
-  {% endfor %}
-{% else %}
-  {% if page.category %}
-    {% assign team = site.people | where_exp: "item", "item.categories contains page.category" %}
-  {% else %}
-    {% assign team = site.people %}
-  {% endif %}
-
-  {% if page.sort %}
-    {% assign team = team | sort: page.sort %}
-  {% endif %}
-
-  <div class="row o-section-block">
-    <section class="large-12 columns">
-      {% include people/list-responsive.html team=team %}
-    </section>
-  </div>
-{% endif %}
