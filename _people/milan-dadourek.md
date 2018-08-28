@@ -7,7 +7,7 @@ category:
   - pks
 ordclenove: 3
 ordpks: 3
-description: 2. místopředseda krajského sdružení # zobrazuje se v lide
+description: 2. místopředseda Krajského sdružení Vysočina # zobrazuje se v lide
 profession: farmář
 #img: people/milan-dadourek.jpg # zakomentuj radek dokud není fotka
 mail:
