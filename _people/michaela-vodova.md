@@ -1,7 +1,7 @@
 ---
 uid: michaela.vodova
 name:     Michaela Vodová      # běžně používáné jméno
-fullname: Mgr. Michaela Vodová      # jméno s tituly etc.
+fullname: Michaela Vodová      # jméno s tituly etc.
 category:
   - clenove
   - pks
