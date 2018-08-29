@@ -10,6 +10,6 @@ Piráti na Vysočině nezaháleli a sestavili 13 kandidátek do komunálních vo
 
 <div class="media-object-section bottom">
       <div class="thumbnail">
-        <img src="{{ "/assets/img/people/roman-pasek.jpg"  }}" alt="Roman Pašek">
+        <img src="{{ "/assets/img/banner-default.jpg"  }}" alt="Komunální volby na Vysočině">
       </div>
 </div>
