@@ -61,12 +61,12 @@ main:
     name: Senátní volby
     match: senatni-volby
     submenu:
-      - link: /senatni-volby/obvod44/
+      - link: /lide/roman-semik/
         name: Obvod č. 44 - Chrudim
-        match: obvod44
-      - link: /senatni-volby/obvod53/
+        match: roman-semik
+      - link: /lide/michal-salomoun/
         name: Obvod č. 53 - Třebíč
-        match: obvod53
+        match: michal-salomoun
   - link: /kontakt/
     name: Kontakt
     match: kontakt
@@ -77,6 +77,8 @@ bottom:
     links:
       - link: /kontakt/
         name: Dej nám vědět
+      - link: https://nalodeni.pirati.cz
+        name: Nalodění
   - class: small-12 medium-4
     title: Makáme
     links:
