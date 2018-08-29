@@ -8,6 +8,9 @@ top:
   - link: "Pirátské listy"
     url:  "http://www.piratskelisty.cz"
     icon: "fa fa-newspaper-o"
+  - link: "Nalodění"
+    url:  "http://nalodeni.pirati.cz"
+    icon: "fa fa-anchor"
 
 main:
   - link: /aktuality/
