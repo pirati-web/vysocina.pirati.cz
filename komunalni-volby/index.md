@@ -13,5 +13,3 @@ Piráti na Vysočině nezaháleli a sestavili 13 kandidátek do komunálních vo
         <img src="{{ "/assets/img/people/roman-pasek.jpg"  }}" alt="Roman Pašek">
       </div>
 </div>
-
-# > "Vyhrajeme volby," říká leader.
