@@ -5,7 +5,8 @@ fullname: Roman Pašek
 category:
   - clenove
   - pks
-  - trebic
+  - mstrebicsko
+  - kandidat2018
 ordclenove: 2
 ordpks: 2
 ordtrebic: 2
