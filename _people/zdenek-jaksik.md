@@ -3,6 +3,7 @@ uid: zdenek.jaksik
 name:     Zdeněk Jakšík
 fullname: Zdeněk Jakšík
 category:
+  - clenove
   - kandidat2018
 description: kandidát v komunálních volbách 2018 - Třebíč
 profession: manažer logistiky
