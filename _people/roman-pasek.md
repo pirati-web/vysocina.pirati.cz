@@ -1,7 +1,7 @@
 ---
 uid: roman.pasek
-name:     Roman Pašek  	# běžně používáné jméno
-fullname: Roman Pašek  	# jméno s tituly etc.
+name:     Roman Pašek
+fullname: Roman Pašek
 category:
   - clenove
   - pks
@@ -11,7 +11,7 @@ ordpks: 2
 ordtrebic: 2
 description: 1. místopředseda Krajského sdružení Vysočina # zobrazuje se v lide
 profession: programátor analytik
-#img: people/roman-pasek.jpg # zakomentuj radek dokud není fotka
+img: people/roman-pasek.jpg
 mail:
   - roman.pasek@pirati.cz
 profiles:
