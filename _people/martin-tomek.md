@@ -6,7 +6,7 @@ category:
   - kandidat2018
 description: kandidát komunálních voleb 2018 Třebíč
 profession: podnikatel v IT
-img: people/jmartin-tomek.jpg
+img: people/martin-tomek.jpg
 mail:
   - tomekm@enviro.cz
 profiles:
