@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Komunální volby na Vysočině
 description: Komunální volby na Vysočině.
 keywords: lidé, členové, piráti, pirátky, příznivci, kandidátka, volby
