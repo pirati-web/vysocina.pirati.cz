@@ -1,7 +1,7 @@
 ---
 uid: karel.vaverka
 name:     Karel Vaverka
-fullname: Ing. Karel Vaverka
+fullname: Karel Vaverka
 category:
   - kandidat2018
 description: kandidát v komunálních volbách 2018 - Třebíč
