@@ -5,7 +5,7 @@ fullname: Michaela Adamovičová
 category:
   - kandidat2018
 description: kandidát v komunálních volbách 2018 - Třebíč
-profession: distributorka přírodní kosmetiky, Pure Addicts, s. r. o.
+profession: distributorka přírodní kosmetiky, Pure Addicts, s.r.o.
 img: people/michaela-adamovicova.jpg
 mail:
   - michaela@adamovicova.sk
