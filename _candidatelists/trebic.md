@@ -129,5 +129,5 @@ tail: # zbytek kandidatky
   - name: Svatopluk Dvořák
     age: 58
     profession: učitel
-    party: bez politické příslušnosti
+    party: TOP 09
 ---
