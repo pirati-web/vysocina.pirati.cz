@@ -1,7 +1,7 @@
 ---
 uid: martin.pasek
 name:     Martin Pašek
-fullname: Mgr. Martin Pašek
+fullname: Martin Pašek
 category:
   - kandidat2018
 description: kandidát v komunálních volbách 2018 - Třebíč
