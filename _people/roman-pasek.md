@@ -18,6 +18,7 @@ profiles:
   facebook: https://www.facebook.com/pasekrom 
   twitter: https://twitter.com/pasekrom
   linkedin: https://www.linkedin.com/in/romanpasek
+  instagram: https://www.instagram.com/pasekroman
   googleplus: https://plus.google.com/+uzivatel.na.googleplus
   github: https://github.com/pasekrom
   # web: http://vase-webove-stranky.cz
