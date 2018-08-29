@@ -19,8 +19,9 @@ profiles:
   twitter: https://twitter.com/pasekrom
   linkedin: https://www.linkedin.com/in/romanpasek
   googleplus: https://plus.google.com/+uzivatel.na.googleplus
-  web: http://vase-webove-stranky.cz
-  blog: http://blog.aktualne.cz/blogy/vas-blog.php
+  github: https://github.com/pasekrom/
+  # web: http://vase-webove-stranky.cz
+  # blog: http://blog.aktualne.cz/blogy/vas-blog.php
   
 ---
 
