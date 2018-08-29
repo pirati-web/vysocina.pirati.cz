@@ -7,6 +7,6 @@ campaignCategoryUid: trebic2018
 candidateListUid: trebic
 ---
 
-Úvodní text např. vysvětlení koalice, podpory.
+Kandidátka Společně otevřeme Třebíč je sdružením Pirátů, TOP 09 a nezávislých kandidátů. Naše strany se v Třebíči shodnou na pro nás stěžejních tématech, jako je posílení participace občanů, budování infrastruktury města pro všechny generace či zvýšení transparentnosti.
 
-> "Vyhrajeme volby," říká leader.
+> "Slovo „Společně“ je dvojsmyslné. Uvádí jak to, že kandidujeme společně jako Piráti, TOP 09 a nezávislí kandidáti, tak to, že chceme Třebíč otevřít společně s voliči, bez kterých to nepůjde," říká lídr kandidátky Roman Pašek.
