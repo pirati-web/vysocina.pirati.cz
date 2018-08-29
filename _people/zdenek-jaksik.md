@@ -11,6 +11,14 @@ mail:
   - zjaksik@email.cz
 profiles:
   facebook: https://www.facebook.com/zdenek.jaksik.7 
+  twitter: 
+  linkedin: 
+  instagram: 
+  googleplus: 
+  github: 
+  web: 
+  blog: 
+  
 ---
 
 Zdeněk Jakšík
