@@ -7,9 +7,7 @@ category:
   - pks
   - mstrebicsko
   - kandidat2018
-ordclenove: 2
 ordpks: 2
-ordtrebic: 2
 description: 1. místopředseda Krajského sdružení Vysočina # zobrazuje se v lide
 profession: programátor analytik
 img: people/roman-pasek.jpg
