@@ -17,6 +17,8 @@ profession: OSVČ, koordinátorka Krajského sdružení Vysočina
 img: people/michaela-vodova.jpg
 mail:
   - michaela.vodova@pirati.cz
+mob:
+  - 602 276 233
 profiles:  # vyplnit pouze to, co používáte/vlastníte
   facebook: https://www.facebook.com/michaela.vodova
   twitter: https://twitter.com/misavoda
