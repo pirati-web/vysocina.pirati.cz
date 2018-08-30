@@ -18,14 +18,14 @@ profiles:
   twitter: https://twitter.com/pantrumpetka  
   linkedin:   
   instagram: https://www.instagram.com/pan_trumpetka  
-  googleplus: 
-  github: https://plus.google.com/u/0/+OndraTůma
+  googleplus: https://plus.google.com/u/0/+OndraTůma
+  github: 
   web: 
   blog: 
   
 ---
 
-Ondřej Tůma (*6. ledna 1982 v Boskovicích)je členem MS Jihlavsko.
+Ondřej Tůma (* 6. ledna 1982 v Boskovicích) je členem MS Jihlavsko.
 
 Pochází z Olešnice na Moravě. Vyrůstal v Brně. Aktuálně žije v Jihlavě. Vystudoval učební obor 
 Elektromechanik. V současnosti se věnuje samostudiu historie a latiny. Ve svém profesním životě se 
@@ -34,7 +34,7 @@ základní dovednosti fungování obchodu. Posléze pokračoval ve společnosti 
 jako řidič, v průběhu času se stal členem top managementu společnosti jako Fleet manager a vedoucí 
 přepravní logistiky. Od roku 2013 se pak stal součástí týmu společnosti gpscentrum Brno s.r.o., kde 
 pracoval jako specialista prodeje GPS systémů a sportovních zařízení značky Garmin. Nyní pracuje jako 
-Správce Jihlavského pirátského centra (JiPiCe)
+Správce Jihlavského pirátského centra (JiPiCe).
 
 V průběhu svých zaměstnání se věnoval i tvůrčí činnosti, a to především fotografii. Několik let 
 spolupracoval se Střední školou gastronomickou v Blansku jako fotograf na barmanských soutěžích 
