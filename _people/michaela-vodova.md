@@ -15,16 +15,14 @@ ordtrebic: 1
 ordpmstrebic: 1
 description: předsedkyně Krajského sdružení Vysočina
 profession: OSVČ, koordinátorka Krajského sdružení Vysočina
-#img:  #
+img: people/michaela-vodova.jpg
 mail:
   - michaela.vodova@pirati.cz
 profiles:  # vyplnit pouze to, co používáte/vlastníte
   facebook: https://www.facebook.com/michaela.vodova
   twitter: https://twitter.com/misavoda
   linkedin: https://www.linkedin.com/in/michaela-vodova
-  # googleplus: 
-  web: http://michaelavodova.cz
-  # blog: 
+  web: http://michaelavodova.cz 
 ---
 
 Michaela Vodová (21. května 1979 v Praze) vyrůstala v Karlových Varech. Nyní žije od r. 2008 na Vysočině.
