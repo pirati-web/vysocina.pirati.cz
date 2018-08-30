@@ -34,4 +34,4 @@ Roman je ženatý, otec dvou dospělých dcer a syna. Jeho velkým koníčkem je
 **Piráti:**
 * od roku 2012 registrovaný příznivec
 * podílel se na práci rozhodčí komise 
-* v roce 2018 kandidoval s podpoprou Pirátů do Senátu Parlamentu ČR
+* v roce 2018 kandidoval s podporou Pirátů do Senátu Parlamentu ČR
