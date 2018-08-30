@@ -66,10 +66,6 @@ tail: # zbytek kandidatky
     age: 30
     profession: OSVČ, digitální marketing
     party: Piráti
-  - name: Jaromír Barák
-    age: 30
-    profession: OSVČ, digitální marketing
-    party: Piráti
   - name: Lukáš Petr
     age: 33
     profession: projektant
