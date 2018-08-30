@@ -6,7 +6,6 @@ category:
   - clenove
   - pks
   - poslanec
-ordclenove: 5
 ordpks: 5
 description: 4. místopředseda Krajského sdružení Vysočina # zobrazuje se v lide
 profession: poslanec
