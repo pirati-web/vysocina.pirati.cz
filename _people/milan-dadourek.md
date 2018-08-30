@@ -5,7 +5,6 @@ fullname: Milan Daďourek  	# jméno s tituly etc.
 category:
   - clenove
   - pks
-ordclenove: 3
 ordpks: 3
 description: 2. místopředseda Krajského sdružení Vysočina # zobrazuje se v lide
 profession: farmář
@@ -13,7 +12,6 @@ profession: farmář
 mail:
   - milan.dadourek@pirati.cz
 profiles:
-
   
 ---
 
