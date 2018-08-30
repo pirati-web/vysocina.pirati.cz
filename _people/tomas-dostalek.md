@@ -45,6 +45,6 @@ svého volného času nyní ale věnuje svým dvěma malým dětem.
 ---
 
 **Piráti:**
-* od ledna 2017 členem a 2. místopředsedou MS Chotěboř *
-* desítka pirátské kandidátky ve volbách do poslanecké sněmovny v roce 2017 *
-* dvojka koaliční kandidátky Pojďme To Změnit v komunálních volbách v Chotěboři v roce 2018 *
+* od ledna 2017 členem a 2. místopředsedou MS Chotěboř
+* desítka pirátské kandidátky ve volbách do poslanecké sněmovny v roce 2017
+* dvojka koaliční kandidátky Pojďme To Změnit v komunálních volbách v Chotěboři v roce 2018
