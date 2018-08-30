@@ -59,7 +59,7 @@ facebook:
   loadSDK: true
   profilePage: https://www.facebook.com/pirati.vysocina
   profilePageName: Piráti Vysočina
-  appId: 284247164921991
+  #appId: 284247164921991
 
 twitter:
   loadSDK: true
@@ -137,7 +137,7 @@ defaults:   # defaults values for collection scope
       rbar:
         - foto
         - personContact
-        - people
+          #  - people
   -
     scope:
       path: "_program"
