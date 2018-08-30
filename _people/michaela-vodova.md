@@ -4,14 +4,13 @@ name:     Michaela Vodová      # běžně používáné jméno
 fullname: Michaela Vodová      # jméno s tituly etc.
 category:
   - clenove
+  - koks
+  - kontaktni_osoba
+  - rv
   - pks
   - trebic
   - pmstrebic
-  - koks
-  - kontaktni_osoba
-ordclenove: 1
 ordpks: 1
-ordtrebic: 1
 ordpmstrebic: 1
 description: předsedkyně Krajského sdružení Vysočina
 profession: OSVČ, koordinátorka Krajského sdružení Vysočina
