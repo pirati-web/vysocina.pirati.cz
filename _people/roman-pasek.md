@@ -20,10 +20,10 @@ profiles:
   twitter: https://twitter.com/pasekrom
   linkedin: https://www.linkedin.com/in/romanpasek
   instagram: https://www.instagram.com/pasekroman
-  googleplus: https://plus.google.com/+uzivatel.na.googleplus
+  googleplus: 
   github: https://github.com/pasekrom
-  # web: http://vase-webove-stranky.cz
-  # blog: http://blog.aktualne.cz/blogy/vas-blog.php
+  web: 
+  blog: 
   
 ---
 
