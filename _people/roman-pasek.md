@@ -1,7 +1,6 @@
 ---
 uid: roman.pasek
 name:     Roman Pašek
-fullname: Roman Pašek
 category:
   - clenove
   - pks

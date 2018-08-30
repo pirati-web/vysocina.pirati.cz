@@ -1,7 +1,6 @@
 ---
 uid: michaela.vodova
 name:     Michaela Vodová      # běžně používáné jméno
-fullname: Michaela Vodová      # jméno s tituly etc.
 category:
   - clenove
   - koks

@@ -1,7 +1,6 @@
 ---
 uid: martin.tomek
 name:     Martin Tomek
-fullname: Martin Tomek
 category:
   - kandidat2018
 description: kandidát komunálních voleb 2018 Třebíč

@@ -1,7 +1,6 @@
 ---
 uid: jakub.pikla
 name:     Jakub Pikla
-fullname: Jakub Pikla
 category:
   - kandidat2018
 description: kandidát v komunálních volbách 2018 - Chotěboř

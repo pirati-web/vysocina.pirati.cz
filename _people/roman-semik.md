@@ -1,7 +1,6 @@
 ---
 uid: roman.semik
 name:     Roman Šemík
-fullname: Roman Šemík
 category:
   - senat2018
 description: kandidát senátních voleb 2018 Chrudim

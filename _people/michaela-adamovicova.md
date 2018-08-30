@@ -1,7 +1,6 @@
 ---
 uid: michaela.adamovicova
 name:     Michaela Adamovičová
-fullname: Michaela Adamovičová
 category:
   - kandidat2018
 description: kandidát v komunálních volbách 2018 - Třebíč

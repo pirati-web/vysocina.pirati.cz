@@ -1,7 +1,6 @@
 ---
 uid: zdenek.jaksik
 name:     Zdeněk Jakšík
-fullname: Zdeněk Jakšík
 category:
   - kandidat2018
 description: kandidát v komunálních volbách 2018 - Třebíč

@@ -1,7 +1,6 @@
 ---
 uid: roman.kubat
 name:     Roman Kubát
-fullname: Roman Kubát
 category:
   - clenove
   - mschotebor

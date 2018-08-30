@@ -1,7 +1,6 @@
 ---
 uid: jan.posvar
 name:     Jan Pošvář  	# běžně používáné jméno
-fullname: Jan Pošvář  	# jméno s tituly etc.
 category:
   - clenove
   - pks

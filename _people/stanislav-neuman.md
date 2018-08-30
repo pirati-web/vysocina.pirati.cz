@@ -1,7 +1,6 @@
 ---
 uid: stanislav.neuman
 name:     Stanislav Neuman
-fullname: Stanislav Neuman
 category:
   - clenove
   - mstrebicsko

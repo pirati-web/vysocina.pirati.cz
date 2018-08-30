@@ -1,7 +1,6 @@
 ---
 uid: david.safranek
 name:     David Šafránek
-fullname: David Šafránek
 category:
   - kandidat2018
 description: kandidát v komunálních volbách 2018 - Chotěboř

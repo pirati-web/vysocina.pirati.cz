@@ -1,7 +1,6 @@
 ---
 uid: premysl.cisar
 name:     Přemysl Císař
-fullname: Přemysl Císař
 category:
   - kandidat2018
 description: kandidát v komunálních volbách 2018 - Třebíč

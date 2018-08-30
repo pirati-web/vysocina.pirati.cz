@@ -1,7 +1,6 @@
 ---
 uid: tomas.dostalek
 name:     Tomáš Dostálek
-fullname: Tomáš Dostálek
 category:
   - clenove
   - mschotebor

@@ -1,7 +1,6 @@
 ---
 uid: milan.dadourek
 name:     Milan Daďourek  	# běžně používáné jméno
-fullname: Milan Daďourek  	# jméno s tituly etc.
 category:
   - clenove
   - pks

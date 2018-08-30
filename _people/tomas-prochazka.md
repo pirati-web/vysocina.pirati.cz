@@ -2,7 +2,6 @@
 
 uid: tomas.prochazka             
 name:     Tomáš Procházka        
-fullname: Tomáš Procházka        
 category:                 
   - clenove
   - mstrebicsko

@@ -1,7 +1,6 @@
 ---
 uid: petr.albrecht
 name:     Petr Albrecht
-fullname: Petr Albrecht
 category:
   - kandidat2018
 description: kandidát v komunálních volbách 2018 - Chotěboř
