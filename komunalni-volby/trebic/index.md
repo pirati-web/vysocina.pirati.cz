@@ -11,4 +11,4 @@ Kandidátka Společně otevřeme Třebíč je sdružením Pirátů, TOP 09 a nez
 
 > "Slovo „Společně“ je dvojsmyslné. Uvádí jak to, že kandidujeme společně jako Piráti, TOP 09 a nezávislí kandidáti, tak to, že chceme Třebíč otevřít společně s voliči, bez kterých to nepůjde," říká lídr kandidátky Roman Pašek.
 
-**[Web koalice Společně otevřeme Třebíč](https://spolecneotevremetrebic.cz)**
+**[Web Společně otevřeme Třebíč](http://spolecneotevremetrebic.cz)**
