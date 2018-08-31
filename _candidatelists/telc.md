@@ -1,7 +1,7 @@
 ---
 title: Kandidátka na radnici
 uid: telc
-number: 11 
+number: 6
 leader:
   uid: jiri.pykal
   age: 47
