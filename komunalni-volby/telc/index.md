@@ -10,3 +10,5 @@ candidateListUid: telc
 Telč
 
 > "..." .
+
+**[Web SPOLEČNĚ PRO TELČ - PIRÁTI A ZELENÍ](https://www.spolecneprotelc.cz/)**
