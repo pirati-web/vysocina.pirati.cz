@@ -8,6 +8,8 @@ profession:  IT specialista v ČD Informační systémy se zaměřením na bezpe
 img: people/roman-semik.jpg
 mail:
   - roman.semik@gmail.com
+mob:
+  - 724 122 151
 profiles:
   facebook: https://www.facebook.com/roman.semik
   twitter: 
