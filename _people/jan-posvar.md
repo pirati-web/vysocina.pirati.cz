@@ -1,6 +1,9 @@
 ---
 uid: jan.posvar
 name:     Jan Pošvář  	# běžně používáné jméno
+titles:
+  before: Bc.
+  after:
 category:
   - clenove
   - pks
