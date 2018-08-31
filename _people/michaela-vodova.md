@@ -1,6 +1,9 @@
 ---
 uid: michaela.vodova
 name:     Michaela Vodová      # běžně používáné jméno
+titles:
+  before: Mgr.
+  after:
 category:
   - clenove
   - koks
