@@ -29,8 +29,7 @@ zookoutek U Pipinga, z.s.](http://dvornizookoutek.cz)**, jehož se stala doživo
 člen výkonného výboru, projektový manažer, fundraiser, veterinární technik, zoolog, logistik, chovatel a ošetřovatel 
 zvířat, koordinátor dobrovolníků, pracovník ekologické výchovy, operátor zákaznické linky, finanční analytik, 
 technicko-administrativní pracovník, technik realizace a údržby zeleně, webmaster a odborný pracovník vztahů k 
-veřejnosti. Je zástupcem spolku v KOUS Vysočina, z.s. sekce poradenství,vzdělávání a občanské aktivity, členem  
-Českého svazu chovatelů pštrosů a spolku SOS Na skalním.
+veřejnosti. Je zástupcem spolku v KOUS Vysočina, z.s. sekce poradenství,vzdělávání a občanské aktivity, členem Českého svazu chovatelů pštrosů a spolku SOS Na skalním.
   
 Mezi její zájmy patří zvířata a chovatelství, příroda, ekologie a životní prostředí, hudba, hra na kytaru, fotografie, 
 zahradní a krajinná tvorba, pořádání odpočinkových aktivit, environmentální vzdělávání.
