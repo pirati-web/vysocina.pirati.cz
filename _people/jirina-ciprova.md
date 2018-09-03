@@ -5,7 +5,7 @@ fullname: Jiřina Ciprová
 category:                 
   - clenove
   - mstrebicsko
-description:  člen Místního sdružení Třebíčsko 
+description:  členka Místního sdružení Třebíčsko 
 profession: předsedkyně spolku 
 # img: people/jirina_ciprova.jpg  #
 mail:
