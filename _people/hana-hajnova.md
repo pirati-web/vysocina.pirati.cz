@@ -9,7 +9,7 @@ category:
   - kandidat2018
 ordmo: 1
 ordpmstelcsko: 2
-description: kandidát v komunálních volbách 2018 - Telč 
+description: 1. místopředsedkyně Místního sdružení Telčsko
 profession: projektová manažerka
 img: people/hana-hajnova.jpg
 mail:
