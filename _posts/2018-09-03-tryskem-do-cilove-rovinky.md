@@ -7,6 +7,7 @@ title: Tryskem do cílové rovinky: Kandidát do Senátu Šemík sází na jinou
 author: Miluš Kotišová
 authorId: milus.kotisova    # uid nekoho z _people (nepoviné)
 image: posts/2018-09-03-tryskem-do-cilove-rovinky.jpg
+
 ---
 
 **Kontaktní síť 140 přímočarých „Havlíčků“ doplňující dvě plánované kanceláře v regionu, voličský kompas, vypravěčské festiválky, jízda motoráčkem napříč regionem nebo třeba kolektivní tvorba otevřené učebnice pro sebeřízené učení cizích jazyků: to mají být poslední esa v rukávu Romana Šemíka. Kandidát do Senátu s podporou Pirátů a hnutí Senátor 21 sází na blízký kontakt s voliči a ve spolupráci s Pirátskou putovní univerzitou zkouší hledat nové možnosti politické kampaně: může už během kampaně vzniknout něco prospěšného? Může samotná kampaň posunout hranice možného v politice?**
@@ -71,6 +72,7 @@ gramotnosti, Kostarická studia a Vnitrostranické „zákonodárství“ – mi
 Univerzita se dál rozvíjí a pouští se i do nezávislého dobrovolnického výzkumu.
 
 --------------
+
 **Kontakty pro média:**
 
 Roman Šemík, 724 122 151, roman.semik@gmail.com, kandidát do Senátu
