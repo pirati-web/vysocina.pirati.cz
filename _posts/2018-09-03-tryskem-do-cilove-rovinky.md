@@ -77,13 +77,18 @@ Univerzita se dál rozvíjí a pouští se i do nezávislého dobrovolnického v
 **Kontakty pro média:**
 
 Roman Šemík, 724 122 151, roman.semik@gmail.com, kandidát do Senátu
+
 Miluš Kotišová, 778 111 455, milus.kotisova@pirati.cz, zakladatelka a kurátorka Pirátské putovní univerzity
 
 **Související odkazy:**
 
 [Kandidát do Senátu Ing. Roman Šemík](https://romansemik.cz)
+
 [Facebooková stránka](https://facebook.com/SeSemikemDoSenatu)
+
 [Senátor na plný úvazek](https://wiki.pirati.cz/regiony/vysocina/senatni-kampan-chrudim_44)
+
 [Pirátská putovní univerzita](https://facebook.com/groups/257921767995854/)
+
 [Otevřená učebnice](https://wiki.pirati.cz/regiony/vysocina/senatni-kampan-chrudim_44/polylinguahack)
 
