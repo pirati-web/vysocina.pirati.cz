@@ -1,7 +1,7 @@
 ---
 date: 2018-09-03
-# category: blog
-# tags: Senát Chrudim Šemík
+category: blog
+tags: Senát Chrudim Šemík
 layout: post
 title: Tryskem do cílové rovinky: Kandidát do Senátu Šemík sází na jinou formu komunikace s voliči
 author: Miluš Kotišová
@@ -94,3 +94,5 @@ Miluš Kotišová, 778 111 455, milus.kotisova@pirati.cz, zakladatelka a kuráto
 [Pirátská putovní univerzita](https://facebook.com/groups/257921767995854/)
 
 [Otevřená učebnice](https://wiki.pirati.cz/regiony/vysocina/senatni-kampan-chrudim_44/polylinguahack)
+
+---
