@@ -86,4 +86,3 @@ Miluš Kotišová, 778 111 455, milus.kotisova@pirati.cz, zakladatelka a kuráto
 [Pirátská putovní univerzita](https://facebook.com/groups/257921767995854/)
 [Otevřená učebnice](https://wiki.pirati.cz/regiony/vysocina/senatni-kampan-chrudim_44/polylinguahack)
 
----
