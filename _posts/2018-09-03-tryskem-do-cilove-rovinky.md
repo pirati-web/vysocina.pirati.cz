@@ -1,6 +1,6 @@
 ---
 date: 2018-09-03
-category: blog
+# category: blog
 # tags: Senát Chrudim Šemík
 layout: post
 title: Tryskem do cílové rovinky: Kandidát do Senátu Šemík sází na jinou formu komunikace s voliči
