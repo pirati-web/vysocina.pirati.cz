@@ -1,9 +1,9 @@
 ---
 date: 2018-09-03
 category: blog
-tags: Senát Chrudim Šemík TZ
+tags: Senát Chrudim Šemík
 layout: post
-title: TZ - Tryskem do cílové rovinky - Kandidát do Senátu Šemík sází na jinou formu komunikace s voliči
+title: Tryskem do cílové rovinky - Kandidát do Senátu Šemík sází na jinou formu komunikace s voliči
 author: Miluš Kotišová
 authorId: milus.kotisova    # uid nekoho z _people (nepoviné)
 image: posts/2018-09-03-tryskem-do-cilove-rovinky.jpg
