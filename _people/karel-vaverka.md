@@ -4,10 +4,10 @@ name:     Karel Vaverka
 category:
   - kandidat2018
 description: kandidát v komunálních volbách 2018 - Třebíč
-profession: projektant
-img: people/lukas-petr.jpg
+profession: projektant, předseda ČKAIT Jihlava
+img: people/karel-vaverka.jpg
 mail:
-  - petrluka@centrum.cz
+  - vaverka@stavoproj.cz
 profiles:
   facebook: 
   twitter: 
@@ -20,4 +20,4 @@ profiles:
   
 ---
 
-Ing. Lukáš Petr
+Ing. Karel Vaverka
