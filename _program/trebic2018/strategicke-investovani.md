@@ -3,7 +3,7 @@ title: Strategické investování
 uid: strategicke-investovani
 campaignCategoryUid: trebic2018
 campaignGroupUid: trebic-2018
-garant: karel.vaverka
+garant: lukas.petr
 perex: >
   Centrum města revitalizujeme jako celek. Připravíme nové zasíťované lokality pro výstavbu.
 order: 4
