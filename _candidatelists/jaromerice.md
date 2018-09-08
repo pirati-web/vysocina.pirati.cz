@@ -1,7 +1,7 @@
 ---
 title: Kandidátka na radnici
 uid: jaromerice
-number: 0
+number: 7
 leader:
   uid: zdenek.chroust
   age: 54
