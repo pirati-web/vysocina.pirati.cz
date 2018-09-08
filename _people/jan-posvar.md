@@ -11,7 +11,7 @@ category:
 ordpks: 5
 description: 4. místopředseda Krajského sdružení Vysočina # zobrazuje se v lide
 profession: poslanec
-#img: people/jan-posvar.jpg # zakomentuj radek dokud není fotka
+img: people/jan-posvar.jpg
 mail:
   - jan.posvar@pirati.cz
 profiles:
