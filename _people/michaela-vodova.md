@@ -2,12 +2,10 @@
 uid: michaela.vodova
 name:     Michaela Vodová      # běžně používáné jméno
 titles:
-  before: Mgr.
+  before:
   after:
 category:
   - clenove
-  - koks
-  - kontaktni_osoba
   - rv
   - pks
   - trebic
