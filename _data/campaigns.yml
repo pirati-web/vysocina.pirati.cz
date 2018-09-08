@@ -10,7 +10,7 @@
       categoryUid: senat
       
 - groupUid: trebic-2018  # identifier of the group, to be used in program point
-  title: Komunální volby v Třebíči 2018     # title of the campaign group
+  title: Komunální volby 2018     # title of the campaign group
   campaigns:
-    - title: Program na radnici   # individual campaigns within the group
+    - title: Třebíč   # individual campaigns within the group
       categoryUid: trebic2018
