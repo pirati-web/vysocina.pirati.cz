@@ -4,11 +4,11 @@ uid: zasady-pusobeni
 campaignCategoryUid: trebic2018
 campaignGroupUid: trebic-2018
 perex: >
-  Zapojíme občany do rozhodování o městě. Vytvoříme participativní rozpočet.
+  Nebudeme spolupracovat s extremisty.
 order: 1
 ---
 
-**Stejně jako v parlamentních volbách deklarujeme, že nebudeme spolupracovat s extrémisty, trestně stíhanými osobami a osobami s problematickou minulostí.**
+**Stejně jako v parlamentních volbách deklarujeme, že nebudeme spolupracovat s extremisty, trestně stíhanými osobami a osobami s problematickou minulostí.**
 
 ## Zásady působení v zastupitestvu města
 
