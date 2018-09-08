@@ -11,6 +11,7 @@ category:
 ordpmsjihlavsko: 1
 description: předseda Místního sdružení Jihlavsko
 profession: Student Fakulty strojní v Praze, obor strojírenství, ekonomie a řízení podniku. Pracuje v Automotive Lighting na oddělení technologie.
+img: people/tomas-bouda.jpg
 mail:
   - tomas.bouda@pirati.cz
 
