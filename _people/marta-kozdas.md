@@ -7,7 +7,7 @@ category:
   - kandidat2018             
 description: kandidátka v komunálních volbách 2018 - Jihlava 
 profession: Ředitelka základní a mateřské školy
-
+img: people/marta-kozdas.jpg
 
 ---
 
