@@ -91,6 +91,6 @@ tail: # zbytek kandidatky
     party: bez politické příslušnosti
   - name: Pavel Chlubna
     age: 73
-    profession: důvhodce
+    profession: důchodce
     party: bez politické příslušnosti
 ---
