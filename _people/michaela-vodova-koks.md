@@ -1,5 +1,5 @@
 ---
-uid: michaela.vodova.koks
+uid: michaela.vodova
 name:     Michaela Vodová      # běžně používáné jméno
 titles:
   before: 
