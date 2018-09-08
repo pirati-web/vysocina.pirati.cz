@@ -5,7 +5,7 @@ campaignCategoryUid: trebic2018
 campaignGroupUid: trebic-2018
 garant: karel.vaverka
 perex: >
-  Centrum města revitalizujeme jako celek
+  Centrum města revitalizujeme jako celek. Připravíme nové zasíťované lokality pro výstavbu.
 order: 4
 ---
 
