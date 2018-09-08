@@ -1,5 +1,5 @@
 ---
-uid: hana.hajnova.mo
+uid: hana.hajnova
 name:     Hana Hajnová
 category:
   - mo
