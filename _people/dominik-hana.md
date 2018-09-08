@@ -7,6 +7,7 @@ category:
   - kandidat2018             
 description: kandidát do komunálních voleb 2018 - Jihlava 
 profession: Student gymnázia se zaměřením na právo, politický aktivista, amatérský herec  
+img: people/dominik-hana.jpg
 
 ---
 
