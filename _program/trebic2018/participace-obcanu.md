@@ -13,10 +13,8 @@ order: 1
 
 ## Participace občanů
 
-<dl class="c-program-key-point-list">
-    <dd>vytvoření systému, který umožní realizaci průzkumu veřejného mínění mezi občany</dd><br>
-    <dd>zavedení pravidelných setkávání vedení města s občany, a to v různých městských částech a integrovaných obcích (Budíkovice, Pocoucov, Ptáčov, Račerovice, Řípov, Sokolí a Slavice)</dd><br>
-    <dd>zavedení participativního rozpočtu, v rámci kterého budou moci občané rozhodovat o podpoře konkrétních investičních projektů, které sami občané navrhují</dd><br>
-    <dd>zřízení studentské sněmovny a seniorského senátu jako poradních orgánů rady města</dd>
-</dl>
+* vytvoření systému, který umožní realizaci průzkumu veřejného mínění mezi občany
+* zavedení pravidelných setkávání vedení města s občany, a to v různých městských částech a integrovaných obcích (Budíkovice, Pocoucov, Ptáčov, Račerovice, Řípov, Sokolí a Slavice)
+* zavedení participativního rozpočtu, v rámci kterého budou moci občané rozhodovat o podpoře konkrétních investičních projektů, které sami občané navrhují
+* zřízení studentské sněmovny a seniorského senátu jako poradních orgánů rady města
 
