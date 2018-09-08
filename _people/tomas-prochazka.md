@@ -5,7 +5,7 @@ name:     Tomáš Procházka
 category:                 
   - clenove
   - mstrebicsko
-description: člen MS Třebíčsko 
+description: člen Místního sdružení Třebíčsko 
 profession: kodér
 img: people/tomas-prochazka.jpg  
 mail:
