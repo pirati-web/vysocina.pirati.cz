@@ -13,3 +13,5 @@ otevřenější, modernější a konečně jí dát nějakou vizi.
 > "Pro koalici s dalšími stranami a nezávislými kandidáty jsme se rozhodli proto, abychom mohli v maximální 
 míře prosadit naše pirátské programové priority (zejména zprůhlednění činnosti orgánů města či větší zapojení 
 veřejnosti do rozhodování)," říká dvojka kandidátky Tomáš Dostálek, který je nejvýše postaveným Pirátem na kandidátce.
+
+**[Web Pojďme To Změnit](https://www.pojdmetozmenit2018.cz/)**
