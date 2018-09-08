@@ -7,6 +7,7 @@ category:
   - kandidat2018        
 description: kandidát do komunálních voleb 2018 - Jihlava # zde pište svoji pozici v rámci Pirátů, nečlenové například " kandidát v komunálních volbách 2018 - Třebíč"
 profession: Student Gymnázia Jihlava, recitátor, začínající básník a písničkář, amatérský herec
+img: people/tomas-ryska.jpg
 
 ---
 
