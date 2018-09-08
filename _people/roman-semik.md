@@ -2,7 +2,7 @@
 uid: roman.semik
 name:     Roman Šemík
 titles:
-  before: Ing.
+  before:
   after: 
 category:
   - senat2018
