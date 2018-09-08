@@ -2,7 +2,7 @@
 title: Participace občanů
 uid: participace-obcanu
 campaignCategoryUid: trebic2018
-campaignGroupUid: volby-2018
+campaignGroupUid: trebic-2018
 garant: roman.pasek
 perex: >
   Zapojíme občany do rozhodování o městě. Vytvoříme participativní rozpočet.
