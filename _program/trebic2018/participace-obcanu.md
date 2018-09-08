@@ -6,7 +6,7 @@ campaignGroupUid: trebic-2018
 garant: roman.pasek
 perex: >
   Zapojíme občany do rozhodování o městě. Vytvoříme participativní rozpočet.
-order: 1
+order: 2
 ---
 
 **Občané mají mít právo rozhodovat o věcech, které se jich osobně týkají, a město se musí snažit jim jít naproti a být transparentní. Aktivní zapojení občanů do chodu města umožní dělat kvalitnější rozhodnutí a omezit plýtvání financemi. Především ale buduje společnost sousedů, kterým na dění ve městě záleží.**
