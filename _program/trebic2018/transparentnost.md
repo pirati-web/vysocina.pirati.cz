@@ -4,7 +4,7 @@ uid: transparentnost
 campaignCategoryUid: trebic2018
 campaignGroupUid: trebic-2018
 perex: >
-  Budeme jednat vždy transparentně
+  Budeme jednat vždy transparentně. Rozpočet bude rozklikávací.
 order: 3
 ---
 
