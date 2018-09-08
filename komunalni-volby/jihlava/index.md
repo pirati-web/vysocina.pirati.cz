@@ -7,7 +7,7 @@ campaignCategoryUid: jihlava2018
 candidateListUid: jihlava
 ---
 
-Jihlava
+Žijeme Jihlavou
 
 > "..." .
 
