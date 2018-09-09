@@ -27,6 +27,12 @@
     - title: Havlíčkův Brod   # individual campaigns within the group
       categoryUid: havlbrod2018
 
+- groupUid: nmnm-2018  # identifier of the group, to be used in program point
+  title: Komunální volby 2018     # title of the campaign group
+  campaigns:
+    - title: Nové Město na Moravě   # individual campaigns within the group
+      categoryUid: nmnm2018
+
 - groupUid: chotebor-2018  # identifier of the group, to be used in program point
   title: Komunální volby 2018     # title of the campaign group
   campaigns:
