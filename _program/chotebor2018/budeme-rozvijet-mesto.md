@@ -1,8 +1,8 @@
 ---
 title: Budeme rozvíjet město
 uid: budeme-rozvijet-mesto
-campaignCategoryUid: nmnm2018
-campaignGroupUid: nmnm-2018
+campaignCategoryUid: chotebor2018
+campaignGroupUid: chotebor-2018
 perex: >
   
 order: 1
