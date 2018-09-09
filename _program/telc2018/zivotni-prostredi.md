@@ -5,7 +5,7 @@ campaignCategoryUid: telc2018
 campaignGroupUid: telc-2018
 perex: >
   
-order: 5
+order: 4
 ---
 
 ## Příznivé klima ve městě
