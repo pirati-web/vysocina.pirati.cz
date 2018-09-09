@@ -38,3 +38,9 @@
   campaigns:
     - title: Chotěboř   # individual campaigns within the group
       categoryUid: chotebor2018
+
+- groupUid: telc-2018  # identifier of the group, to be used in program point
+  title: Komunální volby 2018     # title of the campaign group
+  campaigns:
+    - title: Telč   # individual campaigns within the group
+      categoryUid: telc2018
