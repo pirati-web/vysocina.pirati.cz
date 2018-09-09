@@ -1,6 +1,6 @@
 ---
-title: Volný čas
-uid: volny-cas
+title: Volnočasové aktivity
+uid: volnocasove-aktivity
 campaignCategoryUid: jihlava2018
 campaignGroupUid: jihlava-2018
 perex: >
@@ -10,7 +10,7 @@ order: 4
 
 **Město musí poskytovat kvalitní zázemí pro děti, pracující i seniory, podněcovat k volnočasovým aktivitám. Dobře se cítíme jen v místě, kde se lidé navzájem znají, kde mají touhu i možnost se setkávat a sdílet. Jen společně to dokážeme.**
 
-## Volný čas
+## Volnočasové aktivity
 
 Budeme vytvářet podmínky pro sousedské aktivity a setkávání lidí. Čím více se lidé znají, tím více se ve městě cítí bezpečně. Vytvoříme nový atraktivní prostor, ve kterém se každý bude moci realizovat.
 
