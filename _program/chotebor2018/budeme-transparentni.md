@@ -5,7 +5,7 @@ campaignCategoryUid: chotebor2018
 campaignGroupUid: chotebor-2018
 perex: >
   
-order: 1
+order: 2
 ---
 
 ## Budeme transparentní
