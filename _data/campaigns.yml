@@ -8,7 +8,13 @@
       categoryUid: praha2018
     - title: Senát
       categoryUid: senat
-      
+
+- groupUid: jihlava-2018  # identifier of the group, to be used in program point
+  title: Komunální volby 2018     # title of the campaign group
+  campaigns:
+    - title: Jihlava   # individual campaigns within the group
+      categoryUid: jihlava2018
+
 - groupUid: trebic-2018  # identifier of the group, to be used in program point
   title: Komunální volby 2018     # title of the campaign group
   campaigns:
