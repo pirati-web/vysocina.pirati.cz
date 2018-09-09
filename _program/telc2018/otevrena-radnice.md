@@ -26,7 +26,7 @@ Zajistíme, aby každý jednoduše našel jak a kde se ptát, i na co se ptali o
 
 Maximální množství informací zveřejníme ve formě otevřených dat, aby byly dále využitelné např. pro tvorbu užitečných aplikací, vědecké výzkumy, studentské práce atd.
 
-##Transparentní rozhodování s účastí občanů
+## Transparentní rozhodování s účastí občanů
 
 Podpoříme zapojení občanů do rozhodování a jejich sounáležitost s místem, kde žijí. Na zasedáních všech orgánů bereme občany jako partnery, ne pouhé přísedící. K tomu jim poskytneme potřebné podklady. Požadujeme jednání veřejných orgánů v příznivé časy pro veřejnost a na zastupitelstvu pevně zařazený bod pro připomínky občanů.
 
