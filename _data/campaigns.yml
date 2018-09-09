@@ -44,3 +44,9 @@
   campaigns:
     - title: Telč   # individual campaigns within the group
       categoryUid: telc2018
+
+- groupUid: jaromerice-2018  # identifier of the group, to be used in program point
+  title: Komunální volby 2018     # title of the campaign group
+  campaigns:
+    - title: Jaroměřice nad Rokytnou   # individual campaigns within the group
+      categoryUid: jaromerice2018
