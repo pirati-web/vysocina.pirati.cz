@@ -1,7 +1,7 @@
 ---
 title: Kandidátka na radnici
 uid: havlbrod
-number: 7
+number: 1
 leader:
   uid: jan.kerber
   age: 33
