@@ -7,7 +7,7 @@ category:
   - kandidat2018
 description: člen Místního sdružení Třebíčsko
 profession: 
-# img: people/jaroslav-vysoky.jpg
+img: people/jaroslav-vysoky.jpg
 ---
 
 Jaroslav Vysoký
