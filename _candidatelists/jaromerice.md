@@ -30,13 +30,13 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 57
     profession: projektant
     party: bez politické příslušnosti
-  - uid: miloslav.janda2
-    age: 33
-    profession: statik, vědecký pracovník
-    party: bez politické příslušnosti
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
+  - name: Miloslav Janda
+    age: 33
+    profession: statik, vědecký pracovník
+    party: bez politické příslušnosti
   - name: Jiří Rezek
     age: 37
     profession: controller
