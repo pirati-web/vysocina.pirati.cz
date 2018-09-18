@@ -3,10 +3,12 @@ title: Program
 uid: program
 campaignCategoryUid: jaromerice2018
 campaignGroupUid: jaromerice-2018
-perex: > Jsme skupina občanů, kterou spojil společný zájem. Díky petici, již jsme sepsali, se rozpoutala veřejná diskuse o plánovaném obchvatu Jaroměřic. Aktivně jsme se podíleli i na akcích proti jadernému úložišti. Chceme vzkvétající mladé Jaroměřicko, odkud nebudou lidé odcházet. Rádi bychom, aby se při správě města používal zdravý selský rozum. Držíme stále stejný kurz.
+perex: > 
   
 order: 1
 ---
+
+Jsme skupina občanů, kterou spojil společný zájem. Díky petici, již jsme sepsali, se rozpoutala veřejná diskuse o plánovaném obchvatu Jaroměřic. Aktivně jsme se podíleli i na akcích proti jadernému úložišti. Chceme vzkvétající mladé Jaroměřicko, odkud nebudou lidé odcházet. Rádi bychom, aby se při správě města používal zdravý selský rozum. Držíme stále stejný kurz.
 
 * Zamezíme výstavbě hlubinného jaderného úložiště na Jaroměřicku.
 * Silniční obchvat budeme řešit komplexně, tak aby vyhovoval především místním občanům. 
