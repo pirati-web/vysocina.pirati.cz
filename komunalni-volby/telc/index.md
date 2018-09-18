@@ -7,8 +7,6 @@ campaignCategoryUid: telc2018
 candidateListUid: telc
 ---
 
-Telč
+## Společně pro Telč - Piráti a Zelení
 
-> "..." .
-
-**[Web SPOLEČNĚ PRO TELČ - PIRÁTI A ZELENÍ](https://www.spolecneprotelc.cz/)**
+**[Web Společně pro Telč - Piráti a Zelení](https://www.spolecneprotelc.cz/)**
