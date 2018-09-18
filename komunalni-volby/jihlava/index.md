@@ -9,4 +9,4 @@ candidateListUid: jihlava
 
 ## Žijeme Jihlavou
 
-**[Web ŽIJEME JIHLAVOU!](http://www.zijemejihlavou.cz/cs/)**
+**[Web Žijeme Jihlavou](http://www.zijemejihlavou.cz/cs/)**
