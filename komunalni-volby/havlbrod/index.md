@@ -7,7 +7,3 @@ campaignCategoryUid: havlbrod2018
 candidateListUid: havlbrod
 ---
 
-Havlíčkův Brod
-
-> "".
-
