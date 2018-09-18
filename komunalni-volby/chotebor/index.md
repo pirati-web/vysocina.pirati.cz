@@ -7,6 +7,8 @@ campaignCategoryUid: chotebor2018
 candidateListUid: chotebor
 ---
 
+## Pojďme To Změnit
+
 Pojďme To Změnit je koalicí nezávislých kandidátů, Pirátů, TOP 09 a Zelených. Naším cílem je udělat Chotěboř 
 otevřenější, modernější a konečně jí dát nějakou vizi.
 
