@@ -7,8 +7,6 @@ campaignCategoryUid: jihlava2018
 candidateListUid: jihlava
 ---
 
-Žijeme Jihlavou
-
-> "..." .
+## Žijeme Jihlavou
 
 **[Web ŽIJEME JIHLAVOU!](http://www.zijemejihlavou.cz/cs/)**
