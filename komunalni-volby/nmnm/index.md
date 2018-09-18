@@ -7,7 +7,3 @@ campaignCategoryUid: nmnm2018
 candidateListUid: nmnm
 ---
 
-Nové Město na Moravě
-
-> "".
-
