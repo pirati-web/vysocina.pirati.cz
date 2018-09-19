@@ -18,8 +18,13 @@ candidateListUid: obce
       </div>
       <div class="c-program-candidates">
 
-        {% assign leaderCandidate = site.people | where: "uid", candidates.leader.uid | first %}
-        {% include candidate-badge.html candidate=candidates.leader candidatePage=leaderCandidate %}
+        {% if candidates.head.size %}
+            {% for candidate in candidates.head %}
+              {% assign candidatePage = site.people | where: "uid", candidate.uid  | first %}
+              {% assign candidateRank = forloop.index %}
+              {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false rank=candidateRank %}
+            {% endfor %}
+        {% endif %}
 
       </div>
 
