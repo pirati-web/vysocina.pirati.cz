@@ -3,9 +3,8 @@ layout: page
 title: Komunální volby v ostatních obcích
 description: Kandidátní listina a program koalice Pojďme To Změnit.
 keywords: lidé, členové, piráti, pirátky, příznivci, kandidátka, volby
+candidateListUid: obce
 ---
-
-## Komunální volby v ostatních obcích
 
 <div class="o-section">
   <div class="row">
@@ -20,13 +19,13 @@ keywords: lidé, členové, piráti, pirátky, příznivci, kandidátka, volby
       <div class="c-program-candidates">
 
         {% assign leaderCandidate = site.people | where: "uid", candidates.leader.uid | first %}
-        {% include candidate-badge.html candidate=candidates.leader candidatePage=leaderCandidate rank=1 %}
+        {% include candidate-badge.html candidate=candidates.leader candidatePage=leaderCandidate %}
 
         {% if candidates.head.size %}
             {% for candidate in candidates.head %}
               {% assign candidatePage = site.people | where: "uid", candidate.uid  | first %}
               {% assign candidateRank = forloop.index | plus: 1 %}
-              {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false rank=candidateRank %}
+              {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false %}
             {% endfor %}
         {% endif %}
 
