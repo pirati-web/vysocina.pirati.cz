@@ -38,9 +38,5 @@ class="c-program-candidate-badge__avatar-image">
 </div>
 </a>
 </div>
-
-
-      </div>
-
-  </div>
+</div>
 </div>
