@@ -23,30 +23,5 @@ candidateListUid: obce
 
       </div>
 
-      {% if candidates.note %}
-        <p><strong>Pozn.:</strong> {{ candidates.note }}</p>
-      {% endif %}
-    </div>
-    {% if programCategories.size > 0 %}    
-    <div class="columns medium-4">
-      <div class="o-section-header o-section-header--bordered">
-        <h3 class="o-section__heading t-h2-super">Program</h3>
-      </div>
-      <div class="c-program-items">
-          {% for category in programCategories %}
-          <div class="c-program-items__item">
-            <div class="c-program-items__item-wrap c-tile c-tile--fill">
-              <div class="c-program-items__item-inner c-tile__body">
-                <a href="{{ category.url | relative_url }}">
-                  <h3 class="c-program-items__item-title c-headline-anchor t-h4">{{ category.title }}</h3>
-                  <p>{{ category.perex }}</p>
-                </a>
-              </div>
-            </div>
-          </div>
-          {% endfor %}
-      </div>
-    </div>
-    {% endif %}    
   </div>
 </div>
