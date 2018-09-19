@@ -135,6 +135,67 @@ class="c-program-candidate-badge__avatar-image">
 </div>
 </div>
 
+<div class="o-section-header o-section-header--bordered">
+<h3 class="o-section__heading t-h2-super">
+            Lhotice
+</h3>
+</div>
+<div class="c-program-candidates">
+<div class="c-program-candidate-badge">
+<a class="c-program-candidate-badge__body" 
+            href="">
+<div class="c-program-candidate-badge__avatar">
+<img 
+            src="" 
+            alt="Luboš Fuks" 
+class="c-program-candidate-badge__avatar-image">
+</div>
+<div class="c-program-candidate-badge__description">
+<h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Luboš Fuks
+</span></h4>
+<strong class="c-program-candidate-badge__profession">
+            28 let, 
+            OSVČ zedník, 
+            Piráti
+</strong>
+<p class="c-program-candidate-badge__bio">
+            Luboš Fuks</p>
+</div>
+</a>
+</div>
+</div>
+
+<div class="o-section-header o-section-header--bordered">
+<h3 class="o-section__heading t-h2-super">
+            Staré Bříště
+</h3>
+</div>
+<div class="c-program-candidates">
+<div class="c-program-candidate-badge">
+<a class="c-program-candidate-badge__body" 
+            href="">
+<div class="c-program-candidate-badge__avatar">
+<img 
+            src="" 
+            alt="Václav Honzl" 
+class="c-program-candidate-badge__avatar-image">
+</div>
+<div class="c-program-candidate-badge__description">
+<h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Václav Honzl
+</span></h4>
+<strong class="c-program-candidate-badge__profession">
+            41 let, 
+            Global Mobility manažer, 
+            Piráti
+</strong>
+<p class="c-program-candidate-badge__bio">
+            Václav Honzl</p>
+</div>
+</a>
+</div>
+</div>
 
 
 
