@@ -14,7 +14,7 @@ candidateListUid: obce
       <div class="columns medium-12">
     {% endif %}    
       <div class="o-section-header o-section-header--bordered">
-        <h3 class="o-section__heading t-h2-super">Kandidátní listina</h3>
+        <h3 class="o-section__heading t-h2-super">Vír</h3>
       </div>
       <div class="c-program-candidates">
 
