@@ -21,44 +21,6 @@ candidateListUid: obce
         {% assign leaderCandidate = site.people | where: "uid", candidates.leader.uid | first %}
         {% include candidate-badge.html candidate=candidates.leader candidatePage=leaderCandidate %}
 
-        {% if candidates.head.size %}
-            {% for candidate in candidates.head %}
-              {% assign candidatePage = site.people | where: "uid", candidate.uid  | first %}
-              {% assign candidateRank = forloop.index | plus: 1 %}
-              {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false %}
-            {% endfor %}
-        {% endif %}
-
-        {% if candidates.tail.size > 0 %}
-          <div class="c-program-candidates__others">
-            {% for candidate in candidates.tail %}
-              <p>
-                <div itemprop="description" class="c-content-block c-emphasized-text">
-                {% assign candidateRank = forloop.index | plus: 1 | plus: candidates.head.size %}
-                <strong> {{ candidateRank }}.
-                    {% if candidate.uid %} 
-                        {% assign candidatePage = site.people | where: "uid", candidate.uid | first %}
-                        <a href={{candidatePage.url}}> {% include people/fullname.html person=candidatePage %}</a>{% if candidate.age or candidate.profession or candidate.party %}, {% endif %}
-                    {% else %}
-                        {{ candidate.name }}{% if candidate.age or candidate.profession or candidate.party %}, {% endif %}
-                    {% endif %}
-                </strong>
-
-                {% if candidate.age %}
-                    {{ candidate.age }} let{% if candidate.profession or candidate.party %}, {% endif %}
-                {% endif %}
-                {% if candidate.profession %}
-                    {{ candidate.profession }}{% if candidate.party %}, {% endif %}
-                {% endif %}
-                {% if candidate.party %}
-                    {{ candidate.party }}
-                {% endif %}
-                </div>
-              </p>
-            {% endfor %}
-          </div>
-        {% endif %}
-
       </div>
 
       {% if candidates.note %}
