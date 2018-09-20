@@ -226,7 +226,148 @@ class="c-program-candidate-badge__avatar-image">
 </div>  
 
 
+<div class="o-section-header o-section-header--bordered">
+<h3 class="o-section__heading t-h2-super">
+            Telčsko
+</h3>
+</div>
+<div class="c-program-candidates">
+<div class="c-program-candidate-badge">
+<a class="c-program-candidate-badge__body" 
+            href="">
+<div class="c-program-candidate-badge__avatar">
+<img 
+            src="" 
+            alt="Mario Pospíšil" 
+class="c-program-candidate-badge__avatar-image">
+</div>
+<div class="c-program-candidate-badge__description">
+<h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Mario Pospíšil
+</span></h4>
+<strong class="c-program-candidate-badge__profession">
+            předseda Místního sdružení Telčsko
+</strong>
+</div>
+</a>
+</div>
+</div>
+  
+<div class="c-program-candidates">
+<div class="c-program-candidate-badge">
+<a class="c-program-candidate-badge__body" 
+            href="https://vysocina.pirati.cz/lide/hana-hajnova/">
+<div class="c-program-candidate-badge__avatar">
+<img 
+            src="https://vysocina.pirati.cz/assets/a4e18c-ed64d4bafd2f8203801587a0e4052a771f54bdc21fbd8a964f7214beaf617c3c.jpg" 
+            alt="Hana Hajnová" 
+class="c-program-candidate-badge__avatar-image">
+</div>
+<div class="c-program-candidate-badge__description">
+<h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Hana Hajnová
+</span></h4>
+<strong class="c-program-candidate-badge__profession">
+            1. místopředsedkyně Místního sdružení Telčsko
+</strong>
+</div>
+</a>
+</div>
+</div>  
 
+<div class="c-program-candidates">
+<div class="c-program-candidate-badge">
+<a class="c-program-candidate-badge__body" 
+            href="">
+<div class="c-program-candidate-badge__avatar">
+<img 
+            src="" 
+            alt="Miluše Zítková" 
+class="c-program-candidate-badge__avatar-image">
+</div>
+<div class="c-program-candidate-badge__description">
+<h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Miluše Zítková
+</span></h4>
+<strong class="c-program-candidate-badge__profession">
+            2. místopředsedkyně Místního sdružení Telčsko
+</strong>
+</div>
+</a>
+</div>
+</div>
+
+
+<div class="o-section-header o-section-header--bordered">
+<h3 class="o-section__heading t-h2-super">
+            Třebíčsko
+</h3>
+</div>
+<div class="c-program-candidates">
+<div class="c-program-candidate-badge">
+<a class="c-program-candidate-badge__body" 
+            href="https://vysocina.pirati.cz/lide/michaela-vodova/">
+<div class="c-program-candidate-badge__avatar">
+<img 
+            src="https://vysocina.pirati.cz/assets/8a55e6-e963f7969330edf744efe44032d1b079412dfcd34a23eb3109bf5ddc22ca8ef6.jpg" 
+            alt="Michaela Vodová" 
+class="c-program-candidate-badge__avatar-image">
+</div>
+<div class="c-program-candidate-badge__description">
+<h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Michaela Vodová
+</span></h4>
+<strong class="c-program-candidate-badge__profession">
+            předsedkyně Místního sdružení Třebíčsko
+</strong>
+</div>
+</a>
+</div>
+</div>
+  
+<div class="c-program-candidates">
+<div class="c-program-candidate-badge">
+<a class="c-program-candidate-badge__body" 
+            href="">
+<div class="c-program-candidate-badge__avatar">
+<img 
+            src="" 
+            alt="Luboš Fuks" 
+class="c-program-candidate-badge__avatar-image">
+</div>
+<div class="c-program-candidate-badge__description">
+<h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Luboš Fuks
+</span></h4>
+<strong class="c-program-candidate-badge__profession">
+            1. místopředseda Místního sdružení Třebíčsko
+</strong>
+</div>
+</a>
+</div>
+</div>  
+
+<div class="c-program-candidates">
+<div class="c-program-candidate-badge">
+<a class="c-program-candidate-badge__body" 
+            href="">
+<div class="c-program-candidate-badge__avatar">
+<img 
+            src="" 
+            alt="Lukáš Krula" 
+class="c-program-candidate-badge__avatar-image">
+</div>
+<div class="c-program-candidate-badge__description">
+<h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Lukáš Krula
+</span></h4>
+<strong class="c-program-candidate-badge__profession">
+            2. místopředseda Místního sdružení Třebíčsko
+</strong>
+</div>
+</a>
+</div>
+</div>
 
 
 
