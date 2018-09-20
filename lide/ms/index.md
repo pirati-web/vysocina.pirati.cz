@@ -8,7 +8,80 @@ keywords: lidé, členové, piráti, pirátky, příznivci, kandidátka, volby
 <div class="o-section">
 <div class="row"> 
 <div class="columns medium-12">          
-        
+
+
+<div class="o-section-header o-section-header--bordered">
+<h3 class="o-section__heading t-h2-super">
+            Havlíčkův Brod
+</h3>
+</div>
+<div class="c-program-candidates">
+<div class="c-program-candidate-badge">
+<a class="c-program-candidate-badge__body" 
+            href="https://vysocina.pirati.cz/lide/josef-korinek/">
+<div class="c-program-candidate-badge__avatar">
+<img 
+            src="https://vysocina.pirati.cz/assets/754949-2d1d0fa1f2449c5c9faeaedadcd2b1c35b78b49800dc4e799d1eff950e99ab88.jpg" 
+            alt="Josef Kořínek" 
+class="c-program-candidate-badge__avatar-image">
+</div>
+<div class="c-program-candidate-badge__description">
+<h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Josef Kořínek
+</span></h4>
+<strong class="c-program-candidate-badge__profession">
+            předseda Místního sdružení Havlíčkův Brod
+</strong>
+</div>
+</a>
+</div>
+</div>
+  
+<div class="c-program-candidates">
+<div class="c-program-candidate-badge">
+<a class="c-program-candidate-badge__body" 
+            href="https://vysocina.pirati.cz/lide/jan-kerber/">
+<div class="c-program-candidate-badge__avatar">
+<img 
+            src="https://vysocina.pirati.cz/assets/73dfc7-91ec4e404f07e0b0e48b288504197fc89fd4748bae423e1a143e8d6e960c26fa.jpg" 
+            alt="Jan Kerber" 
+class="c-program-candidate-badge__avatar-image">
+</div>
+<div class="c-program-candidate-badge__description">
+<h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Jan Kerber
+</span></h4>
+<strong class="c-program-candidate-badge__profession">
+            1. místopředseda Místního sdružení Havlíčkův Brod
+</strong>
+</div>
+</a>
+</div>
+</div>  
+
+<div class="c-program-candidates">
+<div class="c-program-candidate-badge">
+<a class="c-program-candidate-badge__body" 
+            href="https://vysocina.pirati.cz/lide/katerina-zavrska/">
+<div class="c-program-candidate-badge__avatar">
+<img 
+            src="https://vysocina.pirati.cz/assets/868aa6-e544e356830f1f974dbaa53d5bf5726a4c8a39b9e0584c1a75f4bc7eda34ade7.jpg" 
+            alt="Kateřina Závrská" 
+class="c-program-candidate-badge__avatar-image">
+</div>
+<div class="c-program-candidate-badge__description">
+<h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Kateřina Závrská
+</span></h4>
+<strong class="c-program-candidate-badge__profession">
+            2. místopředsedkyně Místního sdružení Havlíčkův Brod
+</strong>
+</div>
+</a>
+</div>
+</div>
+
+
 <div class="o-section-header o-section-header--bordered">
 <h3 class="o-section__heading t-h2-super">
             Chotěboř
