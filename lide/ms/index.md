@@ -154,7 +154,76 @@ class="c-program-candidate-badge__avatar-image">
 </div>   
   
   
+<div class="o-section-header o-section-header--bordered">
+<h3 class="o-section__heading t-h2-super">
+            Jihlavsko
+</h3>
+</div>
+<div class="c-program-candidates">
+<div class="c-program-candidate-badge">
+<a class="c-program-candidate-badge__body" 
+            href="https://vysocina.pirati.cz/lide/tomas-bouda/">
+<div class="c-program-candidate-badge__avatar">
+<img 
+            src="https://vysocina.pirati.cz/assets/944e18-8fcb326bc39e785a2cb14c7c17a0e8ee6a15de19f231e925c371bfa781697fe6.jpg" 
+            alt="Tomáš Bouda" 
+class="c-program-candidate-badge__avatar-image">
+</div>
+<div class="c-program-candidate-badge__description">
+<h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Tomáš Bouda
+</span></h4>
+<strong class="c-program-candidate-badge__profession">
+            předseda Místního sdružení Jihlavsko
+</strong>
+</div>
+</a>
+</div>
+</div>
   
+<div class="c-program-candidates">
+<div class="c-program-candidate-badge">
+<a class="c-program-candidate-badge__body" 
+            href="https://vysocina.pirati.cz/lide/eva-novakova/">
+<div class="c-program-candidate-badge__avatar">
+<img 
+            src="https://vysocina.pirati.cz/assets/892991-501347612e2c5ed4407f2f6ad2e1be166b6658d3a69070baffb2f55abeb8ecc0.jpg" 
+            alt="Eva Nováková" 
+class="c-program-candidate-badge__avatar-image">
+</div>
+<div class="c-program-candidate-badge__description">
+<h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Eva Nováková
+</span></h4>
+<strong class="c-program-candidate-badge__profession">
+            1. místopředsedkyně Místního sdružení Jihlavsko
+</strong>
+</div>
+</a>
+</div>
+</div>  
+
+<div class="c-program-candidates">
+<div class="c-program-candidate-badge">
+<a class="c-program-candidate-badge__body" 
+            href="https://vysocina.pirati.cz/lide/vit-zacek/">
+<div class="c-program-candidate-badge__avatar">
+<img 
+            src="https://vysocina.pirati.cz/assets/59e501-680d37fa84fc3ebc6cc3d21af70c64c8040cadd2cdb82aa679e5d37babfd3254.jpg" 
+            alt="Vít Žáček" 
+class="c-program-candidate-badge__avatar-image">
+</div>
+<div class="c-program-candidate-badge__description">
+<h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Vít Žáček
+</span></h4>
+<strong class="c-program-candidate-badge__profession">
+            2. místopředseda Místního sdružení Jihlavsko
+</strong>
+</div>
+</a>
+</div>
+</div>  
 
 
 
