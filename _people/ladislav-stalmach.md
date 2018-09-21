@@ -4,7 +4,7 @@ name: Ladislav Stalmach
 category:
   - clenove
   - kandidat2018
-description: členka Krajského sdružení Vysočina
+description: člen Krajského sdružení Vysočina
 profession: 
 img: people/ladislav-stalmach.jpg
 mail:
