@@ -26,9 +26,7 @@ Festivalové tóny se v ulici Leopolda Pokorného rozezní od 15:00 a venkovní 
 * 18:00 - Ráďa a Vojta - Třebíč (folk-pop)
 * 19:00 - Eugene Morrow - Praha (indie-rock)
 * 20:00 - Who Killed Rose - Praha (indie-garage)
-* 21:00 - Mr. Cook - Třebíč (alternative-rock)
-
-Skoro až příznačně se problematikou ochrany autorských práv zabývá i pirátský kandidát do Senátu na Třebíčsku Michal Šalomoun.  
+* 21:00 - Mr. Cook - Třebíč (alternative-rock)  
 
 ---
 
