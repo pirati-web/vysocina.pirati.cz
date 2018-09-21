@@ -17,10 +17,10 @@ keywords: lidé, členové, piráti, pirátky, příznivci, kandidátka, volby
 <div class="c-program-candidates">
 <div class="c-program-candidate-badge">
 <a class="c-program-candidate-badge__body" 
-            href="">
+            href="https://vysocina.pirati.cz/lide/ladislav-stalmach/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="" 
+            src="https://vysocina.pirati.cz/assets/21a3fc-e9ba48105d522514d8dc9108db262fc7629476fc9c08a26ab1a3038657afbc03.jpg" 
             alt="Ladislav Stalmach" 
 class="c-program-candidate-badge__avatar-image">
 </div>
@@ -48,7 +48,7 @@ class="c-program-candidate-badge__avatar-image">
 <div class="c-program-candidates">
 <div class="c-program-candidate-badge">
 <a class="c-program-candidate-badge__body" 
-            href="">
+            href="https://vysocina.pirati.cz/lide/jaroslav-zejda/">
 <div class="c-program-candidate-badge__avatar">
 <img 
             src="" 
@@ -80,10 +80,10 @@ class="c-program-candidate-badge__avatar-image">
 <div class="c-program-candidates">
 <div class="c-program-candidate-badge">
 <a class="c-program-candidate-badge__body" 
-            href="">
+            href="https://vysocina.pirati.cz/lide/milan-dadourek/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="" 
+            src="https://vysocina.pirati.cz/assets/e27b5c-6be108c045d6fb038b08400044591ac2a6b8f127335737253dca0b539872862a.jpg" 
             alt="Milan Daďourek" 
 class="c-program-candidate-badge__avatar-image">
 </div>
@@ -143,7 +143,7 @@ class="c-program-candidate-badge__avatar-image">
 <div class="c-program-candidates">
 <div class="c-program-candidate-badge">
 <a class="c-program-candidate-badge__body" 
-            href="">
+            href="https://vysocina.pirati.cz/lide/lubos-fuks/">
 <div class="c-program-candidate-badge__avatar">
 <img 
             src="" 
@@ -174,10 +174,10 @@ class="c-program-candidate-badge__avatar-image">
 <div class="c-program-candidates">
 <div class="c-program-candidate-badge">
 <a class="c-program-candidate-badge__body" 
-            href="">
+            href="https://vysocina.pirati.cz/lide/vaclav-honzl/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="" 
+            src="https://vysocina.pirati.cz/assets/1729bd-838f43304522eef2d8a6d867ca9dbf549d50c15ac507024203fc768e0f52422b.jpg" 
             alt="Václav Honzl" 
 class="c-program-candidate-badge__avatar-image">
 </div>
