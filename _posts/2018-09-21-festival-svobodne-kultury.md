@@ -9,7 +9,7 @@ authorId: hana.hajnova    # uid nekoho z _people (nepoviné)
 image: posts/2018-09-21-festival-svobodne-kultury.jpg
 ---
 
-**V pátek 28. října na Den české státnosti se v Třebíči v židovské čtvrti uskuteční multižánrový Festival svobodné kultury. Festival se koná v ulici Leopolda Pokorného, před kulturní hospůdkou Trumpetka, a je zdarma.**
+**V pátek 28. září se v Třebíči v židovské čtvrti uskuteční multižánrový Festival svobodné kultury. Festival se koná v ulici Leopolda Pokorného, před kulturní hospůdkou Trumpetka, a je zdarma.**
 
 V letošním roce již podruhé na třebíčské kulturní scéně dostanou prostor umělci, kteří hrají tzv. svobodnou hudbu nebo se věnují svobodné kultuře obecně. Co to znamená "svobodná kultura"? Tento termín vešel v širší povědomí v roce 2004, kdy Lawrence Lessig vydal svoji knihu "Svobodná kultura", která se zabývala udržitelností stávající podoby práv duševního vlastnictví v době internetu. V českém prostředí tuto myšlenku nejvíce rozvíjí Pirátská strana, která chce, aby autorské právo plnilo svůj původní účel – zlepšovalo pozici autora vůči vydavatelům, producentům a prodejcům děl. Nikdy by nemělo být záminkou pro omezování svobodné tvorby, remixů, parodií a jiných tvůrčích počinů. Zároveň to ale neznamená, že by Piráti chtěli zrušit osobností práva autora. Naopak, jejich cílem je podpořit svobodu tvorby a najít nové cesty pro tvorbu v digitálním věku. 
 
