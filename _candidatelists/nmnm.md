@@ -1,7 +1,7 @@
 ---
 title: Kandidátka na radnici
 uid: nmnm
-number: 0
+number: 7
 leader:
   uid: rene.mayer
   age: 49
