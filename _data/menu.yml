@@ -64,7 +64,7 @@ main:
       - link: /lide/roman-semik/
         name: Obvod č. 44 - Chrudim
         match: roman-semik
-      - link: /lide/michal-salomoun/
+      - link: https://trebicsko.pirati.cz/senatni-volby/
         name: Obvod č. 53 - Třebíč
         match: michal-salomoun
   - link: /kontakt/
