@@ -51,7 +51,7 @@ class="c-program-candidate-badge__avatar-image">
             href="https://vysocina.pirati.cz/lide/jaroslav-zejda/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="" 
+            src="https://vysocina.pirati.cz/assets/dc52e9-147375b0545035f1f8b4ddbd6acc6652405ab206095b74af0bd843bcb6114fd6.jpg" 
             alt="Jaroslav Zejda" 
 class="c-program-candidate-badge__avatar-image">
 </div>
@@ -146,7 +146,7 @@ class="c-program-candidate-badge__avatar-image">
             href="https://vysocina.pirati.cz/lide/lubos-fuks/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="" 
+            src="https://vysocina.pirati.cz/assets/b1df78-60eeaad00d924020964db51974f9bd7195336c0769bbb6750cb4ea5e788ba16c.jpg" 
             alt="Luboš Fuks" 
 class="c-program-candidate-badge__avatar-image">
 </div>
