@@ -8,7 +8,7 @@ category:
   - kandidat2018
 description: 1. místopředseda Místního sdružení Třebíčsko
 profession: 
-# img: people/lubos-fuks.jpg
+img: people/lubos-fuks.jpg
 mail:
   - lubos.fuks@pirati.cz
   
