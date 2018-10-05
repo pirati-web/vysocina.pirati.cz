@@ -7,7 +7,7 @@ category:
   - kandidat2018
 description: člen Místního sdružení Třebíčsko
 profession: 
-# img: people/jaroslav-zejda.jpg
+img: people/jaroslav-zejda.jpg
 mail:
   - jaroslav.zejda@pirati.cz
   
