@@ -4,7 +4,7 @@ name: René Mayer
 category:
   - clenove
   - kandidat2018
-description: kandidát v komunálních volbách 2018 - Nové Město na Moravě
+description: člen Krajského sdružení Vysočina
 profession: revizní technik
 img: people/rene-mayer.jpg
 ---
