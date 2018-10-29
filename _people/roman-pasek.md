@@ -14,8 +14,6 @@ mail:
   - roman.pasek@pirati.cz
 mob:
   - 734 507 329
-dataBoxId: 
-  - fvhk75f
 profiles:
   facebook: https://www.facebook.com/pasekrom 
   twitter: https://twitter.com/pasekrom
