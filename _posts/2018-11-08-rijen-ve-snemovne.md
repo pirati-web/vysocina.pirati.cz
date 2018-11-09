@@ -4,8 +4,8 @@ category: blog
 tags: Jan Pošvář Sněmovna říjen 
 layout: post
 title: Říjen ve Sněmovně z pohledu Jana Pošváře
-author: Hana Hajnová
-authorId: hana.hajnova    
+author: Jan Pošvář
+authorId: jan.posvar    
 image: posts/2018-11-08-rijen-ve-snemovne.jpg
 ---
 
