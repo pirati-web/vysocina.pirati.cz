@@ -45,6 +45,6 @@ Všem zvoleným zastupitelům přejeme dobrý vítr, ať už sedí na kapitánsk
 
 **Související odkazy:**
 
-[Podívejte se, jak pracují Vaši poslanci](https://www.pirati.cz/snemovna/)
+[Výsledky voleb Pirátů na Vysočině](https://vysocina.pirati.cz/aktuality/komunalni-volby.html)
 
 ---
