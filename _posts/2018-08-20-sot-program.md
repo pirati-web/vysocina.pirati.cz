@@ -1,67 +1,29 @@
 ---
-date: 2018-08-20
+date: 2018-11-26
 category: blog
-tags: volby Třebíč
+tags: zastupitelstvo Třebíč
 layout: post
-title: Koalice Společně otevřeme Třebíč představila volební program
-author: Roman Pašek
-authorId: roman.pasek    # uid nekoho z _people (nepoviné)
-image: posts/2018-08-20-sot-program.jpg
+title: Třebíčští Piráti budou pro město pracovat z opozice
+author: Jan Břížďala
+authorId: jan.brizdala    # uid nekoho z _people (nepoviné)
+image: posts/2018-11-26-ustavujici-zastupitelstvo.jpg
 ---
 
-**V červenci koalice Společně otevřeme Třebíč spustila dotazníkové šetření, které zjišťovalo, jaké problémy 
-trápí občany Třebíče nejvíce. Dotazník bylo možné vyplnit online nebo na několika místech v Třebíči papírovou 
-formou. Respondenti hodnotili námi vybraných deset nejpalčivějších problémů stupnicí 1 až 10, kde počet bodů 
-znamenal stupeň spokojenosti se současným stavem.**
+**Na úterním ustavujícím zasedání zastupitelstva města Třebíče bylo zvoleno nové vedení města. Před samotnou volbou se stanovoval počet členů rady města, počet místostarostů a uvolněných zastupitelů.**
 
 ---
 
-Z dotazníkového šetření vyplynulo, že nejhůře v Třebíči občané vnímají nekoncepční plánování dopravních 
-uzavírek, nedostatek stavebních parcel a nedostatečnou participaci občanů. Všechny tyto problémy koalice 
-implementovala do svého volebního programu. Na personální úrovni je pak tato koalice díky spolupráci Pirátů 
-a TOP 09 schopna dosadit odborníky do různých oblastí.
+Oproti minulému volebnímu období se zvýšil počet členů rady města ze 7 na 9. Tento návrh oba pirátští zastupitelé Roman Pašek a Stanislav Neuman podpořili, neboť radní města budou ve většině případů pracovat jako neuvolnění (tzn. nebudou mít tuto funkci jako plně placený pracovní poměr).
 
----
+Při stanovení počtu místostarostů naši zastupitelé podpořili jak protinávrh Aleše Nováka (Třebíč Občanům!) na 2 místostarosty, tak také nakonec schválený návrh na 3 místostarosty. Jelikož jsme měli v našem volebním programu podmínku podpory nejvýše 4 uvolněných zastupitelů, podpořili jsme jak protinávrh na 3 uvolněné posty, tak přijatý návrh na 4 uvolněné pozice (starosta + 3 místostarostové).
 
-**Výsledky dotazníkového šetření**
-* Plánování dopravních uzavírek (AP 3,1; MED 2)
-* Dostatek stavebních parcel (AP 3,3; MED 3)
-* Participace občanů (AP 3,7; MED 3)
-* Transparentnost (AP 4,0; MED 4)
-* Rovnoměrné investování mezi jednotlivými městskými částmi (AP 4,3; MED 5)
-* Kapacita sociálních bytů (AP 4,7; MED 5)
-* Stav zeleně (AP 4,9; MED 5)
-* Podpora nekomerční kultury (AP 5,1; MED 5)
-* Vybavenost ZŠ (AP 6,0; MED 6)
-* Umístění autobusových zastávek (AP 6,7; MED 7)
+Zastupitel Roman Pašek se v rozpravě při volbě starosty města zeptal kandidáta na tuto pozici Pavla Pacala na zdroje financování jeho volební kampaně: „Mě by zajímalo, jakým způsobem byla financována kampaň hnutí Pro Třebíč, protože na internetových stránkách mají 2 transparentní účty a odešly z toho pouze 2 platby. Jedna byla za bannery v hodnotě 600 Korun a druhá Třebíčský zpravodaj.“ Na tento dotaz nejprve reagoval končící starosta Pavel Janata: „Já nevím jestli kolega Pacal chce na tuhle záležitost reagovat,“ a následně si vzal slovo Pavel Pacal, který pouze uvedl, že část financí poskytlo koaliční hnutí Starostové a nezávislí. Další zdroje financí pro svoji kampaň neuvedl.
 
-Respondentů: 101, přibližně 2⁄3 online a 1⁄3 papírovou formou. 
+Z důvodů pochybností o transparentnosti financování předvolební kampaně i některým precedentům (např. předražená zakázka na MAD napadnutá Antimonopolním úřadem) nepodpořili pirátští zastupitelé Roman Pašek a Stanislav Neuman kandidáta Pavla Pacala na post starosty města Třebíče. Stejně hlasovali pouze zastupitelé uskupení Třebíč Občanům!, z opozičních stran podpořili Pacala jen komunisté.
 
-AP - aritmetický průměr, MED - medián. 
+V další volbě jsme podpořili Miloše Hrůzu (ANO 2011) na post 1. místostarosty a Pavla Janatu (KDU-ČSL) do funkce místostarosty. Podporu však od nás nezískal Vladimír Malý (ČSSD) kvůli odpovědnosti za tristní stav dopravy ve městě, která má nadále zůstat v jeho gesci. Roli hrála samozřejmě také velmi nízká voličská podpora Vladimíra Malého (ČSSD), který se jen velmi těsně dostal vůbec do zastupitelstva města. Na funkce radních jsme podpořili Zuzanu Kratochvílovou (ANO 2011), Milana Zeiberta i Svatavu Křížovou (oba za Břehy) a Martinu Bártovou (ODS). Nepodpořen zůstal Jan Burda (Třebíč můj domov), který má mít v městské radě na starosti grantový systém města, ze kterého přitom sám čerpá. V roce 2018 se jednalo například o částku 180 tisíc Kč. Při hlasování jsme reflektovali také to, že zastupitel Jan Burda získal ve volbách úplně nejnižší podporu voličů – při rozdělování mandátů v zastupitelstvu města mu připadl 27. mandát z 27 rozdělovaných, staronovému místostarostovi Vladimíru Malému 26. mandát z 27 rozdělovaných.
 
-Bodové hodnocení 1 až 10. Vyšší počet bodů = vyšší spokojenost obyvatel.
-
----
-
-_"Za hlavní programové priority pro Třebíč považuji zlepšení informovanosti a zapojení občanů do dění ve městě, územní 
-plánování a dopravu. Plánujeme v Třebíči zavést participativní rozpočtování, kde sami lidé budou mít šanci měnit tvář 
-Třebíče svými projekty. Co se týče územního plánování, tak by město mělo zajistit dostatek příležitostí pro stavbu nových 
-bytů nebo domů a to hlavně pro mladé rodiny. V Třebíči je delší dobu problém úbytek obyvatel. Mladí lidé se sem 
-nevrací, protože nemají kam. Díky spojení sil Pirátů a TOP 09 máme na tyto problémy opravdové odborníky a společně 
-otevřeme Třebíč,"_ představil hlavní cíle koalice lídr kandidátky Roman Pašek.
-
-* **Zapojení občanů do chodu města, participativní rozpočet, transparentnost**
-    Roman Pašek, Marie Vaverková, Miroslav Teplý
-* **Vyřešení dopravy v centru města, územní plánování, revitalizace centra města**
-    Karel Vaverka, Petr Fabík, Lukáš Petr
-* **Podmínky pro mladé po studiu**
-    Michal Bulant, Vít Šesták, Klára Sobolíková
-* **Kvalitní školství a vzdělávání**
-    Jan Břížďala, Svatopluk Dvořák, Pavel Průša
-* **Dostupné sociální služby, zdravotnictví**
-    Přemysl Císař, Jiří Beranovský, Marcel Dzurňák
-* **Podpora sportu a kultury**
-    Stanislav Neuman, Zdeněk Jakšík, Martin Tomek
+Na programu ustavujícího zastupitelstva bylo také zřízení kontrolního a finančního výboru města Třebíče. Našimi kandidáty to těchto výborů budou Roman Pašek (nominant Pirátů) do kontrolního a Zdeněk Skoumal (nominant TOP 09) do finančního výboru. Tradičně by mělo zůstat předsednictví kontrolního výboru opozici, a tak budeme navrhovat zastupitele Romana Paška také do funkce předsedy tohoto výboru. Bohužel na ustavujícím zastupitelstvu neprošly návrhy na zřízení Výboru pro revitalizaci centra města a Výboru pro výstavbu obchvatu města. Usilujeme o zřízení obou dvou těchto výborů, a tak je navrhneme zřídit opět na prosincovém zasedání zastupitelstva města Třebíče. Budeme navrhovat, aby nominanti do těchto výborů za jednotlivé zastupitelské kluby byli odborníci, sami prosazujeme architekta Ing. arch. Petra Fabíka za člena Výboru pro revitalizaci centra města a projektanta Ing. Karla Vaverku za člena Výboru pro výstavbu obchvatu města.
 
 --------------
 **Kontakty pro média:**
@@ -69,8 +31,8 @@ otevřeme Třebíč,"_ představil hlavní cíle koalice lídr kandidátky Roman
 Roman Pašek, roman.pasek@pirati.cz, 734 507 329
 
 
-**Související odkazy:**
+**Fotografie zdroj:**
 
-[Volební program](http://spolecneotevremetrebic.cz/program/)
+[Petr Lemberk, MAFRA](https://jihlava.idnes.cz/foto.aspx?r=jihlava-zpravy&c=A181121_440639_jihlava-zpravy_mv&foto=MV777e7c_181309_3935244.jpg)
 
 ---
