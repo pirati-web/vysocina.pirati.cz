@@ -41,7 +41,4 @@ Ve svém volném čase se věnuje aktivně hudbě. Dříve to byla kytara a bic�
 * společně s ostatními členy MS Třebíčsko organizoval v Třebíči 6. 4. 2018 **Vyosení** a plánuje jeho pravidelné opakování
 * aktivně se podílí na tvorbě Pirátských listů - krajské mutace na Vysočině
 * od května 2018 1. místopředsedou kraje Vysočina
-* lídr kandidátky komunálních voleb v **Třebíči 2018**
-
-
-
+* od října 2018 zastupitel Třebíče
