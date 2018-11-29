@@ -1,5 +1,5 @@
 ---
-date: 2018-11-26
+date: 2018-11-29
 category: blog
 tags: rozhovor Jan Pošvář zemědělství
 layout: post
