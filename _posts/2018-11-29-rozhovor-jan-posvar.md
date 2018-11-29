@@ -55,8 +55,3 @@ Jinak plánujeme další kulaté stoly, je to formát, který nám vyhovuje, neb
 **Kontakty pro média:**
 
 Hana Hajnová, hana.hajnova@pirati.cz, 721 684 323
-
-
-**Fotografie zdroj:**
-
-Martin Huňady
