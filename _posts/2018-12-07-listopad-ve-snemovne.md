@@ -1,12 +1,12 @@
 ---
-date: 2018-11-08
+date: 2018-12-07
 category: blog
 tags: Jan Pošvář Sněmovna listopad 
 layout: post
 title: Listopad ve Sněmovně z pohledu Jana Pošváře
 author: Jan Pošvář
 authorId: jan.posvar    
-image: posts/2018-11-08-rijen-ve-snemovne.jpg
+image: posts/2018-12-07-listopad-ve-snemovne.jpg
 ---
 
 Listopad začal na seminářem o domácím vaření piva, který pořádal Ondra Polanský s Radkem Holomčíkem. Seminář se uskutečnil, protože Radek s Ondrou chystají novelu o spotřební dani, která by měla takzvané „domovarnictví” usnadnit a ode mne mají plnou podporu. Více v [tiskové zprávě](https://www.pirati.cz/tiskove-zpravy/dostupnost-pudy-seminar-jana-posvare.html).  
