@@ -234,10 +234,10 @@ class="c-program-candidate-badge__avatar-image">
 <div class="c-program-candidates">
 <div class="c-program-candidate-badge">
 <a class="c-program-candidate-badge__body" 
-            href="">
+            href="https://vysocina.pirati.cz/lide/mario-pospisil/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="" 
+            src="https://vysocina.pirati.cz/assets/9a9de7-38b34b0b13e46015355336751e9ceb637d1607dabf70142b6b3d8b0129d55da1.jpg" 
             alt="Mario Pospíšil" 
 class="c-program-candidate-badge__avatar-image">
 </div>
@@ -259,7 +259,7 @@ class="c-program-candidate-badge__avatar-image">
             href="https://vysocina.pirati.cz/lide/hana-hajnova/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="https://vysocina.pirati.cz/assets/a4e18c-ed64d4bafd2f8203801587a0e4052a771f54bdc21fbd8a964f7214beaf617c3c.jpg" 
+            src="https://vysocina.pirati.cz/assets/801a86-6e6af3f2195212fc57c62e865773a32170c4957df60eaef5c57c39e8bc8fd789.jpg" 
             alt="Hana Hajnová" 
 class="c-program-candidate-badge__avatar-image">
 </div>
@@ -278,10 +278,10 @@ class="c-program-candidate-badge__avatar-image">
 <div class="c-program-candidates">
 <div class="c-program-candidate-badge">
 <a class="c-program-candidate-badge__body" 
-            href="">
+            href="https://vysocina.pirati.cz/lide/petra-kujinek-polodnova/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="" 
+            src="https://vysocina.pirati.cz/assets/c98774-694f9661d06621f8fb3b802034704d03e91caa80af4cbdf6f51356cca85ecaad.jpg" 
             alt="Petra Kujínek Polodnová" 
 class="c-program-candidate-badge__avatar-image">
 </div>
