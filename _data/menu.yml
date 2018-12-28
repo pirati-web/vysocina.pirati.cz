@@ -28,24 +28,8 @@ main:
         match: mo
       - link: /lide/ms/
         name: Místní sdružení
-        match: ms
-        submenu:
-          - link: /lide/ms/havlbrod/
-            name: MS Havlíčkův Brod
-            match: ms-havlbrod
-          - link: /lide/ms/chotebor/
-            name: MS Chotěboř
-            match: ms-chotebor
-          - link: /lide/ms/jihlavsko/
-            name: MS Jihlavsko
-            match: ms-jihlavsko
-          - link: /lide/ms/telcsko/
-            name: MS Telčsko
-            match: ms-telcsko
-          - link: /lide/ms/trebicsko/
-            name: MS Třebíčsko
-            match: ms-trebicsko
-  - link: /komunalni-volby/
+        match: ms        
+  - link: /komunalni-zastupitele/
     name: Komunální zastupitelé
     match: komunalni-zastupitele
     submenu:
