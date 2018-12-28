@@ -282,12 +282,12 @@ class="c-program-candidate-badge__avatar-image">
 <div class="c-program-candidate-badge__avatar">
 <img 
             src="" 
-            alt="Miluše Zítková" 
+            alt="Petra Kujínek Polodnová" 
 class="c-program-candidate-badge__avatar-image">
 </div>
 <div class="c-program-candidate-badge__description">
 <h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
-            Miluše Zítková
+            Petra Kujínek Polodnová
 </span></h4>
 <strong class="c-program-candidate-badge__profession">
             2. místopředsedkyně Místního sdružení Telčsko
@@ -306,19 +306,19 @@ class="c-program-candidate-badge__avatar-image">
 <div class="c-program-candidates">
 <div class="c-program-candidate-badge">
 <a class="c-program-candidate-badge__body" 
-            href="https://vysocina.pirati.cz/lide/michaela-vodova/">
+            href="https://vysocina.pirati.cz/lide/roman-pasek/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="https://vysocina.pirati.cz/assets/8a55e6-e963f7969330edf744efe44032d1b079412dfcd34a23eb3109bf5ddc22ca8ef6.jpg" 
-            alt="Michaela Vodová" 
+            src="https://vysocina.pirati.cz/assets/8b0a20-615a02c3de626c4918d5e697ede00328d4bd26abefca53fd774d5c5eb042051d.jpg" 
+            alt="Roman Pašek" 
 class="c-program-candidate-badge__avatar-image">
 </div>
 <div class="c-program-candidate-badge__description">
 <h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
-            Michaela Vodová
+            Roman Pašek
 </span></h4>
 <strong class="c-program-candidate-badge__profession">
-            předsedkyně Místního sdružení Třebíčsko
+            předseda Místního sdružení Třebíčsko
 </strong>
 </div>
 </a>
@@ -328,16 +328,16 @@ class="c-program-candidate-badge__avatar-image">
 <div class="c-program-candidates">
 <div class="c-program-candidate-badge">
 <a class="c-program-candidate-badge__body" 
-            href="">
+            href="https://vysocina.pirati.cz/lide/stanislav-neuman/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="" 
-            alt="Luboš Fuks" 
+            src="https://vysocina.pirati.cz/assets/22748a-88a910292b8f17aefceac35ac94c4ad8cb2324dee7e944b9e74c3216eac57bb2.jpg" 
+            alt="Stanislav Neuman" 
 class="c-program-candidate-badge__avatar-image">
 </div>
 <div class="c-program-candidate-badge__description">
 <h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
-            Luboš Fuks
+            Stanislav Neuman
 </span></h4>
 <strong class="c-program-candidate-badge__profession">
             1. místopředseda Místního sdružení Třebíčsko
@@ -350,16 +350,16 @@ class="c-program-candidate-badge__avatar-image">
 <div class="c-program-candidates">
 <div class="c-program-candidate-badge">
 <a class="c-program-candidate-badge__body" 
-            href="">
+            href="https://vysocina.pirati.cz/lide/jiri-beranovsky/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="" 
-            alt="Lukáš Krula" 
+            src="https://vysocina.pirati.cz/assets/f88c32-f97a8a069834e8bb89c5c924cde520cecbbcde3a1b06b27726da8a2516268676.jpg" 
+            alt="Jiří Beranovský" 
 class="c-program-candidate-badge__avatar-image">
 </div>
 <div class="c-program-candidate-badge__description">
 <h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
-            Lukáš Krula
+            Jiří Beranovský
 </span></h4>
 <strong class="c-program-candidate-badge__profession">
             2. místopředseda Místního sdružení Třebíčsko
