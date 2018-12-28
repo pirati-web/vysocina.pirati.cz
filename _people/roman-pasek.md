@@ -5,9 +5,8 @@ category:
   - clenove
   - pks
   - mstrebicsko
-  - kandidat2018
 ordpks: 2
-description: 1. místopředseda Krajského sdružení Vysočina # zobrazuje se v lide
+description: 1. místopředseda Krajského sdružení Vysočina
 profession: programátor analytik
 img: people/roman-pasek.jpg
 mail:
@@ -23,7 +22,7 @@ profiles:
   github: https://github.com/pasekrom
   web: 
   blog: 
-  
+
 ---
 
 Roman Pašek (* 6. května 1993 v Třebíči) je členem MS Třebíčsko. 
@@ -40,5 +39,10 @@ Ve svém volném čase se věnuje aktivně hudbě. Dříve to byla kytara a bic�
 * od ledna 2018 členem
 * společně s ostatními členy MS Třebíčsko organizoval v Třebíči 6. 4. 2018 **Vyosení** a plánuje jeho pravidelné opakování
 * aktivně se podílí na tvorbě Pirátských listů - krajské mutace na Vysočině
-* od května 2018 1. místopředsedou kraje Vysočina
-* od října 2018 zastupitel Třebíče
+* od května 2018 1. místopředsedou KS Vysočina
+* od října 2018 zastupitelem Třebíče
+* od října 2018 předsedou MS Třebíčsko
+
+---
+
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=b38bnamjrgs591o19u6edtpkis%40group.calendar.google.com&amp;color=%23333333&amp;ctz=Europe%2FPrague" style="border-width:0" width="666" height="420" frameborder="0" scrolling="no"></iframe>
