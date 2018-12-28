@@ -29,44 +29,44 @@ main:
       - link: /lide/ms/
         name: Místní sdružení
         match: ms
+        submenu:
+          - link: /lide/ms/havlbrod/
+            name: MS Havlíčkův Brod
+            match: ms-havlbrod
+          - link: /lide/ms/chotebor/
+            name: MS Chotěboř
+            match: ms-chotebor
+          - link: /lide/ms/jihlavsko/
+            name: MS Jihlavsko
+            match: ms-jihlavsko
+          - link: /lide/ms/telcsko/
+            name: MS Telčsko
+            match: ms-telcsko
+          - link: /lide/ms/trebicsko/
+            name: MS Třebíčsko
+            match: ms-trebicsko
   - link: /komunalni-volby/
-    name: Komunální volby
-    match: komunalni-volby
+    name: Komunální zastupitelé
+    match: komunalni-zastupitele
     submenu:
-      - link: /komunalni-volby/jihlava/
+      - link: /komunalni-zastupitele/jihlava/
         name: Jihlava
         match: jihlava    
-      - link: /komunalni-volby/trebic/
+      - link: /komunalni-zastupitele/trebic/
         name: Třebíč
         match: trebic        
-      - link: /komunalni-volby/havlbrod/
+      - link: /komunalni-zastupitele/havlbrod/
         name: Havlíčkův Brod
-        match: havlbrod        
-      - link: /komunalni-volby/nmnm/
-        name: Nové Město na Moravě
-        match: nmnm        
-      - link: /komunalni-volby/chotebor/
-        name: Chotěboř
-        match: chotebor
-      - link: /komunalni-volby/telc/
+        match: havlbrod               
+      - link: /komunalni-zastupitele/telc/
         name: Telč
         match: telc        
-      - link: /komunalni-volby/jaromerice/
+      - link: /komunalni-zastupitele/jaromerice/
         name: Jaroměřice nad Rokytnou
         match: jaromerice
-      - link: /komunalni-volby/obce/
+      - link: /komunalni-zastupitele/obce/
         name: Ostatní obce
         match: obce  
-  - link: /senatni-volby/
-    name: Senátní volby
-    match: senatni-volby
-    submenu:
-      - link: /lide/roman-semik/
-        name: Obvod č. 44 - Chrudim
-        match: roman-semik
-      - link: https://trebicsko.pirati.cz/senatni-volby/
-        name: Obvod č. 53 - Třebíč
-        match: michal-salomoun
   - link: /kontakt/
     name: Kontakt
     match: kontakt
