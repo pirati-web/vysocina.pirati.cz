@@ -25,6 +25,7 @@ Jak je naší tradicí, Republikové předsednictvo ve spolupráci s Volebním V
 
 --------------
 **ODKAZY**
+
 [Profil Mikuláše Peksy](https://www.pirati.cz/lide/mikulas-peksa/)
 
 [Jednání celostátního fóra](https://forum.pirati.cz/viewtopic.php?f=477&t=44866) ve věci primární volby pro sestavení kandidátní listiny k volbám do Evropského parlamentu
@@ -41,7 +42,8 @@ Jak je naší tradicí, Republikové předsednictvo ve spolupráci s Volebním V
 --------------
 **Kontakty pro média:**
 
-Hana Hajnová, hana.hajnova@pirati.cz, 721 684 323 
-Michaela Vodová, michaela.vodova@pirati.cz, 602 276 233
+*Hana Hajnová, hana.hajnova@pirati.cz, 721 684 323*
+
+*Michaela Vodová, michaela.vodova@pirati.cz, 602 276 233*
 
 ---
