@@ -26,10 +26,15 @@ Jak je naší tradicí, Republikové předsednictvo ve spolupráci s Volebním V
 --------------
 **ODKAZY**
 [Profil Mikuláše Peksy](https://www.pirati.cz/lide/mikulas-peksa/)
+
 [Jednání celostátního fóra](https://forum.pirati.cz/viewtopic.php?f=477&t=44866) ve věci primární volby pro sestavení kandidátní listiny k volbám do Evropského parlamentu
+
 [Jednání krajského fóra Vysočina](https://forum.pirati.cz/viewtopic.php?f=416&t=44806) ve věci krajských nominací na Vysočině pro volby do Europarlamentu
+
 [Jednací řád celostátního fóra](https://wiki.pirati.cz/rules/jdr#navrhovani_kandidatu)
+
 [Povolební strategie (jednání Republikového výboru)](https://forum.pirati.cz/viewtopic.php?f=248&t=45318)
+
 [Celostátní fórum Pirátů v Táboře 2019](https://cf2019.pirati.cz/)
 
 
