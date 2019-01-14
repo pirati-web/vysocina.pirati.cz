@@ -20,7 +20,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, kandidátka, volby
             href="https://vysocina.pirati.cz/lide/ladislav-stalmach/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="https://vysocina.pirati.cz/assets/21a3fc-e9ba48105d522514d8dc9108db262fc7629476fc9c08a26ab1a3038657afbc03.jpg" 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/people/ladislav-stalmach.jpg" 
             alt="Ladislav Stalmach" 
 class="c-program-candidate-badge__avatar-image">
 </div>
@@ -51,7 +51,7 @@ class="c-program-candidate-badge__avatar-image">
             href="https://vysocina.pirati.cz/lide/jaroslav-zejda/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="https://vysocina.pirati.cz/assets/dc52e9-147375b0545035f1f8b4ddbd6acc6652405ab206095b74af0bd843bcb6114fd6.jpg" 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/people/jaroslav-zejda.jpg" 
             alt="Jaroslav Zejda" 
 class="c-program-candidate-badge__avatar-image">
 </div>
@@ -83,7 +83,7 @@ class="c-program-candidate-badge__avatar-image">
             href="https://vysocina.pirati.cz/lide/milan-dadourek/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="https://vysocina.pirati.cz/assets/e27b5c-6be108c045d6fb038b08400044591ac2a6b8f127335737253dca0b539872862a.jpg" 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/people/milan-dadourek.jpg" 
             alt="Milan Daďourek" 
 class="c-program-candidate-badge__avatar-image">
 </div>
@@ -115,7 +115,7 @@ class="c-program-candidate-badge__avatar-image">
             href="https://vysocina.pirati.cz/lide/michaela-vodova/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="https://vysocina.pirati.cz/assets/37043d-13a4beb53c449054d5669e7d6b4c8d31ffa3d5e60f874ff330f9fd601e6a80eb.jpg" 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/people/michaela-vodova.jpg" 
             alt="Michaela Vodová" 
 class="c-program-candidate-badge__avatar-image">
 </div>
@@ -146,7 +146,7 @@ class="c-program-candidate-badge__avatar-image">
             href="https://vysocina.pirati.cz/lide/lubos-fuks/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="https://vysocina.pirati.cz/assets/b1df78-60eeaad00d924020964db51974f9bd7195336c0769bbb6750cb4ea5e788ba16c.jpg" 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/people/lubos-fuks.jpg" 
             alt="Luboš Fuks" 
 class="c-program-candidate-badge__avatar-image">
 </div>
@@ -177,7 +177,7 @@ class="c-program-candidate-badge__avatar-image">
             href="https://vysocina.pirati.cz/lide/vaclav-honzl/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="https://vysocina.pirati.cz/assets/1729bd-838f43304522eef2d8a6d867ca9dbf549d50c15ac507024203fc768e0f52422b.jpg" 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/people/vaclav-honzl.jpg" 
             alt="Václav Honzl" 
 class="c-program-candidate-badge__avatar-image">
 </div>
