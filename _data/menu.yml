@@ -11,8 +11,8 @@ top:
   - link: "Nalodění"
     url:  "http://nalodeni.pirati.cz"
     icon: "fa fa-anchor"
-  - link: /komunalni-volby/
-    name: Volby
+  - link: "Volby"
+    url: "https://vysocina.pirati.cz/komunalni-volby/"
     icon: "fa fa-bar-chart"
 
 main:
