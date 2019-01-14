@@ -51,6 +51,22 @@ main:
       - link: /komunalni-zastupitele/obce/
         name: Ostatní obce
         match: obce  
+  - link: /cinnost/
+    name: Činnost Pirátů v kraji
+    match: cinnost
+    submenu:
+      - link: /cinnost/uklidme-cesko/
+        name: Ukliďme Česko
+        match: uklidme-cesko
+      - link: /cinnost/vyoseni/
+        name: VyOsení
+        match: vyoseni
+      - link: /cinnost/fsf/
+        name: Festival svobodných filmů
+        match: fsf
+  - link: /jipice/
+    name: JiPiCe
+    match: jipice
   - link: /kontakt/
     name: Kontakt
     match: kontakt
