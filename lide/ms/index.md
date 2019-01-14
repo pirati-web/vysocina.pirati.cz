@@ -19,12 +19,6 @@ keywords: lidé, členové, piráti, pirátky, příznivci, kandidátka, volby
 <div class="c-program-candidate-badge">
 <a class="c-program-candidate-badge__body" 
             href="https://vysocina.pirati.cz/lide/josef-korinek/">
-<div class="c-program-candidate-badge__avatar">
-<img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/people/josef-korinek.jpg" 
-            alt="Josef Kořínek" 
-class="c-program-candidate-badge__avatar-image">
-</div>
 <div class="c-program-candidate-badge__description">
 <h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Josef Kořínek
@@ -41,12 +35,6 @@ class="c-program-candidate-badge__avatar-image">
 <div class="c-program-candidate-badge">
 <a class="c-program-candidate-badge__body" 
             href="https://vysocina.pirati.cz/lide/jan-kerber/">
-<div class="c-program-candidate-badge__avatar">
-<img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/people/jan-kerber.jpg" 
-            alt="Jan Kerber" 
-class="c-program-candidate-badge__avatar-image">
-</div>
 <div class="c-program-candidate-badge__description">
 <h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Jan Kerber
@@ -63,12 +51,6 @@ class="c-program-candidate-badge__avatar-image">
 <div class="c-program-candidate-badge">
 <a class="c-program-candidate-badge__body" 
             href="https://vysocina.pirati.cz/lide/katerina-zavrska/">
-<div class="c-program-candidate-badge__avatar">
-<img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/people/katerina-zavrska.jpg" 
-            alt="Kateřina Závrská" 
-class="c-program-candidate-badge__avatar-image">
-</div>
 <div class="c-program-candidate-badge__description">
 <h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Kateřina Závrská
