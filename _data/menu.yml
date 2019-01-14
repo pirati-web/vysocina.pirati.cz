@@ -13,9 +13,6 @@ top:
     icon: "fa fa-anchor"
 
 main:
-  - link: /aktuality/
-    name: Aktuality
-    match: aktuality
   - link: /lide/
     name: O nás
     match: lide
