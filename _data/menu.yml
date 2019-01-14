@@ -30,7 +30,7 @@ main:
         name: Místní sdružení
         match: ms        
   - link: /komunalni-zastupitele/
-    name: Komunální zastupitelé
+    name: Zastupitelstva
     match: komunalni-zastupitele
     submenu:
       - link: /komunalni-zastupitele/jihlava/
