@@ -7,11 +7,12 @@ title: Ukliďme Česko
 
 <div class="pce-hero pce-hero--entry">
     <div class="pce-hero__content">
-        <h1 class="t-h1-super">Ukliďme Česko</h1>
+        <h1>Ukliďme Česko</h1>
         <h2 class="t-h4-alt">Piráti v celé České republice, včetně Vysočiny, pravidelně pomáhají s úklidem české přírody, aby se nám tu společně žilo co nejpříjemněji. Každý rok se proto připojují k dobrovolnickému projektu Ukliďme Česko, který se zaměřuje na úklid vybraných lokalit, malých i větších nelegálních skládek a všudypřítomného nepořádku.</h2>
     </div>
 </div>
-
+<br>
+<br>
 <div class="row o-section-block c-emphasized-text">
     <div class="medium-12 large-6 columns">
         <section class="o-section">
