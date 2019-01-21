@@ -9,7 +9,7 @@ authorId: hana.hajnova
 image: posts/2019-01-21-fsf-trebic.jpg
 ---
 
-**Již tento pátek 25. ledna se od 19 hodin v třebíčské Trumpetce uskuteční pokračování Festivalu svobodného filmu. Festival tradičně pořádají třebíčští Piráti a je zdarma. **
+**Již tento pátek 25. ledna se od 19 hodin v třebíčské Trumpetce uskuteční pokračování Festivalu svobodného filmu. Festival tradičně pořádají třebíčští Piráti a je zdarma.**
 
 Festival svobodných filmů vznikl spontánně již na jaře roku 2013, když Piráti na Vysočině tříbili nápady na akce v době, kdy nebyli vytížení žádnou volební kampaní. Spojit příjemné s poučným a napnit přání tvůrců, když navíc veškeré podklady jsou volně k dispozici, se přímo nabízelo. Stačilo jen spojit dohromady pár existujících přednášek od Jakuba Michálka a Marcela Kolaji a svobodné filmy ke sdílení s radostí poskytují sami autoři. 
 
