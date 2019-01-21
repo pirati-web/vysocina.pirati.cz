@@ -1,7 +1,7 @@
 ---
 date: 2019-01-21
 category: blog
-tags: festival svobodného filmu Třebíč 
+tags: festival svobodných filmů Třebíč 
 layout: post
 title: Festival svobodných filmů v Třebíči
 author: Hana Hajnová
@@ -25,7 +25,7 @@ Tuto tradici letos Piráti opět oživují a přináší (nejenom) třebíčský
 
 19:45 - Sintel
 
-20:00 - The Internet's Own Boy: Story of Aaron Swartz
+20:00 - The Internet's Own Boy: The Story of Aaron Swartz
 
 ---
 **ODKAZY**
