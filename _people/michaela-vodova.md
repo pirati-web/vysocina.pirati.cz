@@ -36,3 +36,7 @@ Vystudovala dva humanitní obory – Pedagogiku volného času (Mgr.) a následn
 V současné době pracuje pro Pirátskou stranu jako koordinátorka Krajského sdružení Vysočina. Je členkou Republikového výboru Pirátů a předsedkyní Krajského sdružení Vysočina.
 
 Podrobnější informace o Michaele najdete na **[profilu](https://wiki.pirati.cz/lide/michaela_vodova)** v Piratopedii.
+
+---
+
+<iframe src="https://calendar.google.com/calendar/embed?showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;height=400&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=vodova.m%40gmail.com&amp;color=%23AB8B00&amp;ctz=Europe%2FPrague" style="border-width:0" width="800" height="400" frameborder="0" scrolling="no"></iframe>
