@@ -39,4 +39,4 @@ Podrobnější informace o Michaele najdete na **[profilu](https://wiki.pirati.c
 
 ---
 
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;height=400&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=vodova.m%40gmail.com&amp;color=%23AB8B00&amp;ctz=Europe%2FPrague" style="border:solid 1px #777" width="666" height="400" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;height=400&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=vodova.m%40gmail.com&amp;color=%23AB8B00&amp;ctz=Europe%2FPrague" style="border-width:0" width="666" height="400" frameborder="0" scrolling="no"></iframe>
