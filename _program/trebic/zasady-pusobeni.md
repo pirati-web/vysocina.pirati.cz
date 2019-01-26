@@ -5,7 +5,7 @@ campaignCategoryUid: trebic
 campaignGroupUid: trebic
 garant: roman.pasek
 perex: >
-  Nebudeme spolupracovat s extremisty.
+  Nespolupracujeme s extremisty. Všechny naše lobbistické kontakty zveřejňujeme. Držíme počet uvolněných zastupitelů na čtyřech.
 order: 1
 ---
 
