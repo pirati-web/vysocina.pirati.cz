@@ -1,6 +1,6 @@
 ---
 title: Kandidátka na radnici
-uid: trebic
+uid: trebic2018
 number: 11 
 leader:
   uid: roman.pasek
