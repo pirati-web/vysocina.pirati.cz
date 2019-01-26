@@ -5,7 +5,7 @@ campaignCategoryUid: trebic
 campaignGroupUid: trebic
 garant: roman.pasek
 perex: >
-  Budeme jednat vždy transparentně. Rozpočet bude rozklikávací.
+  Jednáme vždy transparentně. Budeme prosazovat zřízení detailnějšího rozklikávacího rozpočtu. Budeme prosazovat zapojení do spolku Otevřená města.
 order: 3
 ---
 
