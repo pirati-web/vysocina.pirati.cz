@@ -4,7 +4,7 @@ title: Komunální volby v Jaroměřicích nad Rokytnou
 description: Členové a příznivci jsou to dělá Českou pirátskou stranu silnou. Seznamte se Piráty na Vysočině.
 keywords: lidé, členové, piráti, pirátky, příznivci, kandidátka, volby
 campaignCategoryUid: jaromerice2018
-candidateListUid: jaromerice
+candidateListUid: jaromerice2018
 ---
 
 ## Jaroměřicko - náš domov, sdružení nezávislých kandidátů a Pirátů
