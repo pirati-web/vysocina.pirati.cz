@@ -1,6 +1,6 @@
 ---
 title: Kandidátka na radnici
-uid: havlbrod
+uid: havlbrod2018
 number: 1
 leader:
   uid: jan.kerber
