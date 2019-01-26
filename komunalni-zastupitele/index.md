@@ -38,7 +38,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
         <div class="c-program-candidate-badge">
           <a class="c-program-candidate-badge__body" href="https://vysocina.pirati.cz/komunalni-zastupitele/trebic/">
             <div class="c-program-candidate-badge__avatar">
-              <img src="{{ "/assets/img/trebic.jpg"  }}" alt="Třebíč" class="c-program-candidate-badge__avatar-image">
+              <img src="{{ "/assets/img/trebic.png"  }}" alt="Třebíč" class="c-program-candidate-badge__avatar-image">
             </div>
             <div class="c-program-candidate-badge__description">
               <h4 class="c-program-candidate-badge__name">
@@ -110,7 +110,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
         <div class="c-program-candidate-badge">
           <a class="c-program-candidate-badge__body" href="https://vysocina.pirati.cz/komunalni-zastupitele/jaromerice/">
             <div class="c-program-candidate-badge__avatar">
-              <img src="{{ "/assets/img/jaromerice.jpg"  }}" alt="Jaroměřice nad Rokytnou" class="c-program-candidate-badge__avatar-image">
+              <img src="{{ "/assets/img/jaromerice.png"  }}" alt="Jaroměřice nad Rokytnou" class="c-program-candidate-badge__avatar-image">
             </div>
             <div class="c-program-candidate-badge__description">
               <h4 class="c-program-candidate-badge__name">
