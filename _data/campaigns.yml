@@ -13,13 +13,7 @@
     - title: Jaroměřice nad Rokytnou  
       categoryUid: jaromerice
 
-- groupUid: volby-2018  # identifier of the group, to be used in program point
-  title: Volby 2018     # title of the campaign group
-  campaigns:
-    - title: Program na radnici   # individual campaigns within the group
-      categoryUid: praha2018
-    - title: Senát
-      categoryUid: senat
+
 
 - groupUid: jihlava-2018  # identifier of the group, to be used in program point
   title: Komunální volby 2018     # title of the campaign group
