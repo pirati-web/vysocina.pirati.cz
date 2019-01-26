@@ -1,6 +1,18 @@
 # Campaigns are grouped, this usually reperesents situation when multiple
 # election campaings are held at the same time (which saves $$$ for the country).
 
+- groupUid: trebic  
+  title: Práce v zastupitelstvu
+  campaigns:
+    - title: Třebíč  
+      categoryUid: trebic
+      
+- groupUid: jaromerice  
+  title: Práce v zastupitelstvu
+  campaigns:
+    - title: Jaroměřice nad Rokytnou  
+      categoryUid: jaromerice
+
 - groupUid: volby-2018  # identifier of the group, to be used in program point
   title: Volby 2018     # title of the campaign group
   campaigns:
