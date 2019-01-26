@@ -49,12 +49,18 @@ title: Festival svobodných filmů
     
 </div>
 
+
+
 <div class="row o-section-block c-emphasized-text">
     <div class="medium-12 large-12 columns">
         <section class="o-section">
             <div class="o-secion-header o-section-header--bordered">
                 <h3 class="o-section__heading t-h4-super">Svobodné filmy</h3>
             </div>
+          <div class="medium-12 large-6 columns">
+            <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsf/fsf-cosmos-laundromat.png">
+          </div>
+          <div class="medium-12 large-6 columns">
             <div class="u-1margin--top">
               <h2 class="t-h4-alt">Cosmos Laundromat</h2>
               <ul>
@@ -64,6 +70,7 @@ title: Festival svobodných filmů
                 <li><a href="https://gooseberry.blender.org/" target="_blank" rel="noopener">Web</a></li>
               </ul>
             </div>
+          </div>
         </section>
     </div>
 
