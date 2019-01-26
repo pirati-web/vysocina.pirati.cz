@@ -1,6 +1,6 @@
 ---
 title: Kandidátka na radnici
-uid: jihlava          ##### změnit na jihlava/havlbrod/nmnm/telc/jaromerice
+uid: jihlava2018          ##### změnit na jihlava/havlbrod/nmnm/telc/jaromerice
 number: 9           ##### číslo, které vám bylo vylosováno k volbám
 leader:
   uid: vit.zeman
