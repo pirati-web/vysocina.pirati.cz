@@ -13,7 +13,8 @@ title: Činnost Pirátů v kraji
       </h2>
     </div>
 </div>
-
+<br>
+<br>
 <div class="o-section">
   <div class="row">
     <div class="columns medium-4">
