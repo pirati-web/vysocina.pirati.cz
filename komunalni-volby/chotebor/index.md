@@ -4,7 +4,7 @@ title: Komunální volby v Chotěboři
 description: Kandidátní listina a program koalice Pojďme To Změnit.
 keywords: lidé, členové, piráti, pirátky, příznivci, kandidátka, volby, chotěboř
 campaignCategoryUid: chotebor2018
-candidateListUid: chotebor
+candidateListUid: chotebor2018
 ---
 
 ## Pojďme To Změnit
