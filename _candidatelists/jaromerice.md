@@ -1,6 +1,6 @@
 ---
 title: Kandidátka na radnici
-uid: jaromerice
+uid: jaromerice2018
 number: 7
 leader:
   uid: zdenek.chroust
