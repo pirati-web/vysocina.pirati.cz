@@ -59,7 +59,7 @@ title: Festival svobodných filmů
             </div>
             <div class="c-program-candidate-badge"> 
               <div class="c-program-candidate-badge__avatar">
-                <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsf/fsf-cosmos-laundromat.png" style="margin:5px 0px">
+                <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsf/cosmos-laundromat.png" style="margin:5px 0px">
               </div>
               <div class="c-program-candidate-badge__description">
                 <h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">Cosmos Laundromat</span></h4>
