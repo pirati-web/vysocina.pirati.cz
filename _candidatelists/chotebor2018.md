@@ -1,6 +1,6 @@
 ---
 title: Kandidátka na radnici
-uid: chotebor
+uid: chotebor2018
 number: 4 
 leader:
   uid: david.safranek
