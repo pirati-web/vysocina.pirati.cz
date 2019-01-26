@@ -21,16 +21,19 @@ title: Činnost Pirátů v kraji
       <div class="o-section-header o-section-header--bordered">
         <h3 class="o-section__heading t-h4-alt">Ukliďme Česko</h3>
       </div>
+      <a href="/uklidme-cesko/"><img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/uklidme.jpg" alt="Ukliďme Česko"></a>
     </div>
     <div class="columns medium-4">
       <div class="o-section-header o-section-header--bordered">
         <h3 class="o-section__heading t-h4-alt">VyOsení</h3>
       </div>
+      <a href="/vyoseni/"><img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/vyoseni.jpg" alt="VyOsení"></a>
     </div>
     <div class="columns medium-4">
       <div class="o-section-header o-section-header--bordered">
         <h3 class="o-section__heading t-h4-alt">Festival svobodných filmů</h3>
       </div>
+      <a href="/fsf/"><img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsf.jpg" alt="Festival svobodných filmů"></a>
     </div>
   </div>
 </div>
