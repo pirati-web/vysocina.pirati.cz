@@ -57,25 +57,21 @@ title: Festival svobodných filmů
             <div class="o-secion-header o-section-header--bordered">
                 <h3 class="o-section__heading t-h4-super">Svobodné filmy</h3>
             </div>
-          <div class="c-program-candidate-badge"> 
-  <div class="c-program-candidate-badge__avatar">
-      {% capture img %}{% if include.candidatePage.img %}{% asset '{{ include.candidatePage.img }}' magick:resize='400x225^' magick:gravity='center' magick:crop='400x225+0+0' @path %}{% else %}{{ 'https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsf/fsf-cosmos-laundromat.png' | relative_url }}{% endif %}{% endcapture %}
-          <img src="{{ img }}" alt="{% include people/fullname.html person=include.candidatePage plain=true %}" class="c-program-candidate-badge__avatar-image">
-      </div>
-      <div class="c-program-candidate-badge__description">
-          <h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">Cosmos Laundromat</span></h4>
-          <strong class="c-program-candidate-badge__profession">
-            <li style="margin-left: 10px;"><a href="https://mega.nz/#!q6oSASjL!8QIrSiqRl_WTWAtZznGWXtd_kr6rk4c5QvFMYGbESr0" target="_blank" rel="noopener">Stáhnout</a></li>
-              <li style="margin-left: 10px;"><a href="https://mega.nz/#!eyw2VChJ!fBfUGVQRO2To2x7gz3vYTIWdgmYD9ZlJ-5DdoOFd2fg" target="_blank" rel="noopener">Titulky</a></li> 
-              <li style="margin-left: 10px;">Licence: <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank" rel="noopener">CC BY 3.0</a></li>
-              <li style="margin-left: 10px;"><a href="https://gooseberry.blender.org/" target="_blank" rel="noopener">Web</a></li>
-              <li style="margin-left: 10px;"><a href="https://www.blender.org/foundation/" target="_blank" rel="noopener">Blender Foundation</a></li>    
-          </strong>
-          {% if include.candidate.description %}
-          <p class="c-program-candidate-badge__bio">{{ include.candidate.description }}</p>
-          {% endif %}
-      </div>
-</div>
-          </div>
+            <div class="c-program-candidate-badge"> 
+              <div class="c-program-candidate-badge__avatar">
+                <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsf/fsf-cosmos-laundromat.png">
+              </div>
+              <div class="c-program-candidate-badge__description">
+                <h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">Cosmos Laundromat</span></h4>
+                <strong class="c-program-candidate-badge__profession">
+                <li style="margin-left: 10px;"><a href="https://mega.nz/#!q6oSASjL!8QIrSiqRl_WTWAtZznGWXtd_kr6rk4c5QvFMYGbESr0" target="_blank" rel="noopener">Stáhnout</a></li>
+                <li style="margin-left: 10px;"><a href="https://mega.nz/#!eyw2VChJ!fBfUGVQRO2To2x7gz3vYTIWdgmYD9ZlJ-5DdoOFd2fg" target="_blank" rel="noopener">Titulky</a></li> 
+                <li style="margin-left: 10px;">Licence: <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank" rel="noopener">CC BY 3.0</a></li>
+                <li style="margin-left: 10px;"><a href="https://gooseberry.blender.org/" target="_blank" rel="noopener">Web</a></li>
+                <li style="margin-left: 10px;"><a href="https://www.blender.org/foundation/" target="_blank" rel="noopener">Blender Foundation</a></li>    
+                </strong>
+              </div>
+            </div>
         </section>
     </div>
+ </div>
