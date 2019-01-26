@@ -5,7 +5,7 @@ campaignCategoryUid: trebic
 campaignGroupUid: trebic
 garant: roman.pasek
 perex: >
-  Zapojíme občany do rozhodování o městě. Vytvoříme participativní rozpočet.
+  Podporujeme schválený participativní rozpočet. Zapojíme občany do rozhodování o městě.
 order: 2
 ---
 
