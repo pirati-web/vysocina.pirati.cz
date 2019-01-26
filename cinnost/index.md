@@ -19,17 +19,17 @@ title: Činnost Pirátů v kraji
   <div class="row">
     <div class="columns medium-4">
       <div class="o-section-header o-section-header--bordered">
-        <h3 class="o-section__heading t-h3-super">Ukliďme Česko</h3>
+        <h3 class="o-section__heading t-h4-alt">Ukliďme Česko</h3>
       </div>
     </div>
     <div class="columns medium-4">
       <div class="o-section-header o-section-header--bordered">
-        <h3 class="o-section__heading t-h3-super">VyOsení</h3>
+        <h3 class="o-section__heading t-h4-alt">VyOsení</h3>
       </div>
     </div>
     <div class="columns medium-4">
       <div class="o-section-header o-section-header--bordered">
-        <h3 class="o-section__heading t-h3-super">Festival svobodných filmů</h3>
+        <h3 class="o-section__heading t-h4-alt">Festival svobodných filmů</h3>
       </div>
     </div>
   </div>
