@@ -1,0 +1,29 @@
+<div class="c-program-candidate-badge"> 
+  <div class="c-program-candidate-badge__avatar">
+      {% capture img %}{% if include.candidatePage.img %}{% asset '{{ include.candidatePage.img }}' magick:resize='400x225^' magick:gravity='center' magick:crop='400x225+0+0' @path %}{% else %}{{ 'assets/img/people/unknown-pirate.svg' | relative_url }}{% endif %}{% endcapture %}
+          <img src="{{ img }}" alt="{% include people/fullname.html person=include.candidatePage plain=true %}" class="c-program-candidate-badge__avatar-image">
+      </div>
+      <div class="c-program-candidate-badge__description">
+          <h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">{% include people/fullname.html person=include.candidatePage %}</span></h4>
+          <strong class="c-program-candidate-badge__profession">
+            {% if include.candidate.post1 %}
+              <li style="margin-left: 10px;">{{ include.candidate.post1 }}</li>
+            {% endif %}
+            {% if include.candidate.post2 %}
+              <li style="margin-left: 10px;">{{ include.candidate.post2 }}</li>
+            {% endif %}   
+            {% if include.candidate.post3 %}
+              <li style="margin-left: 10px;">{{ include.candidate.post3 }}</li>
+            {% endif %}
+            {% if include.candidate.post4 %}
+              <li style="margin-left: 10px;">{{ include.candidate.post4 }}</li>
+            {% endif %}
+            {% if include.candidate.post5 %}
+              <li style="margin-left: 10px;">{{ include.candidate.post5 }}</li>    
+            {% endif %}
+          </strong>
+          {% if include.candidate.description %}
+          <p class="c-program-candidate-badge__bio">{{ include.candidate.description }}</p>
+          {% endif %}
+      </div>
+</div>
