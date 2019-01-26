@@ -57,7 +57,12 @@ title: Festival svobodných filmů
             </div>
             <div class="u-1margin--top">
               <h2 class="t-h4-alt">Cosmos Laundromat</h2>
-                <iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed#!q6oSASjL!8QIrSiqRl_WTWAtZznGWXtd_kr6rk4c5QvFMYGbESr0" allowfullscreen></iframe> 
+              <ul>
+                <li><a href="https://mega.nz/#!q6oSASjL!8QIrSiqRl_WTWAtZznGWXtd_kr6rk4c5QvFMYGbESr0" target="_blank" rel="noopener">Stáhnout</a></li>
+                <li><a href="https://mega.nz/#!eyw2VChJ!fBfUGVQRO2To2x7gz3vYTIWdgmYD9ZlJ-5DdoOFd2fg" target="_blank" rel="noopener">Titulky</a></li>
+                <li>Licence: <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank" rel="noopener">CC BY 3.0</a></li>
+                <li><a href="https://gooseberry.blender.org/" target="_blank" rel="noopener">Web</a></li>
+              </ul>
             </div>
         </section>
     </div>
