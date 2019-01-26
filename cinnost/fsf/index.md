@@ -49,3 +49,16 @@ title: Festival svobodných filmů
     
 </div>
 
+<div class="row o-section-block c-emphasized-text">
+    <div class="medium-12 large-12 columns">
+        <section class="o-section">
+            <div class="o-secion-header o-section-header--bordered">
+                <h3 class="o-section__heading t-h4-super">Svobodné filmy</h3>
+            </div>
+            <div class="u-1margin--top">
+              <h2 class="t-h4-alt">Cosmos Laundromat</h2>
+                <iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed#!q6oSASjL!8QIrSiqRl_WTWAtZznGWXtd_kr6rk4c5QvFMYGbESr0" allowfullscreen></iframe> 
+            </div>
+        </section>
+    </div>
+
