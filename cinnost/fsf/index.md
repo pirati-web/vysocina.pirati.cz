@@ -60,8 +60,9 @@ title: Festival svobodných filmů
       </section>
     </div>
 </div>
-            <div class="medium-12 large-6 columns">
-            <section class="o-section">
+
+<div class="medium-12 large-6 columns">
+  <section class="o-section">
               
             <div class="c-program-candidate-badge"> 
               <div class="c-program-candidate-badge__avatar">
@@ -94,11 +95,12 @@ title: Festival svobodných filmů
                 </strong>
               </div>
             </div>
-            
-            </div>
-            </section>
-            <div class="medium-12 large-6 columns">
-            <section class="o-section">
+  </section>          
+</div>
+
+
+<div class="medium-12 large-6 columns">
+  <section class="o-section">
             
             <div class="c-program-candidate-badge"> 
               <div class="c-program-candidate-badge__avatar">
@@ -131,8 +133,8 @@ title: Festival svobodných filmů
                 </strong>
               </div>
             </div>
-            
-            </div>
-            </section>
+  </section>
+</div>
+           
             
 
