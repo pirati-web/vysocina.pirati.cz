@@ -10,14 +10,13 @@ head:
     post4: člen redakční rady Třebíčského zpravodaje
   - uid: stanislav.neuman
     post1: zastupitel
-    post2: člen komise pro místní rozvoj
+    post2: člen komise pro rozvoj města
     post3: člen sportovní komise
-    post4: člen výběrové komise
   - uid: jiri.beranovsky
     post1: člen majetkové komise
     post2: člen komise pro zájmové aktivity
   - uid: jan.brizdala
-    post1: místopředseda komise pro místní rozvoj
+    post1: místopředseda komise pro rozvoj města
     post2: člen majetkové komise
   - uid: petr.fabik
     post1: člen dopravní komise
