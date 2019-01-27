@@ -57,6 +57,9 @@ title: Festival svobodných filmů
             <div class="o-secion-header o-section-header--bordered">
                 <h3 class="o-section__heading t-h4-super">Svobodné filmy</h3>
             </div>
+            <div class="medium-12 large-6 columns">
+            <section class="o-section">
+              
             <div class="c-program-candidate-badge"> 
               <div class="c-program-candidate-badge__avatar">
                 <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsf/cosmos-laundromat.png" style="margin:5px 0px">
@@ -89,6 +92,11 @@ title: Festival svobodných filmů
               </div>
             </div>
             
+            </div>
+            </section>
+            <div class="medium-12 large-6 columns">
+            <section class="o-section">
+            
             <div class="c-program-candidate-badge"> 
               <div class="c-program-candidate-badge__avatar">
                 <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsf/sintel.png" style="margin:5px 0px">
@@ -120,6 +128,9 @@ title: Festival svobodných filmů
                 </strong>
               </div>
             </div>
+            
+            </div>
+            </section>
             
         </section>
     </div>
