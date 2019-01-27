@@ -57,6 +57,9 @@ title: Festival svobodných filmů
             <div class="o-secion-header o-section-header--bordered">
                 <h3 class="o-section__heading t-h4-super">Svobodné filmy</h3>
             </div>
+      </section>
+    </div>
+</div>
             <div class="medium-12 large-6 columns">
             <section class="o-section">
               
@@ -132,6 +135,4 @@ title: Festival svobodných filmů
             </div>
             </section>
             
-        </section>
-    </div>
- </div>
+
