@@ -71,7 +71,56 @@ title: Festival svobodných filmů
                 <li style="margin-left: 10px;"><a href="https://www.blender.org/foundation/" target="_blank" rel="noopener">Blender Foundation</a></li>    
                 </strong>
               </div>
+            </div>                     
+            
+            <div class="c-program-candidate-badge"> 
+              <div class="c-program-candidate-badge__avatar">
+                <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsf/elephants-dream.png" style="margin:5px 0px">
+              </div>
+              <div class="c-program-candidate-badge__description">
+                <h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">Elephants Dream</span></h4>
+                <strong class="c-program-candidate-badge__profession">
+                <li style="margin-left: 10px;"><a href="https://mega.nz/#!XiAGCISA!sMRGSJ2wZUSV9yG-M98kz7Ujpk0GW24GHbPoIO2Yu7o" target="_blank" rel="noopener">Stáhnout</a></li>
+                <li style="margin-left: 10px;"><a href="https://mega.nz/#!rqIACYzK!4_00D6Yi6Hnbj5BRMISP8AxlHD3JEWRNXtx510MjLkg" target="_blank" rel="noopener">Titulky</a></li> 
+                <li style="margin-left: 10px;">Licence: <a href="https://creativecommons.org/licenses/by/2.5/" target="_blank" rel="noopener">CC BY 2.5</a></li>
+                <li style="margin-left: 10px;"><a href="https://orange.blender.org/" target="_blank" rel="noopener">Web</a></li>
+                <li style="margin-left: 10px;"><a href="https://www.blender.org/foundation/" target="_blank" rel="noopener">Blender Foundation</a></li>    
+                </strong>
+              </div>
             </div>
+            
+            <div class="c-program-candidate-badge"> 
+              <div class="c-program-candidate-badge__avatar">
+                <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsf/sintel.png" style="margin:5px 0px">
+              </div>
+              <div class="c-program-candidate-badge__description">
+                <h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">Sintel</span></h4>
+                <strong class="c-program-candidate-badge__profession">
+                <li style="margin-left: 10px;"><a href="https://mega.nz/#!biYw2YzC!7UbWvB75TLxrwak5zylF_9lun69qCOoUi2X9qhVzu0s" target="_blank" rel="noopener">Stáhnout</a></li>
+                <li style="margin-left: 10px;"><a href="https://mega.nz/#!PyIW3KzD!MIwxn-fHBU-oYfIWbiZnxMZlLP2ct83E3AS13T4rsSg" target="_blank" rel="noopener">Titulky</a></li> 
+                <li style="margin-left: 10px;">Licence: <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank" rel="noopener">CC BY 3.0</a></li>
+                <li style="margin-left: 10px;"><a href="https://durian.blender.org/" target="_blank" rel="noopener">Web</a></li>
+                <li style="margin-left: 10px;"><a href="https://www.blender.org/foundation/" target="_blank" rel="noopener">Blender Foundation</a></li>    
+                </strong>
+              </div>
+            </div>
+            
+            <div class="c-program-candidate-badge"> 
+              <div class="c-program-candidate-badge__avatar">
+                <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsf/cosmos-laundromat.png" style="margin:5px 0px">
+              </div>
+              <div class="c-program-candidate-badge__description">
+                <h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">Tears of Steel</span></h4>
+                <strong class="c-program-candidate-badge__profession">
+                <li style="margin-left: 10px;"><a href="https://mega.nz/#!amRy3SBJ!abb6cV2NQye1RkgiO3YOAlkZY2wHphxtZdSqsRKHu3U" target="_blank" rel="noopener">Stáhnout</a></li>
+                <li style="margin-left: 10px;"><a href="https://mega.nz/#!DjIUhIrA!6DUK2XCylzlJjdDhLByERQiK7b98Jtg5UKDQ4Xfnp88" target="_blank" rel="noopener">Titulky</a></li> 
+                <li style="margin-left: 10px;">Licence: <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank" rel="noopener">CC BY 3.0</a></li>
+                <li style="margin-left: 10px;"><a href="https://mango.blender.org/" target="_blank" rel="noopener">Web</a></li>
+                <li style="margin-left: 10px;"><a href="https://www.blender.org/foundation/" target="_blank" rel="noopener">Blender Foundation</a></li>    
+                </strong>
+              </div>
+            </div>
+            
         </section>
     </div>
  </div>
