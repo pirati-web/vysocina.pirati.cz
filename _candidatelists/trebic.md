@@ -27,7 +27,7 @@ head:
   - uid: michaela.adamovicova
     post1: členka komise prevence kriminality a drogové problematiky
   - uid: miroslav.teply
-    post1: člen komise pro cestovní ruch
+    post1: místopředseda komise pro cestovní ruch
   - uid: milan.kejda
     post1: člen komise pro životní prostředí
   - uid: vit.sestak
