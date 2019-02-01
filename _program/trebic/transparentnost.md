@@ -21,4 +21,5 @@ order: 3
 * podpora plošného zákazu hazardu ve městě
 * zřízení protikorupční linky
 * zveřejňování audiovizuálních záznamů z jednání zastupitelstva města
+ > na náš návrh se do jednacího řádu platného od 31. 1. 2019 doplnilo zveřejňování audiovizuálních záznamů  z jednání zastupitelstva
 * zadání vydávání radničního Třebíčského zpravodaje externímu redaktorovi a stanovení striktních pravidel publikování článků od všech zastupitelů za účelem posílení objektivity periodika
