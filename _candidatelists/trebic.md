@@ -20,6 +20,7 @@ head:
     post2: člen majetkové komise
   - uid: petr.fabik
     post1: člen dopravní komise
+    post2: člen výboru pro revitalizaci centra města
   - uid: martin.tomek
     post1: člen kulturní komise
   - uid: marcel.dzurnak
@@ -36,6 +37,7 @@ head:
     post1: člen sportovní komise
   - uid: karel.vaverka
     post1: člen dopravní komise
+    post2: člen výboru pro páteřní dopravní infrastrukturu města
   - uid: marie.vaverkova
     post1: členka komise prevence kriminality a drogové problematiky
   - uid: svatava.matuskova
