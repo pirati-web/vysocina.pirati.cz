@@ -23,5 +23,6 @@ order: 3
 * zveřejňování audiovizuálních záznamů z jednání zastupitelstva města
  > na náš návrh se do jednacího řádu platného od 31. 1. 2019 doplnilo zveřejňování audiovizuálních záznamů  z jednání zastupitelstva
 * zadání vydávání radničního Třebíčského zpravodaje externímu redaktorovi a stanovení striktních pravidel publikování článků od všech zastupitelů za účelem posílení objektivity periodika
- > aktuálně je redakční rada Třebíčského zpravodaje obsazena členy všech subjektů v zastupitelstvu mimo hnutí Třebíč občanům!, které nominanta nepředložilo
+ > aktuálně je redakční rada Třebíčského zpravodaje obsazena členy všech subjektů v zastupitelstvu mimo hnutí Třebíč občanům!, které nominanta nepředložilo;
+ <br>
  > redakční rada v lednu schválila rubriku Názory zastupitelů, kde má každý subjekt v zastupitelstvu stejně velký prostor pro vyjádření svých názorů
