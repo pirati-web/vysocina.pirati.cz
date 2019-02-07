@@ -17,7 +17,7 @@ Na závěr měsíce začala už 26. schůze. V rámci schůze se nám povedlo pr
 
 Konečně také došlo k posunu ohledně zákona o registru smluv. Ústavní soud zamítl návrh senátorů na zrušení zákona o registru smluv. Pokus asi třicítky senátorů z ODS, ČSSD a dalších, kteří se snažili zamezit přístupu lidí ke smlouvám podniků, tak byl neúspěšný. Tímto také mj. skončily záminky k obstrukcím, které někteří poslanci používali například při projednání rozšíření registru smluv na ČEZ a České dráhy. [Více zde.](https://www.pirati.cz/tiskove-zpravy/ustavni-soud-odmitl-snahy-o-zruseni-registru-smluv.html)
 
-Dále jsem se stal zcela nečekaně zpravodajem sněmovního tisku [332](http://www.psp.cz/sqw/historie.sqw?o=8&T=332). Původním zpravodajem byl Radek Holomčík, kterého bohužel skolila chřipka, a tak jsem ho na poslední chvíli zastoupil. I když to bylo zcela nečekané a na rychlo, myslím si, že jsem se toho zhostil se ctí. Pokud se chcete podívat, jak umím skvěle číst, mrněte [sem](https://www.youtube.com/watch?v=wKokJb304Fs&feature=youtu.be)
+Dále jsem se stal zcela nečekaně zpravodajem sněmovního tisku [332](http://www.psp.cz/sqw/historie.sqw?o=8&T=332). Původním zpravodajem byl Radek Holomčík, kterého bohužel skolila chřipka, a tak jsem ho na poslední chvíli zastoupil. I když to bylo zcela nečekané a na rychlo, myslím si, že jsem se toho zhostil se ctí. Pokud se chcete podívat, jak umím skvěle číst, mrněte [sem](https://www.youtube.com/watch?v=wKokJb304Fs&feature=youtu.be).
 
 A v únoru se moje kancelář dává opět do pohybu a 18. února zavítám do Havlíčkova Brodu. Kdo budete mít cestu kolem, jste srdečně vítáni. Detaily najdete ve [facebookové události](https://www.facebook.com/events/421907911684606). 
 
