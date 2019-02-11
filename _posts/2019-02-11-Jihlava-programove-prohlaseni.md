@@ -5,7 +5,7 @@ tags: Jihlava koalice programove prohlaseni
 layout: post
 title: Rada města Jihlavy představila programové priority a Piráti byli u toho
 author: Eva Nováková
-authorId: eva.novakova    # uid nekoho z _people (nepoviné)
+authorId: eva.novakova
 image: posts/2019-02-11-Jihlava-programove-prohlaseni.jpg
 ---
 
