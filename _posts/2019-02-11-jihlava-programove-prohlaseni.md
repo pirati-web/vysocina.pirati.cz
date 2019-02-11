@@ -7,6 +7,7 @@ title: Rada města Jihlavy představila programové priority a Piráti byli u to
 author: Eva Nováková
 authorId: eva.novakova
 image: posts/2019-02-11-jihlava-programove-prohlaseni.jpg
+
 ---
 
 **Minulé úterý představila vládnoucí jihlavská koalice své programové prohlášení, na kterém pracovali zástupci všech koaličních stran. Jednotlivá témata byla totiž diskutována v rámci pracovních skupin, kterých se účastnili jak zastupitelé, tak například i příznivci a podporovatelé jednotlivých stran. Mezi vybranými prioritami jsou i oblasti, kterým se Piráti věnují dlouhodobě na lokální i celostátní úrovni a na nichž se pirátští zastupitelé Eva Nováková a Vojtěch Prchal budou dále podílet.** 
@@ -25,7 +26,8 @@ Programové prohlášení nezapomíná ani na důležitou roli kultury, sportu, 
 
 *„Úkolů je před námi celá řada. Jsem ráda, že se programové prohlášení rovnoměrně věnuje všem oblastem, které jsou důležité pro kvalitní život ve městě i pro jeho rozvoj. Velkou radost mám zejména ze závazku vytvoření programu sociálního bydlení. Koalice je sice složena ze čtyř, potažmo šesti různorodých stran, z programového prohlášení ale jasně vyplývá, že všem záleží na zapojování občanů a práci pro město,“* dodává ke zveřejněnému dokumentu pirátská zastupitelka Eva Nováková.
 
---------------
+---
+
 **Kontakty pro média:**
 
 Hana Hajnová, 721 684 323, hana.hajnova@pirati.cz
