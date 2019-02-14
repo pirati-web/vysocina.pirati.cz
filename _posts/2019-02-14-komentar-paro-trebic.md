@@ -21,7 +21,7 @@ Po vzoru brněnského participativního rozpočtu "Dáme na Vás" by Piráti tak
 
 **Odkazy**
 
-[Návrh usnesení] (https://www.trebic.cz/html/zm_programy/2019/zm01/navrhy-usneseni/navrh-usneseni_63218.html?fbclid=IwAR3R9nSw6S24BCDccXtACsSjjVjh8Jb7eEa75bEIICLqzchzFRWcRF6GxEQ)
+[Návrh usnesení](https://www.trebic.cz/html/zm_programy/2019/zm01/navrhy-usneseni/navrh-usneseni_63218.html?fbclid=IwAR3R9nSw6S24BCDccXtACsSjjVjh8Jb7eEa75bEIICLqzchzFRWcRF6GxEQ)
 
 
 **Kontakty pro média:**
