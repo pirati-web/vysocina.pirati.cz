@@ -24,7 +24,7 @@ Zastupitelstvo také souhlasilo se stanoviskem kulturního výboru, který upozo
 Autor: Wylliama, [Wikimedia Commons](https://cs.wikipedia.org/wiki/Soubor:M%C4%9B%C5%A1%C5%A5ansk%C3%BD_d%C5%AFm_Rolandovsk%C3%BD_(Havl%C3%AD%C4%8Dk%C5%AFv_Brod),_Havl%C3%AD%C4%8Dkova_19,_Havl%C3%AD%C4%8Dk%C5%AFv_Brod.JPG)
 
 
-**Kontakty pro média:**
+*Kontakty pro média:*
 
 Hana Hajnová, 721 684 323, hana.hajnova@pirati.cz
 
