@@ -9,7 +9,7 @@ authorId: jan.kerber
 image: posts/2019-02-18-hb-komentar-4-zastupitelstvo.jpg
 ---
 
-V pondělí 11. února se uskutečnilo již čtvrté jednání zastupitelstva města Havlíčkův Brod. Jak už jsem naznačil v [rozhovoru](https://vysocina.pirati.cz/aktuality/rozhovor-jan-kerber.html) pro Pirátskou stranu Vysočina před měsícem, zastupitelstvo schválilo záměr darovat pozemek vedle nemocnice pro plánovanou výstavbu hospice Mezi stromy. Pozemek bude převeden smlouvou o smlouvě budoucí tak, aby k samotnému převodu došlo až v okamžiku dokončení hospice. Nicméně teď mohou zástupci spolku začít zařizovat potřebné oficiality včetně stanoviska Kraje, který se k záměru ještě nevyjádřil.
+V pondělí 11. února se uskutečnilo již čtvrté jednání zastupitelstva města Havlíčkův Brod. Jak už jsem naznačil v [rozhovoru](https://vysocina.pirati.cz/aktuality/rozhovor-jan-kerber.html) pro Pirátskou stranu Vysočina cca před měsícem, zastupitelstvo schválilo záměr darovat pozemek vedle nemocnice pro plánovanou výstavbu hospice Mezi stromy. Pozemek bude převeden smlouvou o smlouvě budoucí tak, aby k samotnému převodu došlo až v okamžiku dokončení hospice. Nicméně teď mohou zástupci spolku začít zařizovat potřebné oficiality včetně stanoviska Kraje, který se k záměru ještě nevyjádřil.
 
 Velmi dobře postupuje stavba nové krajské knihovny a jsem rád, že zastupitelstvo již teď otevřelo diskusi, co se stane s budovou té stávající. Dále se schválila demolice starého statku na Masarykově ulici, který město nedávno koupilo, a bude se zde upravovat křižovatka a vjezd na nové parkoviště. To vznikne na tzv. cirkus place pod hřbitovem sv. Vojtěcha, zatím provizorně, a pokud vše bude dobře fungovat tak natrvalo.
 
