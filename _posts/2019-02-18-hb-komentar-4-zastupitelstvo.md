@@ -6,7 +6,7 @@ layout: post
 title: Komentář - Postřehy ze 4. zasedání zastupitelstva města
 author: Jan Kerber
 authorId: jan.kerber   
-image: posts/2019-02-18-hb-komentar-4-zastupitelstvo.jpg
+image: posts/2019-02-18-hb-komentar-4-zastupitelstvo.JPG
 ---
 
 V pondělí 11. února se uskutečnilo již čtvrté jednání zastupitelstva města Havlíčkův Brod. Jak už jsem naznačil v [rozhovoru](https://vysocina.pirati.cz/aktuality/rozhovor-jan-kerber.html) pro Pirátskou stranu Vysočina cca před měsícem, zastupitelstvo schválilo záměr darovat pozemek vedle nemocnice pro plánovanou výstavbu hospice Mezi stromy. Pozemek bude převeden smlouvou o smlouvě budoucí tak, aby k samotnému převodu došlo až v okamžiku dokončení hospice. Nicméně teď mohou zástupci spolku začít zařizovat potřebné oficiality včetně stanoviska Kraje, který se k záměru ještě nevyjádřil.
