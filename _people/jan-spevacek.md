@@ -3,6 +3,7 @@ uid: jan.spevacek
 name:     Jan Spěváček
 category:
   - clenove
+  - msjihlavsko
 description: člen Místního sdružení Jihlavsko
 img: people/jan-spevacek.jpg
 mail:
