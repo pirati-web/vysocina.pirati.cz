@@ -22,6 +22,11 @@ Naději, že se to může podařit cítíme i ve vyjádření zastupitele Bedři
 Společně pro Telč - Piráti a Zelení
 
 ---
+
+**Zdroje**
+
+[Citovaný článek](https://www.idnes.cz/jihlava/zpravy/zastupitelstvo-kamera-online-zaznam-video-vysilani-telc-vysocina-stud-prenos.A190226_460042_jihlava-zpravy_mv)
+
 **Kontakty pro média:**
 
 Hana Hajnová, 721 684 323, hana.hajnova@pirati.cz
