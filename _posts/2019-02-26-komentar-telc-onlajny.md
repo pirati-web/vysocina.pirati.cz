@@ -19,6 +19,8 @@ Je škoda, že se pan místostarosta do debaty vůbec nezapojil, své připomín
 
 Naději, že se to může podařit cítíme i ve vyjádření zastupitele Bedřicha Buriana (KSČM), který v článku říká *“Cítím, že by mohl přijít okamžik, kdy budu s podobným návrhem souhlasit, ale musel by být jiným způsobem prezentován.”* Věříme, že se podaří téma se všemi, kdo se zatím zdrželi nebo byli proti, úspěšně komunikovat a příště bude hlasů dostatek.
 
+Společně pro Telč - Piráti a Zelení
+
 ---
 **Kontakty pro média:**
 
