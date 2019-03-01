@@ -33,7 +33,7 @@ Je potřeba se podívat na současnou situaci. Hokejový klub je ve vlastnictví
 
 Pokud se mám na stavbu stadionu dívat jako řádný hospodář, je pro mě kromě ceny důležitá i součinnost s malým Zimáčkem, který je již částečně dimenzován pro napojení na velkou halu. Je pro mě také důležité, že se stadion nachází uprostřed města s výbornou dostupností MHD, blízko autobusového nádraží, gymnázia, ZŠ Seifertova nebo VŠPJ. To vše v docházkové vzdálenosti. Kaňkou budou 1-2 sezóny v hokejovém azylu, kterými zaplatí město daň za několikaleté přešlapování. Ale já jsem přesvědčen, že bylo učiněno správné rozhodnutí, a že až bude hala stát, budeme rádi, že je blízko srdce města.
 
-**Bude se v souvislosti s tím třeba řešit i situace s parkováním během zápasů? Společně s hlučností fanoušků to byl asi nejčastější argument pro umístění stadionu za městem. **
+**Bude se v souvislosti s tím třeba řešit i situace s parkováním během zápasů? Společně s hlučností fanoušků to byl asi nejčastější argument pro umístění stadionu za městem.**
 
 Ano, parkování samozřejmě problém je. K dispozici bude podzemní parkování, ale omezené. Problému se věnujeme a jednou z možností je i výstavba parkovacího domu v blízkosti, což se jeví jako reálná varianta. Navíc je na zimní stadion výborné spojení MHD, takže je možné zaparkovat buď v docházkové vzdálenosti nebo kousek dál a využít MHD. To je ale samozřejmě méně pohodlné. 
 
