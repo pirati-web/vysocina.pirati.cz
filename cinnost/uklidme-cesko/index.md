@@ -19,6 +19,12 @@ title: Ukliďme Česko
             <div class="o-secion-header o-section-header--bordered">
                 <h3 class="o-section__heading t-h4-super">Plánované úklidy</h3>
             </div>
+            <div class="u-1margin--top">
+                <ul>
+                    <li><a href="https://www.facebook.com/events/566431393834338/">duben 2019 - Havlíčkův Brod</a></li>
+                    <li><a href="https://www.facebook.com/events/2267178543609498/">duben 2019 - Třebíč</a></li>
+                </ul>
+            </div>
         </section>
     </div>
     <div class="medium-12 large-6 columns">
