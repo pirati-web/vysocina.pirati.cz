@@ -21,7 +21,7 @@ title: VyOsení
             </div>
             <div class="u-1margin--top">
                 <ul>
-                    <li><a href="">březen 2019 - Třebíč</a></li>                    
+                    <li><a href="https://www.facebook.com/events/781777152204397/">březen 2019 - Třebíč</a></li>                    
                 </ul>
             </div>
         </section>
