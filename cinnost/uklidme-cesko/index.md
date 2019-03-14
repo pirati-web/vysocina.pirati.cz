@@ -22,6 +22,7 @@ title: Ukliďme Česko
             <div class="u-1margin--top">
                 <ul>
                     <li><a href="https://www.facebook.com/events/566431393834338/">duben 2019 - Havlíčkův Brod</a></li>
+                    <li><a href="https://www.facebook.com/events/817292845277928/">duben 2019 - Telč</a></li>
                     <li><a href="https://www.facebook.com/events/2267178543609498/">duben 2019 - Třebíč</a></li>
                 </ul>
             </div>
