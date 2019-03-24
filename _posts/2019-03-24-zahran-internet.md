@@ -21,6 +21,8 @@ Proto je potřeba dát europoslancům vědět, že takovýto internet nechceme. 
 
 [Zachraň internet i ty!](https://zachraninternet.cz/)
 
+[Fotoreportáž z demonstrace](https://www.facebook.com/pg/pirati.vysocina/photos/?tab=album&album_id=2495014937178525)
+
 ---
 *Kontakt pro média*
 
