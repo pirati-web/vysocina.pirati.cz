@@ -1,5 +1,5 @@
 ---
-date: 2019-03-18
+date: 2019-03-24
 category: blog
 tags: demostrace proti cenzuře internetu Jihlava
 layout: post
