@@ -24,7 +24,7 @@ Piráti připravují také přehled toho, kdo jak hlasoval – občané mají n�
 
 ---
 
-*Fotografie zdroj*
+**Fotografie zdroj**
 
 [Evropský parlament](http://www.europarl.europa.eu/downloadcentre/en/visual-identity/mute-logo)
 
