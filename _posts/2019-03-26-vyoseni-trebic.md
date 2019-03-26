@@ -26,7 +26,7 @@ A na co by rád pozval fanoušky frontman kapely Mr. Cook a jeden z pořadatelů
 ---
 [Facebooková událost](https://www.facebook.com/events/781777152204397/)
 
-[Show your help](https://www.facebook.com/showyourhelp) 
+[Show Your Help](https://www.facebook.com/showyourhelp) 
 
 ---
 
