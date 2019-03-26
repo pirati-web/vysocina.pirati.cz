@@ -13,10 +13,15 @@ image: posts/2019-03-26-vyoseni-trebic.jpg
 Festivaly a koncerty svobodné hudby, které jsou zaměřené proti OSA, nesou název VyOsení již od června 2011, kdy se konal vůbec první festival tohoto druhu na Vlčtejně. V Třebíči si svou tradici budují od loňského roku, kdy se kromě listopadového rockového VyOsení konal například multižánrový Festival svobodné kultury, kde se společně s hudebními autory představili i “svobodní” divadelníci a spisovatelé. 
 
 Třebíčský hudební klub Béčko tak tento pátek nabídne svým návštěvníkům vyosený line up zhruba v této podobě:
+
 *21:00 - Mr. Cook
+
 *22:15 - The Bush
+
 *23:30 - Procz
+
 *00:45 - Zatimnic
+
 *02:00 - Shindy Piccio
 
 A na co by rád pozval fanoušky frontman kapely Mr. Cook a jeden z pořadatelů Roman Pašek? *“Mimo to, že návštěvníci podpoří kapely, které nejsou zastupovány OSA, tak podpoří i klubovou scénu v Třebíči, která postupně ožívá a to je jen dobře. VyOsení se snažíme dělat tak, aby si lidé poslechli jak známější kapely, tak i ty nové. Navíc jsme se na poslední chvíli domluvili na spolupráci s havlíčkobrodským spolkem Show Your Help, který aktuálně ve své sbírce vybírá finanční podporu na nákup speciálního vozíku pro Milana, otce ročního batolete, který je ochrnutý. Takže kromě příjemně stráveného večera můžete přispět na dobrou věc.”*
