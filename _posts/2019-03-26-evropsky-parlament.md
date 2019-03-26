@@ -5,7 +5,7 @@ tags: směrnice copyright Evropská unie
 layout: post
 title: Piráti: Dnešní rozhodnutí europoslanců omezí svobodu internetu
 author: Karolína Sadílková
-authorId: karolina.sadilkova   
+authorId:   
 image: posts/2019-03-26-evropsky-parlament.jpg
 ---
 *Praha, 26. března* - Evropský parlament dnes schválil Směrnici o autorském právu na jednotném digitálním trhu. Směrnici podpořilo 348 europoslanců, proti bylo 274. O pozměňovacích návrzích se nehlasovalo, protože Evropský parlament o pouhých pět hlasů zamítl možnost do směrnice dále zasáhnout.
