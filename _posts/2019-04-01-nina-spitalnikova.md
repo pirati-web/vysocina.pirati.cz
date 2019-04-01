@@ -20,6 +20,7 @@ Přijďte si i Vy poslechnout a diskutovat, jak vypadá severokorejský život, 
 **ODKAZY**
 
 [Facebooková událost](https://www.facebook.com/events/292183468143947/?active_tab=discussion)
+
 [KLDR živě: Za 38. rovnoběžkou](https://www.facebook.com/pg/spitalnikovanina/posts/?ref=page_internal) 
 
 ---
