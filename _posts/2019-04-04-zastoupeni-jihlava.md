@@ -8,11 +8,12 @@ author: Hana Hajnová
 authorId: hana.hajnova  
 image: posts/2019-04-04-zastoupeni-jihlava.jpg
 ---
-Jihlava, 4. dubna - V loňských komunálních volbách získala koalice Žijeme Jihlavou! (Piráti, TOP 09, Zelení a NK) 4 křesla v jihlavském zastupitelstvu. V povolebních vyjednáváních se připojila ke vznikající koalici pod taktovkou Fóra Jihlavy ještě společně s ODS a lidovci. Koalice Žij! získala post náměstka (Vít Zeman, TOP 09) a radní pro kulturu (Silvie Čermáková, Zelení). Pirátka Eva Nováková a kandidát navržený Piráty, Vojtěch Prchal, se stali koaličními zastupiteli. A na koho dalšího se mohou občané obracet v jednotlivých výborech a komisích města? 
+*Jihlava, 4. dubna* - V loňských komunálních volbách získala koalice Žijeme Jihlavou! (Piráti, TOP 09, Zelení a NK) 4 křesla v jihlavském zastupitelstvu. V povolebních vyjednáváních se připojila ke vznikající koalici pod taktovkou Fóra Jihlavy ještě společně s ODS a lidovci. Koalice Žij! získala post náměstka (Vít Zeman, TOP 09) a radní pro kulturu (Silvie Čermáková, Zelení). Pirátka Eva Nováková a kandidát navržený Piráty, Vojtěch Prchal, se stali koaličními zastupiteli. A na koho dalšího se mohou občané obracet v jednotlivých výborech a komisích města? 
 Přinášíme Vám stručný přehled:
 
 * Kontrolní výbor - Věra Podhorská (TOP 09), Lucie Žáčková (Zelení)
 * Finanční výbor - Věra Podhorská (TOP 09)
+
 
 * Komise pro sociální a neziskovou oblast - Eva Nováková (Piráti), Michaela Kulhánková (NK za Piráty)
 * Komise pro výchovu a vzdělávání - Marta Kozdas (NK za Piráty), Jan Spěváček (Piráti)
