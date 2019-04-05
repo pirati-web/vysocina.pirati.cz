@@ -30,3 +30,6 @@ Na ministra zemědělství mířila má písemná interpelace, kde se ptám na s
 [Piráti pracují!](https://piratipracuji.cz/)
 
 ---
+
+**Fotografie autor**
+Mario Pospíšil
