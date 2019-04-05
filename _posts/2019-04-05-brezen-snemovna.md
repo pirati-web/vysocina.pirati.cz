@@ -32,4 +32,5 @@ Na ministra zemědělství mířila má písemná interpelace, kde se ptám na s
 ---
 
 **Fotografie autor**
+
 Mario Pospíšil
