@@ -22,6 +22,7 @@ V druhé části přednášky byl prostor pro dotazy z publika, které zaplnilo 
 
 ---
 **ODKAZY**
+
 [Nina Špitálníková](https://wiki.pirati.cz/lide/nina_spitalnikova)
 
 [KLDR živě: Za 38. rovnoběžkou](https://www.facebook.com/pg/spitalnikovanina/posts/?ref=page_internal) 
