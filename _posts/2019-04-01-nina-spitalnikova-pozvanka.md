@@ -6,7 +6,7 @@ layout: post
 title: Nina Špitálníková - Mezi dvěma Kimy
 author: Hana Hajnová
 authorId: hana.hajnova  
-image: posts/2019-04-01-nina-spitalnikova.jpg
+image: posts/2019-04-01-nina-spitalnikova-pozvanka.jpg
 ---
 *Jihlava, 1. dubna* - Již tento čtvrtek 4. dubna se od 17 hodin v [Jihlavském pirátském centru](https://www.facebook.com/JiPiCentrum/) koná přednáška české koreanistky Niny Špitálníkové. Nina vystudovala koreanistiku v Ústavu Dálného východu na Karlově Univerzitě v Praze. V letech 2011 a 2012 absolvovala studijní pobyty na Kim Il-songově univerzitě v Pchjongjangu a své poznatky z nich zúročila v knize Mezi dvěma Kimy a Propaganda v KLDR: funkce, metody a vývoj.
 
