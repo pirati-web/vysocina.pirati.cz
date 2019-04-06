@@ -36,6 +36,12 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
   <div class="row">
     <div class="columns medium-4">
       <div class="o-section-header o-section-header--bordered">
+        <h3 class="o-section__heading t-h4-alt">Logo Jipice</h3>
+      </div>
+      <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/jipice/jipice_logo.png" alt="Jipice" style="margin:10px 0px">
+    </div>
+    <div class="columns medium-4">
+      <div class="o-section-header o-section-header--bordered">
         <h3 class="o-section__heading t-h4-alt">Otevírací doba</h3>
       </div>
       <div class="u-1margin--top">
@@ -55,13 +61,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
             <li>Út - Pá Zavřeno</li>
          </ul>
       </div>  
-    </div>
-    <div class="columns medium-4">
-      <div class="o-section-header o-section-header--bordered">
-        <h3 class="o-section__heading t-h4-alt">Logo Jipice</h3>
-      </div>
-      <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/jipice/jipice_logo.png" alt="Jipice" style="margin:10px 0px">
-    </div>
+    </div>    
     <div class="columns medium-4">
       <div class="o-section-header o-section-header--bordered">
         <h3 class="o-section__heading t-h4-alt">Adresa a kontakt</h3>
