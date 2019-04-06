@@ -36,12 +36,6 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
   <div class="row">
     <div class="columns medium-4">
       <div class="o-section-header o-section-header--bordered">
-        <h3 class="o-section__heading t-h4-alt">Logo Jipice</h3>
-      </div>
-      <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/jipice/jipice_logo.png" alt="Jipice" style="margin:10px 0px">
-    </div>
-    <div class="columns medium-4">
-      <div class="o-section-header o-section-header--bordered">
         <h3 class="o-section__heading t-h4-alt">Otevírací doba</h3>
       </div>
       <div class="u-1margin--top">
@@ -64,18 +58,25 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
     </div>
     <div class="columns medium-4">
       <div class="o-section-header o-section-header--bordered">
+        <h3 class="o-section__heading t-h4-alt">Logo Jipice</h3>
+      </div>
+      <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/jipice/jipice_logo.png" alt="Jipice" style="margin:10px 0px">
+    </div>
+    <div class="columns medium-4">
+      <div class="o-section-header o-section-header--bordered">
         <h3 class="o-section__heading t-h4-alt">Adresa a kontakt</h3>
       </div>
       <div class="u-1margin--top">
           <br><br>
         <strong>Adresa</strong><br>
           Matky Boží 1182/9 <br>
-          586 01 Jihlava <br><br>
+          586 01 Jihlava <br>
+        <strong><u><a href="https://goo.gl/maps/kWW72Lxm7oK2">mapa</a></u></strong><br><br>
         <strong>Kontakt pro veřejnost i média</strong><br>
           Ondřej Tůma <br>
           tel. 770 113 639 <br>
           jipice@pirati.cz <br><br>
-          Tento <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSe1LKCLdqWKdgvQiCW8MFcciluAYWUNlUSY1w5H1kDCjviZmg/viewform?c=0&w=1">formulář</a></strong> prosím použijte, pokud v našem centru chcete pořádat neziskovou aktivitu.
+          Tento <strong><u><a href="https://docs.google.com/forms/d/e/1FAIpQLSe1LKCLdqWKdgvQiCW8MFcciluAYWUNlUSY1w5H1kDCjviZmg/viewform?c=0&w=1">formulář</a></u></strong> prosím použijte, pokud v našem centru chcete pořádat neziskovou aktivitu.
       </div>
     </div>
   </div>
