@@ -67,6 +67,8 @@ class="c-program-candidate-badge__avatar-image">
 <strong class="c-program-candidate-badge__profession">
 předsedkyně kontrolního výboru<br>
 určená zastupitelka pro územní plánování
+
+transparentní Chlum
 </strong>
 <p class="c-program-candidate-badge__bio">
 
