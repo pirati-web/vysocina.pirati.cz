@@ -18,7 +18,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
     <div class="pce-hero__content">        
         <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/jipice/jipice_koutek.jpg" alt="Jipice - Jihlavské pirátské centrum" style="width: 100%; height: auto; margin:10px 0px">
         <h2 class="t-h4-alt">
-          Ještě nějaký text třeba o tom, co všechno můžeme nabídnout - včetně dětského kouktu.
+          Vybavení Jipice + dětský koutek.
       </h2>
     </div>
 </div>
@@ -27,7 +27,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
     <div class="pce-hero__content">        
         <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/jipice/jipice_cedule.jpg" alt="Jipice - Jihlavské pirátské centrum" style="width: 100%; height: auto; margin:10px 0px">
         <h2 class="t-h4-alt">
-          Ještě nějaký text třeba o tom jak nás najdou, v textu bude odkaz na mapu.
+          Jak najít Jipici + odkaz na mapu.
       </h2>
     </div>
 </div>
