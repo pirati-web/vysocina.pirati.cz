@@ -21,7 +21,7 @@ title: VyOsení
             </div>
             <div class="u-1margin--top">
                 <ul>
-                    <li><a href="https://www.facebook.com/events/781777152204397/">březen 2019 - Třebíč</a></li>                    
+                    <li><a href="">podzim 2019 - Třebíč</a></li>                    
                 </ul>
             </div>
         </section>
@@ -33,6 +33,7 @@ title: VyOsení
             </div>
             <div class="u-1margin--top">
                 <ul>
+                    <li><a href="https://vysocina.pirati.cz/aktuality/trebic-vyoseni.html">březen 2019 - Třebíč</a></li>
                     <li><a href="https://trebicsko.pirati.cz/aktuality/vyoseni-trebic.html">říjen 2018 - Třebíč</a></li>
                     <li><a href="https://www.piratskelisty.cz/clanek-1967-vytezek-z-vyoseni-v-trebici-predali-pirati-nadaci-krtek" target="_blank" rel="noopener">duben 2018 - Třebíč</a></li>
                 </ul>
