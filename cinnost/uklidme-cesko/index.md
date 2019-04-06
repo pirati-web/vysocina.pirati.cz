@@ -21,9 +21,6 @@ title: Ukliďme Česko
             </div>
             <div class="u-1margin--top">
                 <ul>
-                    <li><a href="https://www.facebook.com/events/566431393834338/">duben 2019 - Havlíčkův Brod</a></li>
-                    <li><a href="https://www.facebook.com/events/817292845277928/">duben 2019 - Telč</a></li>
-                    <li><a href="https://www.facebook.com/events/2267178543609498/">duben 2019 - Třebíč</a></li>
                 </ul>
             </div>
         </section>
@@ -35,6 +32,9 @@ title: Ukliďme Česko
             </div>
             <div class="u-1margin--top">
                 <ul>
+                    <li><a href="https://www.facebook.com/events/566431393834338/">duben 2019 - Havlíčkův Brod</a></li>
+                    <li><a href="https://www.facebook.com/events/817292845277928/">duben 2019 - Telč</a></li>
+                    <li><a href="https://www.facebook.com/events/2267178543609498/">duben 2019 - Třebíč</a></li>
                     <li><a href="https://vysocina.pirati.cz/aktuality/uklidme-cesko.html">září 2018</a></li>
                     <li><a href="https://wiki.pirati.cz/regiony/vysocina/tiskove-zpravy/uklidme_cesko" target="_blank" rel="noopener">duben 2018</a></li>
                     <li><a href="https://wiki.pirati.cz/regiony/vysocina/tiskove-zpravy/pirati_uklidili_jsme_v_okoli_havlickova_brodu_chotebore_a_telce" target="_blank" rel="noopener">duben 2017</a></li>
