@@ -32,21 +32,20 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
     </div>
 </div>
 
-<br>
-<br>
 <div class="o-section">
   <div class="row">
     <div class="columns medium-4">
       <div class="o-section-header o-section-header--bordered">
-        <h3 class="o-section__heading t-h4-alt">Jipice</h3>
+        <h3 class="o-section__heading t-h4-alt">Logo Jipice</h3>
       </div>
       <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/jipice/jipice_logo.png" alt="Jipice" style="margin:10px 0px">
     </div>
     <div class="columns medium-4">
       <div class="o-section-header o-section-header--bordered">
-        <h3 class="o-section__heading t-h4-alt">Pirátské centrum</h3>
+        <h3 class="o-section__heading t-h4-alt">Otevírací doba</h3>
       </div>
       <div class="u-1margin--top">
+        <strong>Pirátské centrum</strong>
          <ul>
             <li>Pondělí zavřeno</li>
             <li>Úterý 9:00 - 17:00</li>
@@ -54,17 +53,25 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
             <li>Čtvrtek 9:00 - 17:00</li>
             <li>Pátek 10:00 - 15:00</li>
          </ul>
-      </div>  
-    </div>
-    <div class="columns medium-4">
-      <div class="o-section-header o-section-header--bordered">
-        <h3 class="o-section__heading t-h4-alt">Poslanecká kancelář</h3>
-      </div>
-      <div class="u-1margin--top">
+        <br>
+        <strong>Poslanecká kancelář</strong>
          <ul>
             <li>Pondělí 10:00 - 18:00</li>
             <li>Út - Pá Zavřeno</li>
          </ul>
+      </div>  
+    </div>
+    <div class="columns medium-4">
+      <div class="o-section-header o-section-header--bordered">
+        <h3 class="o-section__heading t-h4-alt">Adresa a kontakt</h3>
+      </div>
+      <div class="u-1margin--top">
+          Matky Boží 1182/9 <br>
+          586 01 Jihlava <br><br>
+        <strong>Kontakt pro veřejnost i média</strong>
+          Ondřej Tůma <br>
+          tel. 770 113 639 <br>
+          ondrej.tuma@pirati.cz
       </div>
     </div>
   </div>
