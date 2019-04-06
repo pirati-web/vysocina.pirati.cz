@@ -74,7 +74,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
           Ondřej Tůma <br>
           tel. 770 113 639 <br>
           ondrej.tuma@pirati.cz <br><br>
-          Tento **[formulář](https://docs.google.com/forms/d/e/1FAIpQLSe1LKCLdqWKdgvQiCW8MFcciluAYWUNlUSY1w5H1kDCjviZmg/viewform?c=0&w=1)** prosím použijte, pokud v našem centru chcete pořádat neziskovou aktivitu.
+          Tento <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSe1LKCLdqWKdgvQiCW8MFcciluAYWUNlUSY1w5H1kDCjviZmg/viewform?c=0&w=1">formulář</a></strong> prosím použijte, pokud v našem centru chcete pořádat neziskovou aktivitu.
       </div>
     </div>
   </div>
