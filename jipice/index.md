@@ -68,6 +68,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
       </div>
       <div class="u-1margin--top">
           <br><br>
+        <strong>Adresa</strong><br>
           Matky Boží 1182/9 <br>
           586 01 Jihlava <br><br>
         <strong>Kontakt pro veřejnost i média</strong><br>
