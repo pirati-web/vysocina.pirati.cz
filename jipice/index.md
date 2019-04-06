@@ -45,6 +45,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
         <h3 class="o-section__heading t-h4-alt">Otevírací doba</h3>
       </div>
       <div class="u-1margin--top">
+        <br>
         <strong>Pirátské centrum</strong>
          <ul>
             <li>Pondělí zavřeno</li>
@@ -66,12 +67,14 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
         <h3 class="o-section__heading t-h4-alt">Adresa a kontakt</h3>
       </div>
       <div class="u-1margin--top">
+          <br>
           Matky Boží 1182/9 <br>
           586 01 Jihlava <br><br>
-        <strong>Kontakt pro veřejnost i média</strong>
+        <strong>Kontakt pro veřejnost i média</strong><br>
           Ondřej Tůma <br>
           tel. 770 113 639 <br>
-          ondrej.tuma@pirati.cz
+          ondrej.tuma@pirati.cz <br><br>
+          Tento **[formulář](https://docs.google.com/forms/d/e/1FAIpQLSe1LKCLdqWKdgvQiCW8MFcciluAYWUNlUSY1w5H1kDCjviZmg/viewform?c=0&w=1)** prosím použijte, pokud v našem centru chcete pořádat neziskovou aktivitu.
       </div>
     </div>
   </div>
