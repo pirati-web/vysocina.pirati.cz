@@ -73,7 +73,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
         <strong>Kontakt pro veřejnost i média</strong><br>
           Ondřej Tůma <br>
           tel. 770 113 639 <br>
-          ondrej.tuma@pirati.cz <br><br>
+          jipice@pirati.cz <br><br>
           Tento <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSe1LKCLdqWKdgvQiCW8MFcciluAYWUNlUSY1w5H1kDCjviZmg/viewform?c=0&w=1">formulář</a></strong> prosím použijte, pokud v našem centru chcete pořádat neziskovou aktivitu.
       </div>
     </div>
