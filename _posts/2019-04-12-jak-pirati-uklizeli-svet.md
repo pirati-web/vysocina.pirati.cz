@@ -1,5 +1,5 @@
 ---
-date: 2019-04-03
+date: 2019-04-12
 category: blog
 tags: Ukliďme svět ukliďme Česko
 layout: post
