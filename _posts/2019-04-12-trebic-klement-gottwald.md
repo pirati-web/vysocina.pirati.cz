@@ -1,7 +1,7 @@
 ---
-date: 2019-04-05
+date: 2019-04-12
 category: blog
-tags: svobodná hudba VyOsení Třebíč
+tags: komentář zastupitelstvo Třebíč
 layout: post
 title: Komentář - Zrušení čestného občanství Klementu Gottwaldovi v Třebíči navrhnu znovu
 author: Roman Pašek
