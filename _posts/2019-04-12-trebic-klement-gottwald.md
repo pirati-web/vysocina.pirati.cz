@@ -24,3 +24,9 @@ Smyslem udělení čestného občanství by měly být zásluhy o rozvoj vlasti 
 Roman Pašek, roman.pasek@pirati.cz, 734 507 329
 
 ---
+
+*Foto*
+
+Bundesarchiv, Bild 183-R90009 / CC-BY-SA 3.0 [CC BY-SA 3.0 de (https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)]
+
+---
