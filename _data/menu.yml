@@ -11,7 +11,7 @@ top:
   - link: "Nalodění"
     url:  "http://nalodeni.pirati.cz"
     icon: "fa fa-anchor"
-  - link: "Volby"
+  - link: "Uplynulé volby"
     url: "https://vysocina.pirati.cz/komunalni-volby/"
     icon: "fa fa-bar-chart"
 
