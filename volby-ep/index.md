@@ -10,7 +10,7 @@ title: Volby do Evropského parlamentu 2019
       <br>
         <h1 class="c-page-title">Volby do Evropského parlamentu 2019</h1><br><br>
         <h2 class="t-h4-alt">
-          Chcete-li se zapojit, napište na kontaktní email nebo rovnou přijďte na akci. Doporučuji předem se domluvit, protože se harmonogram může vzhledem k potřebám měnit dost operativně nebo může být nepřesný. Díky za pochopení!           
+          Chcete-li se zapojit, napište na kontaktní email nebo rovnou přijďte na akci. Doporučuji předem se domluvit, protože se harmonogram může vzhledem k potřebám měnit dost operativně nebo může být nepřesný. Díky za pochopení!<br>           
           Aktuální informace najdete také v našem <u><a href="https://calendar.google.com/calendar/embed?showTitle=0&showNav=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&mode=AGENDA&height=500&wkst=2&hl=cs&bgcolor=%23FFFFFF&src=r26esfjiivuu9temt46dholqhs%40group.calendar.google.com&ctz=Europe%2FPrague&color=%232952A3">kalendáři</a></u> nebo v <u><a href="https://www.facebook.com/pirati.vysocina/events/">událostech na FB</a></u>.
       </h2>
     </div>
