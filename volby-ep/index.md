@@ -10,7 +10,9 @@ title: Volby do Evropského parlamentu 2019
       <br>
         <h1 class="c-page-title">Volby do Evropského parlamentu 2019</h1><br><br>
         <h2 class="t-h4-alt">
-          Chcete-li se zapojit, napište na kontaktní email nebo rovnou přijďte na akci. Doporučuji předem se domluvit, protože se harmonogram může vzhledem k potřebám měnit dost operativně nebo může být nepřesný. Díky za pochopení!<br>           
+          Volby do Evropského parlamentu se konají 24. - 25. 5. 2019. <br><br>
+          Na Vysočině budeme kampaňovat v ulicích, na náměstích, uděláme nějaké debaty, rozdáme letáky a Pirátské listy, ale hlavně si s námi a našimi kadidáty do EP můžete popovídat ve všech větších městech na ulici.<br><br>
+          Chcete-li se zapojit, napište na kontaktní email nebo rovnou přijďte na akci. Doporučuji předem se domluvit, protože se harmonogram může vzhledem k potřebám měnit dost operativně nebo může být nepřesný. Díky za pochopení!<br><br>           
           Aktuální informace najdete také v našem <u><a href="https://calendar.google.com/calendar/embed?showTitle=0&showNav=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&mode=AGENDA&height=500&wkst=2&hl=cs&bgcolor=%23FFFFFF&src=r26esfjiivuu9temt46dholqhs%40group.calendar.google.com&ctz=Europe%2FPrague&color=%232952A3">kalendáři</a></u> nebo v <u><a href="https://www.facebook.com/pirati.vysocina/events/">událostech na FB</a></u>.
       </h2>
     </div>
@@ -22,25 +24,222 @@ title: Volby do Evropského parlamentu 2019
         <h1 class="c-page-title">Harmonogram akcí Pirátů na Vysočině</h1><br><br>        
     </div>
 </div>
-<div class="o-section">
-  <div class="row">
-    <div class="columns medium-4">
-      <div class="o-section-header o-section-header--bordered">
-        <h3 class="o-section__heading t-h4-alt">Ukliďme Česko</h3>
-      </div>
-      <a href="/cinnost/uklidme-cesko/"><img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/uklidme.jpg" alt="Ukliďme Česko" style="margin:10px 0px"></a>
-    </div>
-    <div class="columns medium-4">
-      <div class="o-section-header o-section-header--bordered">
-        <h3 class="o-section__heading t-h4-alt">VyOsení</h3>
-      </div>
-      <a href="/cinnost/vyoseni/"><img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/vyoseni.jpg" alt="VyOsení" style="margin:10px 0px"></a>
-    </div>
-    <div class="columns medium-4">
-      <div class="o-section-header o-section-header--bordered">
-        <h3 class="o-section__heading t-h4-alt">Festival svobodných filmů</h3>
-      </div>
-      <a href="/cinnost/fsf/"><img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsf.jpg" alt="Festival svobodných filmů" style="margin:10px 0px"></a>
-    </div>
-  </div>
-</div>
+<table>
+  <tr>
+    <th>18. 4.</th>
+    <th></th>
+    <th>Bystřice nad Pernštejnem</th>
+    <th></th>
+    <th>ondrej.tuma(a)pirati.cz</th>
+  </tr>
+  <tr>
+    <td>18. 4.</td>
+    <td>15:30 - 16:30</td>
+    <td>Jihlava</td>
+    <td></td>
+    <td>tomas.bouda(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>23. 4.</td>
+    <td>14:00 - 15:30</td>
+    <td>Jihlava</td>
+    <td></td>
+    <td>michaela.vodova(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>26. 4.</td>
+    <td>14:00 - 15:30</td>
+    <td>Velké Meziříčí</td>
+    <td></td>
+    <td>michaela.vodova(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>27. 4.</td>
+    <td>od 11:00</td>
+    <td>Den proti úložišti</td>
+    <td></td>
+    <td>michaela.vodova(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>29. 4.</td>
+    <td></td>
+    <td>Jihlava</td>
+    <td></td>
+    <td>ondrej.tuma(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>29. 4.</td>
+    <td>14:00 - 16:00</td>
+    <td>Třebíč</td>
+    <td></td>
+    <td>roman.pasek(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>29. 4.</td>
+    <td></td>
+    <td>Nové Město na Moravě</td>
+    <td></td>
+    <td>rene.mayer(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>29. 4.</td>
+    <td>9:00 - 11:00</td>
+    <td>Telč</td>
+    <td></td>
+    <td>hana.hajnova(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>29. 4.</td>
+    <td>odpoledne</td>
+    <td>Pelhřimov</td>
+    <td></td>
+    <td>pavel.knezik(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>29. 4.</td>
+    <td></td>
+    <td>Havlíčkův Brod</td>
+    <td></td>
+    <td>jan.kerber(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>29. 4.</td>
+    <td></td>
+    <td>Jaroměřice nad Rokytnou</td>
+    <td></td>
+    <td>jaroslav.vysoky(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>2. 5.</td>
+    <td></td>
+    <td>Jihlava</td>
+    <td></td>
+    <td>michaela.vodova(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>3. 5.</td>
+    <td>dopoledne</td>
+    <td>Humpolec</td>
+    <td></td>
+    <td>michaela.vodova(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>4. 5.</td>
+    <td></td>
+    <td>Jihlava</td>
+    <td></td>
+    <td>jan.posvar(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>6. 5.</td>
+    <td>14:00 - 17:00</td>
+    <td>Třebíč</td>
+    <td></td>
+    <td>roman.pasek(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>7. 5.</td>
+    <td>odpoledne</td>
+    <td>Havlíčkův Brod</td>
+    <td></td>
+    <td>michaela.vodova(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>8. 5.</td>
+    <td></td>
+    <td>Jemnice</td>
+    <td></td>
+    <td>roman.pasek(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>11. 5.</td>
+    <td></td>
+    <td>Telč</td>
+    <td></td>
+    <td>hana.hajnova(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>12. 5.</td>
+    <td>odpoledne</td>
+    <td>Jihlava</td>
+    <td></td>
+    <td>michaela.vodova(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>13. 5.</td>
+    <td>odpoledne</td>
+    <td>Žďár nad Sázavou</td>
+    <td></td>
+    <td>michaela.vodova(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>13. 5.</td>
+    <td></td>
+    <td>Okříšky</td>
+    <td></td>
+    <td>roman.pasek(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>14. 5.</td>
+    <td>odpoledne</td>
+    <td>Chotěboř</td>
+    <td></td>
+    <td>michaela.vodova(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>15. 5.</td>
+    <td></td>
+    <td>Moravské Budějovice</td>
+    <td></td>
+    <td>roman.pasek(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>16. 5.</td>
+    <td></td>
+    <td>Nové Město na Moravě</td>
+    <td></td>
+    <td>rene.mayer(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>17. 5.</td>
+    <td>14:00 - 16:00</td>
+    <td>Pelhřimov</td>
+    <td></td>
+    <td>michaela.vodova(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>19. 5.</td>
+    <td>14:00 - 22:00</td>
+    <td>Havlíčkův Brod</td>
+    <td></td>
+    <td>jan.kerber(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>20. 5.</td>
+    <td>odpoledne</td>
+    <td>Jihlava</td>
+    <td></td>
+    <td>michaela.vodova(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>20. 5.</td>
+    <td></td>
+    <td>Náměšť nad Oslavou</td>
+    <td></td>
+    <td>roman.pasek(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>22. 5.</td>
+    <td></td>
+    <td>Třebíč</td>
+    <td></td>
+    <td>michaela.vodova(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>26. 5.</td>
+    <td>od 14:00</td>
+    <td>Jihlava</td>
+    <td></td>
+    <td>michaela.vodova(a)pirati.cz</td>
+  </tr>
+</table>
