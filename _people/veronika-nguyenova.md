@@ -3,8 +3,7 @@ uid: veronika.nguyenova
 name:     Veronika Nguyenová
 category:
   - clenove
-  - mshavlbrod
-description: členka Místního sdružení Havlíčkův Brod
+description: členka Krajského sdružení Vysočina
 profession: restaurátorka kamene
 # img: people/veronika-nguyenova.jpg #
 mail:
