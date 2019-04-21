@@ -26,16 +26,26 @@ title: Volby do Evropského parlamentu 2019
 </div>
 <table>
   <tr>
-    <th>18. 4.</th>
-    <th></th>
-    <th>Bystřice nad Pernštejnem</th>
-    <th></th>
-    <th>ondrej.tuma(a)pirati.cz</th>
+    <th>Datum</th>
+    <th>Čas</th>
+    <th>Místo</th>
+    <th>Informace</th>
+    <th>Zúčastnění</th>
+    <th>Kontakt</th>
+  </tr>
+  <tr>
+    <td>18. 4.</td>
+    <td></td>
+    <td>Bystřice nad Pernštejnem</td>
+    <td></td>
+    <td></td>
+    <td>ondrej.tuma(a)pirati.cz</td>
   </tr>
   <tr>
     <td>18. 4.</td>
     <td>15:30 - 16:30</td>
     <td>Jihlava</td>
+    <td></td>
     <td></td>
     <td>tomas.bouda(a)pirati.cz</td>
   </tr>
@@ -44,12 +54,14 @@ title: Volby do Evropského parlamentu 2019
     <td>14:00 - 15:30</td>
     <td>Jihlava</td>
     <td></td>
+    <td></td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
   <tr>
     <td>26. 4.</td>
     <td>14:00 - 15:30</td>
     <td>Velké Meziříčí</td>
+    <td></td>
     <td></td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
@@ -58,12 +70,14 @@ title: Volby do Evropského parlamentu 2019
     <td>od 11:00</td>
     <td>Den proti úložišti</td>
     <td></td>
+    <td></td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
   <tr>
     <td>29. 4.</td>
     <td></td>
     <td>Jihlava</td>
+    <td></td>
     <td></td>
     <td>ondrej.tuma(a)pirati.cz</td>
   </tr>
@@ -72,12 +86,14 @@ title: Volby do Evropského parlamentu 2019
     <td>14:00 - 16:00</td>
     <td>Třebíč</td>
     <td></td>
+    <td></td>
     <td>roman.pasek(a)pirati.cz</td>
   </tr>
   <tr>
     <td>29. 4.</td>
     <td></td>
     <td>Nové Město na Moravě</td>
+    <td></td>
     <td></td>
     <td>rene.mayer(a)pirati.cz</td>
   </tr>
@@ -86,12 +102,14 @@ title: Volby do Evropského parlamentu 2019
     <td>9:00 - 11:00</td>
     <td>Telč</td>
     <td></td>
+    <td></td>
     <td>hana.hajnova(a)pirati.cz</td>
   </tr>
   <tr>
     <td>29. 4.</td>
     <td>odpoledne</td>
     <td>Pelhřimov</td>
+    <td></td>
     <td></td>
     <td>pavel.knezik(a)pirati.cz</td>
   </tr>
@@ -100,12 +118,14 @@ title: Volby do Evropského parlamentu 2019
     <td></td>
     <td>Havlíčkův Brod</td>
     <td></td>
+    <td></td>
     <td>jan.kerber(a)pirati.cz</td>
   </tr>
   <tr>
     <td>29. 4.</td>
     <td></td>
     <td>Jaroměřice nad Rokytnou</td>
+    <td></td>
     <td></td>
     <td>jaroslav.vysoky(a)pirati.cz</td>
   </tr>
@@ -114,12 +134,14 @@ title: Volby do Evropského parlamentu 2019
     <td></td>
     <td>Jihlava</td>
     <td></td>
+    <td></td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
   <tr>
     <td>3. 5.</td>
     <td>dopoledne</td>
     <td>Humpolec</td>
+    <td></td>
     <td></td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
@@ -128,12 +150,14 @@ title: Volby do Evropského parlamentu 2019
     <td></td>
     <td>Jihlava</td>
     <td></td>
+    <td></td>
     <td>jan.posvar(a)pirati.cz</td>
   </tr>
   <tr>
     <td>6. 5.</td>
     <td>14:00 - 17:00</td>
     <td>Třebíč</td>
+    <td></td>
     <td></td>
     <td>roman.pasek(a)pirati.cz</td>
   </tr>
@@ -142,12 +166,14 @@ title: Volby do Evropského parlamentu 2019
     <td>odpoledne</td>
     <td>Havlíčkův Brod</td>
     <td></td>
+    <td></td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
   <tr>
     <td>8. 5.</td>
     <td></td>
     <td>Jemnice</td>
+    <td></td>
     <td></td>
     <td>roman.pasek(a)pirati.cz</td>
   </tr>
@@ -156,12 +182,14 @@ title: Volby do Evropského parlamentu 2019
     <td></td>
     <td>Telč</td>
     <td></td>
+    <td></td>
     <td>hana.hajnova(a)pirati.cz</td>
   </tr>
   <tr>
     <td>12. 5.</td>
     <td>odpoledne</td>
     <td>Jihlava</td>
+    <td></td>
     <td></td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
@@ -170,12 +198,14 @@ title: Volby do Evropského parlamentu 2019
     <td>odpoledne</td>
     <td>Žďár nad Sázavou</td>
     <td></td>
+    <td></td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
   <tr>
     <td>13. 5.</td>
     <td></td>
     <td>Okříšky</td>
+    <td></td>
     <td></td>
     <td>roman.pasek(a)pirati.cz</td>
   </tr>
@@ -184,12 +214,14 @@ title: Volby do Evropského parlamentu 2019
     <td>odpoledne</td>
     <td>Chotěboř</td>
     <td></td>
+    <td></td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
   <tr>
     <td>15. 5.</td>
     <td></td>
     <td>Moravské Budějovice</td>
+    <td></td>
     <td></td>
     <td>roman.pasek(a)pirati.cz</td>
   </tr>
@@ -198,12 +230,14 @@ title: Volby do Evropského parlamentu 2019
     <td></td>
     <td>Nové Město na Moravě</td>
     <td></td>
+    <td></td>
     <td>rene.mayer(a)pirati.cz</td>
   </tr>
   <tr>
     <td>17. 5.</td>
     <td>14:00 - 16:00</td>
     <td>Pelhřimov</td>
+    <td></td>
     <td></td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
@@ -212,12 +246,14 @@ title: Volby do Evropského parlamentu 2019
     <td>14:00 - 22:00</td>
     <td>Havlíčkův Brod</td>
     <td></td>
+    <td></td>
     <td>jan.kerber(a)pirati.cz</td>
   </tr>
   <tr>
     <td>20. 5.</td>
     <td>odpoledne</td>
     <td>Jihlava</td>
+    <td></td>
     <td></td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
@@ -226,6 +262,7 @@ title: Volby do Evropského parlamentu 2019
     <td></td>
     <td>Náměšť nad Oslavou</td>
     <td></td>
+    <td></td>
     <td>roman.pasek(a)pirati.cz</td>
   </tr>
   <tr>
@@ -233,12 +270,14 @@ title: Volby do Evropského parlamentu 2019
     <td></td>
     <td>Třebíč</td>
     <td></td>
+    <td></td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
   <tr>
     <td>26. 5.</td>
     <td>od 14:00</td>
     <td>Jihlava</td>
+    <td></td>
     <td></td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
