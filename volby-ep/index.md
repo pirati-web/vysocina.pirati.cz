@@ -247,7 +247,7 @@ title: Volby do Evropského parlamentu 2019
     <td>14:00 - 22:00</td>
     <td>Havlíčkův Brod</td>
     <td><span style="font-weight:bold">Velká kontaktní akce s kandidáty</span><br>rozdávání merche a pirátských listů, hudební produkce (Messenjah)</td>
-    <td>Ivan Bartoš, Markéta Gregorová, Marcel Kolaja, Jana Koláříková<br>a další hosté</td>
+    <td>Ivan Bartoš, Markéta Gregorová, Marcel Kolaja, Jana Koláříková a další hosté</td>
     <td>jan.kerber(a)pirati.cz</td>
   </tr>
   <tr>
