@@ -50,7 +50,7 @@ title: Volby do Evropského parlamentu 2019
     <td>tomas.bouda(a)pirati.cz</td>
   </tr>
   <tr>
-    <td>23. 4.</td>
+    <td>25. 4.</td>
     <td>14:00 - 15:30</td>
     <td>Jihlava</td>
     <td></td>
