@@ -8,7 +8,7 @@ author: Eva Nováková
 authorId: eva.novakova  
 image: posts/2019-04-24-housing-first-jihlava.jpg
 ---
-*Jihlava, 24. dubna* - edna z pirátských programových priorit v Jihlavě dostává konkrétní obrysy.  Členové a členky Zastupitelstva města Jihlavy schválili počtem 24 hlasů ze 37 záměr zapojit se do programu Housing First.
+*Jihlava, 24. dubna* - Jedna z pirátských programových priorit v Jihlavě dostává konkrétní obrysy.  Členové a členky Zastupitelstva města Jihlavy schválili počtem 24 hlasů ze 37 záměr zapojit se do programu Housing First.
 
 Jihlava se tak přidá k dalším dvěma desítkám měst, které se budou ucházet o financování z Operačního programu Zaměstnanost. V jeho rámci Ministerstvo práce a sociálních věcí vyhlásilo výzvu 108: “Podpora programu Housing First (Bydlení především)”, inspirovanou zkušenostmi z úspěšného brněnského pilotního projektu Rapid Re-Housing. 
 
