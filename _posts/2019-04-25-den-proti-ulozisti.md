@@ -20,6 +20,7 @@ Je vyhořelé palivo opravdu odpadem? Jak se ukládá dnes a proč budeme muset 
 *“Cílem je prosadit takový způsob hledání řešení problému vyhořelého jaderného paliva a radioaktivních odpadů, který bude otevřený, průhledný a v němž obce a veřejnost budou mít zákony dostatečně garantované možnosti hájit své oprávněné zájmy,“* vysvětluje Jaroslav Vysoký. 
 
 Piráti na Vysočině sledují dění kolem Správy úložišť jaderných odpadů delší dobu. *„Pokud jde o samotnou potřebu budování hlubinného úložiště, tvrdíme, že je nutné se oprostit od tohoto konzervativního přístupu a vzít v úvahu i další možný technologický rozvoj. Za 40 let, kdy by se mělo ukládání odpadu přesunout pod zemský povrch, se může objevit efektivnější způsob zpracování či ukládání vyhořelého paliva. V tuto chvíli je však zřejmě nutné připravit si tuto “pojistku” pro případ, že skutečně nebude jiné možné využití odpadu. Preferujeme nicméně, aby se například přepracoval koncept nakládání s radioaktivními odpady tak, aby na vyhořelé jaderné palivo nebylo nahlíženo jako na odpad, ale co nejdéle jako na znovu využitelnou surovinu.“* vyjadřuje stanovisko Pirátů Michaela Vodová. 
+
 ---
 
 **Související odkazy:**
