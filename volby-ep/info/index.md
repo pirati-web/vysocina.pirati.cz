@@ -12,7 +12,8 @@ title: Volby do Evropského parlamentu 2019
         <h2 class="t-h4-alt">
 <b><u>Začínáme 29. 4. akcí Piráti do ulic!</u></b><br><br>
 29. 4. 2019 budeme na několika místech na Vysočině v ulicích rozdávat letáky a noviny. Zapojí se Piráti v Třebíči, Jihlavě, Havlíčkově Brodě, Telči, Jaroměřicích nad Rokytnou, Pelhřimově a Novém Městě na Moravě. Více aktuálních informací najdete na našem webu, kde jsou i kontaktní údaje lidí, kteří za konkrétní akci zodpovídají. Pokud se chcete přidat ke konkrétní akci rozdejem letáků a novin, napište na uvedený kontakt a domluvte se s organizátorem akce.<br><br>
-Můžete si také naplánovat vlastní místo na Vysočině. O noviny a letáky pište na email michaela.vodova(a)pirati.cz nebo volejte 602 276 233.<br><br>
+Můžete si také naplánovat vlastní místo na Vysočině.<br><br>
+O noviny a letáky pište na email michaela.vodova(a)pirati.cz nebo volejte 602 276 233.<br><br>
 <u><i><a href="https://www.facebook.com/events/421622075057861/" target="_blank">Celokrajský event na FB</a></i></u><br><br>          
 <b><u>Kontaktní kampaň (rozdej novin a letáků, petiční stany)</u></b><br><br>
 V průběhu května budeme kampaňovat na různých místech na Vysočině. Harmonogram budeme aktualizovat na <u><i><a href="https://vysocina.pirati.cz/volby-ep/harmonogram/">webu</a></i></u> a hlavně v <u><i><a href="https://calendar.google.com/calendar/embed?src=r26esfjiivuu9temt46dholqhs%40group.calendar.google.com&ctz=Europe%2FPrague" target="_blank">kalendáři</a></i></u>, kde najdete i kontakty na organizátory jednotlivých akcí.<br><br>
