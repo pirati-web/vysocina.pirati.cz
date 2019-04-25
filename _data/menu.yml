@@ -72,7 +72,7 @@ main:
     match: kontakt
   - link: /volby-ep/
     name: Volby EP
-    match: volby-ep
+    match: volby-ep/info
     submenu:
       - link: /volby-ep/info/
         name: Evropa potřebuje Piráty
