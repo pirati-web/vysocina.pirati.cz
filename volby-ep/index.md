@@ -47,7 +47,7 @@ title: Volby do Evropského parlamentu 2019
     <td>od 11:00</td>
     <td>Den proti úložišti</td>
     <td><span style="font-weight:bold">Kontaktní kampaň</span><br>vyjádření podpory a rozdej merche</td>
-    <td>hosté - kandidáti</td>
+    <td>Michaela Vodová, Jaroslav Vysoký</td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ title: Volby do Evropského parlamentu 2019
     <td></td>
     <td>Jihlava</td>
     <td><span style="font-weight:bold">Piráti do ulic</span><br>rozdávání pirátských listů</td>
-    <td></td>
+    <td>Ondřej Tůma, Jan Pošvář</td>
     <td>ondrej.tuma(a)pirati.cz</td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@ title: Volby do Evropského parlamentu 2019
     <td>14:00 - 16:00</td>
     <td>Třebíč</td>
     <td><span style="font-weight:bold">Piráti do ulic</span><br>rozdávání pirátských listů</td>
-    <td></td>
+    <td>Roman Pašek</td>
     <td>roman.pasek(a)pirati.cz</td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@ title: Volby do Evropského parlamentu 2019
     <td></td>
     <td>Nové Město na Moravě</td>
     <td><span style="font-weight:bold">Piráti do ulic</span><br>rozdávání pirátských listů</td>
-    <td></td>
+    <td>René Mayer</td>
     <td>rene.mayer(a)pirati.cz</td>
   </tr>
   <tr>
@@ -79,7 +79,7 @@ title: Volby do Evropského parlamentu 2019
     <td>9:00 - 11:00</td>
     <td>Telč</td>
     <td><span style="font-weight:bold">Piráti do ulic</span><br>rozdávání pirátských listů</td>
-    <td></td>
+    <td>Hana Hajnová</td>
     <td>hana.hajnova(a)pirati.cz</td>
   </tr>
   <tr>
@@ -87,7 +87,7 @@ title: Volby do Evropského parlamentu 2019
     <td>odpoledne</td>
     <td>Pelhřimov</td>
     <td><span style="font-weight:bold">Piráti do ulic</span><br>rozdávání pirátských listů</td>
-    <td></td>
+    <td>Pavel Kněžik, Zdeňka Lišková</td>
     <td>pavel.knezik(a)pirati.cz</td>
   </tr>
   <tr>
@@ -95,7 +95,7 @@ title: Volby do Evropského parlamentu 2019
     <td></td>
     <td>Havlíčkův Brod</td>
     <td><span style="font-weight:bold">Piráti do ulic</span><br>rozdávání pirátských listů</td>
-    <td></td>
+    <td>Jan Kerber</td>
     <td>jan.kerber(a)pirati.cz</td>
   </tr>
   <tr>
@@ -103,15 +103,15 @@ title: Volby do Evropského parlamentu 2019
     <td></td>
     <td>Jaroměřice nad Rokytnou</td>
     <td><span style="font-weight:bold">Piráti do ulic</span><br>rozdávání pirátských listů</td>
-    <td></td>
+    <td>Jaroslav Vysoký</td>
     <td>jaroslav.vysoky(a)pirati.cz</td>
   </tr>
   <tr>
     <td>2. 5.</td>
-    <td></td>
+    <td>15:00 - 17:00</td>
     <td>Jihlava</td>
     <td><span style="font-weight:bold">Marcel Kolaja v Jihlavě</span><br>+ kontaktní kampaň</td>
-    <td></td>
+    <td>Michaela Vodová, Marcel Kolaja, Hana Hajnová</td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
   <tr>
