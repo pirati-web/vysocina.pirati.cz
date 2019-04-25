@@ -70,9 +70,9 @@ main:
   - link: /kontakt/
     name: Kontakt
     match: kontakt
-  - link: /volby-ep/
+  - link: /volby-ep/info
     name: Volby EP
-    match: volby-ep/info
+    match: volby-ep
     submenu:
       - link: /volby-ep/info/
         name: Evropa potřebuje Piráty
