@@ -5,7 +5,6 @@ keywords:
 title: Volby do Evropského parlamentu 2019
 ---
 
-<br>
 <div class="pce-hero pce-hero--entry">
     <div class="pce-hero__content">
       <br>
@@ -246,3 +245,4 @@ title: Volby do Evropského parlamentu 2019
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
 </table>
+<br><br>
