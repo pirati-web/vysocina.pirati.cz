@@ -147,12 +147,12 @@ title: Volby do Evropského parlamentu 2019
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
   <tr>
-    <td>8. 5.</td>
+    <td>9. 5.</td>
     <td></td>
     <td>Jemnice</td>
     <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů</td>
-    <td></td>
-    <td>roman.pasek(a)pirati.cz</td>
+    <td>Luboš Fuks, Michaela Vodová</td>
+    <td>lubos.fuks(a)pirati.cz</td>
   </tr>
   <tr>
     <td>11. 5.</td>
