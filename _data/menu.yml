@@ -70,6 +70,19 @@ main:
   - link: /kontakt/
     name: Kontakt
     match: kontakt
+  - link: /volby-ep/
+    name: 
+    match: 
+    submenu:
+      - link: /volby-ep/info/
+        name: Evropa potřebuje Piráty
+        match: info
+      - link: /volby-ep/zapojit/
+        name: Jak se zapojit
+        match: zapojit
+      - link: /volby-ep/harmonogram/
+        name: Harmonogram kampaně
+        match: harmonogram
 
 bottom:
   - class: small-12 medium-4
