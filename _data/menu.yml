@@ -52,7 +52,7 @@ main:
         name: Ostatní obce
         match: obce  
   - link: /cinnost/
-    name: Činnost Pirátů v kraji
+    name: Činnost v kraji
     match: cinnost
     submenu:
       - link: /cinnost/uklidme-cesko/
@@ -71,8 +71,8 @@ main:
     name: Kontakt
     match: kontakt
   - link: /volby-ep/
-    name: 
-    match: 
+    name: Volby EP
+    match: volby-ep
     submenu:
       - link: /volby-ep/info/
         name: Evropa potřebuje Piráty
