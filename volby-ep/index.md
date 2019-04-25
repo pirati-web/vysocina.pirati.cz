@@ -46,7 +46,7 @@ title: Volby do Evropského parlamentu 2019
     <td>27. 4.</td>
     <td>od 11:00</td>
     <td>Den proti úložišti</td>
-    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>vyjádření podpory a rozdej merche<br><a href="https://www.facebook.com/events/337209930243361/">Facebooková událost</a></td>
+    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>vyjádření podpory a rozdej merche<br><i><u><a href="https://www.facebook.com/events/337209930243361/">Facebooková událost</a></u></i></td>
     <td>Michaela Vodová, Jaroslav Vysoký</td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
@@ -54,7 +54,7 @@ title: Volby do Evropského parlamentu 2019
     <td>29. 4.</td>
     <td></td>
     <td>Jihlava</td>
-    <td><span style="font-weight:bold">Piráti do ulic</span><br>rozdávání pirátských listů<br><a href="https://www.facebook.com/events/833285683746623/">Facebooková událost</a></td>
+    <td><span style="font-weight:bold">Piráti do ulic</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/833285683746623/">Facebooková událost</a></u></i></td>
     <td>Ondřej Tůma, Jan Pošvář</td>
     <td>ondrej.tuma(a)pirati.cz</td>
   </tr>
@@ -62,7 +62,7 @@ title: Volby do Evropského parlamentu 2019
     <td>29. 4.</td>
     <td>14:00 - 16:00</td>
     <td>Třebíč</td>
-    <td><span style="font-weight:bold">Piráti do ulic</span><br>rozdávání pirátských listů<br><a href="https://www.facebook.com/events/404479233464755/">Facebooková událost</a></td>
+    <td><span style="font-weight:bold">Piráti do ulic</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/404479233464755/">Facebooková událost</a></u></i></td>
     <td>Roman Pašek</td>
     <td>roman.pasek(a)pirati.cz</td>
   </tr>
@@ -70,7 +70,7 @@ title: Volby do Evropského parlamentu 2019
     <td>29. 4.</td>
     <td></td>
     <td>Nové Město na Moravě</td>
-    <td><span style="font-weight:bold">Piráti do ulic</span><br>rozdávání pirátských listů<br><a href="https://www.facebook.com/events/318719328794233/">Facebooková událost</a></td>
+    <td><span style="font-weight:bold">Piráti do ulic</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/318719328794233/">Facebooková událost</a></u></i></td>
     <td>René Mayer</td>
     <td>rene.mayer(a)pirati.cz</td>
   </tr>
@@ -78,7 +78,7 @@ title: Volby do Evropského parlamentu 2019
     <td>29. 4.</td>
     <td>9:00 - 11:00</td>
     <td>Telč</td>
-    <td><span style="font-weight:bold">Piráti do ulic</span><br>rozdávání pirátských listů<br><a href="https://www.facebook.com/events/794786364226287/">Facebooková událost</a></td>
+    <td><span style="font-weight:bold">Piráti do ulic</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/794786364226287/">Facebooková událost</a></u></i></td>
     <td>Hana Hajnová</td>
     <td>hana.hajnova(a)pirati.cz</td>
   </tr>
@@ -86,7 +86,7 @@ title: Volby do Evropského parlamentu 2019
     <td>29. 4.</td>
     <td>odpoledne</td>
     <td>Pelhřimov</td>
-    <td><span style="font-weight:bold">Piráti do ulic</span><br>rozdávání pirátských listů<br><a href="https://www.facebook.com/events/283055409291084/">Facebooková událost</a></td>
+    <td><span style="font-weight:bold">Piráti do ulic</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/283055409291084/">Facebooková událost</a></u></i></td>
     <td>Pavel Kněžik, Zdeňka Lišková</td>
     <td>pavel.knezik(a)pirati.cz</td>
   </tr>
@@ -94,7 +94,7 @@ title: Volby do Evropského parlamentu 2019
     <td>29. 4.</td>
     <td></td>
     <td>Havlíčkův Brod</td>
-    <td><span style="font-weight:bold">Piráti do ulic</span><br>rozdávání pirátských listů<br><a href="https://www.facebook.com/events/1959415330847802/">Facebooková událost</a></td>
+    <td><span style="font-weight:bold">Piráti do ulic</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/1959415330847802/">Facebooková událost</a></u></i></td>
     <td>Jan Kerber</td>
     <td>jan.kerber(a)pirati.cz</td>
   </tr>
@@ -102,7 +102,7 @@ title: Volby do Evropského parlamentu 2019
     <td>29. 4.</td>
     <td></td>
     <td>Jaroměřice nad Rokytnou</td>
-    <td><span style="font-weight:bold">Piráti do ulic</span><br>rozdávání pirátských listů<br><a href="https://www.facebook.com/events/1002083503513828/">Facebooková událost</a></td>
+    <td><span style="font-weight:bold">Piráti do ulic</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/1002083503513828/">Facebooková událost</a></u></i></td>
     <td>Jaroslav Vysoký</td>
     <td>jaroslav.vysoky(a)pirati.cz</td>
   </tr>
