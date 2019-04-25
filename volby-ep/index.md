@@ -43,30 +43,6 @@ title: Volby do Evropského parlamentu 2019
     <td>ondrej.tuma(a)pirati.cz</td>
   </tr>
   <tr>
-    <td>18. 4.</td>
-    <td>15:30 - 16:30</td>
-    <td>Jihlava</td>
-    <td>rozdávání merche, letáků</td>
-    <td>Tomáš Bouda</td>
-    <td>tomas.bouda(a)pirati.cz</td>
-  </tr>
-  <tr>
-    <td>25. 4.</td>
-    <td>14:00 - 15:30</td>
-    <td>Jihlava</td>
-    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání merche, letáků</td>
-    <td></td>
-    <td>michaela.vodova(a)pirati.cz</td>
-  </tr>
-  <tr>
-    <td>26. 4.</td>
-    <td>14:00 - 15:30</td>
-    <td>Velké Meziříčí</td>
-    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání merche, letáků</td>
-    <td></td>
-    <td>michaela.vodova(a)pirati.cz</td>
-  </tr>
-  <tr>
     <td>27. 4.</td>
     <td>od 11:00</td>
     <td>Den proti úložišti</td>
