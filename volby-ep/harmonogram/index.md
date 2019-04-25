@@ -8,7 +8,7 @@ title: Volby do Evropského parlamentu 2019
 <div class="pce-hero pce-hero--entry">
     <div class="pce-hero__content">
       <br>
-        <h1 class="c-page-title">Harmonogram akcí Pirátů na Vysočině</h1><br><br>        
+        <h1 class="c-page-title">Harmonogram akcí Pirátů na Vysočině</h1><br>     
     </div>
 </div>
 <table>
