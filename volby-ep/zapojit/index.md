@@ -8,7 +8,7 @@ title: Volby do Evropského parlamentu 2019
 <div class="pce-hero pce-hero--entry">
     <div class="pce-hero__content">
       <br>
-        <h1 class="c-page-title">Shrnutí jak se zapojit na Vysočině</h1><br><br>
+        <h1 class="c-page-title">Shrnutí jak se zapojit na Vysočině</h1><br>
         <h2 class="t-h4-alt">
           <b><u>Kontaktní kampaň</u></b><br><br>
 <b>pirátské noviny</b> - vyzvedněte si nebo si je nechte dovézt a rozneste je kontaktně do ruky, případně, pokud to nelze, do schránek ve vašem okolí.
