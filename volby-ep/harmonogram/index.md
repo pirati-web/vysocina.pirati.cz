@@ -32,7 +32,7 @@ title: Volby do Evropského parlamentu 2019
     <td>27. 4.</td>
     <td>od 11:00</td>
     <td>Den proti úložišti</td>
-    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>vyjádření podpory a rozdej merche<br><i><u><a href="https://www.facebook.com/events/337209930243361/" target="_blank">Facebooková událost</a></u></i></td>
+    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>vyjádření podpory a rozdávání merche<br><i><u><a href="https://www.facebook.com/events/337209930243361/" target="_blank">Facebooková událost</a></u></i></td>
     <td>Michaela Vodová, Jaroslav Vysoký</td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
