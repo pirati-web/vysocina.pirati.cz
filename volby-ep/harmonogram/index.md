@@ -62,7 +62,7 @@ title: Volby do Evropského parlamentu 2019
   </tr>
   <tr>
     <td>29. 4.</td>
-    <td>9:00 - 11:00</td>
+    <td>10:00 - 18:00</td>
     <td>Telč</td>
     <td><span style="font-weight:bold">Piráti do ulic</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/794786364226287/" target="_blank">Facebooková událost</a></u></i></td>
     <td>Hana Hajnová</td>
