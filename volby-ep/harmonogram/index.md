@@ -78,7 +78,7 @@ title: Volby do Evropského parlamentu 2019
   </tr>
   <tr>
     <td>29. 4.</td>
-    <td></td>
+    <td>10:00 - 13:00</td>
     <td>Havlíčkův Brod</td>
     <td><span style="font-weight:bold">Piráti do ulic</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/1959415330847802/" target="_blank">Facebooková událost</a></u></i></td>
     <td>Jan Kerber</td>
@@ -110,10 +110,10 @@ title: Volby do Evropského parlamentu 2019
   </tr>
   <tr>
     <td>4. 5.</td>
-    <td></td>
+    <td>10:00 - 13:00</td>
     <td>Jihlava - Jipice</td>
-    <td><span style="font-weight:bold">Piratecon</span><br>na téma zemědělství</td>
-    <td>hosté - kandidáti</td>
+    <td><span style="font-weight:bold">Piratecon</span><br>Nenechme si prodat půdu pod nohama<br><i><u><a href="https://www.facebook.com/events/390519781792948/" target="_blank">Facebooková událost</a></u></i></td
+    <td>Jan Pošvář, Radek Holomčík, Lukáš Blažej</td>
     <td>jan.posvar(a)pirati.cz</td>
   </tr>
   <tr>
