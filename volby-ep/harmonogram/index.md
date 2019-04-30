@@ -96,8 +96,8 @@ title: Volby do Evropského parlamentu 2019
     <td>2. 5.</td>
     <td>15:00 - 17:00</td>
     <td>Jihlava</td>
-    <td><span style="font-weight:bold">Marcel Kolaja v Jihlavě</span><br>+ kontaktní kampaň</td>
-    <td>Michaela Vodová, Marcel Kolaja, Hana Hajnová</td>
+    <td><span style="font-weight:bold">Marcel Kolaja v Jihlavě</span><br>+ kontaktní kampaň<br><i><u><a href="https://www.facebook.com/events/358156561480233/" target="_blank">Facebooková událost</a></u></i></td>
+    <td>Michaela Vodová, Marcel Kolaja, Tomáš Bouda, Hana Hajnová</td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
   <tr>
