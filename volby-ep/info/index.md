@@ -15,7 +15,7 @@ title: Volby do Evropského parlamentu 2019
 Můžete si také naplánovat vlastní místo na Vysočině.<br><br>
 O noviny a letáky pište na email michaela.vodova(a)pirati.cz nebo volejte 602 276 233.<br><br>
 <u><i><a href="https://www.facebook.com/events/421622075057861/" target="_blank">Celokrajský event na FB</a></i></u><br><br>          
-<b><u>Kontaktní kampaň (rozdej novin a letáků, petiční stany)</u></b><br><br>
+<b><u>Kontaktní kampaň (rozdávání novin a letáků, petiční stany)</u></b><br><br>
 V průběhu května budeme kampaňovat na různých místech na Vysočině. Harmonogram budeme aktualizovat na <u><i><a href="https://vysocina.pirati.cz/volby-ep/harmonogram/">webu</a></i></u> a hlavně v <u><i><a href="https://calendar.google.com/calendar/embed?src=r26esfjiivuu9temt46dholqhs%40group.calendar.google.com&ctz=Europe%2FPrague" target="_blank">kalendáři</a></i></u>, kde najdete i kontakty na organizátory jednotlivých akcí.<br><br>
 Budeme rádi za každou pomoc! Chcete s námi kampaňovat? Dejte vědět organizátorovi akce.<br>
 Dostanete balíček dobrovolníka s pirátským merchem: tričko (musíte nahlásit velikost!), tašku, klíčenku, zapalovač, jojo, otvírák a manuál dobrovolníka pro kontaktní kampaň k posílení vaší argumentace "Proč Evropa potřebuje Piráty".<br><br>
