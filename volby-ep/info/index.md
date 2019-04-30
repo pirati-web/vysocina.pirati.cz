@@ -22,6 +22,7 @@ Dostanete balíček dobrovolníka s pirátským merchem: tričko (musíte nahlá
 <b><u>Outdoor</u></b><br><br>
 Máme asi 300 ks plakátů A3 pro výlep na free plochách po Vysočině (hlavně jde o vesnice a plochy na autobusových zastávkách). Pokud máš zájem o pomoc s výlepem, napiš na ondrej.tuma(a)pirati.cz a domluv se s Ondrou.<br><br>
 <b><u>Kdy na Vysočinu přijede Ivan Bartoš a lídr voleb Marcel Kolaja?</u></b><br><br>
+2. 5. 2019 přijede Marcel Kolaja zahájit kampaň do Jihlavy - od 15 hodin s námi bude na Masarykově náměstí rozdávat noviny a diskutovat s lidmi, od 18 hodin jej pak můžete přijít podpořit na předvolební debatu do Diodu. 
 19. 5. 2019 bude od 14 hodin na náměstí v Havlíčkově Brodě probíhat velká předvolební akce Pirátů, na kterou zavítá Ivan Bartoš s lídrem Marcelem Kolajou a dalšími kandidáty z čela.
       </h2>
     </div>
