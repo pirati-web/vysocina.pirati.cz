@@ -117,14 +117,6 @@ title: Volby do Evropského parlamentu 2019
     <td>jan.posvar(a)pirati.cz</td>
   </tr>
   <tr>
-    <td>6. 5.</td>
-    <td>14:00 - 17:00</td>
-    <td>Třebíč</td>
-    <td><span style="font-weight:bold">Grilování na náměstí</span><br>kontaktní kampaň</td>
-    <td>hosté - kandidáti</td>
-    <td>roman.pasek(a)pirati.cz</td>
-  </tr>
-  <tr>
     <td>7. 5.</td>
     <td>odpoledne</td>
     <td>Havlíčkův Brod</td>
@@ -230,11 +222,11 @@ title: Volby do Evropského parlamentu 2019
   </tr>
   <tr>
     <td>22. 5.</td>
-    <td></td>
+    <td>14:00 - 17:00</td>
     <td>Třebíč</td>
-    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů</td>
-    <td></td>
-    <td>michaela.vodova(a)pirati.cz</td>
+    <td><span style="font-weight:bold">Grilování na náměstí</span><br>kontaktní kampaň</td>
+    <td>hosté - kandidáti</td>
+    <td>roman.pasek(a)pirati.cz</td>
   </tr>
   <tr>
     <td>26. 5.</td>
