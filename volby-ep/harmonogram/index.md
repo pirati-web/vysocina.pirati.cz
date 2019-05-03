@@ -42,7 +42,7 @@ title: Volby do Evropského parlamentu 2019
     <td>Jemnice</td>
     <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/2624098660951556/" target="_blank">Facebooková událost</a></u></i></td>
     <td>Luboš Fuks, Michaela Vodová</td>
-    <td>lubos.fuks(a)pirati.cz</td>
+    <td>michaela.vodova(a)pirati.cz</td>
   </tr>
   <tr>
     <td>13. 5.</td>
@@ -136,7 +136,7 @@ title: Volby do Evropského parlamentu 2019
     <td>23. 5.</td>
     <td>17:00 - 18:00</td>
     <td>JiPiCe, Matky Boží 9, Jihlava</td>
-    <td><span style="font-weight:bold">Povídání o Mapawi</span><br>pracovní zkušenosti Jany K.</td>
+    <td><span style="font-weight:bold">Povídání o Malawi</span><br>pracovní zkušenosti Jany K.</td>
     <td>Jana Koláříková</td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
