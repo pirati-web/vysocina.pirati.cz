@@ -29,11 +29,11 @@ title: Volby do Evropského parlamentu 2019
     <td>jan.posvar(a)pirati.cz</td>
   </tr>
   <tr>
-    <td>7. 5.</td>
-    <td>13:00-16:00</td>
+    <td>6. 5.</td>
+    <td>11:00-14:00</td>
     <td>Havlíčkův Brod</td>
     <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů</td>
-    <td></td>
+    <td>Jan Kerber, Ondřej Škvor, Josef Kořínek, Michaela Vodová</td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
   <tr>
