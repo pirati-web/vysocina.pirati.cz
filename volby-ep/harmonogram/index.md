@@ -21,14 +21,6 @@ title: Volby do Evropského parlamentu 2019
     <th>Kontakt</th>
   </tr>
   <tr>
-    <td>3. 5.</td>
-    <td>dopoledne</td>
-    <td>Humpolec</td>
-    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>petiční stan, rozdávání pirátských listů</td>
-    <td></td>
-    <td>michaela.vodova(a)pirati.cz</td>
-  </tr>
-  <tr>
     <td>4. 5.</td>
     <td>10:00 - 13:00</td>
     <td>Jihlava - Jipice</td>
@@ -51,22 +43,6 @@ title: Volby do Evropského parlamentu 2019
     <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů</td>
     <td>Luboš Fuks, Michaela Vodová</td>
     <td>lubos.fuks(a)pirati.cz</td>
-  </tr>
-  <tr>
-    <td>11. 5.</td>
-    <td></td>
-    <td>Telč</td>
-    <td>Debata na dané téma</td>
-    <td>hosté - kandidáti</td>
-    <td>hana.hajnova(a)pirati.cz</td>
-  </tr>
-  <tr>
-    <td>12. 5.</td>
-    <td>odpoledne</td>
-    <td>Jihlava - Jipice</td>
-    <td><span style="font-weight:bold">Narozeniny Pirátů</span><br>oslava</td>
-    <td></td>
-    <td>michaela.vodova(a)pirati.cz</td>
   </tr>
   <tr>
     <td>13. 5.</td>
