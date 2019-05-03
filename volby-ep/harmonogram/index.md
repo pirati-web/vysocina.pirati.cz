@@ -31,7 +31,7 @@ title: Volby do Evropského parlamentu 2019
   <tr>
     <td>6. 5.</td>
     <td>11:00-14:00</td>
-    <td>Havlíčkův Brod</td>
+    <td>Havlíčkův Brod, náměstí</td>
     <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů</td>
     <td>Jan Kerber, Ondřej Škvor, Josef Kořínek, Michaela Vodová</td>
     <td>michaela.vodova(a)pirati.cz</td>
