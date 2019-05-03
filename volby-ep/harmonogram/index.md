@@ -125,6 +125,22 @@ title: Volby do Evropského parlamentu 2019
     <td>roman.pasek(a)pirati.cz</td>
   </tr>
   <tr>
+    <td>23. 5.</td>
+    <td>14:00 - 16:00</td>
+    <td>Jihlava</td>
+    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů</td>
+    <td>Michaela Vodová, Jana Koláříková</td>
+    <td>michaela.vodova(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>23. 5.</td>
+    <td>17:00 - 18:00</td>
+    <td>JiPiCe, Matky Boží 9, Jihlava</td>
+    <td><span style="font-weight:bold">Povídání o Mapawi</span><br>pracovní zkušenosti Jany K.</td>
+    <td>Jana Koláříková</td>
+    <td>michaela.vodova(a)pirati.cz</td>
+  </tr>
+  <tr>
     <td>26. 5.</td>
     <td>od 14:00</td>
     <td>Jihlava</td>
