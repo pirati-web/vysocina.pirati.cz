@@ -40,7 +40,7 @@ title: Volby do Evropského parlamentu 2019
     <td>9. 5.</td>
     <td>13:00-15:00</td>
     <td>Jemnice</td>
-    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů</td>
+    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/2624098660951556/" target="_blank">Facebooková událost</a></u></i></td>
     <td>Luboš Fuks, Michaela Vodová</td>
     <td>lubos.fuks(a)pirati.cz</td>
   </tr>
