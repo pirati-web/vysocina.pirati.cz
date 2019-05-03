@@ -30,7 +30,7 @@ title: Volby do Evropského parlamentu 2019
   </tr>
   <tr>
     <td>7. 5.</td>
-    <td>odpoledne</td>
+    <td>13:00-16:00</td>
     <td>Havlíčkův Brod</td>
     <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů</td>
     <td></td>
@@ -38,7 +38,7 @@ title: Volby do Evropského parlamentu 2019
   </tr>
   <tr>
     <td>9. 5.</td>
-    <td></td>
+    <td>13:00-15:00</td>
     <td>Jemnice</td>
     <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů</td>
     <td>Luboš Fuks, Michaela Vodová</td>
