@@ -22,6 +22,7 @@ Jihlavský PirateCon se uskutečnil s cílem odpovědět na tři základní otá
 **ODKAZY:**
 
 [Profil Jan Pošvář](https://www.pirati.cz/lide/jan-posvar/)
+
 [Profil Radek Holomčík](https://www.pirati.cz/lide/radek-holomcik/)
 
 
