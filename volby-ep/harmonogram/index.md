@@ -105,7 +105,7 @@ title: Volby do Evropského parlamentu 2019
     <td>14:00-16:00</td>
     <td>Náměšť nad Oslavou</td>
     <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/440855829815482/" target="_blank">Facebooková událost</a></u></i></td>
-    <td>Roman Pašek, Michaela Vodová</td>
+    <td>Roman Pašek</td>
     <td>roman.pasek(a)pirati.cz</td>
   </tr>
   <tr>
