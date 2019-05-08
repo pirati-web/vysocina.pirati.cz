@@ -171,7 +171,7 @@ title: Volby do Evropského parlamentu 2019
     <td>od 11:00</td>
     <td>Den proti úložišti</td>
     <td><span style="font-weight:bold">Kontaktní kampaň</span><br>vyjádření podpory a rozdávání merche<br><i><u><a href="https://www.facebook.com/events/337209930243361/" target="_blank">Facebooková událost</a></u></i></td>
-    <td>Michaela Vodová, Jaroslav Vysoký</td>
+    <td>Michaela Vodová, Jaroslav Vysoký, Jan Pošvář</td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
   <tr>
@@ -216,7 +216,7 @@ title: Volby do Evropského parlamentu 2019
   </tr>
   <tr>
     <td>29. 4.</td>
-    <td>10:00 - 13:00</td>
+    <td>10:00-13:00</td>
     <td>Havlíčkův Brod</td>
     <td><span style="font-weight:bold">Piráti do ulic</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/1959415330847802/" target="_blank">Facebooková událost</a></u></i></td>
     <td>Jan Kerber</td>
@@ -232,18 +232,18 @@ title: Volby do Evropského parlamentu 2019
   </tr>
   <tr>
     <td>2. 5.</td>
-    <td>15:00 - 17:00</td>
+    <td>15:00-17:00</td>
     <td>Jihlava</td>
     <td><span style="font-weight:bold">Marcel Kolaja v Jihlavě</span><br>+ kontaktní kampaň<br><i><u><a href="https://www.facebook.com/events/358156561480233/" target="_blank">Facebooková událost</a></u></i></td>
-    <td>Michaela Vodová, Marcel Kolaja, Tomáš Bouda, Hana Hajnová</td>
+    <td>Michaela Vodová, Marcel Kolaja, Tomáš Bouda, Hana Hajnová, Ondřej Tůma, Pavel Knežik, Petr Kozel, Eva Nováková</td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
   <tr>
     <td>4. 5.</td>
-    <td>10:00 - 13:00</td>
+    <td>10:00-13:00</td>
     <td>Jihlava - Jipice</td>
     <td><span style="font-weight:bold">Piratecon</span><br>Nenechme si prodat půdu pod nohama<br><i><u><a href="https://www.facebook.com/events/390519781792948/" target="_blank">Facebooková událost</a></u></i></td>
-    <td>Jan Pošvář, Radek Holomčík, Lukáš Blažej</td>
+    <td>Jan Pošvář, Radek Holomčík, Lukáš Blažej, Michaela Vodová a další Piráti a hosté</td>
     <td>jan.posvar(a)pirati.cz</td>
   </tr>
   <tr>
