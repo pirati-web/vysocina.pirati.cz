@@ -33,7 +33,7 @@ Detaily jednotlivých akcí řešíme na <u><i><a href="https://forum.pirati.cz/
         <h2 class="t-h4-alt">
           Veškeré info ke kampani, která probíhá na celorepublikové úrovni máte na webu <u><i><a href="https://evropapotrebuje.cz/zapoj-se/" target="_blank">https://evropapotrebuje.cz/zapoj-se/</a></i></u>
 <br><br>
-{% include youtube.html id='3Cg2znFYKc' %}
+{% include youtube.html id='-3Cg2znFYKc' %}
       </h2>
     </div>
 </div>
