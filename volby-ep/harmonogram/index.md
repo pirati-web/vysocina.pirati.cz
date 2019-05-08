@@ -33,7 +33,7 @@ title: Volby do Evropského parlamentu 2019
     <td>11:00-15:00</td>
     <td>Jihlava</td>
     <td><span style="font-weight:bold">Roznos pirátských listů</span><br>do schránek<br> sraz v 11:00 v JiPiCe, Matky Boží 9</td>
-    <td>Eva Nováková, Jan Pošvář</td>
+    <td>Eva Nováková, Jan Pošvář, Tomáš Bouda</td>
     <td>eva.novakova(a)pirati.cz</td>
   </tr>
   <tr>
