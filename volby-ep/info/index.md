@@ -11,9 +11,7 @@ title: Volby do Evropského parlamentu 2019
         <h1 class="c-page-title">Evropa potřebuje Piráty</h1><br>
         <h2 class="t-h4-alt">
           
-{% include youtube.html id='BJpbQsMznnQ' %} 
-<br>
-
+{% include youtube.html id='BJpbQsMznnQ' %}<br><br>
 <b><u>Začínáme 29. 4. akcí Piráti do ulic!</u></b><br><br>
 29. 4. 2019 budeme na několika místech na Vysočině v ulicích rozdávat letáky a noviny. Zapojí se Piráti v Třebíči, Jihlavě, Havlíčkově Brodě, Telči, Jaroměřicích nad Rokytnou, Pelhřimově a Novém Městě na Moravě. Více aktuálních informací najdete v našem <u><i><a href="https://vysocina.pirati.cz/volby-ep/harmonogram/">harmonogramu akcí</a></i></u>, kde jsou i kontaktní údaje lidí, kteří za konkrétní akci zodpovídají. Pokud se chcete přidat ke konkrétní akci na rozdávání letáků a novin, napište na uvedený kontakt a domluvte se s organizátorem akce.<br><br>
 Můžete si také naplánovat vlastní místo na Vysočině.<br><br>
@@ -28,6 +26,8 @@ Máme asi 300 ks plakátů A3 pro výlep na free plochách po Vysočině (hlavn�
 <b><u>Kdy na Vysočinu přijede Ivan Bartoš a lídr voleb Marcel Kolaja?</u></b><br><br>
 <b><u>2. 5. 2019</u></b> přijede Marcel Kolaja zahájit kampaň do Jihlavy - od 15 hodin s námi bude na Masarykově náměstí rozdávat noviny a diskutovat s lidmi, od 18 hodin jej pak můžete přijít podpořit na předvolební debatu do Diodu.<br><br> 
 <b><u>19. 5. 2019</u></b> bude od 14 hodin na náměstí v Havlíčkově Brodě probíhat velká předvolební akce Pirátů, na kterou zavítá Ivan Bartoš s lídrem Marcelem Kolajou a dalšími kandidáty z čela.
+<br><br>
+{% include youtube.html id='HDTAWe1DSko' %}
       </h2>
     </div>
 </div>
