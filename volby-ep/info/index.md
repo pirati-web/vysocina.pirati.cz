@@ -11,7 +11,7 @@ title: Volby do Evropského parlamentu 2019
         <h1 class="c-page-title">Evropa potřebuje Piráty</h1><br>
         <h2 class="t-h4-alt">
           
-{% include youtube.html id='BJpbQsMznnQ&t' %} 
+{% include youtube.html id='BJpbQsMznnQ' %} 
 <br>
 
 <b><u>Začínáme 29. 4. akcí Piráti do ulic!</u></b><br><br>
