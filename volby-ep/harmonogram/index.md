@@ -127,10 +127,18 @@ title: Volby do Evropského parlamentu 2019
   <tr>
     <td>26. 5.</td>
     <td>od 14:00</td>
-    <td>Jihlava</td>
+    <td>JiPiCe, Matky Boží 9, Jihlava</td>
     <td><span style="font-weight:bold">Volební štáb</span><br>sledování výsledků</td>
     <td></td>
     <td>michaela.vodova(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>26. 5.</td>
+    <td>od 14:00</td>
+    <td>Trumpetka, Třebíč</td>
+    <td><span style="font-weight:bold">Volební štáb</span><br>sledování výsledků</td>
+    <td>Roman Pašek</td>
+    <td>roman.pasek(a)pirati.cz</td>
   </tr>
 </table>
 <br><br>
