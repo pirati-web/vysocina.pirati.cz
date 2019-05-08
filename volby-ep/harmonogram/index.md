@@ -21,22 +21,6 @@ title: Volby do Evropského parlamentu 2019
     <th>Kontakt</th>
   </tr>
   <tr>
-    <td>4. 5.</td>
-    <td>10:00 - 13:00</td>
-    <td>Jihlava - Jipice</td>
-    <td><span style="font-weight:bold">Piratecon</span><br>Nenechme si prodat půdu pod nohama<br><i><u><a href="https://www.facebook.com/events/390519781792948/" target="_blank">Facebooková událost</a></u></i></td>
-    <td>Jan Pošvář, Radek Holomčík, Lukáš Blažej</td>
-    <td>jan.posvar(a)pirati.cz</td>
-  </tr>
-  <tr>
-    <td>6. 5.</td>
-    <td>11:00-14:00</td>
-    <td>Havlíčkův Brod, náměstí</td>
-    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/819576305088995/" target="_blank">Facebooková událost</a></u></i></td>
-    <td>Jan Kerber, Ondřej Škvor, Josef Kořínek, Michaela Vodová</td>
-    <td>michaela.vodova(a)pirati.cz</td>
-  </tr>
-  <tr>
     <td>9. 5.</td>
     <td>13:00-15:00</td>
     <td>Jemnice</td>
@@ -46,87 +30,87 @@ title: Volby do Evropského parlamentu 2019
   </tr>
   <tr>
     <td>13. 5.</td>
-    <td>odpoledne</td>
+    <td>14:00-16:00</td>
     <td>Žďár nad Sázavou</td>
-    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů</td>
-    <td></td>
-    <td>michaela.vodova(a)pirati.cz</td>
+    <td><span style="font-weight:bold">Rozdávání pirátských listů do schránek</td>
+    <td>Ondřej Tůma</td>
+    <td>ondrej.tuma(a)pirati.cz</td>
   </tr>
   <tr>
     <td>13. 5.</td>
-    <td></td>
+    <td>14:00-16:00</td>
     <td>Okříšky</td>
-    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů</td>
-    <td></td>
+    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/293280894935466/" target="_blank">Facebooková událost</a></u></i></td>
+    <td>Roman Pašek, Michaela Vodová</td>
     <td>roman.pasek(a)pirati.cz</td>
   </tr>
   <tr>
     <td>14. 5.</td>
-    <td>odpoledne</td>
+    <td>14:00-16:00</td>
     <td>Chotěboř</td>
     <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů</td>
-    <td></td>
+    <td>Ondřej Tůma, Michaela Vodová</td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
   <tr>
     <td>15. 5.</td>
-    <td></td>
+    <td>14:00-16:00</td>
     <td>Moravské Budějovice</td>
-    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů</td>
-    <td></td>
+    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/750877345313504/" target="_blank">Facebooková událost</a></u></i></td>
+    <td>Roman Pašek, Michaela Vodová, Jiřina Ciprová</td>
     <td>roman.pasek(a)pirati.cz</td>
   </tr>
   <tr>
     <td>16. 5.</td>
     <td></td>
     <td>Nové Město na Moravě</td>
-    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>+ debata na dané téma</td>
-    <td>hosté - kandidáti</td>
+    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>+ debata na téma školství</td>
+    <td>Eva Tichá (kandidátka do EP)</td>
     <td>rene.mayer(a)pirati.cz</td>
   </tr>
   <tr>
     <td>17. 5.</td>
     <td>14:00 - 16:00</td>
     <td>Pelhřimov</td>
-    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů</td>
-    <td></td>
+    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/2304861996263460/" target="_blank">Facebooková událost</a></u></i></td>
+    <td>Pavel Knežik, Zdeňka Lišková, Michaela Vodová, Ondřej Tůma</td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
   <tr>
     <td>19. 5.</td>
     <td>14:00 - 22:00</td>
     <td>Havlíčkův Brod</td>
-    <td><span style="font-weight:bold">Velká kontaktní akce s kandidáty</span><br>rozdávání merche a pirátských listů, hudební produkce (Messenjah)</td>
-    <td>Ivan Bartoš, Markéta Gregorová, Marcel Kolaja, Jana Koláříková a další hosté</td>
+    <td><span style="font-weight:bold">Velká kontaktní akce s kandidáty</span><br>rozdávání merche, hudební produkce (MessenJah, AfaRastaFa)<br><i><u><a href="https://www.facebook.com/events/415338429317840/" target="_blank">Facebooková událost</a></u></i></td>
+    <td>Ivan Bartoš, Markéta Gregorová, Marcel Kolaja, Michal Šalomoun, Jan Pošvář a další Piráti a hosté</td>
     <td>jan.kerber(a)pirati.cz</td>
   </tr>
   <tr>
     <td>20. 5.</td>
-    <td>odpoledne</td>
-    <td>Jihlava</td>
-    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů</td>
-    <td></td>
-    <td>michaela.vodova(a)pirati.cz</td>
+    <td>14:00-16:00</td>
+    <td>Jihlava na náměstí</td>
+    <td><span style="font-weight:bold">Autobus v Jihlavě na náměstí, kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="..." target="_blank">Facebooková událost</a></u></i></td>
+    <td>Ondřej Tůma, Michaela Vodová</td>
+    <td>ondrej.tuma(a)pirati.cz</td>
   </tr>
   <tr>
     <td>20. 5.</td>
-    <td></td>
+    <td>14:00-16:00</td>
     <td>Náměšť nad Oslavou</td>
-    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů</td>
-    <td></td>
+    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/440855829815482/" target="_blank">Facebooková událost</a></u></i></td>
+    <td>Roman Pašek, Michaela Vodová</td>
     <td>roman.pasek(a)pirati.cz</td>
   </tr>
   <tr>
     <td>22. 5.</td>
-    <td>14:00 - 17:00</td>
+    <td>14:00-17:00</td>
     <td>Třebíč</td>
     <td><span style="font-weight:bold">Grilování na náměstí</span><br>kontaktní kampaň</td>
-    <td>hosté - kandidáti</td>
+    <td>Lukáš Blažej, Michal Šalomoun, Roman Pašek, Michaela Vodová</td>
     <td>roman.pasek(a)pirati.cz</td>
   </tr>
   <tr>
     <td>23. 5.</td>
-    <td>14:00 - 16:00</td>
+    <td>13:30-15:30</td>
     <td>Jihlava</td>
     <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů</td>
     <td>Michaela Vodová, Jana Koláříková</td>
@@ -134,9 +118,9 @@ title: Volby do Evropského parlamentu 2019
   </tr>
   <tr>
     <td>23. 5.</td>
-    <td>17:00 - 18:00</td>
+    <td>17:00-19:00</td>
     <td>JiPiCe, Matky Boží 9, Jihlava</td>
-    <td><span style="font-weight:bold">Povídání o Malawi</span><br>pracovní zkušenosti Jany K.</td>
+    <td><span style="font-weight:bold">Povídání o Malawi</span></td>
     <td>Jana Koláříková</td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
@@ -244,6 +228,22 @@ title: Volby do Evropského parlamentu 2019
     <td>Jihlava</td>
     <td><span style="font-weight:bold">Marcel Kolaja v Jihlavě</span><br>+ kontaktní kampaň<br><i><u><a href="https://www.facebook.com/events/358156561480233/" target="_blank">Facebooková událost</a></u></i></td>
     <td>Michaela Vodová, Marcel Kolaja, Tomáš Bouda, Hana Hajnová</td>
+    <td>michaela.vodova(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>4. 5.</td>
+    <td>10:00 - 13:00</td>
+    <td>Jihlava - Jipice</td>
+    <td><span style="font-weight:bold">Piratecon</span><br>Nenechme si prodat půdu pod nohama<br><i><u><a href="https://www.facebook.com/events/390519781792948/" target="_blank">Facebooková událost</a></u></i></td>
+    <td>Jan Pošvář, Radek Holomčík, Lukáš Blažej</td>
+    <td>jan.posvar(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>6. 5.</td>
+    <td>11:00-14:00</td>
+    <td>Havlíčkův Brod, náměstí</td>
+    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/819576305088995/" target="_blank">Facebooková událost</a></u></i></td>
+    <td>Jan Kerber, Ondřej Škvor, Josef Kořínek, Michaela Vodová</td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
   </table>
