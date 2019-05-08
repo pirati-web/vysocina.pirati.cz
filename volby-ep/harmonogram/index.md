@@ -32,7 +32,7 @@ title: Volby do Evropského parlamentu 2019
     <td>13. 5.</td>
     <td>14:00-16:00</td>
     <td>Žďár nad Sázavou</td>
-    <td><span style="font-weight:bold">Rozdávání pirátských listů do schránek</td>
+    <td><span style="font-weight:bold">Rozdávání pirátských listů do schránek</span></td>
     <td>Ondřej Tůma</td>
     <td>ondrej.tuma(a)pirati.cz</td>
   </tr>
