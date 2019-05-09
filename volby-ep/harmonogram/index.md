@@ -72,7 +72,7 @@ title: Volby do Evropského parlamentu 2019
     <td>16. 5.</td>
     <td></td>
     <td>Nové Město na Moravě</td>
-    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>+ debata na téma školství</td>
+    <td><span style="font-weight:bold">Klimatická změna a Češi v evropském parlamentu</span><br>beseda s Evou Tichou</td>
     <td>Eva Tichá (kandidátka do EP)</td>
     <td>rene.mayer(a)pirati.cz</td>
   </tr>
