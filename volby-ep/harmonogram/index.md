@@ -21,14 +21,6 @@ title: Volby do Evropského parlamentu 2019
     <th>Kontakt</th>
   </tr>
   <tr>
-    <td>9. 5.</td>
-    <td>13:00-15:00</td>
-    <td>Jemnice</td>
-    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/2624098660951556/" target="_blank">Facebooková událost</a></u></i></td>
-    <td>Luboš Fuks, Michaela Vodová</td>
-    <td>michaela.vodova(a)pirati.cz</td>
-  </tr>
-  <tr>
     <td>11. 5.</td>
     <td>11:00-15:00</td>
     <td>Jihlava</td>
@@ -70,9 +62,9 @@ title: Volby do Evropského parlamentu 2019
   </tr>
   <tr>
     <td>16. 5.</td>
-    <td></td>
+    <td>18:00-20:00</td>
     <td>Nové Město na Moravě</td>
-    <td><span style="font-weight:bold">Klimatická změna a Češi v evropském parlamentu</span><br>beseda s Evou Tichou</td>
+    <td><span style="font-weight:bold">Klimatická změna a Češi v Evropském parlamentu</span><br>beseda s Evou Tichou<br><i><u><a href="https://www.facebook.com/events/2248621921912735/" target="_blank">Facebooková událost</a></u></i></td>
     <td>Eva Tichá (kandidátka do EP)</td>
     <td>rene.mayer(a)pirati.cz</td>
   </tr>
@@ -260,6 +252,14 @@ title: Volby do Evropského parlamentu 2019
     <td>Havlíčkův Brod, náměstí</td>
     <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/819576305088995/" target="_blank">Facebooková událost</a></u></i></td>
     <td>Jan Kerber, Ondřej Tůma, Jan Pošvář, Michaela Vodová</td>
+    <td>michaela.vodova(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>9. 5.</td>
+    <td>13:00-15:00</td>
+    <td>Jemnice</td>
+    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/2624098660951556/" target="_blank">Facebooková událost</a></u></i></td>
+    <td>Luboš Fuks, Michaela Vodová</td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
   </table>
