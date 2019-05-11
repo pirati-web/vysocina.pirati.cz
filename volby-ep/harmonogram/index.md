@@ -48,7 +48,7 @@ title: Volby do Evropského parlamentu 2019
     <td>14. 5.</td>
     <td>14:00-16:00</td>
     <td>Chotěboř</td>
-    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů</td>
+    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/348744259329392/" target="_blank">Facebooková událost</a></u></i></td>
     <td>Ondřej Tůma, Michaela Vodová</td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
@@ -112,7 +112,7 @@ title: Volby do Evropského parlamentu 2019
     <td>23. 5.</td>
     <td>13:30-15:30</td>
     <td>Jihlava</td>
-    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů</td>
+    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/459225221465107/" target="_blank">Facebooková událost</a></u></i></td>
     <td>Michaela Vodová, Jana Koláříková</td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
@@ -120,7 +120,7 @@ title: Volby do Evropského parlamentu 2019
     <td>23. 5.</td>
     <td>17:00-19:00</td>
     <td>JiPiCe, Matky Boží 9, Jihlava</td>
-    <td><span style="font-weight:bold">Povídání o Malawi</span></td>
+    <td><span style="font-weight:bold">Povídání o Malawi</span><br><i><u><a href="https://www.facebook.com/events/459225221465107/" target="_blank">Facebooková událost</a></u></i></td>
     <td>Jana Koláříková</td>
     <td>michaela.vodova(a)pirati.cz</td>
   </tr>
