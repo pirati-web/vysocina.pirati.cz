@@ -21,14 +21,6 @@ title: Volby do Evropského parlamentu 2019
     <th>Kontakt</th>
   </tr>
   <tr>
-    <td>11. 5.</td>
-    <td>11:00-15:00</td>
-    <td>Jihlava</td>
-    <td><span style="font-weight:bold">Roznos pirátských listů</span><br>do schránek<br> sraz v 11:00 v JiPiCe, Matky Boží 9</td>
-    <td>Eva Nováková, Jan Pošvář, Tomáš Bouda</td>
-    <td>eva.novakova(a)pirati.cz</td>
-  </tr>
-  <tr>
     <td>13. 5.</td>
     <td>14:00-16:00</td>
     <td>Žďár nad Sázavou</td>
@@ -261,6 +253,14 @@ title: Volby do Evropského parlamentu 2019
     <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/2624098660951556/" target="_blank">Facebooková událost</a></u></i></td>
     <td>Luboš Fuks, Michaela Vodová</td>
     <td>michaela.vodova(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>11. 5.</td>
+    <td>11:00-15:00</td>
+    <td>Jihlava</td>
+    <td><span style="font-weight:bold">Roznos pirátských listů</span><br>do schránek<br> sraz v 11:00 v JiPiCe, Matky Boží 9</td>
+    <td>Eva Nováková, Jan Pošvář, Tomáš Bouda</td>
+    <td>eva.novakova(a)pirati.cz</td>
   </tr>
   </table>
 <br><br>
