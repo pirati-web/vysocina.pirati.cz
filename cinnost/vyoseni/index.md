@@ -14,7 +14,7 @@ title: VyOsení
 <br>
 <br>
 <div class="row o-section-block c-emphasized-text">
-    <div class="medium-12 large-6 columns">
+    <div class="medium-12 large-12 columns">
         <section class="o-section">
             <div class="o-secion-header o-section-header--bordered">
                 <h3 class="o-section__heading t-h4-super">Plánovaná VyOsení</h3>
@@ -26,7 +26,7 @@ title: VyOsení
             </div>
         </section>
     </div>
-    <div class="medium-12 large-6 columns">
+    <div class="medium-12 large-12 columns">
         <section class="o-section">
             <div class="o-secion-header o-section-header--bordered">
                 <h3 class="o-section__heading t-h4-super">Proběhlá VyOsení</h3>
