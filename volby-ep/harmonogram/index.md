@@ -57,7 +57,7 @@ title: Volby do Evropského parlamentu 2019
     <td>18:00-20:00</td>
     <td>Nové Město na Moravě</td>
     <td><span style="font-weight:bold">Klimatická změna a Češi v Evropském parlamentu</span><br>beseda s Evou Tichou<br><i><u><a href="https://www.facebook.com/events/2248621921912735/" target="_blank">Facebooková událost</a></u></i></td>
-    <td>Eva Tichá (kandidátka do EP)</td>
+    <td>Eva Tichá (kandidátka do EP), Jan Pošvář</td>
     <td>rene.mayer(a)pirati.cz</td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@ title: Volby do Evropského parlamentu 2019
     <td>14:00-16:00</td>
     <td>Jihlava na náměstí</td>
     <td><span style="font-weight:bold">Autobus v Jihlavě na náměstí, kontaktní kampaň</span><br>rozdávání pirátských listů</td>
-    <td>Ondřej Tůma, Michaela Vodová</td>
+    <td>Ondřej Tůma, Michaela Vodová, Jan Pošvář</td>
     <td>ondrej.tuma(a)pirati.cz</td>
   </tr>
   <tr>
@@ -96,8 +96,8 @@ title: Volby do Evropského parlamentu 2019
     <td>22. 5.</td>
     <td>14:00-17:00</td>
     <td>Třebíč</td>
-    <td><span style="font-weight:bold">Grilování na náměstí</span><br>kontaktní kampaň</td>
-    <td>Lukáš Blažej, Michal Šalomoun, Roman Pašek, Michaela Vodová</td>
+    <td><span style="font-weight:bold">Grilování na náměstí</span><br>kontaktní kampaň<br><i><u><a href="https://www.facebook.com/events/291399295068812/" target="_blank">Facebooková událost</a></u></i></td>
+    <td>Lukáš Blažej, Michal Šalomoun, Roman Pašek, Michaela Vodová, Jan Pošvář</td>
     <td>roman.pasek(a)pirati.cz</td>
   </tr>
   <tr>
