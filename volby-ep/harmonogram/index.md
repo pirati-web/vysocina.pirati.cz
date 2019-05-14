@@ -41,7 +41,7 @@ title: Volby do Evropského parlamentu 2019
     <td>18:00-20:00</td>
     <td>Nové Město na Moravě</td>
     <td><span style="font-weight:bold">Klimatická změna a Češi v Evropském parlamentu</span><br>beseda s Evou Tichou<br><i><u><a href="https://www.facebook.com/events/2248621921912735/" target="_blank">Facebooková událost</a></u></i></td>
-    <td>Eva Tichá (kandidátka do EP), Jan Pošvář</td>
+    <td>Eva Tichá (kandidátka do EP), Jan Pošvář, René Mayer, Tomáš Blažek</td>
     <td>rene.mayer(a)pirati.cz</td>
   </tr>
   <tr>
