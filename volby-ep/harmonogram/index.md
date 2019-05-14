@@ -21,22 +21,6 @@ title: Volby do Evropského parlamentu 2019
     <th>Kontakt</th>
   </tr>
   <tr>
-    <td>13. 5.</td>
-    <td>14:00-16:00</td>
-    <td>Žďár nad Sázavou</td>
-    <td><span style="font-weight:bold">Rozdávání pirátských listů do schránek</span></td>
-    <td>Ondřej Tůma</td>
-    <td>ondrej.tuma(a)pirati.cz</td>
-  </tr>
-  <tr>
-    <td>13. 5.</td>
-    <td>14:00-16:00</td>
-    <td>Okříšky</td>
-    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/293280894935466/" target="_blank">Facebooková událost</a></u></i></td>
-    <td>Roman Pašek, Michaela Vodová</td>
-    <td>roman.pasek(a)pirati.cz</td>
-  </tr>
-  <tr>
     <td>14. 5.</td>
     <td>14:00-16:00</td>
     <td>Chotěboř</td>
@@ -261,6 +245,22 @@ title: Volby do Evropského parlamentu 2019
     <td><span style="font-weight:bold">Roznos pirátských listů</span><br>do schránek<br> sraz v 11:00 v JiPiCe, Matky Boží 9</td>
     <td>Eva Nováková, Jan Pošvář, Tomáš Bouda</td>
     <td>eva.novakova(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>13. 5.</td>
+    <td>14:00-16:00</td>
+    <td>Žďár nad Sázavou</td>
+    <td><span style="font-weight:bold">Rozdávání pirátských listů do schránek</span></td>
+    <td>Ondřej Tůma</td>
+    <td>ondrej.tuma(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>13. 5.</td>
+    <td>14:00-16:00</td>
+    <td>Okříšky</td>
+    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/293280894935466/" target="_blank">Facebooková událost</a></u></i></td>
+    <td>Roman Pašek, Michaela Vodová</td>
+    <td>roman.pasek(a)pirati.cz</td>
   </tr>
   </table>
 <br><br>
