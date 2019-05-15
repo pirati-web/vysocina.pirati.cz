@@ -64,7 +64,7 @@ title: Volby do Evropského parlamentu 2019
     <td>20. 5.</td>
     <td>14:00-16:00</td>
     <td>Jihlava na náměstí</td>
-    <td><span style="font-weight:bold">Autobus v Jihlavě na náměstí, kontaktní kampaň</span><br>rozdávání pirátských listů</td>
+    <td><span style="font-weight:bold">Autobus v Jihlavě na náměstí, kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/597032544040718/" target="_blank">Facebooková událost</a></u></i></td>
     <td>Ondřej Tůma, Michaela Vodová, Jan Pošvář</td>
     <td>ondrej.tuma(a)pirati.cz</td>
   </tr>
