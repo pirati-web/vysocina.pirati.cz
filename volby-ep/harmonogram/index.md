@@ -21,38 +21,6 @@ title: Volby do Evropského parlamentu 2019
     <th>Kontakt</th>
   </tr>
   <tr>
-    <td>14. 5.</td>
-    <td>14:00-16:00</td>
-    <td>Chotěboř</td>
-    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/348744259329392/" target="_blank">Facebooková událost</a></u></i></td>
-    <td>Ondřej Tůma, Michaela Vodová</td>
-    <td>michaela.vodova(a)pirati.cz</td>
-  </tr>
-  <tr>
-    <td>15. 5.</td>
-    <td>14:00-16:00</td>
-    <td>Moravské Budějovice</td>
-    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/750877345313504/" target="_blank">Facebooková událost</a></u></i></td>
-    <td>Roman Pašek, Michaela Vodová, Jiřina Ciprová</td>
-    <td>roman.pasek(a)pirati.cz</td>
-  </tr>
-  <tr>
-    <td>16. 5.</td>
-    <td>18:00-20:00</td>
-    <td>Nové Město na Moravě</td>
-    <td><span style="font-weight:bold">Klimatická změna a Češi v Evropském parlamentu</span><br>beseda s Evou Tichou<br><i><u><a href="https://www.facebook.com/events/2248621921912735/" target="_blank">Facebooková událost</a></u></i></td>
-    <td>Eva Tichá (kandidátka do EP), Jan Pošvář, René Mayer, Tomáš Blažek</td>
-    <td>rene.mayer(a)pirati.cz</td>
-  </tr>
-  <tr>
-    <td>17. 5.</td>
-    <td>14:00 - 16:00</td>
-    <td>Pelhřimov</td>
-    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/2304861996263460/" target="_blank">Facebooková událost</a></u></i></td>
-    <td>Pavel Knežik, Zdeňka Lišková, Michaela Vodová, Ondřej Tůma</td>
-    <td>michaela.vodova(a)pirati.cz</td>
-  </tr>
-  <tr>
     <td>19. 5.</td>
     <td>14:00 - 22:00</td>
     <td>Havlíčkův Brod</td>
@@ -73,7 +41,7 @@ title: Volby do Evropského parlamentu 2019
     <td>14:00-16:00</td>
     <td>Náměšť nad Oslavou</td>
     <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/440855829815482/" target="_blank">Facebooková událost</a></u></i></td>
-    <td>Roman Pašek</td>
+    <td>Roman Pašek, Standa Neuman</td>
     <td>roman.pasek(a)pirati.cz</td>
   </tr>
   <tr>
@@ -261,6 +229,38 @@ title: Volby do Evropského parlamentu 2019
     <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/293280894935466/" target="_blank">Facebooková událost</a></u></i></td>
     <td>Roman Pašek, Michaela Vodová</td>
     <td>roman.pasek(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>14. 5.</td>
+    <td>14:00-16:00</td>
+    <td>Chotěboř</td>
+    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/348744259329392/" target="_blank">Facebooková událost</a></u></i></td>
+    <td>Ondřej Tůma, Michaela Vodová</td>
+    <td>michaela.vodova(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>15. 5.</td>
+    <td>14:00-16:00</td>
+    <td>Moravské Budějovice</td>
+    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/750877345313504/" target="_blank">Facebooková událost</a></u></i></td>
+    <td>Roman Pašek, Michaela Vodová, Jiřina Ciprová</td>
+    <td>roman.pasek(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>16. 5.</td>
+    <td>18:00-20:00</td>
+    <td>Nové Město na Moravě</td>
+    <td><span style="font-weight:bold">Klimatická změna a Češi v Evropském parlamentu</span><br>beseda s Evou Tichou<br><i><u><a href="https://www.facebook.com/events/2248621921912735/" target="_blank">Facebooková událost</a></u></i></td>
+    <td>Eva Tichá (kandidátka do EP), Jan Pošvář, René Mayer, Tomáš Blažek</td>
+    <td>rene.mayer(a)pirati.cz</td>
+  </tr>
+  <tr>
+    <td>17. 5.</td>
+    <td>14:00 - 16:00</td>
+    <td>Pelhřimov</td>
+    <td><span style="font-weight:bold">Kontaktní kampaň</span><br>rozdávání pirátských listů<br><i><u><a href="https://www.facebook.com/events/2304861996263460/" target="_blank">Facebooková událost</a></u></i></td>
+    <td>Pavel Knežik, Zdeňka Lišková, Michaela Vodová, Ondřej Tůma</td>
+    <td>michaela.vodova(a)pirati.cz</td>
   </tr>
   </table>
 <br><br>
