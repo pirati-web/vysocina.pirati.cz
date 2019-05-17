@@ -13,7 +13,7 @@ image: posts/2019-05-17-hb-piratsky-den.jpg
 
 Na akci zavítá Ivan Bartoš a několik předních kandidátů do Evropského parlamentu - Markétka Gregorová, Marcel Kolaja, Michal Šalomoun i mnoho dalších představitelů Pirátské strany včetně našeho poslance Jana Pošváře.
 
-Odpoledne se můžete těšit na hudební vystoupení Meesenjah a AfaRastaFa. A mezitím spousta další zábavy - skákací pirátská loď, občerstvení, stánky, pirátské listy a mnoho dalšího!
+Odpoledne se můžete těšit na hudební vystoupení Messenjah a AfaRastaFa. A mezitím spousta další zábavy - skákací pirátská loď, občerstvení, stánky, pirátské listy a mnoho dalšího!
 
 LINE UP:
 
