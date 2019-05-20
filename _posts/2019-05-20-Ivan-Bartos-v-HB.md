@@ -1,5 +1,5 @@
 ---
-date: 2019-05-13
+date: 2019-05-20
 category: blog
 tags: Evropa potřebuje Piráty
 layout: post
