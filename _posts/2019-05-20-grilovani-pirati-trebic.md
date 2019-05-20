@@ -20,6 +20,8 @@ Diskutovat se bude o boji s klimatickou změnou, životním prostředí i autors
 ---
 *ODKAZY*
 
+[Facebooková událost](https://www.facebook.com/events/291399295068812/)
+
 [Evropa potřebuje Piráty](https://evropapotrebuje.cz/)
 
 *Kontakty pro média:*
