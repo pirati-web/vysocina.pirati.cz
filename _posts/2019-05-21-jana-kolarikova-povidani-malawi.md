@@ -3,7 +3,7 @@ date: 2019-05-21
 category: blog
 tags: Evropa potřebuje Piráty
 layout: post
-title: Jak se žije v zemi, kde se chodí spát se západem slunce?
+title: Jak se žije v zemi, kde se chodí spát se západem slunce
 author: Hana Hajnová
 authorId: hana.hajnova
 image: posts/2019-05-21-jana-kolarikova-povidani-malawi.jpg
