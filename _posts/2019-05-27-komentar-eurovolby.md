@@ -1,9 +1,9 @@
 ---
 date: 2019-05-27
 category: blog
-tags: eurovolby výsledky Vysočina
+tags: komentář eurovolby výsledky Vysočina
 layout: post
-title: Komentář - I na Vysočině Piráti posílili ve svých preferencích
+title: I na Vysočině Piráti posílili ve svých preferencích
 author: Hana Hajnová
 authorId: hana.hajnova
 image: posts/2019-05-27-komentar-eurovolby.jpg
