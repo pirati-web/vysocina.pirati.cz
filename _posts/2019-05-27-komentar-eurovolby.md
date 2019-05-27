@@ -18,7 +18,7 @@ To potvrzuje i předsedkyně Pirátů na Vysočině Michaela Vodová: *„Já by
 ---
 **ODKAZY**
 
-Úvodní obrázek: [zdroj](https://ct24.ceskatelevize.cz/specialy/volby-do-evropskeho-parlamentu-2019/2825486-ano-bodovalo-na-mostecku-ods-v-praze-a-okoli-a)
+Úvodní obrázek: [zdroj web ČT24](https://ct24.ceskatelevize.cz/specialy/volby-do-evropskeho-parlamentu-2019/2825486-ano-bodovalo-na-mostecku-ods-v-praze-a-okoli-a)
 
 **Kontakty pro média:**
 
