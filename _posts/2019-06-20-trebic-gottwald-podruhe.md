@@ -3,7 +3,7 @@ date: 2019-06-20
 category: blog
 tags: komentář zastupitelstvo Třebíč
 layout: post
-title: Komentář - Ani na podruhé se nepodařilo v Třebíči odjemout čestné občanství Klementu Gottwaldovi
+title: Ani na podruhé se nepodařilo v Třebíči odjemout čestné občanství Klementu Gottwaldovi
 author: Hana Hajnová
 authorId: hana.hajnova  
 image: posts/2019-06-20-trebic-gottwald-podruhe.jpg
