@@ -41,6 +41,5 @@ title: Ukliďme Česko
                 </ul>
             </div>
         </section>
-    </div>
-    
+    </div> 
 </div>
