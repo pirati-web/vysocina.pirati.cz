@@ -8,7 +8,7 @@ title: Pirátské listy
 <div class="pce-hero pce-hero--entry">
     <div class="pce-hero__content">
         <h1 class="c-page-title">Pirátské listy</h1><br><br>
-        <h2 class="t-h4-alt">Pirátské listy jsou blablablablablablabla...</h2>
+        <h2 class="t-h4-alt">Pirátské listy jsou občasníkem České pirátské strany.</h2>
     </div>
 </div>
 <br>
