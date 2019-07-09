@@ -32,6 +32,7 @@ title: Piratecony
             </div>
             <div class="u-1margin--top">
                 <ul>
+                    <li><a href="https://www.piratskelisty.cz/clanek-2361-nedostupna-puda-je-skrytou-tikajici-bombou-naseho-zemedelstvi" target="_blank">Nenechme si prodat půdu pod nohama!</a></li>    
                     <li><a href="https://wiki.pirati.cz/regiony/vysocina/piratecon" target="_blank">Piratecon ke komunálu 2018 - Vysočina</a></li>                    
                 </ul>
             </div>
