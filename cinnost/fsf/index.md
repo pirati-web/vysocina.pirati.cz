@@ -47,10 +47,7 @@ title: Festival svobodných filmů
             </div>
         </section>
     </div>
-    
 </div>
-
-
 
 <div class="row o-section-block c-emphasized-text">
     <div class="medium-12 large-12 columns">
@@ -63,8 +60,7 @@ title: Festival svobodných filmů
 </div>
 
 <div class="medium-12 large-6 columns">
-  <section class="o-section">
-              
+  <section class="o-section">              
             <div class="c-program-candidate-badge"> 
               <div class="c-program-candidate-badge__avatar">
                 <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsf/cosmos-laundromat.png" style="margin:5px 0px">
@@ -79,8 +75,7 @@ title: Festival svobodných filmů
                 <li style="margin-left: 10px;"><a href="https://www.blender.org/foundation/" target="_blank" rel="noopener">Blender Foundation</a></li>    
                 </strong>
               </div>
-            </div>                     
-            
+            </div>                         
             <div class="c-program-candidate-badge"> 
               <div class="c-program-candidate-badge__avatar">
                 <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsf/elephants-dream.png" style="margin:5px 0px">
@@ -99,10 +94,8 @@ title: Festival svobodných filmů
   </section>          
 </div>
 
-
 <div class="medium-12 large-6 columns">
-  <section class="o-section">
-            
+  <section class="o-section">            
             <div class="c-program-candidate-badge"> 
               <div class="c-program-candidate-badge__avatar">
                 <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsf/sintel.png" style="margin:5px 0px">
@@ -117,8 +110,7 @@ title: Festival svobodných filmů
                 <li style="margin-left: 10px;"><a href="https://www.blender.org/foundation/" target="_blank" rel="noopener">Blender Foundation</a></li>    
                 </strong>
               </div>
-            </div>
-            
+            </div>            
             <div class="c-program-candidate-badge"> 
               <div class="c-program-candidate-badge__avatar">
                 <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsf/tears-of-steel.png" style="margin:5px 0px">
