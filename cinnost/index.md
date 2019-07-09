@@ -45,15 +45,15 @@ title: Činnost Pirátů v kraji
     </div>
     <div class="columns medium-4">
       <div class="o-section-header o-section-header--bordered">
-        <h3 class="o-section__heading t-h4-alt">VyOsení</h3>
-      </div>
-      <a href="/cinnost/vyoseni/"><img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/vyoseni.jpg" alt="VyOsení" style="margin:10px 0px"></a>
-    </div>
-    <div class="columns medium-4">
-      <div class="o-section-header o-section-header--bordered">
         <h3 class="o-section__heading t-h4-alt">Festival svobodných filmů</h3>
       </div>
       <a href="/cinnost/fsf/"><img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsf.jpg" alt="Festival svobodných filmů" style="margin:10px 0px"></a>
     </div>
+    <div class="columns medium-4">
+      <div class="o-section-header o-section-header--bordered">
+        <h3 class="o-section__heading t-h4-alt">VyOsení</h3>
+      </div>
+      <a href="/cinnost/vyoseni/"><img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/vyoseni.jpg" alt="VyOsení" style="margin:10px 0px"></a>
+    </div>    
   </div>
 </div>
