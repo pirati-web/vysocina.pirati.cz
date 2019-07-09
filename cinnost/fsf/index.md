@@ -20,7 +20,8 @@ title: Festival svobodných filmů
                 <h3 class="o-section__heading t-h4-super">Plánované festivaly</h3>
             </div>
             <div class="u-1margin--top">
-                <ul>                     
+                <ul>  
+                    <li><a href="">9. srpna 2019 - Třebíč</a></li>
                 </ul>
             </div>
         </section>
