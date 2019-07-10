@@ -44,7 +44,28 @@ title: Piratecon ke komunálu 2018 - Vysočina
                 <h3 class="o-section__heading t-h4-super">Program</h3>
             </div>
             <div class="u-1margin--top">
-                
+                <table>
+                  <tr>
+                    <td>10:30 - 11:00</td>
+                    <td>Registrace</td>
+                  </tr>
+                  <tr>
+                    <td>11:00 - 12:00</td>
+                    <td>Brněnský model participativního rozpočtování - <i>Tomáš Koláčný</i></td>
+                  </tr>
+                  <tr>
+                    <td>12:00 - 13:00</td>
+                    <td>Sdílení zkušeností z kampaně v Chrudimi: marketing, program, sturktura - <i>Pavel Štěpánek</i></td>
+                  </tr>
+                  <tr>
+                    <td>13:00 - 14:00</td>
+                    <td>Financování kampaně - <i>Hana Hajnová, Jiří Hoskovec</i></td>
+                  </tr>
+                  <tr>
+                    <td>14:00 - 15:00</td>
+                    <td>Technické, administrativní záležitosti (podmínky kandidatury, zmocněnec, OVK apod.) - <i>Michaela Vodová, Tobias Esner</i></td>
+                  </tr>
+                </table>
             </div>
         </section>
     </div>
