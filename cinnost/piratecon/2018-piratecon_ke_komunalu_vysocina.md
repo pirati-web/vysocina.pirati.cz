@@ -10,8 +10,6 @@ title: Piratecon ke komunálu 2018 - Vysočina
         <h1 class="c-page-title">Piratecon ke komunálu 2018 - Vysočina</h1><br><br>        
     </div>
 </div>
-<br>
-<br>
 <div class="row o-section-block c-emphasized-text">
     <div class="medium-12 large-12 columns">
         <section class="o-section">
@@ -30,11 +28,11 @@ title: Piratecon ke komunálu 2018 - Vysočina
                   </tr>
                   <tr>
                     <td>Facebooková událost</td>
-                    <td>https://www.facebook.com/events/237669836791274/</td>
+                    <td><a href="https://www.facebook.com/events/237669836791274/" target="_blank">https://www.facebook.com/events/237669836791274/</a></td>
                   </tr>
                   <tr>
                     <td>Vlákno na fóru</td>
-                    <td>https://forum.pirati.cz/viewtopic.php?f=84&amp;t=40959</td>
+                    <td><a href="https://forum.pirati.cz/viewtopic.php?f=84&t=40959" target="_blank">https://forum.pirati.cz/viewtopic.php?f=84&t=40959</a></td>
                   </tr>
                 </table>
             </div>
