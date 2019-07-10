@@ -33,7 +33,7 @@ title: Piratecon ke komunálu 2018 - Vysočina
                   <tr>
                     <td>Vlákno na fóru</td>
                     <td><a href="https://forum.pirati.cz/viewtopic.php?f=84&t=40959" target="_blank">https://forum.pirati.cz/viewtopic.php?f=84&t=40959</a></td>
-                  </tr>
+                  </tr>                  
                 </table>
             </div>
         </section>
@@ -122,6 +122,33 @@ title: Piratecon ke komunálu 2018 - Vysočina
                   <tr>
                     <td>Administrace voleb - Tobias Esner (pokračování); Ukončení Pirateconu</td>
                     <td><a href="https://www.youtube.com/watch?v=2QUy5N-HfbQ" target="_blank">https://www.youtube.com/watch?v=2QUy5N-HfbQ</a></td>
+                  </tr>
+                </table>
+            </div>
+        </section>
+    </div>
+    <div class="medium-12 large-12 columns">
+        <section class="o-section">
+            <div class="o-secion-header o-section-header--bordered">
+                <h3 class="o-section__heading t-h4-super">Vyúčtování</h3>
+            </div>
+            <div class="u-1margin--top">
+                <table>
+                  <tr>
+                    <td>FO 689/2018 - Cestovné Koláčný</td>
+                    <td><a href="https://piroplaceni.pirati.cz/zadost/685/" target="_blank">https://piroplaceni.pirati.cz/zadost/685/</a></td>                    
+                  </tr>
+                  <tr>
+                    <td>FO 690/2018 - Cestovné Hoskovec</td>
+                    <td><a href="https://piroplaceni.pirati.cz/zadost/686/" target="_blank">https://piroplaceni.pirati.cz/zadost/686/</a></td>
+                  </tr>
+                  <tr>
+                    <td>FO 691/2018 - Cestovné Hajnová</td>
+                    <td><a href="https://piroplaceni.pirati.cz/zadost/687/" target="_blank">https://piroplaceni.pirati.cz/zadost/687/</a></td>
+                  </tr>
+                  <tr>
+                    <td>FO 10903/2018 - Občerstvení</td>
+                    <td><a href="https://piroplaceni.pirati.cz/zadost/3848/" target="_blank">https://piroplaceni.pirati.cz/zadost/3848/</a></td>
                   </tr>
                 </table>
             </div>
