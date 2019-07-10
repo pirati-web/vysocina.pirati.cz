@@ -116,7 +116,7 @@ title: Piratecon ke komunálu 2018 - Vysočina
                     <td><a href="https://www.youtube.com/watch?v=iNciWJ-IaKM" target="_blank">https://www.youtube.com/watch?v=iNciWJ-IaKM</a></td>
                   </tr>
                   <tr>
-                    <td>Financování kampaně - Jiří Hoskovec a Hana Hajnová, Administrace voleb - Tobias Esner (necelé)</td>
+                    <td>Financování kampaně - Jiří Hoskovec a Hana Hajnová; Administrace voleb - Tobias Esner (necelé)</td>
                     <td><a href="https://www.youtube.com/watch?v=UiZmTCUSAPM" target="_blank">https://www.youtube.com/watch?v=UiZmTCUSAPM</a></td>
                   </tr>
                   <tr>
