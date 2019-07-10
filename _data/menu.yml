@@ -8,7 +8,7 @@ top:
   - link: "Pirátské listy"
     url:  "http://www.piratskelisty.cz"
     icon: "fa fa-newspaper-o"
-  - link: "Nalodění"
+  - link: "Naloď se!"
     url:  "http://nalodeni.pirati.cz"
     icon: "fa fa-anchor"
   - link: "Uplynulé volby"
@@ -100,13 +100,13 @@ bottom:
       - link: /kontakt/
         name: Dej nám vědět
       - link: https://nalodeni.pirati.cz
-        name: Nalodění
+        name: Naloď se!
   - class: small-12 medium-4
     title: Makáme
     links:
       - link: /lide/
         name: Lidé
-      - link: /komunalni-volby/
+      - link: https://vysocina.pirati.cz/komunalni-volby
         name: Volby
       - link: /aktuality/
         name: Aktuality
