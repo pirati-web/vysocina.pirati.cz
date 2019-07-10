@@ -75,7 +75,28 @@ title: Piratecon ke komunálu 2018 - Vysočina
                 <h3 class="o-section__heading t-h4-super">Prezentace</h3>
             </div>
             <div class="u-1margin--top">
-                
+                <table>
+                  <tr>
+                    <td>Administrativa komunálních voleb 2018</td>
+                    <td><a href="">PDF</a></td>
+                    <td><a href="">ODP</a></td>
+                  </tr>
+                  <tr>
+                    <td>Brněnský model participativního rozpočtování</td>
+                    <td><a href="">PDF</a></td>
+                    <td><a href="">PPTX</a></td>
+                  </tr>
+                  <tr>
+                    <td>Komunální kampaň 2018</td>
+                    <td><a href="">PDF</a></td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td>Financování kampaně</td>
+                    <td><a href="">PDF</a></td>
+                    <td><a href="">PPTX</a></td>
+                  </tr>
+                </table>
             </div>
         </section>
     </div>
