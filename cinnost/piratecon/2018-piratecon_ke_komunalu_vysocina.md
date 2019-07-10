@@ -103,10 +103,27 @@ title: Piratecon ke komunálu 2018 - Vysočina
     <div class="medium-12 large-12 columns">
         <section class="o-section">
             <div class="o-secion-header o-section-header--bordered">
-                <h3 class="o-section__heading t-h4-super">Fotky a videa</h3>
+                <h3 class="o-section__heading t-h4-super">Videozáznam</h3>
             </div>
             <div class="u-1margin--top">
-                
+                <table>
+                  <tr>
+                    <td>Brněnský model participativního rozpočtování - Tomáš Koláčný</td>
+                    <td><a href="https://www.youtube.com/watch?v=SS6jf_8SbjM" target="_blank">https://www.youtube.com/watch?v=SS6jf_8SbjM</a></td>
+                  </tr>
+                  <tr>
+                    <td>Plán kampaně - Pavel Štěpánek; Co po volbách - apel od Hany Hajnové</td>
+                    <td><a href="https://www.youtube.com/watch?v=iNciWJ-IaKM" target="_blank">https://www.youtube.com/watch?v=iNciWJ-IaKM</a></td>
+                  </tr>
+                  <tr>
+                    <td>Financování kampaně - Jiří Hoskovec a Hana Hajnová, Administrace voleb - Tobias Esner (necelé)</td>
+                    <td><a href="https://www.youtube.com/watch?v=UiZmTCUSAPM" target="_blank">https://www.youtube.com/watch?v=UiZmTCUSAPM</a></td>
+                  </tr>
+                  <tr>
+                    <td>Administrace voleb - Tobias Esner (pokračování); Ukončení Pirateconu</td>
+                    <td><a href="https://www.youtube.com/watch?v=2QUy5N-HfbQ" target="_blank">https://www.youtube.com/watch?v=2QUy5N-HfbQ</a></td>
+                  </tr>
+                </table>
             </div>
         </section>
     </div>
