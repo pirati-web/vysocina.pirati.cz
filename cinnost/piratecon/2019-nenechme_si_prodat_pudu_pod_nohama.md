@@ -80,7 +80,7 @@ title: Piratecon ke komunálu 2018 - Vysočina
                   <tr>
                     <td>Reálný příklad z praxe Permafarmy Veselice</td>
                     <td><a href="https://github.com/pirati-web/vysocina.pirati.cz/raw/master/assets/piratecon/2019_01_veselice.pdf">PDF</a></td>
-                    <td><a href="https://github.com/pirati-web/vysocina.pirati.cz/raw/master/assets/piratecon/2019_01_veselice.pptx">PPTX</a></td>
+                    <td></td>
                   </tr>                  
                   <tr>
                     <td>Společnost mladých agrárníků ČR</td>
