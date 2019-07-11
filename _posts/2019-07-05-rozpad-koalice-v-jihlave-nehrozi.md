@@ -20,6 +20,8 @@ Pochybnosti o další spolupráci koaličních stran vyvolala rezignace náměst
 
 Dle [tiskové zprávy](https://www.jihlava.cz/rozpad-koalice-nehrozi/d-533737?fbclid=IwAR3GoKsh4pBgciJ0_ldYTWd3HzbuBXMrwCp_sOyxHuXKFL-4yfybdnN078g) města Jihlavy.
 
+EDIT: **9.7. vyšlo [tiskové vyjádření města Jihlavy](https://jihlava.cz/tiskove-vyjadreni-vedeni-mesta-jihlavy/d-533758?fbclid=IwAR108Aa98LpQb8SNfvKJikLSptqgL0VnEEtFc6Pxbt-4N99ZWKTq2irLDoU), které objasňuje pozadí celého postupu.**
+
 ---
 
 *Kontakt pro média*
