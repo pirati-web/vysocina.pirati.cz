@@ -6,7 +6,7 @@ layout: post
 title: Hlášení od zastupitelského kormidla v Havlíčkově Brodě
 author: Jan Kerber
 authorId: jan.kerber
-image: posts/2019-07-09-pravidelne-hlaseni-od-kormidel-hb.jpg
+image: posts/2019-07-09-pravidelne-hlaseni-od-kormidel-hb_1.jpg
 ---
 
 *Havlíčkův Brod, 9. července 2019* - Kromě zastupitelstva sedím v Brodě také v dozorčí radě městského kina a divadla Ostrov, kde se toho v poslední době řešilo docela dost. Předně bylo pro zastupitelstvo určitě dobrou zprávou, že se asi poprvé po pěti letech podařilo uzavřít loňský rok v plusových číslech. Sice jenom o 34 tisíc, ale oproti ztrátám v minulých letech, se to hnedka lépe počítá. Navíc Ostrov letos čekají dvě docela zajímavé výzvy – tou první je převzetí organizace vánočních trhů, s jejichž stávající podobou byl spokojen málokdo, a tou druhou je „provoz“ klášterního kostela, který se letos na jaře uzavřel a hledal se pro něj nový provozovatel. Tím tedy bude nově Kino a divadlo Ostrov, které musí nejdříve zjistit, jak to tam vypadá, co všechno bude třeba a pak zkusí najít cesty, jak tuto památku opravit a znovu zpřístupnit veřejnosti.
