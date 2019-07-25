@@ -7,8 +7,8 @@ title: Piratecony
 
 <div class="pce-hero pce-hero--entry">
     <div class="pce-hero__content">
-        <h1 class="c-page-title">Piatecony</h1><br><br>
-        <h2 class="t-h4-alt">Piratecon je označení pro neformální pirátské konference, které se týkají různých témat. </h2>
+        <h1 class="c-page-title">Piatecon</h1><br><br>
+        <h2 class="t-h4-alt">Pirátská neformální konference nebo také setkání Pirátů k zásadním politickým tématům. Dá se také říct pirátská série přednášek na dané téma, na které nechybí stream. Anebo se to dá říct ještě jinak. Zkrátka jak kdo chce, ale nikdy stejně.</h2>
     </div>
 </div>
 <br>
