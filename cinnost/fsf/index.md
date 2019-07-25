@@ -8,7 +8,7 @@ title: Festival svobodných filmů
 <div class="pce-hero pce-hero--entry">
     <div class="pce-hero__content">
         <h1 class="c-page-title">Festival svobodných filmů</h1><br><br>
-        <h2 class="t-h4-alt"> Festival svobodných filmů především není jakkoli centrálně řízená ani formálně zaštiťovaná činnost. Vznikla spontánně na jaře 2013, když Piráti na Vysočině tříbili nápady na akce v době, kdy zrovna nezuřila žádná volební kampaň. Spojit příjemné s poučným a naplnit přání tvůrců, když navíc veškeré podklady jsou volně k dispozici, se přímo nabízelo. Stačilo jen spojit dohromady pár existujících přednášek od Jakuba Michálka a Marcela Kolaji a svobodné filmy ke sdílení s radostí poskytují sami autoři.</h2>
+        <h2 class="t-h4-alt">Festival svobodných filmů vznikl spontánně již na jaře roku 2013, když Piráti na Vysočině tříbili nápady na akce v době, kdy nebyli vytížení žádnou volební kampaní. Spojit příjemné s poučným a naplnit přání tvůrců, když navíc veškeré podklady jsou volně k dispozici, se přímo nabízelo. Stačilo jen spojit dohromady pár existujících přednášek od Jakuba Michálka a Marcela Kolaji a svobodné filmy ke sdílení s radostí poskytují autoři sami.</h2>
     </div>
 </div>
 <br>
