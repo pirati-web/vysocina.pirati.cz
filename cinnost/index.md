@@ -19,9 +19,9 @@ title: Činnost Pirátů v kraji
   <div class="row">
     <div class="columns medium-4">
       <div class="o-section-header o-section-header--bordered">
-        <h3 class="o-section__heading t-h4-alt">Piratecony</h3>
+        <h3 class="o-section__heading t-h4-alt">Festival svobodné kulury</h3>
       </div>
-      <a href="/cinnost/piratecon/"><img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/piratecon.jpg" alt="Piratecony" style="margin:10px 0px"></a>
+      <a href="/cinnost/fsk/"><img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk.jpg" alt="Festival svobodné kulury" style="margin:10px 0px"></a>
     </div>
     <div class="columns medium-4">
       <div class="o-section-header o-section-header--bordered">
@@ -39,10 +39,10 @@ title: Činnost Pirátů v kraji
   <div class="row">
     <div class="columns medium-4">
       <div class="o-section-header o-section-header--bordered">
-        <h3 class="o-section__heading t-h4-alt">Festival svobodné kulury</h3>
+        <h3 class="o-section__heading t-h4-alt">Piratecony</h3>
       </div>
-      <a href="/cinnost/fsk/"><img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk.jpg" alt="Festival svobodné kulury" style="margin:10px 0px"></a>
-    </div>
+      <a href="/cinnost/piratecon/"><img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/piratecon.jpg" alt="Piratecony" style="margin:10px 0px"></a>
+    </div>    
     <div class="columns medium-4">
       <div class="o-section-header o-section-header--bordered">
         <h3 class="o-section__heading t-h4-alt">Festival svobodných filmů</h3>
