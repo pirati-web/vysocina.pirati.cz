@@ -1,5 +1,5 @@
 ---
-date: 2019-07-23
+date: 2019-07-31
 category: blog
 tags: Rozhovor Mario Pospíšil
 layout: post
