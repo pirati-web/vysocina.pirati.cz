@@ -15,9 +15,9 @@ Termín svobodná kultura vešel v širší povědomí v roce 2004, kdy Lawrence
 
 Termíny konání jsou:
 
-* 21. 9. 2019 [Havlíčkův Brod](https://www.facebook.com/events/408029136496136)
-* 27. 9. 2019 [Třebíč](https://www.facebook.com/events/475204009911769)
-* 5. 10. 2019 [Jihlava](https://www.facebook.com/events/493176581450962)
+21. 9. 2019 [Havlíčkův Brod](https://www.facebook.com/events/408029136496136)
+27. 9. 2019 [Třebíč](https://www.facebook.com/events/475204009911769)
+5. 10. 2019 [Jihlava](https://www.facebook.com/events/493176581450962)
 
 A teď to nejdůležitější – **pro tento multižánrový festival hledáme umělce a umělkyně** (malby, sochy, hudba, fotografie, divadlo, slam poetry, tanec, prostě cokoliv spojeného s uměním více či méně známým), **kteří by se na něm rádi prezentovali**. V jednom či ve všech třech městech, odpoledne či večer, důležitý je jen společný jmenovatel – a tím je svoboda tvorby.
 
