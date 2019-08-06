@@ -13,11 +13,11 @@ Jihlava, 5. srpna 2019 - ***Již letos na podzim ožije Vysočina svobodným um�
 
 Termín svobodná kultura vešel v širší povědomí v roce 2004, kdy Lawrence Lessig vydal svoji knihu “Svobodná kultura”, která se zabývá udržitelností stávající podoby práv duševního vlastnictví v době internetu. V českém prostředí tuto myšlenku nejvíce rozvíjí Pirátská strana, která chce, aby autorské právo plnilo svůj původní účel – zlepšovalo pozici autora vůči vydavatelům, producentům a prodejcům děl; a reflektovalo aktuální výzvy digitálního věku. A právě proto přichází Piráti na Vysočině s Festivalem svobodné kultury, aby ukázali, že se dá umění dělat i bez Ochranného svazu autorského.
 
-Termíny konání jsou:
-
-* [Havlíčkův Brod](https://www.facebook.com/events/408029136496136) - 21. 9. 2019
-* [Třebíč](https://www.facebook.com/events/475204009911769) - 27. 9. 2019
-* [Jihlava](https://www.facebook.com/events/493176581450962) - 5. 10. 2019
+>Termíny konání jsou:
+>
+>* [Havlíčkův Brod](https://www.facebook.com/events/408029136496136) - 21. 9. 2019
+>* [Třebíč](https://www.facebook.com/events/475204009911769) - 27. 9. 2019
+>* [Jihlava](https://www.facebook.com/events/493176581450962) - 5. 10. 2019
 
 A teď to nejdůležitější – **pro tento multižánrový festival hledáme umělce a umělkyně** (malby, sochy, hudba, fotografie, divadlo, slam poetry, tanec, prostě cokoliv spojeného s uměním více či méně známým), **kteří by se na něm rádi prezentovali**. V jednom či ve všech třech městech, odpoledne či večer, důležitý je jen společný jmenovatel – a tím je svoboda tvorby.
 
