@@ -55,18 +55,18 @@ main:
     name: Činnost v kraji
     match: cinnost
     submenu:
-      - link: /cinnost/piratecon/
-        name: Piratecony
-        match: piratecon
+      - link: /cinnost/fsk/
+        name: Festival svobodné kultury
+        match: fsk      
       - link: /cinnost/pirlisty/
         name: Pirátské listy
         match: pirlisty
       - link: /cinnost/uklidme-cesko/
         name: Ukliďme Česko
         match: uklidme-cesko
-      - link: /cinnost/fsk/
-        name: Festival svobodné kultury
-        match: fsk
+      - link: /cinnost/piratecon/
+        name: Piratecony
+        match: piratecon
       - link: /cinnost/fsf/
         name: Festival svobodných filmů
         match: fsf
