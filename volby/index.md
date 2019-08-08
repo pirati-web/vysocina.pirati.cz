@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Uplynulé volby na Vysočině
-description: Komunální volby na Vysočině.
+description: Uplynulé volby na Vysočině.
 keywords: lidé, členové, piráti, pirátky, příznivci, kandidátka, volby
 ---
 <br>
