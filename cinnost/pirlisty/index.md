@@ -25,10 +25,10 @@ title: Pirátské listy
                     <li><a href="https://github.com/pirati-web/vysocina.pirati.cz/raw/master/assets/pl/2018-podzim-jihlava.pdf">podzim 2018 - Jihlava</a></li>
                     <li><a href="https://github.com/pirati-web/vysocina.pirati.cz/raw/master/assets/pl/2018-podzim-trebic.pdf">podzim 2018 - Třebíč</a></li>
                     <li><a href="https://github.com/pirati-web/vysocina.pirati.cz/raw/master/assets/pl/2018-podzim-havlbrod.pdf">podzim 2018 - Havlíčkův Brod</a></li>
-                    <li><a href="">jaro 2018 - Vysočina</a></li>
-                    <li><a href="">jaro 2018 - Třebíč</a></li>
-                    <li><a href="">jaro 2018 - Havlíčkův Brod</a></li>
-                    <li><a href="">jaro 2018 - Telč</a></li>
+                    <li><a href="https://github.com/pirati-web/vysocina.pirati.cz/raw/master/assets/pl/2018-leto-vysocina.pdf">léto 2018 - Vysočina</a></li>
+                    <li><a href="https://github.com/pirati-web/vysocina.pirati.cz/raw/master/assets/pl/2018-leto-trebic">léto 2018 - Třebíč</a></li>
+                    <li><a href="https://github.com/pirati-web/vysocina.pirati.cz/raw/master/assets/pl/2018-leto-havlbrod">léto 2018 - Havlíčkův Brod</a></li>
+                    <li><a href="https://github.com/pirati-web/vysocina.pirati.cz/raw/master/assets/pl/2018-leto-telc">léto 2018 - Telč</a></li>
                 </ul>
             </div>
         </section>
