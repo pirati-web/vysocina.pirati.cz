@@ -19,9 +19,9 @@ Jihlava, 13. srpna 2019 – Pondělní rozhodnutí výboru KDU-ČSL vystoupit z 
 
 ***Kontakt pro média***
 
-Hana Hajnová, hana.hajnova@pirati.cz, 721 684 323
+Hana Hajnová, <hana.hajnova@pirati.cz>, 721 684 323
 
-Eva Nováková, eva.novakova@pirati.cz, 775 666 988
+Eva Nováková, <eva.novakova@pirati.cz>, 775 666 988
 
 ---
 
