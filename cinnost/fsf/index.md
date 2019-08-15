@@ -20,8 +20,7 @@ title: Festival svobodných filmů
                 <h3 class="o-section__heading t-h4-super">Plánované festivaly</h3>
             </div>
             <div class="u-1margin--top">
-                <ul>  
-                    <li><a href="https://www.facebook.com/events/2363030860639892/" target="_blank" rel="noopener">9. srpna 2019 - Třebíč</a></li>
+                <ul>                      
                 </ul>
             </div>
         </section>
@@ -33,6 +32,7 @@ title: Festival svobodných filmů
             </div>
             <div class="u-1margin--top">
                 <ul>
+                    <li><a href="https://www.facebook.com/events/2363030860639892/" target="_blank" rel="noopener">srpen 2019 - Třebíč</a></li>
                     <li><a href="https://vysocina.pirati.cz/aktuality/fsf-trebic.html">leden 2019 - Třebíč</a></li>
                     <li><a href="https://wiki.pirati.cz/regiony/vysocina/fsf#v_trebici3" target="_blank" rel="noopener">červenec 2014 - Třebíč</a></li>
                     <li><a href="https://wiki.pirati.cz/regiony/vysocina/fsf#v_trebici2" target="_blank" rel="noopener">červenec 2014 - Třebíč</a></li>
