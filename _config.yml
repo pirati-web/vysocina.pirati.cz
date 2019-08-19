@@ -46,6 +46,10 @@ contactSummaryItems:
  #  iconClass: fa fa-envelope
  #  label: Vlastní řádek tabulky
  #  body: <a href="http://example.com">link</a>
+  - type: custom
+    iconClass: fa fa-facebook
+    label: Facebooková stránka
+    body: <a href="https://www.facebook.com/pirati.vysocina/" target="_blank">Pirátská strana - Vysočina</a>
 
 calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
