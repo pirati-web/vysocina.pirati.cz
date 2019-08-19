@@ -17,7 +17,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
 <div class="c-program-candidates">
 <div class="c-program-candidate-badge">
 <a class="c-program-candidate-badge__body" 
-            href="https://trebicsko.pirati.cz/lide/jaroslav-zejda/">
+            href="https://vysocina.pirati.cz/lide/jaroslav-zejda/">
 <div class="c-program-candidate-badge__avatar">
 <img 
             src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/people/jaroslav-zejda.jpg" 
@@ -47,50 +47,13 @@ zastupitel
         
 <div class="o-section-header o-section-header--bordered">
 <h3 class="o-section__heading t-h2-super">
-            Chlum
-</h3>
-</div>
-<div class="c-program-candidates">
-<div class="c-program-candidate-badge">
-<a class="c-program-candidate-badge__body" 
-            href="https://trebicsko.pirati.cz/lide/michaela-vodova/">
-<div class="c-program-candidate-badge__avatar">
-<img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/people/michaela-vodova.jpg" 
-            alt="Michaela Vodová" 
-class="c-program-candidate-badge__avatar-image">
-</div>
-<div class="c-program-candidate-badge__description">
-<h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
-            Michaela Vodová
-</span></h4>
-<strong class="c-program-candidate-badge__profession">
-předsedkyně kontrolního výboru<br>
-určená zastupitelka pro územní plánování<br>
-transparentní Chlum
-</strong>
-<p class="c-program-candidate-badge__bio">
-
-</p>
-</div>
-</a>
-</div>
-</div>
-
-
-<div class="o-section">
-<div class="row"> 
-<div class="columns medium-12">          
-        
-<div class="o-section-header o-section-header--bordered">
-<h3 class="o-section__heading t-h2-super">
             Lhotice
 </h3>
 </div>
 <div class="c-program-candidates">
 <div class="c-program-candidate-badge">
 <a class="c-program-candidate-badge__body" 
-            href="https://trebicsko.pirati.cz/lide/lubos-fuks/">
+            href="https://vysocina.pirati.cz/lide/lubos-fuks/">
 <div class="c-program-candidate-badge__avatar">
 <img 
             src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/people/lubos-fuks.jpg" 
@@ -104,6 +67,74 @@ class="c-program-candidate-badge__avatar-image">
 <strong class="c-program-candidate-badge__profession">
 předseda kontrolního výboru<br>
 určený zastupitel pro zeleň a lesy
+</strong>
+<p class="c-program-candidate-badge__bio">
+
+</p>
+</div>
+</a>
+</div>
+</div>
+
+<div class="o-section">
+<div class="row"> 
+<div class="columns medium-12">          
+        
+<div class="o-section-header o-section-header--bordered">
+<h3 class="o-section__heading t-h2-super">
+            Staré Bříště
+</h3>
+</div>
+<div class="c-program-candidates">
+<div class="c-program-candidate-badge">
+<a class="c-program-candidate-badge__body" 
+            href="https://vysocina.pirati.cz/lide/vaclav-honzl/">
+<div class="c-program-candidate-badge__avatar">
+<img 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/people/vaclav-honzl.jpg" 
+            alt="Václav Honzl" 
+class="c-program-candidate-badge__avatar-image">
+</div>
+<div class="c-program-candidate-badge__description">
+<h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Václav Honzl
+</span></h4>
+<strong class="c-program-candidate-badge__profession">
+starosta
+</strong>
+<p class="c-program-candidate-badge__bio">
+
+</p>
+</div>
+</a>
+</div>
+</div>
+
+<div class="o-section">
+<div class="row"> 
+<div class="columns medium-12">          
+        
+<div class="o-section-header o-section-header--bordered">
+<h3 class="o-section__heading t-h2-super">
+            Vír
+</h3>
+</div>
+<div class="c-program-candidates">
+<div class="c-program-candidate-badge">
+<a class="c-program-candidate-badge__body" 
+            href="https://vysocina.pirati.cz/lide/ladislav-stalmach/">
+<div class="c-program-candidate-badge__avatar">
+<img 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/people/ladislav-stalmach.jpg" 
+            alt="Ladislav Stalmach" 
+class="c-program-candidate-badge__avatar-image">
+</div>
+<div class="c-program-candidate-badge__description">
+<h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Ladislav Stalmach
+</span></h4>
+<strong class="c-program-candidate-badge__profession">
+starosta
 </strong>
 <p class="c-program-candidate-badge__bio">
 
