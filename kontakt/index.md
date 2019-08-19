@@ -22,8 +22,7 @@ Finanční dary můžete posílat na [dary](https://dary.pirati.cz).
 Pokud chcete darovat přimo našemu krajskému sdružení poraďte se s koordinátorkou kraje, Michaelou Vodovou
 
 
-Stránky našich jednotlivých místních sdružení.
-
+Stránky našich jednotlivých místních sdružení:
 * Havlíčkův Brod [wiki](https://wiki.pirati.cz/regiony/vysocina/havlickuvbrod) [forum](https://forum.pirati.cz/viewforum.php?f=862)
 * Chotěboř [wiki](https://wiki.pirati.cz/regiony/vysocina/chotebor) [forum](https://forum.pirati.cz/viewforum.php?f=866)
 * Jihlavsko [wiki](https://wiki.pirati.cz/regiony/vysocina/jihlavsko) [forum](https://forum.pirati.cz/viewforum.php?f=1014)
