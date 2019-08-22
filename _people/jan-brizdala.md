@@ -31,3 +31,4 @@ V současnosti působí jako středoškolský učitel matematiky a chemie na Gym
 Mezi jeho záliby patří rekreační sport (cyklistika, běh, tenis, badminton…) či záchranářství (zajišťování zdravotnického dozoru, školení první pomoci). 
 
 Po komunálních volbách 2018 ve městě Třebíč byl jmenován místopředsedou komise pro rozvoj města a členem majetkové komise.
+ 
