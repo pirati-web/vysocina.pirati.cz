@@ -14,7 +14,7 @@ title: Festival svobodné kultury - Havlíčkův Brod
     <div class="medium-12 large-12 columns">
         <section class="o-section">
             <div class="o-secion-header o-section-header--bordered">
-                <h3 class="o-section__heading t-h4-super">Čarodějka</h3>
+                <h3 class="o-section__heading t-h4-super">Čarodějka - <a href="https://goo.gl/maps/HZSyGV1HYsrrPgpx9" target="_blank" rel="noopener">mapa</a></h3>
             </div>
             <div class="u-1margin--top">
                 <table>
@@ -30,7 +30,7 @@ title: Festival svobodné kultury - Havlíčkův Brod
     <div class="medium-12 large-12 columns">
         <section class="o-section">
             <div class="o-secion-header o-section-header--bordered">
-                <h3 class="o-section__heading t-h4-super">Havlíčkovo náměstí</h3>
+                <h3 class="o-section__heading t-h4-super">Havlíčkovo náměstí - <a href="https://goo.gl/maps/MBzqEos2UuYa4bcJ9" target="_blank" rel="noopener">mapa</a></h3>
             </div>
             <div class="u-1margin--top">
                 <table>
