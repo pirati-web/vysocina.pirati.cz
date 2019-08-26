@@ -71,7 +71,11 @@ title: Festival svobodné kultury - Třebíč
                   <tr>
                     <td><b>Alena Spruijtová</b></td>
                     <td>obrazy</td>                    
-                  </tr>                                    
+                  </tr>        
+                  <tr>
+                    <td><b>Gabriela Václavíková</b></td>
+                    <td>obrazy</td>                    
+                  </tr> 
                 </table>
             </div>
         </section>
