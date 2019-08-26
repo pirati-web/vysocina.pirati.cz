@@ -39,8 +39,4 @@ title: Festival svobodné kultury
   </div>
 </div>
 
-
-
-<div style="width: 50%; margin: auto;" class="fb-page" data-href="https://www.facebook.com/festivalsvobodnekultury/" data-tabs="timeline, events" data-width="500" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/festivalsvobodnekultury/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/festivalsvobodnekultury/">Festival svobodné kultury</a></blockquote></div>
-
-<br><br><br>
+<br>
