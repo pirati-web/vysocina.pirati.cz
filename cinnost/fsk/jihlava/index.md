@@ -75,4 +75,21 @@ title: Festival svobodné kultury - Jihlava
             </div>
         </section>
     </div>
+    <br>
+    <br>
+    <div class="medium-12 large-12 columns">
+        <section class="o-section">
+            <div class="o-secion-header o-section-header--bordered">
+                <h3 class="o-section__heading t-h4-super">Výstava</h3>
+            </div>
+            <div class="u-1margin--top">
+                <table>
+                  <tr>
+                    <td><b>Alena Spruijtová</b></td>
+                    <td>obrazy</td>                    
+                  </tr>                                    
+                </table>
+            </div>
+        </section>
+    </div>
 </div>
