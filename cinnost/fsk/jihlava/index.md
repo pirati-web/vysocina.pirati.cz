@@ -14,7 +14,7 @@ title: Festival svobodné kultury - Jihlava
     <div class="medium-12 large-12 columns">
         <section class="o-section">
             <div class="o-secion-header o-section-header--bordered">
-                <h3 class="o-section__heading t-h4-super">Jipice</h3>
+                <h3 class="o-section__heading t-h4-super">Jipice - <a href="https://goo.gl/maps/bPio9SAwicqPz7xc9" target="_blank" rel="noopener">mapa</a></h3>
             </div>
             <div class="u-1margin--top">
                 <table>
@@ -30,7 +30,7 @@ title: Festival svobodné kultury - Jihlava
     <div class="medium-12 large-12 columns">
         <section class="o-section">
             <div class="o-secion-header o-section-header--bordered">
-                <h3 class="o-section__heading t-h4-super">Parkán u Brány Matky Boží</h3>
+                <h3 class="o-section__heading t-h4-super">Parkán u Brány Matky Boží - <a href="https://goo.gl/maps/TAa1XV61497AitsL6" target="_blank" rel="noopener">mapa</a></h3>
             </div>
             <div class="u-1margin--top">
                 <table>
@@ -46,7 +46,7 @@ title: Festival svobodné kultury - Jihlava
     <div class="medium-12 large-12 columns">
         <section class="o-section">
             <div class="o-secion-header o-section-header--bordered">
-                <h3 class="o-section__heading t-h4-super">Ulice Matky Boží</h3>
+                <h3 class="o-section__heading t-h4-super">Ulice Matky Boží - <a href="https://goo.gl/maps/toSxU5N7QvENNYfF7" target="_blank" rel="noopener">mapa</a></h3>
             </div>
             <div class="u-1margin--top">
                 <table>
@@ -62,7 +62,7 @@ title: Festival svobodné kultury - Jihlava
     <div class="medium-12 large-12 columns">
         <section class="o-section">
             <div class="o-secion-header o-section-header--bordered">
-                <h3 class="o-section__heading t-h4-super">Projekt Dirty Family</h3>
+                <h3 class="o-section__heading t-h4-super">Projekt Dirty Family - <a href="https://goo.gl/maps/X2BJ1883bMdVTQo7A" target="_blank" rel="noopener">mapa</a></h3>
             </div>
             <div class="u-1margin--top">
                 <table>
