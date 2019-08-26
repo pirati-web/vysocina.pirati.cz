@@ -4,7 +4,8 @@ description:
 keywords: 
 title: Festival svobodné kultury
 ---
-
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/cs_CZ/sdk.js#xfbml=1&version=v4.0&appId=512115299592767&autoLogAppEvents=1"></script>
 <div class="pce-hero pce-hero--entry">
     <div class="pce-hero__content">
         <h1 class="c-page-title">Festival svobodné kultury</h1><br><br>
@@ -37,3 +38,6 @@ title: Festival svobodné kultury
     </div>
   </div>
 </div>
+<br>
+<br>
+<div class="fb-page" data-href="https://www.facebook.com/festivalsvobodnekultury/" data-tabs="timeline, events" data-width="500" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/festivalsvobodnekultury/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/festivalsvobodnekultury/">Festival svobodné kultury</a></blockquote></div>
