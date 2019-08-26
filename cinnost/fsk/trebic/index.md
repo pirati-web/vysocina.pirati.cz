@@ -14,7 +14,7 @@ title: Festival svobodné kultury - Třebíč
     <div class="medium-12 large-12 columns">
         <section class="o-section">
             <div class="o-secion-header o-section-header--bordered">
-                <h3 class="o-section__heading t-h4-super">Trumpetka</h3>
+                <h3 class="o-section__heading t-h4-super">Trumpetka - <a href="https://goo.gl/maps/T3ubTayHNZLt95FF7" target="_blank" rel="noopener">mapa</a></h3>
             </div>
             <div class="u-1margin--top">
                 <table>
@@ -30,7 +30,7 @@ title: Festival svobodné kultury - Třebíč
     <div class="medium-12 large-12 columns">
         <section class="o-section">
             <div class="o-secion-header o-section-header--bordered">
-                <h3 class="o-section__heading t-h4-super">Trumpetka venku</h3>
+                <h3 class="o-section__heading t-h4-super">Trumpetka venku - <a href="https://goo.gl/maps/T3ubTayHNZLt95FF7" target="_blank" rel="noopener">mapa</a></h3>
             </div>
             <div class="u-1margin--top">
                 <table>
@@ -46,7 +46,7 @@ title: Festival svobodné kultury - Třebíč
     <div class="medium-12 large-12 columns">
         <section class="o-section">
             <div class="o-secion-header o-section-header--bordered">
-                <h3 class="o-section__heading t-h4-super">Béčko</h3>
+                <h3 class="o-section__heading t-h4-super">Béčko - <a href="https://goo.gl/maps/W7AKiTioRjeU2ciw5" target="_blank" rel="noopener">mapa</a></h3>
             </div>
             <div class="u-1margin--top">
                 <table>
