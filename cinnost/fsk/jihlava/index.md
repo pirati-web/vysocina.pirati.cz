@@ -87,7 +87,11 @@ title: Festival svobodné kultury - Jihlava
                   <tr>
                     <td><b>Alena Spruijtová</b></td>
                     <td>obrazy</td>                    
-                  </tr>                                    
+                  </tr> 
+                  <tr>
+                    <td><b>Gabriela Václavíková</b></td>
+                    <td>obrazy</td>                    
+                  </tr> 
                 </table>
             </div>
         </section>
