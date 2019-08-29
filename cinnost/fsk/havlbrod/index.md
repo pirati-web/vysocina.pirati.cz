@@ -35,10 +35,30 @@ title: Festival svobodné kultury - Havlíčkův Brod
             <div class="u-1margin--top">
                 <table>
                   <tr>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                  </tr>                                    
+                    <td>15:45 - 16:00</td>
+                    <td><b>Filip Versteeg</b></td>
+                    <td>literatura</td>
+                  </tr>  
+                  <tr>
+                    <td>17:15 - 17:30</td>
+                    <td><b>Filip Versteeg</b></td>
+                    <td>literatura</td>
+                  </tr>
+                  <tr>
+                    <td>18:15 - 18:30</td>
+                    <td><b>Filip Versteeg</b></td>
+                    <td>literatura</td>
+                  </tr>
+                  <tr>
+                    <td>19:30 - 20:30</td>
+                    <td><b>sinks</b></td>
+                    <td>kapela</td>
+                  </tr>        
+                  <tr>
+                    <td>21:00 - 22:00</td>
+                    <td><b>THRASHSURF</b></td>
+                    <td>kapela</td>
+                  </tr>   
                 </table>
             </div>
         </section>
@@ -55,7 +75,11 @@ title: Festival svobodné kultury - Havlíčkův Brod
                   <tr>
                     <td><b>Alena Spruijtová</b></td>
                     <td>obrazy</td>                    
-                  </tr>                                    
+                  </tr>     
+                  <tr>
+                    <td><b>Alena Nixová</b></td>
+                    <td>miniatury</td>                    
+                  </tr> 
                 </table>
             </div>
         </section>
