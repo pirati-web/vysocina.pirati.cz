@@ -51,10 +51,20 @@ title: Festival svobodné kultury - Jihlava
             <div class="u-1margin--top">
                 <table>
                   <tr>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                  </tr>                                    
+                    <td>15:00 - 15:15</td>
+                    <td><b>Filip Versteeg</b></td>
+                    <td>literatura</td>
+                  </tr>  
+                  <tr>
+                    <td>16:15 - 16:30</td>
+                    <td><b>Filip Versteeg</b></td>
+                    <td>literatura</td>
+                  </tr>
+                  <tr>
+                    <td>18:00 - 18:15</td>
+                    <td><b>Filip Versteeg</b></td>
+                    <td>literatura</td>
+                  </tr>
                 </table>
             </div>
         </section>
@@ -67,10 +77,10 @@ title: Festival svobodné kultury - Jihlava
             <div class="u-1margin--top">
                 <table>
                   <tr>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                  </tr>                                    
+                    <td>23:00 - 00:00</td>
+                    <td><b>THRASHSURF</b></td>
+                    <td>kapela</td>
+                  </tr>                                     
                 </table>
             </div>
         </section>
@@ -91,6 +101,18 @@ title: Festival svobodné kultury - Jihlava
                   <tr>
                     <td><b>Gabriela Václavíková</b></td>
                     <td>obrazy</td>                    
+                  </tr> 
+                  <tr>
+                    <td><b>Anna Treterová</b></td>
+                    <td>obrazy</td>                    
+                  </tr> 
+                  <tr>
+                    <td><b>Alena Nixová</b></td>
+                    <td>miniatury</td>                    
+                  </tr> 
+                  <tr>
+                    <td><b>Lenka Šromová</b></td>
+                    <td>hand lettering</td>                    
                   </tr> 
                 </table>
             </div>
