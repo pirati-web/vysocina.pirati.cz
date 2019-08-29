@@ -35,10 +35,25 @@ title: Festival svobodné kultury - Třebíč
             <div class="u-1margin--top">
                 <table>
                   <tr>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                  </tr>                                    
+                    <td>14:15 - 14:30</td>
+                    <td><b>Filip Versteeg</b></td>
+                    <td>literatura</td>
+                  </tr>  
+                  <tr>
+                    <td>15:15 - 15:30</td>
+                    <td><b>Filip Versteeg</b></td>
+                    <td>literatura</td>
+                  </tr>
+                  <tr>
+                    <td>16:45 - 17:00</td>
+                    <td><b>Filip Versteeg</b></td>
+                    <td>literatura</td>
+                  </tr> 
+                  <tr>
+                    <td>20:00 - 20:30</td>
+                    <td><b>Iva Růžičková</b></td>
+                    <td>literatura</td>
+                  </tr>  
                 </table>
             </div>
         </section>
@@ -51,10 +66,10 @@ title: Festival svobodné kultury - Třebíč
             <div class="u-1margin--top">
                 <table>
                   <tr>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                  </tr>                                    
+                    <td>23:00 - 00:00</td>
+                    <td><b>THRASHSURF</b></td>
+                    <td>kapela</td>
+                  </tr>                                   
                 </table>
             </div>
         </section>
@@ -75,6 +90,10 @@ title: Festival svobodné kultury - Třebíč
                   <tr>
                     <td><b>Gabriela Václavíková</b></td>
                     <td>obrazy</td>                    
+                  </tr> 
+                  <tr>
+                    <td><b>Alena Nixová</b></td>
+                    <td>miniatury</td>                    
                   </tr> 
                 </table>
             </div>
