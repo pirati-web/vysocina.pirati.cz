@@ -99,7 +99,7 @@ title: Festival svobodné kultury - Jihlava
                     <td>obrazy</td>                    
                   </tr> 
                   <tr>
-                    <td><b>Gabriela Václavíková</b></td>
+                    <td><b>Gabriela Václavková</b></td>
                     <td>obrazy</td>                    
                   </tr> 
                   <tr>
