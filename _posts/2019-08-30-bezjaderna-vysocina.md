@@ -1,5 +1,5 @@
 ---
-date: 2019-08-13
+date: 2019-08-30
 category: blog
 tags: Vysočina hlubinné úložiště SÚRAO
 layout: post
@@ -17,7 +17,7 @@ Kromě samotného úložiště se budou diskutovat možné dopady zařazení lok
 
 *“Cílem akce je upozornit na aktuální netransparentní jednání SÚRAO a snaha otevřít debatu o hledání řešení problému vyhořelého jaderného paliva a radioaktivních odpadů. Chceme, aby to byl proces, který bude otevřený, průhledný a v němž obce a veřejnost budou mít zákony dostatečně garantované možnosti hájit své oprávněné zájmy,“* vysvětluje organizátor akce Jaroslav Vysoký.
 
-Z důvodu omezené kapacity doporučujeme účastníkům registraci na e-mail: [vysoky.j@seznam.cz](mailto: vysoky.j@seznam.cz). 
+Z důvodu omezené kapacity doporučujeme účastníkům **registraci na e-mail: vysoky.j@seznam.cz**. 
 
 ---
 
