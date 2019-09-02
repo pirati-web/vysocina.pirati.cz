@@ -77,6 +77,11 @@ title: Festival svobodné kultury - Jihlava
             <div class="u-1margin--top">
                 <table>
                   <tr>
+                    <td>20:00 - 21:00</td>
+                    <td><b>Eugene Morrow</b></td>
+                    <td>kapela</td>
+                  </tr>   
+                  <tr>
                     <td>23:00 - 00:00</td>
                     <td><b>THRASHSURF</b></td>
                     <td>kapela</td>
@@ -114,6 +119,10 @@ title: Festival svobodné kultury - Jihlava
                     <td><b>Lenka Šromová</b></td>
                     <td>hand lettering</td>                    
                   </tr> 
+                  <tr>
+                    <td><b>Anna Lorencová</b></td>
+                    <td>obrazy</td>                    
+                  </tr>
                 </table>
             </div>
         </section>
