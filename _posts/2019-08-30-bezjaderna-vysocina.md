@@ -9,7 +9,7 @@ authorId:  hana.hajnova
 image: posts/2019-08-30-bezjaderna-vysocina.jpg
 ---
 
-Jihlava, 30. srpna 2010 – V pátek 6. srpna se v Jihlavském pirátském centru (Matky Boží 9) od 10:00 uskuteční setkání zástupců čtyř lokalit na Vysočině, které jsou zařazené na seznam míst vhodných pro vybudování hlubinného úložiště vyhořelého jaderného paliva, společně s pirátskými poslanci Janem Pošvářem a Petrem Třešňákem. Diskutovat se bude zejména problematika ukládání vysoce radioaktivních odpadů, vliv na životní prostředí a role dotčených obcí.
+Jihlava, 30. srpna 2019 – V pátek 6. srpna se v Jihlavském pirátském centru (Matky Boží 9) od 10:00 uskuteční setkání zástupců čtyř lokalit na Vysočině, které jsou zařazené na seznam míst vhodných pro vybudování hlubinného úložiště vyhořelého jaderného paliva, společně s pirátskými poslanci Janem Pošvářem a Petrem Třešňákem. Diskutovat se bude zejména problematika ukládání vysoce radioaktivních odpadů, vliv na životní prostředí a role dotčených obcí.
 
 V příštím roce by měla Správa úložišť radioaktivních odpadů (SÚRAO) rozhodnout o snížení počtu míst předvybraných pro hlubinné úložiště jaderného odpadu z devíti na čtyři. Toto rozhodnutí má proběhnout před platností zákona o zapojení obcí do řízení směřujících k výběru lokality v podzemních prostorech a povolení jeho provozu. Návrh tohoto zákona vznikl bez zapojení obcí a vyjádřit se k němu je možné pouze do konce září. Protože na Vysočině se to týká lokalit Hrádek u Dolní Cerekve, Horka u Budišova, Kraví hora u Stříteže a Na Skalním u Jaroměřic nad Rokytnou, rozhodli se aktéři z těchto lokalit vyvolat společnou diskuzi o tomto tématu. 
 
