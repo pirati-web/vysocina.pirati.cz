@@ -80,6 +80,10 @@ title: Festival svobodné kultury - Havlíčkův Brod
                     <td><b>Alena Nixová</b></td>
                     <td>miniatury</td>                    
                   </tr> 
+                  <tr>
+                    <td><b>Anna Lorencová</b></td>
+                    <td>obrazy</td>                    
+                  </tr> 
                 </table>
             </div>
         </section>
