@@ -66,6 +66,11 @@ title: Festival svobodné kultury - Třebíč
             <div class="u-1margin--top">
                 <table>
                   <tr>
+                    <td>22:00 - 23:00</td>
+                    <td><b>Eugene Morrow</b></td>
+                    <td>kapela</td>
+                  </tr>   
+                  <tr>
                     <td>23:00 - 00:00</td>
                     <td><b>THRASHSURF</b></td>
                     <td>kapela</td>
@@ -95,6 +100,10 @@ title: Festival svobodné kultury - Třebíč
                     <td><b>Alena Nixová</b></td>
                     <td>miniatury</td>                    
                   </tr> 
+                  <tr>
+                    <td><b>Anna Lorencová</b></td>
+                    <td>obrazy</td>                    
+                  </tr>
                 </table>
             </div>
         </section>
