@@ -212,7 +212,7 @@ title: Festival svobodné kultury - Jihlava
                   </tr>
                   <tr>
                     <td><b>Jana Pašková</b></td>
-                    <td>vinuté perle</td>                    
+                    <td>workshop - vinuté perle</td>                    
                   </tr>
                   <tr>
                     <td><b>Jiří Pohořelský</b></td>
