@@ -175,73 +175,73 @@ title: Festival svobodné kultury - Jihlava
             <div class="u-1margin--top">
                 <table>
                   <tr>
+                    <td><b>Alena Nixová</b></td>
+                    <td>miniatury</td>                    
+                  </tr>
+                  <tr>
                     <td><b>Alena Spruijtová</b></td>
                     <td>obrazy</td>                    
                   </tr> 
+                  <tr>
+                    <td><b>Anna Lorencová</b></td>
+                    <td>obrazy</td>                    
+                  </tr>
+                  <tr>
+                    <td><b>Anna Mothejlová</b></td>
+                    <td>workshop tetování</td>                    
+                  </tr>
+                  <tr>
+                    <td><b>Anna Treterová</b></td>
+                    <td>obrazy</td>                    
+                  </tr>
+                  <tr>
+                    <td><b>Daniel Zvěřina</b></td>
+                    <td>obrazy</td>                    
+                  </tr>
                   <tr>
                     <td><b>Gabriela Václavková</b></td>
                     <td>obrazy</td>                    
                   </tr> 
                   <tr>
-                    <td><b>Anna Treterová</b></td>
-                    <td>obrazy</td>                    
-                  </tr> 
-                  <tr>
-                    <td><b>Alena Nixová</b></td>
-                    <td>miniatury</td>                    
-                  </tr> 
-                  <tr>
-                    <td><b>Lenka Šromová</b></td>
-                    <td>hand lettering</td>                    
-                  </tr> 
-                  <tr>
-                    <td><b>Anna Lorencová</b></td>
-                    <td>obrazy</td>                    
-                  </tr>                  
-                  <tr>
-                    <td><b>Pavel Hlaváč</b></td>
-                    <td>obrazy</td>                    
-                  </tr>                                  
-                  <tr>
-                    <td><b>Jiří Tržil</b></td>
-                    <td>literatura</td>                    
+                    <td><b>Jakub Čopák</b></td>
+                    <td>fotografie</td>                    
                   </tr>
                   <tr>
                     <td><b>Jakub Hlaváč</b></td>
                     <td>fotografie</td>                    
                   </tr>
                   <tr>
+                    <td><b>Jana Pašková</b></td>
+                    <td>vinuté perle</td>                    
+                  </tr>
+                  <tr>
+                    <td><b>Jiří Pohořelský</b></td>
+                    <td>literatura</td>                    
+                  </tr>
+                  <tr>
+                    <td><b>Jiří Tržil</b></td>
+                    <td>literatura</td>                    
+                  </tr>                  
+                  <tr>
                     <td><b>Jitka Fischerová</b></td>
                     <td>obrazy</td>                    
                   </tr>
                   <tr>
-                    <td><b>Jana Pašková</b></td>
-                    <td>vinuté perle</td>                    
-                  </tr>
+                    <td><b>Lenka Šromová</b></td>
+                    <td>hand lettering</td>                    
+                  </tr> 
                   <tr>
                     <td><b>Martin Jelínek</b></td>
                     <td>literatura</td>                    
                   </tr>
                   <tr>
+                    <td><b>Pavel Hlaváč</b></td>
+                    <td>obrazy</td>                    
+                  </tr>                                                      
+                  <tr>
                     <td><b>Richard Jonáš</b></td>
                     <td>fotografie</td>                    
-                  </tr>  
-                  <tr>
-                    <td><b>Jiří Pohořelský</b></td>
-                    <td>literatura</td>                    
-                  </tr>  
-                  <tr>
-                    <td><b>Jakub Čopák</b></td>
-                    <td>fotografie</td>                    
-                  </tr>  
-                  <tr>
-                    <td><b>Daniel Zvěřina</b></td>
-                    <td>obrazy</td>                    
-                  </tr>  
-                  <tr>
-                    <td><b>Anna Mothejlová</b></td>
-                    <td>workshop tetování</td>                    
-                  </tr>
+                  </tr>                                                                                
                 </table>
             </div>
         </section>
