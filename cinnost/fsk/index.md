@@ -161,8 +161,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Ortodoxní Jidáš
 </span></h4><strong class="c-program-candidate-badge__profession">
-            
-</strong></div></div></div>  
+            Ortodoxní Jidáš vystupuje se svojí kapelou a předvádí svěží koncertní elektronickou show, jeho debutové album vyšlo v létě roku 2014, první klip se jmenoval EeroTest. Před pár lety Jidáš vyrukoval s videoklipem nazvaným Jidáš a Mikuláš. </strong></div></div></div>  
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
             src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/sinks.png" 
