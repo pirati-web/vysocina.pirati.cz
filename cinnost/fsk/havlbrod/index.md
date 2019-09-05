@@ -125,7 +125,7 @@ title: Festival svobodné kultury - Havlíčkův Brod
                   </tr>
                   <tr>
                     <td><b>Jana Pašková</b></td>
-                    <td>vinuté perle</td>                    
+                    <td>workshop - vinuté perle</td>                    
                   </tr>
                   <tr>
                     <td><b>Jiří Tržil</b></td>
@@ -145,7 +145,7 @@ title: Festival svobodné kultury - Havlíčkův Brod
                   </tr>
                   <tr>
                     <td><b>Radka Adámková</b></td>
-                    <td>malba na dřevo</td>                    
+                    <td>workshop - malba na dřevo</td>                    
                   </tr>
                   <tr>
                     <td><b>Richard Jonáš</b></td>
