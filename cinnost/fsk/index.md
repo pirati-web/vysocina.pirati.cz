@@ -103,9 +103,9 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
   
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
             src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/gabriela_vaclavkova.png" 
-            alt="Gabriela Václavkocá" 
+            alt="Gabriela Václavková" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
-            Gabriela Václavkocá
+            Gabriela Václavková
 </span></h4><strong class="c-program-candidate-badge__profession">
             Maluji od chvíle, co jsem udržela v ruce tužku. Věnuji se převážně olejomalbě a malbě akrylem. Pokud chcete vidět spoustu zářivých barev, pozitivně laděné obrazy krásných žen, tak musíte dorazit!
 </strong></div></div></div>
