@@ -108,25 +108,21 @@ title: Festival svobodné kultury - Havlíčkův Brod
             <div class="u-1margin--top">
                 <table>
                   <tr>
-                    <td><b>Alena Spruijtová</b></td>
-                    <td>obrazy</td>                    
-                  </tr>     
-                  <tr>
                     <td><b>Alena Nixová</b></td>
                     <td>miniatury</td>                    
                   </tr> 
+                  <tr>
+                    <td><b>Alena Spruijtová</b></td>
+                    <td>obrazy</td>                    
+                  </tr>                       
                   <tr>
                     <td><b>Anna Lorencová</b></td>
                     <td>obrazy</td>                    
                   </tr> 
                   <tr>
-                    <td><b>Pavel Hlaváč</b></td>
-                    <td>obrazy</td>                    
+                    <td><b>Jakub Hlaváč</b></td>
+                    <td>fotografie</td>                    
                   </tr>
-                  <tr>
-                    <td><b>Radka Adámková</b></td>
-                    <td>malba na dřevo</td>                    
-                  </tr>                  
                   <tr>
                     <td><b>Jana Pašková</b></td>
                     <td>vinuté perle</td>                    
@@ -136,15 +132,7 @@ title: Festival svobodné kultury - Havlíčkův Brod
                     <td>literatura</td>                    
                   </tr>
                   <tr>
-                    <td><b>Jakub Hlaváč</b></td>
-                    <td>fotografie</td>                    
-                  </tr>
-                  <tr>
                     <td><b>Jitka Fischerová</b></td>
-                    <td>obrazy</td>                    
-                  </tr>
-                  <tr>
-                    <td><b>Veronika Vohralíková</b></td>
                     <td>obrazy</td>                    
                   </tr>
                   <tr>
@@ -152,9 +140,21 @@ title: Festival svobodné kultury - Havlíčkův Brod
                     <td>literatura</td>                    
                   </tr>
                   <tr>
+                    <td><b>Pavel Hlaváč</b></td>
+                    <td>obrazy</td>                    
+                  </tr>
+                  <tr>
+                    <td><b>Radka Adámková</b></td>
+                    <td>malba na dřevo</td>                    
+                  </tr>
+                  <tr>
                     <td><b>Richard Jonáš</b></td>
                     <td>fotografie</td>                    
-                  </tr>                  
+                  </tr>
+                  <tr>
+                    <td><b>Veronika Vohralíková</b></td>
+                    <td>obrazy</td>                    
+                  </tr>                                                      
                 </table>
             </div>
         </section>
