@@ -76,7 +76,7 @@ title: Festival svobodné kultury - Havlíčkův Brod
                   </tr>
                   <tr>
                     <td>17:30 - 18:30</td>
-                    <td><b>Stoned Tunes</b></td>
+                    <td><b>Stoned Tones</b></td>
                     <td>kapela</td>
                   </tr> 
                   <tr>
