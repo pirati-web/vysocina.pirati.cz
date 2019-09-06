@@ -118,7 +118,25 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </span></h4><strong class="c-program-candidate-badge__profession">
             Vyjadřuji se výtvarně i literárně. Moje poslední výstava byla v Chomutově pořádaná Ženským spolkem a byla složená ze série figurálních, zejména mateřských motivů. Mým tvůrčím alter egem je umělecká identita nazvaná Nástřih Hráze, která aktivistickým způsobem na bázi sarkasmu a humoru reflektuje bezpráví páchané na ženách v porodnicích. Nástřih Hráze vystavovala v mnoha městech ČR, také na Klinice nebo na lodi Avoid v Praze, a napsala sbírku Zvrácené verše. V rámci "vážné" literární tvorby jsem autorkou povídek, s úspěchem se setkala na veřejných čtení práce Deník sígra.
 </strong></div></div></div>
-  
+
+<div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/jakub_hlavac.png" 
+            alt="Jakub Hlaváč" 
+class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Jakub Hlaváč
+</span></h4><strong class="c-program-candidate-badge__profession">
+            Jsem Kuba Hlaváč, živím se sekáním dřeva. Sekáním dřeva se živím už tři roky, je to zatím nejlepší práce. Zkoušel jsem to i u železničářů, ale tam jsem neuplatnil svůj potencionál. Nikde totiž nechcou zaměstnávat takovýhohle kluka se sekerou, protože hnedka mají předsudky. Ale ne, já jsem tady proto abych sekal dřevo a za tím si jdu!
+</strong></div></div></div>
+
+<div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/jana_paskova.png" 
+            alt="Jana Pašková" 
+class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Jana Pašková
+</span></h4><strong class="c-program-candidate-badge__profession">
+            Téměř patnáct let je sklo součástí mého života. Velkou výzvou bylo pro mě setkání s foukaným sklem asi před třemi lety. Po stovkách hodin, desítkách vulgárních slov a kilech zničeného skla se dostavily výsledky – už je mi po tom všem jasné, proč "foukačů" korálků je na světě tam málo! Při výrobě svých skleněných šperků miluji jednoduché tvary a transparentní odstíny. Kombinace skla a světla vytváří krásné obrazy a sklo se stává živým materiálem plným překvapení a náhodné krásy.
+</strong></div></div></div>
+
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
             src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/kristina_nemcova.png" 
             alt="Kristina Němcová" 
