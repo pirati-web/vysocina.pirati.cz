@@ -138,6 +138,24 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/jiri_trzil.png" 
+            alt="Jiří Tržil" 
+class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Jiří Tržil
+</span></h4><strong class="c-program-candidate-badge__profession">
+            Básník přítomného životního postoje a okamžiku, afektovaný ve své interní všednosti, inspirující se vším, co má naději být víc, než čím tyto věci byly včera nebo ještě mnohem dřív.
+</strong></div></div></div>
+
+<div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/jitka_fischerova.png" 
+            alt="Jitka Fischerová" 
+class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Jitka Fischerová
+</span></h4><strong class="c-program-candidate-badge__profession">
+            Jitka Fischerová, výtvarnice. Příroda... Ve všech formách a podobách. Nechci se soustředit jen na to, co je všeobecně vnímáno jako krásné... Snažím se hledat souvislosti a vidět věci v širším kontextu, než jaký nabízí první pohled.
+</strong></div></div></div>
+
+<div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
             src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/kristina_nemcova.png" 
             alt="Kristina Němcová" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
