@@ -25,6 +25,7 @@ Kandidáti, kteří získají dostatečnou podporu členů krajského sdružení
 ***Související odkazy***:
 
 [Vlákno ke sběru kandidátů pro primární volby na fóru](https://forum.pirati.cz/viewtopic.php?f=84&t=48454)
+Foto: Shutterstock
 
 ---
 
