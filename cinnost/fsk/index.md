@@ -91,6 +91,15 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </span></h4><strong class="c-program-candidate-badge__profession">
             Indie-rocková kapela se sídlem v Praze. Jejich začátky se datují do ledna 2014, kdy začali hrát pod názvem "Awesome Pricks", který se postupně změnil na "Eugene Morrow" (část názvu hlavního hrdiny filmu Gattaca, 1995 Andrew Niccol). V březnu 2016 vydali své první EP "Young Adult". V lednu 2017 vyšla jejich druhá deska "Such Rebellion".
 </strong></div></div></div>
+
+<div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/eva_matejovicova.png" 
+            alt="Eva Matejovičová" 
+class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Eva Matejovičová
+</span></h4><strong class="c-program-candidate-badge__profession">
+            Študujem animovanú tvorbu na Pražskej FAMU. Okrem animovania sa venujem aj ilustrácií. V mojich prácach sa často objavujú motívy z mytológie či zvieratá. Umenie pre mňa nieje len práca ale niečo, čo ma v živote najviac napĺňa a poháňa dopredu.
+</strong></div></div></div>
   
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
             src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/filip_versteeg.png" 
@@ -156,6 +165,15 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/jolana_martin.png" 
+            alt="Jolana a Martin" 
+class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Jolana a Martin
+</span></h4><strong class="c-program-candidate-badge__profession">
+            Jsme skoro-příbuzní, oba rádi fotíme, analogově přes dva roky. Od začátku roku jsme se snažili naše práce propojit. Navzájem jsme si posílali fotky, fotili odpovědi, a inspirujíc se navzájem, tvořili výstavu jménem Odrazy – fotografický dialog. Zachycujeme náš vnitřní svět na hranici snů a reality, deník, vizuální rozhovor, příběh. Chcete-li, báseň s barevnými verši "spojené zlatou linkou" (z návštěvní knihy, srpen 2019).
+</strong></div></div></div> 
+
+<div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
             src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/kristina_nemcova.png" 
             alt="Kristina Němcová" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
@@ -198,6 +216,15 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
             Ortodoxní Jidáš
 </span></h4><strong class="c-program-candidate-badge__profession">
             Ortodoxní Jidáš vystupuje se svojí kapelou a předvádí svěží koncertní elektronickou show, jeho debutové album vyšlo v létě roku 2014, první klip se jmenoval EuroTest. Před pár lety Jidáš vyrukoval s videoklipem nazvaným Jidáš a Mikuláš. </strong></div></div></div>  
+            
+<div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/pavel_hlavac.png" 
+            alt="Pavel Hlaváč" 
+class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Pavel Hlaváč
+</span></h4><strong class="c-program-candidate-badge__profession">
+            Jmenuji se Pavel Hlaváč ročník 1951. Jsem končící výtvarník-hrající blues a frézař. Do svých obrazů vkládám blues - do blues zase obrazy a snívám o mé frézce krasavici.
+</strong></div></div></div>              
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
             src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/sinks.png" 
