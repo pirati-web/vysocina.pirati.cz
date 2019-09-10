@@ -75,6 +75,15 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
   
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/anna_mothejlova.png" 
+            alt="Anna Mothejlová" 
+class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Anna Mothejlová
+</span></h4><strong class="c-program-candidate-badge__profession">
+            Vyzkoušej si demo verzi ručního tetování a potetuj si pomeranč. Vše, co k tomu potřebuješ, dostaneš. S sebou jen dostatek trpělivosti a představivost, případně motiv, který budeš chtít vytetovat. O ostatní se postará Anička, která se na pomerančích učila handpoked tetování a tuto techniku teď představí i vám.
+</strong></div></div></div>  
+  
+<div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
             src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/anna_treterova.png" 
             alt="Anna Treterová" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
@@ -260,6 +269,15 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
             Veronika Vohralíková
 </span></h4><strong class="c-program-candidate-badge__profession">
             Jsem studentka Masarykovy univerzity na oboru Dějiny umění a ve volném čase se věnuji tisku z výšky – linorytu a dřevořezu. Moje náměty nejčastěji zachycují nepořádek (prostě bordel), který jsem se snažila povýšit na zátiší.
+</strong></div></div></div>
+
+<div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/vzhuru_a_niz.png" 
+            alt="Vzhůru a níž" 
+class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Vzhůru a níž
+</span></h4><strong class="c-program-candidate-badge__profession">
+            Jsme kapela, která funguje už pro nás těžko uvěřitelných 8 let. Za tu dobu jsme toho zažili spoustu – od koncertů pro pár lidiček v klubu na druhý straně republiky po hraní před velkýma kapelama. Pokaždý je pro nás ale hraní počínaje cestou na koncert ta největší svoboda, jakou můžeme zažít. Jsme rádi, že se můžeme zapojit do akce, která tyhle hodnoty (jedince či skupiny, kteří se věnují tomu, co je baví) podporuje.
 </strong></div></div></div>
 
 </div>
