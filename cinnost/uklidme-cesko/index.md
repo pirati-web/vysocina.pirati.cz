@@ -21,6 +21,7 @@ title: Ukliďme Česko
             </div>
             <div class="u-1margin--top">
                 <ul>
+                  <li><a href="https://www.facebook.com/events/520953695116421/" target="_blank" rel="noopener">22. 9. 2019 - Třebíč</a></li>
                 </ul>
             </div>
         </section>
