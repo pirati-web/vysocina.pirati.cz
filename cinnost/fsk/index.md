@@ -161,7 +161,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Jiří Tržil
 </span></h4><strong class="c-program-candidate-badge__profession">
-            Básník přítomného životního postoje a okamžiku, afektovaný ve své interní všednosti, inspirující se vším, co má naději být víc, než čím tyto věci byly včera nebo ještě mnohem dřív.
+            Básník přítomného životního postoje a okamžiku, afektovaný ve své niterní všednosti, inspirující se vším, co má naději být víc, než čím tyto věci byly včera nebo ještě mnohem dřív.
 </strong></div></div></div>
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
