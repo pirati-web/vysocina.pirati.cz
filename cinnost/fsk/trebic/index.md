@@ -50,18 +50,13 @@ title: Festival svobodné kultury - Třebíč
                     <td>literatura</td>
                   </tr>  
                   <tr>
-                    <td>14:30 - 15:15</td>
-                    <td><b>Iron Soul</b></td>
-                    <td>kapela</td>
-                  </tr>
-                  <tr>
                     <td>15:15 - 15:30</td>
                     <td><b>Filip Versteeg</b></td>
                     <td>literatura</td>
                   </tr>
                   <tr>
                     <td>15:30 - 16:30</td>
-                    <td><b>Richard Ramirez</b></td>
+                    <td><b>Iron Soul</b></td>
                     <td>kapela</td>
                   </tr>
                   <tr>
