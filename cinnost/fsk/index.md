@@ -91,6 +91,15 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </span></h4><strong class="c-program-candidate-badge__profession">
             Jsem malířka pocházející od Luk nad Jihlavou, studující na vejšce v Ostravě. Moje tvorba je v neustálém vývinu, pořád zkouším něco nového. Nyní maluju hlavně rostliny a portréty. Členka jihlavské společensko-umělecké skupiny prozatimní Jihlavskej Devětsil.
 </strong></div></div></div>
+
+<div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/daniela_weissova.png" 
+            alt="Daniela Weissová" 
+class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Daniela Weissová
+</span></h4><strong class="c-program-candidate-badge__profession">
+            Loutkové divadlo pro děti hraji přes čtyřicet let. Bavilo děti v Indii, Španělsku, Francii, Německu, Portugalsku, Polsku, Bulharsku a to úplně stejně, jako české děti. Je skvělé vidět jak se smějí stejným věcem, i když nerozumí jazyku. V humoru a dětech vidím budoucnost svobodného světa.
+</strong></div></div></div>
   
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
             src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/eugene_morrow.png" 
