@@ -80,7 +80,7 @@ title: Festival svobodné kultury - Havlíčkův Brod
                     <td>kapela</td>
                   </tr> 
                   <tr>
-                    <td>18:30 - 18:450</td>
+                    <td>18:30 - 18:45</td>
                     <td><b>Filip Versteeg</b></td>
                     <td>literatura</td>
                   </tr>
