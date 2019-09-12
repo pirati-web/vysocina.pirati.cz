@@ -5,7 +5,7 @@ tags: lokální potraviny Vysočina Jan Pošvář
 layout: post
 title: Přijďte poznat a ochutnat lokální potraviny z Vysočiny
 author: Karolína Nečadová
-authorId:  hana.hajnova
+authorId:  
 image: posts/2019-09-12-poznej-lokalni-potraviny.jpg
 ---
 
