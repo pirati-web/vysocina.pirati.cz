@@ -9,7 +9,7 @@ authorId:  hana.hajnova
 image: posts/2019-09-12-poznej-lokalni-potraviny.jpg
 ---
 
-Jihlava, 12. září 2019 - Ve čtvrtek 19. září v 15:30 se v Jihlavském pirátském centru (JiPiCe, Matky Boží 9) poprvé uskuteční akce s názvem „Poznej lokální potraviny“. Koná se pod záštitou pirátského poslance a člena Zemědělského výboru Poslanecké sněmovny Jana Pošváře. Návštěvníci se mohou těšit na přednášky, diskuzi i ochutnávky. 
+***Ve čtvrtek 19. září v 15:30 se v Jihlavském pirátském centru (JiPiCe, Matky Boží 9) poprvé uskuteční akce s názvem „Poznej lokální potraviny“. Koná se pod záštitou pirátského poslance a člena Zemědělského výboru Poslanecké sněmovny Jana Pošváře. Návštěvníci se mohou těšit na přednášky, diskuzi i ochutnávky.*** 
 
 Cílem akce je upozornit na problémy, se kterými se naše zemědělství a potravinářství momentálně potýká a zároveň hledat i jejich možná řešení. Na své si přijde každý, komu není lhostejné, co konzumuje a jakým způsobem se k němu jídlo dostalo. V poslední době hodně diskutovaná dvojí kvalita potravin se totiž týká především produkce z dovozu a bojovat s ní lze nejlépe právě nákupem kvalitních tuzemských potravin. Snižuje se tím i ekologická zátěž, protože výrobky nemusí cestovat přes celou Evropu. *„Mnoho problémů spojených se zemědělstvím může spíš než stát vyřešit informovaný zákazník. Někdo to bude možná mít podobné jako já – u potravin neřeším totiž jen kvalitu samotného výsledku, ale i jak se ho docílilo. Jestli se kvůli tomu třeba neničí půda, netráví voda a okolní krajina nebo jestli k tomu nebyla potřeba otrocká práce agenturních pracovníků,“* vysvětluje poslanec Jan Pošvář.
 
