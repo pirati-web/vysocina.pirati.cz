@@ -91,7 +91,7 @@ title: Festival svobodné kultury - Havlíčkův Brod
                   </tr>        
                   <tr>
                     <td>21:00 - 22:00</td>
-                    <td><b>THRASHSURF</b></td>
+                    <td><b>Vzhůru a níž</b></td>
                     <td>kapela</td>
                   </tr>   
                 </table>
