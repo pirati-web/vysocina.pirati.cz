@@ -158,7 +158,7 @@ title: Festival svobodné kultury - Jihlava
                   </tr> 
                   <tr>
                     <td>23:00 - 00:00</td>
-                    <td><b>THRASHSURF</b></td>
+                    <td><b>Noir Voir</b></td>
                     <td>kapela</td>
                   </tr>                                     
                 </table>
