@@ -137,7 +137,7 @@ title: Festival svobodné kultury - Třebíč
                   </tr>   
                   <tr>
                     <td>23:00 - 00:00</td>
-                    <td><b>THRASHSURF</b></td>
+                    <td><b>Vzhůru a níž</b></td>
                     <td>kapela</td>
                   </tr> 
                   <tr>
