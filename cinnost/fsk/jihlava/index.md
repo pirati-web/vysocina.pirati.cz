@@ -231,6 +231,10 @@ title: Festival svobodné kultury - Jihlava
                     <td>hand lettering</td>                    
                   </tr> 
                   <tr>
+                    <td><b>Maite</b></td>
+                    <td>šperky</td>                    
+                  </tr>
+                  <tr>
                     <td><b>Martin Jelínek</b></td>
                     <td>literatura</td>                    
                   </tr>
