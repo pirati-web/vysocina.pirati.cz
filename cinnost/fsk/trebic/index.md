@@ -194,7 +194,11 @@ title: Festival svobodné kultury - Třebíč
                   <tr>
                     <td><b>Jitka Fischerová</b></td>
                     <td>obrazy</td>                    
-                  </tr>                    
+                  </tr> 
+                  <tr>
+                    <td><b>Maite</b></td>
+                    <td>šperky</td>                    
+                  </tr>
                   <tr>
                     <td><b>Martin Jelínek</b></td>
                     <td>literatura</td>                    
