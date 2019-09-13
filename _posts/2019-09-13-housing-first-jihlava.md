@@ -6,7 +6,7 @@ layout: post
 title: Testování Housing first bude v Jihlavě spuštěno na začátku října
 author: Aneta Hrdličková
 authorId:  
-image: posts/2019-09-13-housing-first-jihlava.jpg
+image: posts/2019-09-13-housing-first-jihlava.png
 ---
 Jihlava, 12. září 2019 - Jihlava získala podporu ze strukturálních fondů EU, a to s výborným hodnocením. Hodnotící komise Ministerstva práce a sociálních věcí vybrala projekt Bydlení především – testování konceptu Housing first v Jihlavě k finanční podpoře. Porota navíc ocenila zpracování a přípravu jihlavského projektu, který prošel s výborným hodnocením 88 procent. Projekt bude spuštěn 1. října 2019 a město při něm bude spolupracovat s Oblastní charitou Jihlava.
 
