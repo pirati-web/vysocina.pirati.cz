@@ -17,9 +17,7 @@ Během prázdnin jsem se vydával do všech koutů Vysočiny na setkání s voli
  
 Zasáhlo nás také šílené povolení plošné aplikace jedu Stutox II, tedy jeho rozházení po polích, kvůli hraboši. Díky tlaku Pirátů a celé veřejnosti naštěstí došlo k pozastavení tohoto rozhodnutí ministerstvem. Nejsmutnější na tom je, že ten, kdo chce dnes přemnoženého hraboše hubit, sám mu vytvořil dokonalé podmínky k přemnožení. Nemůže být levnější si počkat na sežrání úrody hrabošem a pak plošně rozsypávat jed na zemědělské půdě. Hledejme jiné cesty. O celé situaci budeme také jednat na příštím jednání Zemědělské výboru.
   
-Minulý týden mě čekalo už zářijové [Setkání k jadernému odpadu](https://www.facebook.com/events/2415830378676487/). Pozvali jsme si do Jihlavy pirátského poslance Petra Třešňáka a zástupce občanů z lokalit vytipovných pro hlubinné úložiště jaderného odpadu. 
-
-19. září pořádám akci [Poznej lokální potraviny](https://www.facebook.com/events/2454071054871529/) v JiPiCi. Cílem je upozornit na problémy v zemědělství a potravinářství, které, spíš než stát, vyřeší právě informovaný zákazník. Akce se zúčastní Biofarma Sasov, Chaloupky o.p.s. a POEX Velké Meziříčí.
+Minulý týden mě čekalo už zářijové [Setkání k jadernému odpadu](https://www.facebook.com/events/2415830378676487/). Pozvali jsme si do Jihlavy pirátského poslance Petra Třešňáka a zástupce občanů z lokalit vytipovných pro hlubinné úložiště jaderného odpadu. **19. září pořádám akci [Poznej lokální potraviny](https://www.facebook.com/events/2454071054871529/) v JiPiCi**. Cílem je upozornit na problémy v zemědělství a potravinářství, které, spíš než stát, vyřeší právě informovaný zákazník. Akce se zúčastní Biofarma Sasov, Chaloupky o.p.s. a POEX Velké Meziříčí.
 
 ---
 
