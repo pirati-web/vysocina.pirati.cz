@@ -1,5 +1,5 @@
 ---
-date: 2019-09-12
+date: 2019-09-13
 category: blog
 tags: srpen Sněmovna Jan Pošvář
 layout: post
