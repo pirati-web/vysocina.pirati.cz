@@ -20,7 +20,7 @@ title: Festival svobodné kultury - Jihlava
                 <table>                  
                   <tr>
                     <td>17:00 - 18:30</td>
-                    <td><b>Pirátská putovní univerzita</b></td>
+                    <td><b>Pirátská putovní univerzita: Jazyk nepoznaný-peníze</b></td>
                     <td></td>
                   </tr>  
                   <tr>
