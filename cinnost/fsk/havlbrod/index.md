@@ -29,13 +29,18 @@ title: Festival svobodné kultury - Havlíčkův Brod
                     <td></td>
                   </tr>
                   <tr>
+                    <td>17:00 - 18:00</td>
+                    <td><b>Petr Berger</b></td>
+                    <td>filmy</td>
+                  </tr>
+                  <tr>
                     <td>22:30 - 24:00</td>
                     <td><b>Kolonie pes</b></td>
                     <td>kapela</td>
                   </tr>
                   <tr>
                     <td>00:00 - 02:00</td>
-                    <td><b>DJ Broomstick</b></td>
+                    <td><b>DJ Senzi</b></td>
                     <td>d'n'b</td>
                   </tr>
                 </table>
@@ -55,14 +60,19 @@ title: Festival svobodné kultury - Havlíčkův Brod
                     <td>loutkové divadlo</td>
                   </tr> 
                   <tr>
-                    <td>15:45 - 16:00</td>
+                    <td>15:15 - 15:30</td>
                     <td><b>Filip Versteeg</b></td>
                     <td>literatura</td>
                   </tr>  
                   <tr>
-                    <td>16:00 - 16:30</td>
+                    <td>15:30 - 16:00</td>
                     <td><b>Tomáš Ryška</b></td>
                     <td>hudba/literatura</td>
+                  </tr> 
+                  <tr>
+                    <td>16:00 - 16:30</td>
+                    <td><b>George Silverman and The Mask</b></td>
+                    <td>kapela</td>
                   </tr> 
                   <tr>
                     <td>16:30 - 17:00</td>
@@ -70,17 +80,22 @@ title: Festival svobodné kultury - Havlíčkův Brod
                     <td>loutkové divadlo</td>
                   </tr> 
                   <tr>
-                    <td>17:15 - 17:30</td>
+                    <td>17:00 - 17:30</td>
+                    <td><b>George Silverman and The Mask</b></td>
+                    <td>kapela</td>
+                  </tr>
+                  <tr>
+                    <td>17:30 - 17:45</td>
                     <td><b>Filip Versteeg</b></td>
                     <td>literatura</td>
                   </tr>
                   <tr>
-                    <td>17:30 - 18:30</td>
+                    <td>17:45 - 18:45</td>
                     <td><b>Stoned Tones</b></td>
                     <td>kapela</td>
                   </tr> 
                   <tr>
-                    <td>18:30 - 18:45</td>
+                    <td>18:45 - 19:00</td>
                     <td><b>Filip Versteeg</b></td>
                     <td>literatura</td>
                   </tr>
