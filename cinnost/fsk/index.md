@@ -93,6 +93,15 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/daniel_zverina.png" 
+            alt="Daniel Zvěřina" 
+class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Daniel Zvěřina
+</span></h4><strong class="c-program-candidate-badge__profession">
+            DZ777, odjakživa rád tvořím, přijde mi to jako super ztráta času. Nejraději to dělám pod vlivem noci.
+</strong></div></div></div>
+
+<div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
             src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/daniela_weissova.png" 
             alt="Daniela Weissová" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
@@ -314,6 +323,15 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
             THRASHSURF
 </span></h4><strong class="c-program-candidate-badge__profession">
             Hrdinové dělnické třídy zamilovaní do současné australské scény. Tvrdý kytary, úsporná angličtina, švoncek humor, snapbacky, vzpomínky na hokejový bitky a videopůjčovny. Jejich druhá nahrávka se prý už vytesává do masivu Thrashmore a bude hitovejší a tvrdší. Nebuď pleš a jeď thrash!
+</strong></div></div></div>
+
+<div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/tomas_ryska.png" 
+            alt="Tomáš Ryška" 
+class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Tomáš Ryška
+</span></h4><strong class="c-program-candidate-badge__profession">
+            Trochu básník, trochu skladatel a trochu písničkář, ale zatím nic z toho pořádně a veřejně. Až se to změní, dám vám vědět. Prozatím si můžete poslechnout něco z toho, co jsem napsal.
 </strong></div></div></div>
   
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
