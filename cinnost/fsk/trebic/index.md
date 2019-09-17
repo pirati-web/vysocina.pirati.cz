@@ -20,7 +20,7 @@ title: Festival svobodné kultury - Třebíč
                 <table>                  
                   <tr>
                     <td>17:00 - 18:30</td>
-                    <td><b>Pirátská putovní univerzita</b></td>
+                    <td><b>Pirátská putovní univerzita: Aktivní stáří, důchodová reforma očima Pirátů a jak hledat dobré politiky</b></td>
                     <td></td>
                   </tr> 
                   <tr>
