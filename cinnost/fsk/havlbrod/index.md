@@ -25,7 +25,7 @@ title: Festival svobodné kultury - Havlíčkův Brod
                   </tr>  
                   <tr>
                     <td>15:30 - 17:00</td>
-                    <td><b>Pirátská putovní univerzita</b></td>
+                    <td><b>Pirátská putovní univerzita: "Kolik umíš jazyků, tolikrát jsi svobodným člověkem"</b></td>
                     <td></td>
                   </tr>
                   <tr>
