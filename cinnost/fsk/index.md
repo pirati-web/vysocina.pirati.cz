@@ -138,12 +138,30 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
   
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/iron_soul.png" 
+            alt="Iron Soul" 
+class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Iron Soul
+</span></h4><strong class="c-program-candidate-badge__profession">
+            Mladá kapela z Jaroměřic. Hrajeme crossover a na youtube najdete náš první klip na píseň Závody.
+</strong></div></div></div>  
+  
+<div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
             src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/iva_ruzickova.png" 
             alt="Iva Růžičková" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Iva Růžičková
 </span></h4><strong class="c-program-candidate-badge__profession">
             Vyjadřuji se výtvarně i literárně. Moje poslední výstava byla v Chomutově pořádaná Ženským spolkem a byla složená ze série figurálních, zejména mateřských motivů. Mým tvůrčím alter egem je umělecká identita nazvaná Nástřih Hráze, která aktivistickým způsobem na bázi sarkasmu a humoru reflektuje bezpráví páchané na ženách v porodnicích. Nástřih Hráze vystavovala v mnoha městech ČR, také na Klinice nebo na lodi Avoid v Praze, a napsala sbírku Zvrácené verše. V rámci "vážné" literární tvorby jsem autorkou povídek, s úspěchem se setkala na veřejných čtení práce Deník sígra.
+</strong></div></div></div>
+
+<div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/jakub_copak.png" 
+            alt="Jakub Čopák" 
+class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Jakub Čopák
+</span></h4><strong class="c-program-candidate-badge__profession">
+            Jmenuji se Jakub Čopák, focení se věnuji tři roky ve volném čase a ze všeho nejvíce mě baví krajinářská fotografie.
 </strong></div></div></div>
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
@@ -208,6 +226,15 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </span></h4><strong class="c-program-candidate-badge__profession">
             Ve volném čase se věnuji hand letteringu neboli krasopsaní. Nahlížím na písmo trochu jinak, než nás to učili ve škole, a snažím se tak převádět slova na papír novým, kreativnějším způsobem.
 </strong></div></div></div>
+
+<div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/maite.png" 
+            alt="Maite" 
+class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Maite
+</span></h4><strong class="c-program-candidate-badge__profession">
+            Jmenuji se Andrea Hladíková a pod značkou Maite vyrábím šperky z ovocných pecek. Baví mě objevovat barvy, které příroda nabízí. Šperky tvořím z pecek z avokáda, manga, datlí a kokosové skořápky. Mám jednu vrtačku, několik pecek a lásku, se kterou tvořím.Jmenuji se Andrea Hladíková a pod značkou Maite vyrábím šperky z ovocných pecek. Baví mě objevovat barvy, které příroda nabízí. Šperky tvořím z pecek z avokáda, manga, datlí a kokosové skořápky. Mám jednu vrtačku, několik pecek a lásku, se kterou tvořím.
+</strong></div></div></div>
   
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
             src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/martin_jelinek.png" 
@@ -226,6 +253,15 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </span></h4><strong class="c-program-candidate-badge__profession">
             Slamový básník, kterého nikdo nezná. Scenárista, jenž se nedostal napoprvé na FAMU o šest bodů. Režisér, jehož krátký dokument měl premiéru na Ukrajině u ruských hranic. Cestovatel, který málem umřel na podchlazení v Londýně. Umělec, jenž to slovo nesnáší a nepovažuje se za něj. Rodák z Třebíče, který už pět let žije ve Vladislavi a z toho čtyři roky studoval střední filmovku ve Zlíně. Jestli jsem vás neodradil svým popisem, rád se s vámi potkám na svém sólo slamu před Trubkou! Tak 27. v pátek, pokud mi neujede vlak!
 </strong></div></div></div>
+
+<div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/noir_voir.png" 
+            alt="Noir Voir" 
+class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Noir Voir
+</span></h4><strong class="c-program-candidate-badge__profession">
+            Od šepotu po start tryskáče. Od ambientu přes najazzlý folk až po noise. Robotický bubeník s kamennou tváří, výpravné houslové linky místo zpěvu (a fakt to stačí!), basák, co si lokl hopsinkové šťávy, a kytarista, který hladí i mučí ostnatým drátem.
+</strong></div></div></div>
   
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
             src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/ortodoxni_jidas.png" 
@@ -242,7 +278,16 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
             Pavel Hlaváč
 </span></h4><strong class="c-program-candidate-badge__profession">
             Jmenuji se Pavel Hlaváč ročník 1951. Jsem končící výtvarník-hrající blues a frézař. Do svých obrazů vkládám blues - do blues zase obrazy a snívám o mé frézce krasavici.
-</strong></div></div></div>              
+</strong></div></div></div>   
+
+<div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/richard_ramirez.png" 
+            alt="Richard Ramirez" 
+class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Richard Ramirez
+</span></h4><strong class="c-program-candidate-badge__profession">
+            Dříve tato kapela působila pod názvem Let's Roll. Od roku 2017 se rozhodli změnit název na Richard Ramirez. Se změnou jména šla ruku v ruce i změna repertoáru. Anglické texty nahradila čeština a stylově se začali ubírat směrem hardcore-metalu. Před několika měsici kapela posílila o hlavní zpěv v podání Pavla Saláka.
+</strong></div></div></div>
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
             src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/sinks.png" 
