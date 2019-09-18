@@ -45,25 +45,20 @@ title: Festival svobodné kultury - Třebíč
             <div class="u-1margin--top">
                 <table>
                   <tr>
-                    <td>14:15 - 14:30</td>
-                    <td><b>Filip Versteeg</b></td>
-                    <td>literatura</td>
-                  </tr>  
-                  <tr>
-                    <td>15:15 - 15:30</td>
+                    <td>14:45 - 15:00</td>
                     <td><b>Filip Versteeg</b></td>
                     <td>literatura</td>
                   </tr>
                   <tr>
-                    <td>15:30 - 16:30</td>
+                    <td>15:00 - 16:00</td>
                     <td><b>Iron Soul</b></td>
                     <td>kapela</td>
-                  </tr>
+                  </tr>     
                   <tr>
-                    <td>16:30 - 16:45</td>
-                    <td><b>Arabky z Vysočiny</b></td>
-                    <td>tanec</td>
-                  </tr>
+                    <td>16:00 - 16:45</td>
+                    <td><b>Mr. Cook</b></td>
+                    <td>kapela</td>
+                  </tr> 
                   <tr>
                     <td>16:45 - 17:00</td>
                     <td><b>Filip Versteeg</b></td>
@@ -103,15 +98,20 @@ title: Festival svobodné kultury - Třebíč
                     <td>20:00 - 20:30</td>
                     <td><b>Iva Růžičková</b></td>
                     <td>literatura</td>
-                  </tr>
+                  </tr>                  
                   <tr>
                     <td>20:30 - 20:45</td>
+                    <td><b>Arabky z Vysočiny</b></td>
+                    <td>tanec</td>
+                  </tr>
+                  <tr>
+                    <td>20:45 - 21:00</td>
                     <td><b>Zuzana Zvěřinová</b></td>
                     <td>hudba/literatura</td>
                   </tr>
                   <tr>
-                    <td>20:45 - 21:45</td>
-                    <td><b>The Desperate Mind</b></td>
+                    <td>21:00 - 22:00</td>
+                    <td><b>Noir Voir</b></td>
                     <td>kapela</td>
                   </tr> 
                 </table>
@@ -142,7 +142,7 @@ title: Festival svobodné kultury - Třebíč
                   </tr> 
                   <tr>
                     <td>00:00 - 01:00</td>
-                    <td><b>Mr. Cook</b></td>
+                    <td><b>The Desperate Mind</b></td>
                     <td>kapela</td>                    
                   </tr> 
                   <tr>
