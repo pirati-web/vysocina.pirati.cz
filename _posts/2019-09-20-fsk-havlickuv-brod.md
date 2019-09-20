@@ -9,11 +9,11 @@ authorId:  hana.hajnova
 image: posts/2019-09-20-fsk-havlickuv-brod.jpg
 ---
 
-Havlíčkův Brod, 19. září 2019 – ***Havlíčkovo náměstí a klub Čarodějka budou tuto sobotu 21. září od 14. hodin patřit Festivalu svobodné kultury. Festival zde bude mít svou premiéru, než se přesune do dalších měst na Vysočině – Třebíče a Jihlavy. Akce se koná pod záštitou Pirátské strany Vysočina a vstupné je zdarma.*** 
+Havlíčkův Brod, 19. září 2019 – *Havlíčkovo náměstí a klub Čarodějka budou tuto sobotu ***21. září od 14. hodin*** *patřit Festivalu svobodné kultury. Festival zde bude mít svou premiéru, než se přesune do dalších měst na Vysočině – Třebíče a Jihlavy. Akce se koná pod záštitou Pirátské strany Vysočina a ***vstupné je zdarma***.
 
 Festival je multižánrový a nabízí vyžití pro všechny věkové kategorie. V programu najdete kapely Kolonie pes, Stoned tones, George Silvermand and The Mask , sinks nebo Vzhůru a níž. Budou se promítat svobodné filmy, na své si přijdou i rodiče s dětmi, kteří se můžou těšit na loutkové divadlo v podání Daniely Weissové. Bohatá výstavní část nabídne kromě obrazů a fotografií i workshopy malby na dřevo a vinutých perel. 
 
-*Program Havlíčkovo náměstí:*
+**PROGRAM HAVLÍČKOVO NÁMĚSTÍ**
 
 > 14:30 – 15:00	Daniela Weissová (loutkové divadlo)
 
@@ -37,7 +37,7 @@ Festival je multižánrový a nabízí vyžití pro všechny věkové kategorie.
 
 > 21:00 – 22:00	Vzhůru a níž
 
-*Program Čarodějka*
+**PROGRAM ČARODĚJKA**
 
 > 14:00 – 15:30	Sita Sing the Blues (film)
 
@@ -49,9 +49,10 @@ Festival je multižánrový a nabízí vyžití pro všechny věkové kategorie.
 
 > 00:00 – 02:00	DJ Senzi (d’n’b)
 
-*Výstavy*
+**VÝSTAVY A WORKSHOPY**
 
 > Alena Nixová (miniatury), Alena Spruijtová (obrazy), Anna Lorencová (obrazy), Jakub Hlaváč (fotografie), Jana Pašková (workshop vinuté perle), Jiří Tržil (literatura), Jitka Fischerová (obrazy), Martin Jelínek (literatura), Pavel Hlaváč (obrazy), Radka Adámková (workshop malba na dřevo), Richard Jonáš (fotografie), Veronika Vohralíková (obrazy)
+
 
 Aktuální program včetně map najdete [zde](https://vysocina.pirati.cz/cinnost/fsk/havlbrod/).
 
