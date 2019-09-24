@@ -264,6 +264,16 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
+            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/milus_kotisova.png" 
+            alt="Milus Kotisova" 
+class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Miluš Kotišová
+</span></h4><strong class="c-program-candidate-badge__profession">
+           Překladatelka, lektorka cizích jazyků, metodička sebeřízeného a svobodného učení. V roce 2017 založila Pirátskou putovní univerzitu, iniciativu zdola v České pirátské straně usilující o inovace ve vzdělávání i v politice. Jako její kurátorka zde rozvíjí koncept vědomého vnořeného učení v rámci politické praxe. PPU podporuje a rozvíjí deliberativní a participativní přístupy/metodiky, dělá vlastní výzkum (!) s důrazem na důslednou syntézu vědění, rozvíjí koncept péče jako jeden z kontrapunktů k silovému aspektu politiky a v neposlední řadě dialogickou kulturu spolupráce a nenásilí. 
+V letošním roce Miluš vydala knihu Jazyk nepoznaný: peníze, kde přináší důkazy, že peníze jsou jazyk a co z toho plyne pro politiku a společnost obecně. Aktuálně proto rozvíjí tzv. vícerozměrnou cenu, která slouží jako informace nikoli pro spotřebitele, ale občana. Za nejdůležitější studijní program PPU považuje Vzdělávací architekturu, která zkoumá veřejný prostor.
+</strong></div></div></div>
+
+<div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
             src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/noir_voir.png" 
             alt="Noir Voir" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
