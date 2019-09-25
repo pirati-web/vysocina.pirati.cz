@@ -7,9 +7,10 @@ title: Již tento pátek pokračuje Festival svobodné kultury v Třebíči
 author: Hana Hajnová
 authorId:  hana.hajnova
 image: posts/2019-09-25-fsk-trebic.jpg
+
 ---
 
-25. září 2019, Třebíč – ***Tento pátek 27. září ožije Třebíč odpoledne svobodnou kulturou. V hudebním klubu Béčko, v restauraci Trumpetka i před ní na ulici Leopolda Pokorného se můžete těšit na spoustu dobré muziky, svobodné filmy, autorské čtení nebo výtvarné workshopy. Akce se koná pod záštitou Pirátské strany Vysočina a vstupné je zdarma.*** 
+*25. září 2019, Třebíč – Tento* ***pátek 27. září*** *ožije Třebíč odpoledne svobodnou kulturou. V hudebním klubu Béčko, v restauraci Trumpetka i před ní na ulici Leopolda Pokorného se můžete těšit na spoustu dobré muziky, svobodné filmy, autorské čtení nebo výtvarné workshopy. Akce se koná pod záštitou Pirátské strany Vysočina a* ***vstupné je zdarma.***
 
 Multižánrový Festival svobodné kultury nabízí vyžití pro všechny věkové kategorie a do Třebíče přiveze kapely jako Noir Voir z Bruntálu, pražské Eugene Morrow, jihlavské Vzhůru a níž nebo pop-folkového písničkáře z Vysočiny Eirika.  V Trumpetce se budou promítat svobodné filmy a bohatá výstavní část nabídne kromě obrazů a fotografií i workshopy malby na dřevo a vinutých perel. 
  
