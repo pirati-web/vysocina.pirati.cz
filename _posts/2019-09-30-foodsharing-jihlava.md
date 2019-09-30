@@ -1,5 +1,5 @@
 ---
-date: 2019-09-25
+date: 2019-09-30
 category: blog
 tags: Food sharing Jihlava
 layout: post
@@ -21,7 +21,6 @@ Pojďme to změnit. Pomůžeme tím sobě – obohacením se o něco dobrého k 
 Další problém v oblasti plýtvání jídlem jsou restaurace. V Praze, Brně, Olomouci, Českých Budějovicích i Ostravě se čím dál více restaurací zapojuje do projektu Nesnězeno, kde se ke konci otevírací doby inzeruje neprodané jídlo za zlomek původní ceny. Pokud pobýváte v těchto městech, doporučuji si aplikaci stáhnout. Jihlava zatím ve výše zmíněném projektu nefiguruje, ale věřím, že to nebude dlouho trvat. 
 
 Nezapomínejte – sdílení je přece aktem lásky - sharing is caring.
-
 
 ---
 
