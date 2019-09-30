@@ -1,13 +1,12 @@
 ---
 date: 2019-09-30
 category: blog
-tags: Food sharing Jihlava
+tags: food sharing Jihlava
 layout: post
 title: Food sharing aneb vaše jídlo nemusí končit v popelnici
 author: Kristina Němcová
 authorId:  
 image: posts/2019-09-30-foodsharing-jihlava.jpg
-
 ---
 
 *Jihlava, 30. září 2019* - Znáte to – jdete v neděli s rodinou nakoupit jídlo na příští týden, máte velké oči, k tomu mají vše ve slevě a uděláte veliký nákup. Jenže v pátek zjistíte, že ty jogurty už se musí sníst, jinak se zkazí a vy na ně nemáte vůbec chuť. Nebo si koupíte na svačinu pomazánku, ale po prvním soustu zjistíte, že vám vůbec nechutná. Co s ní? Nebo jak praví klasik – kam s ní? 
@@ -24,16 +23,13 @@ Nezapomínejte – sdílení je přece aktem lásky - sharing is caring.
 
 ---
 
-*ODKAZY*
+***Související odkazy***:
 
 [Zachraň jídlo](https://zachranjidlo.cz/)
 
 
 ---
 
-*Kontakt pro média*
+***Kontakt pro média***:
 
-Hana Hajnová, hana.hajnova@pirati.cz, 721 684 323
-
----
-
+Hana Hajnová, 721 684 323, hana.hajnova@pirati.cz
