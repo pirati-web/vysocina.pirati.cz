@@ -7,7 +7,6 @@ title: Již tento pátek pokračuje Festival svobodné kultury v Třebíči
 author: Hana Hajnová
 authorId:  hana.hajnova
 image: posts/2019-09-25-fsk-trebic.jpg
-
 ---
 
 *25. září 2019, Třebíč – Tento* ***pátek 27. září*** *ožije Třebíč odpoledne svobodnou kulturou. V hudebním klubu Béčko, v restauraci Trumpetka i před ní na ulici Leopolda Pokorného se můžete těšit na spoustu dobré muziky, svobodné filmy, autorské čtení nebo výtvarné workshopy. Akce se koná pod záštitou Pirátské strany Vysočina a* ***vstupné je zdarma.***
