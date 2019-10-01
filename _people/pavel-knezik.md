@@ -1,6 +1,6 @@
 ---
 uid: pavel.knezik
-name:     Pavel Kněžik
+name:     Pavel Knežik
 category:
   - clenove
 description: člen Krajského sdružení Vysočina
