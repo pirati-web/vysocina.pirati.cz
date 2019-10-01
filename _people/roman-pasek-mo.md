@@ -35,19 +35,13 @@ Ve svém volném čase se aktivně věnuje hudbě. Dříve to byla kytara a bic�
 
 **Piráti:**
 * od ledna 2018 členem
-* společně s ostatními členy MS Třebíčsko organizoval v Třebíči 6. 4. 2018 **Vyosení** a od té doby organizuje pravidelné opakování
-* aktivně se podílí na tvorbě Pirátských listů - krajské mutace na Vysočině
-* od května 2018 1. místopředsedou KS Vysočina
-* od října 2018 zastupitelem Třebíče
-* od října 2018 předsedou MS Třebíčsko
-
----
-
-**Politický kompas:**
-<br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pirati-web/trebicsko.pirati.cz/master/assets/img/chart/roman-pasek.png">
-</p>
+* od dubna 2018 organizuje v Třebíči **Vyosení**
+* aktivně se podílí na tvorbě **Pirátských listů** - krajské mutace na Vysočině
+* od května 2018 1. místopředsedou **KS Vysočina**
+* od října 2018 zastupitelem **Třebíče**
+* od října 2018 předsedou **MS Třebíčsko**
+* organizátor **Festivalu svobodných filmů**
+* spolupořadatel **Festivalu svobodné kultury na Vysočině** - PaRo projekt 2019
 
 ---
 
