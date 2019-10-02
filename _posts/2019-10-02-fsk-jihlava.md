@@ -1,5 +1,5 @@
 ---
-date: 2019-10-202
+date: 2019-10-02
 category: blog
 tags: Festival svobodné kultury Jihlava
 layout: post
@@ -9,7 +9,7 @@ authorId:  hana.hajnova
 image: posts/2019-10-02-fsk-jihlava.jpg
 ---
 
-2. října 2019, Jihlava – Ulice Matky Boží v Jihlavě bude tuto sobotu odpoledne patřit Festivalu svobodné kultury. Od 14. hodin se rozezní první tóny na parkáně u brány Matky Boží a ponesou se ulicí kolem prokletých básníků až do Jihlavského pirátského centra. Večerní hudební scéna se pak přesune do kavárny PROJEKT Dirty Family na Mostecké ulici. Akce se koná pod záštitou Pirátské strany Vysočina a vstupné je zdarma.
+*2. října 2019, Jihlava* – Ulice Matky Boží v Jihlavě bude tuto sobotu odpoledne patřit Festivalu svobodné kultury. **Od 14. hodin** se rozezní první tóny na parkáně u brány Matky Boží a ponesou se ulicí kolem prokletých básníků až do Jihlavského pirátského centra. Večerní hudební scéna se pak přesune do kavárny PROJEKT Dirty Family na Mostecké ulici. Akce se koná pod záštitou Pirátské strany Vysočina a **vstupné je zdarma**.
 
 Multižánrový Festival svobodné kultury nabízí vyžití pro všechny generace a do Jihlavy přiveze kapely jako třebíčské Mr. Cook, pražské Eugene Morrow, The Desperate Mind z Blanska nebo pop-folkového písničkáře z Vysočiny Eirika.  V Jihlavském pirátském centru se budou promítat svobodné filmy, proběhnou zajímavé přednášky a bohatá výstavní část nabídne kromě obrazů a fotografií i workshopy tetování a vinutých perel. 
 
