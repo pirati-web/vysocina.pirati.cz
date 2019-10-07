@@ -7,13 +7,12 @@ title: Festival svobodné kultury
 
 <div class="pce-hero pce-hero--entry">
     <div class="pce-hero__content">
-        <h1 class="c-page-title">Festival svobodné kultury</h1><br><br>
+        <h1 class="c-page-title">Festival svobodné kultury</h1>
         <h2 class="t-h4-alt">
           Festival svobodné kultury je jedinečná akce v kontextu celé ČR. Termín svobodná kultura vešel v širší povědomí v roce 2004, kdy Lawrence Lessig vydal svoji knihu “Svobodná kultura”, která se zabývala udržitelností stávající podoby práv duševního vlastnictví v době internetu. V českém prostředí tuto myšlenku nejvíce rozvíjí Piráti – chceme, aby autorské právo plnilo svůj původní účel, tedy zlepšovalo pozici autora vůči vydavatelům, producentům a prodejcům děl. Nikdy by nemělo být záminkou pro omezování svobodné tvorby, remixů, parodií a jiných tvůrčích počinů. Zároveň to ale neznamená, že by Piráti chtěli zrušit osobnostní práva autora. Naopak, naším cílem je podpořit svobodu tvorby a najít nové cesty pro tvorbu v digitálním věku.
       </h2>
     </div>
 </div>
-<br>
 <div class="o-section">
   <div class="row">
     <div class="columns medium-4">
@@ -37,7 +36,6 @@ title: Festival svobodné kultury
   </div>
 </div>
 <br>
-
 <div class="pce-hero pce-hero--entry">
     <div class="pce-hero__content">
         <h1 class="c-page-title">Účinkující</h1><br><br>        
