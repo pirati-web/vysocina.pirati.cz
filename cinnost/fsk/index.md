@@ -35,10 +35,9 @@ title: Festival svobodné kultury
     </div>
   </div>
 </div>
-<br>
 <div class="pce-hero pce-hero--entry">
     <div class="pce-hero__content">
-        <h1 class="c-page-title">Účinkující</h1><br><br>        
+        <h1 class="c-page-title">Účinkující</h1>       
     </div>
 </div>
 <div class="o-section">
