@@ -7,12 +7,10 @@ title: Pirátské listy
 
 <div class="pce-hero pce-hero--entry">
     <div class="pce-hero__content">
-        <h1 class="c-page-title">Pirátské listy</h1><br><br>
+        <h1 class="c-page-title">Pirátské listy</h1>
         <h2 class="t-h4-alt">Pravidelně nepravidelné nebo nepravidelně pravidelné tištěné vydání toho nejdůležitějšího, co se u Pirátu událo, děje nebo bude dít. Aktuality a komentáře od Ivana až po pirátské zastupitele u vás. A křížovka. Ta nesmí chybět. </h2>
     </div>
 </div>
-<br>
-<br>
 <div class="row o-section-block c-emphasized-text">
     <div class="medium-12 large-12 columns">
         <section class="o-section">
