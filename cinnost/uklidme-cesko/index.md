@@ -11,8 +11,6 @@ title: Ukliďme Česko
         <h2 class="t-h4-alt">Piráti v celé České republice, včetně Vysočiny, pravidelně pomáhají s úklidem české přírody, aby se nám tu společně žilo co nejpříjemněji. Každý rok se proto připojují k dobrovolnickému projektu Ukliďme Česko, který se zaměřuje na úklid vybraných lokalit, malých i větších nelegálních skládek a všudypřítomného nepořádku.</h2>
     </div>
 </div>
-<br>
-<br>
 <div class="row o-section-block c-emphasized-text">
     <div class="medium-12 large-12 columns">
         <section class="o-section">
@@ -20,8 +18,7 @@ title: Ukliďme Česko
                 <h3 class="o-section__heading t-h4-super">Plánované úklidy</h3>
             </div>
             <div class="u-1margin--top">
-                <ul>
-                  <li><a href="https://www.facebook.com/events/520953695116421/" target="_blank" rel="noopener">22. 9. 2019 - Třebíč</a></li>
+                <ul>                  
                 </ul>
             </div>
         </section>
@@ -33,6 +30,7 @@ title: Ukliďme Česko
             </div>
             <div class="u-1margin--top">
                 <ul>
+                    <li><a href="https://www.facebook.com/events/520953695116421/" target="_blank" rel="noopener">září 2019 - Třebíč</a></li>
                     <li><a href="https://www.facebook.com/events/566431393834338/" target="_blank" rel="noopener">duben 2019 - Havlíčkův Brod</a></li>
                     <li><a href="https://www.facebook.com/events/817292845277928/" target="_blank" rel="noopener">duben 2019 - Telč</a></li>
                     <li><a href="https://www.facebook.com/events/2267178543609498/" target="_blank" rel="noopener">duben 2019 - Třebíč</a></li>
