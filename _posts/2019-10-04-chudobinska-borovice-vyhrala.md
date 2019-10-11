@@ -17,6 +17,8 @@ Borovici do soutěže navrhl Ing. Milan Peňáz, CSc., vědec, odborník na ryby
 
 V jeho snažení ho neúnavně podporoval i pirátský starosta obce Vír Ladislav Stalmach, který se zúčastnil slavnostního vyhlášení a bude i nadále sledovat osud borovice na evropské půdě. *„Chtěl bych pogratulovat všem našim soupeřům a poděkovat šestnácti tisícům fanoušků, kteří v anketě Strom roku hlasovali. Uděláme vše pro to, abychom i v evropské konkurenci co nejlépe hájili barvy České republiky.“* Doplnil starosta Stalmach.
 
+Po slavnostním vyhlášení také Ladislav Stalmach upřesnil, jak to bude s druhou částí výhry, tedy odborným ošetřením: *"Mnohé fanoušky Chudobínské borovice vyděsil moment, kdy při slavnostním vyhlášení výsledku převzali navrhovatelé také šek na odborné vyšetření vítězného stromu. Chudobínská borovice je volně rostoucí strom v přírodní krajině a my jsme od samého počátku ankety všem říkali, že v případě vítězství tento šek rozhodně neuplatníme. Včera jsme se tak dohodli s navrhovateli Žižkova dubu, že jim tento šek předáme."*
+
 ---
 
 **ODKAZY**
