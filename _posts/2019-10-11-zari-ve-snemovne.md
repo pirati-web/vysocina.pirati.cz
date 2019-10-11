@@ -1,5 +1,5 @@
 ---
-date: 2019-09-13
+date: 2019-10-11
 category: blog
 tags: září Sněmovna Jan Pošvář
 layout: post
