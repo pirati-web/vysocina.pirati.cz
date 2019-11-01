@@ -4,8 +4,8 @@ category: blog
 tags: Housing-first Jihlava dobrovolníci 
 layout: post
 title: Pomozte s rozjezdem projektu Housing First v Jihlavě i vy!
-author: Eva Nováková
-authorId:  eva.novakova
+author: Hana Hajnová
+authorId:  hana.hajnova
 image: posts/2019-11-1-jihlava-housingfirst-dobrovolnici.png
 ---
 
@@ -15,7 +15,7 @@ Projekt, který se podařilo prosadit zejména díky práci zastupitelů Daniela
 
 V případě zájmu o zapojení se do registračního týdne pište prosím na e-mail <eva.novakova@jihlava-city.cz> **do termínu 14. 11. 2019**.
 
-*„Dobrovolníci budou v rámci registračního týdne oslovovat zájemce o účast v projektu na vytipovaných místech (ulice, zahrádkářské kolonie, azylové domy, ubytovny apod.). Předpokládá se, že zájemci o účast v projektu budou oslovováni v čase od 8 do 16 hodin, konkrétně potom dle možností jednotlivých dobrovolníků. Pro dobrovolníky bude připraveno zázemí v budově Magistrátu města Jihlavy, kam budou docházet a předávat nashromážděná data, případně řešit situace vzniklé při vyplňování dotazníků. Dobrovolníci budou řádně proškoleni,“* doplňuje pirátská zastupitelka Nováková. 
+*"Dobrovolníci budou v rámci registračního týdne oslovovat zájemce o účast v projektu na vytipovaných místech (ulice, zahrádkářské kolonie, azylové domy, ubytovny apod.). Předpokládá se, že zájemci o účast v projektu budou oslovováni v čase od 8 do 16 hodin, konkrétně potom dle možností jednotlivých dobrovolníků. Pro dobrovolníky bude připraveno zázemí v budově Magistrátu města Jihlavy, kam budou docházet a předávat nashromážděná data, případně řešit situace vzniklé při vyplňování dotazníků. Dobrovolníci budou řádně proškoleni,“* doplňuje pirátská zastupitelka Nováková. 
 
 Děkujeme za spolupráci!
 
