@@ -5,7 +5,7 @@ category:
   - clenove
   - pks
 ordpks: 1
-description: předeskyně Krajského sdružení Vysočina
+description: předsedkyně Krajského sdružení Vysočina
 profession: OSVČ - rodopisec
 img: people/blanka-lednicka.jpg
 mail:
