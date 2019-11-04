@@ -11,7 +11,7 @@ description: 2. místopředseda Krajského sdružení Vysočina
 profession: středoškolský učitel
 img: people/jan-brizdala.jpg
 mail:
-  - jan.brizdala@seznam.cz
+  - jan.brizdala@pirati.cz
 profiles:
   facebook: https://www.facebook.com/brizdala
   twitter: 
