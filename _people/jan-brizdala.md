@@ -5,7 +5,9 @@ category:
   - kandidat2018
   - clenove
   - mstrebicsko
-description: člen Místního sdružení Třebíčsko
+  - pks
+ordpks: 3
+description: 1. místopředseda Krajského sdružení Vysočina
 profession: středoškolský učitel
 img: people/jan-brizdala.jpg
 mail:
