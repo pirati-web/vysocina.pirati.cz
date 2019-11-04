@@ -7,9 +7,11 @@ category:
   - clenove
   - pmsjihlavsko
   - msjihlavsko
+  - pks
   - kandidat2018 
 ordpmsjihlavsko: 2
-description: 1. místopředsedkyně Místního sdružení Jihlavsko
+ordpks: 4
+description: 3. místopředsedkyně Krajského sdružení Vysočina
 profession: Vedoucí sociální služby
 img: people/eva-novakova.jpg
 mail:
