@@ -4,9 +4,7 @@ name:     Milan Daďourek  	# běžně používáné jméno
 category:
   - clenove
   - kandidat2018
-  - pks
-ordpks: 3
-description: 2. místopředseda Krajského sdružení Vysočina # zobrazuje se v lide
+description: člen Krajského sdružení Vysočina # zobrazuje se v lide
 profession: farmář
 img: people/milan-dadourek.jpg # zakomentuj radek dokud není fotka
 mail:
