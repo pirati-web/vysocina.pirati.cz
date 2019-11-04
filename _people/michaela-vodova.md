@@ -6,13 +6,9 @@ titles:
   after:
 category:
   - clenove
-  - rv
-  - pks
-  - trebic
-  - pmstrebic
-ordpks: 1
-ordpmstrebic: 1
-description: předsedkyně Krajského sdružení Vysočina
+  - koks
+  - mstrebicsko
+description: koordinátorka Krajského sdružení Vysočina
 profession: OSVČ, koordinátorka Krajského sdružení Vysočina
 img: people/michaela-vodova.jpg
 mail:
