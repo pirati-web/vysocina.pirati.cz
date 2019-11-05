@@ -1,12 +1,12 @@
 ---
 date: 2019-11-05
 category: blog
-tags: Telč online přenosy zastupitelstvo
+tags: Telč online-přenosy zastupitelstvo
 layout: post
 title: Přenosy ze zastupitelstva v Telči napotřetí vyšly
 author: Redakce
 authorId:  
-image: posts/2019-11-05-telc-online-prenosy.jdg
+image: posts/2019-11-05-telc-online-prenosy.jpg
 ---
 
 Telč, 5. listopadu 2019 – Telčští občané se od nového roku dočkají obrazových přenosů a archivu záznamů z jednání zastupitelstva. Telč se tak po roce a půl projednávání přidá k dalším obcím na Vysočině i celé republice, kde jsou přenosy již běžnou praxí. Věřím, že se dnes potvrdí rčení "Do třetice všeho dobrého!", přál si ve své řeči zastupitel za Společně pro Telč - Piráti a Zelení, Jiří Pykal, krátce před tím, než byl návrh 20 hlasy z 21 přítomných přijat.
