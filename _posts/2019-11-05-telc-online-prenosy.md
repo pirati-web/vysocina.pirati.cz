@@ -9,7 +9,7 @@ authorId:
 image: posts/2019-11-05-telc-online-prenosy.jpg
 ---
 
-Telč, 5. listopadu 2019 – Telčští občané se od nového roku dočkají obrazových přenosů a archivu záznamů z jednání zastupitelstva. Telč se tak po roce a půl projednávání přidá k dalším obcím na Vysočině i celé republice, kde jsou přenosy již běžnou praxí. Věřím, že se dnes potvrdí rčení "Do třetice všeho dobrého!", přál si ve své řeči zastupitel za Společně pro Telč - Piráti a Zelení, Jiří Pykal, krátce před tím, než byl návrh 20 hlasy z 21 přítomných přijat.
+Telč, 5. listopadu 2019 – ***Telčští občané se od nového roku dočkají obrazových přenosů a archivu záznamů z jednání zastupitelstva. Telč se tak po roce a půl projednávání přidá k dalším obcím na Vysočině i celé republice, kde jsou přenosy již běžnou praxí. Věřím, že se dnes potvrdí rčení "Do třetice všeho dobrého!", přál si ve své řeči zastupitel za Společně pro Telč - Piráti a Zelení, Jiří Pykal, krátce před tím, než byl návrh 20 hlasy z 21 přítomných přijat.***
 
 Když v minulém volebním období v dubnu 2018 podávali naši zastupitelé Pavel Dvořák a Jiří Pykal návrh na pořizování audiovizuálních přenosů a zpřístupnění archivovaných záznamů z jednání zastupitelstva poprvé, návrh získal pouhých 5 hlasů. Nevzdali jsme to a letos v únoru jsme společně s kolegy z dalších stran předložili aktualizovaný návrh znovu. Předkladateli byli Vladimír Brtník (ODS), Tomáš Jirásek (nezávislý kandidát za KDU-ČSL) a Jiří Pykal (Společně pro Telč - Piráti a Zelení). Návrh tehdy získal již 10 hlasů a k tomu, aby prošel, chyběl jediný. Hlavními protiargumenty byly obavy ze zneužití pořizovaných záznamů, neochota vystupovat před kamerou a otázky technického provedení.
 
