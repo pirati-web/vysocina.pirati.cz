@@ -20,7 +20,7 @@ Stávající klienty a personál přesune kraj do nového DpS u nemocnice, kde b
 Slavnostní otevření nového Domova pro seniory Husova proběhne 2. prosince, kdy si bude moci i veřejnost prostory prohlédnout. 
 
 
-Počty lůžek na 1 000 obyvatel v okresech a okresních městech na Vysočině:
+*Počty lůžek na 1 000 obyvatel v okresech a okresních městech na Vysočině:*
 
 ![Počty lůžek v DS a DZR na Vysočině](/assets/img/posts/2019-11-06-komentar-jan-kerber-dps.jpg)
 
