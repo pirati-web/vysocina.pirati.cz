@@ -11,7 +11,7 @@ image: posts/2019-11-07-setkani-ve-zdaru.jpg
 
 Pirátky, Piráti a příznivci se sejdou ve Žďáru nad Sázavou, aby prodiskutovali situaci u Pirátů na Vysočině, ve Žďáru nad Sázavou a plány do krajských voleb, které budou příští rok 2020.
 
-Sejdeme se ve čtvrtek 7. listopadu od 17 hodin v [Original Restaurant INGOLD](https://www.facebook.com/Origin%C3%A1l-restaurace-INGOT-191367607571852). 
+Sejdeme se ve čtvrtek 7. listopadu od 17 hodin v [Original Restaurant INGOT](https://www.facebook.com/Origin%C3%A1l-restaurace-INGOT-191367607571852). 
 
 Jde o neformální setkání Pirátů s veřejností a budeme rádi za každého aktivního občana, který s námi přijde diskutovat, ptát se či se jen pobavit. Můžete s námi přijít diskutovat o vašich problémech: co chcete ve Žďáru změnit, nebo co si myslíte, že by se mělo změnit ve vztahu Kraj Vysočina a město Žďár nad Sázavou, apod?
 
