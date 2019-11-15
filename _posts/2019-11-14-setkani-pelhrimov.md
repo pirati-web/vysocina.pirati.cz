@@ -19,6 +19,7 @@ Program:
   
 3. volná diskuze
 
+
 Pro bližší informace kontaktuje Pavla Knežika na adrese <pavel.knezik@pirati.cz>.
 
 ---
