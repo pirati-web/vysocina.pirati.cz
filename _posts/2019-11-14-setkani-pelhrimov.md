@@ -22,6 +22,8 @@ Pelhřimov, 14. listopadu 2019 - Zveme všechny zvědavce, příznivce, pamětn�
 
 Pro bližší informace kontaktuje Pavla Knežika na adrese <pavel.knezik@pirati.cz>.
 
+[Facebooková událost](https://www.facebook.com/events/499821650605109)
+
 ---
 
 ***Kontakt pro média***:
