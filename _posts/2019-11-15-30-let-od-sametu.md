@@ -1,5 +1,5 @@
 ---
-date: 2019-11-07
+date: 2019-11-15
 category: blog
 tags: Sametová revoluce výročí svoboda
 layout: post
