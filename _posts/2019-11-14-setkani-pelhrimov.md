@@ -9,7 +9,7 @@ authorId:  pavel.knezik
 image: posts/2019-11-14-setkani-pelhrimov.jpg
 ---
 
-Pelhřimov, 14. listopadu 2019 - Zveme všechny zvědavce, příznivce, pamětníky, studenty a další na setkání s pelhřimovskými Piráty. Přijďte se seznámit, diskutovat o 30. výročí Sametové revoluce a povídát si o zážitcích a zkušenostech. Sejdeme se stylově ***v neděli 17. listopadu od 14. hodin v hotelu Slavie.*** 
+Pelhřimov, 14. listopadu 2019 - Zveme všechny zvědavce, příznivce, pamětníky, studenty a další na setkání s pelhřimovskými Piráty. Přijďte se seznámit, diskutovat o 30. výročí Sametové revoluce a povídat si o zážitcích a zkušenostech. Sejdeme se stylově ***v neděli 17. listopadu od 14. hodin v hotelu Slavie.*** 
 
 Program:
 
