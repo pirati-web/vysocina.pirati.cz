@@ -13,11 +13,11 @@ Pelhřimov, 14. listopadu 2019 - Zveme všechny zvědavce, příznivce, pamětn�
 
 Program:
 
-1) předložení návrhu usnesení k založení MS Pelhřimovsko a diskuze k němu
+1. předložení návrhu usnesení k založení MS Pelhřimovsko a diskuze k němu
 
-2) *17. listopad 1989 z první řady aneb revoluce se špendlíkem v břiše* - pohledu student, který mnohé tušil a v pár okamžicích poznal i na vlastní kůži (Petr Kozel)
+2. *17. listopad 1989 z první řady aneb revoluce se špendlíkem v břiše* - pohledu student, který mnohé tušil a v pár okamžicích poznal i na vlastní kůži (Petr Kozel)
   
-3) volná diskuze
+3. volná diskuze
 
 Pro bližší informace kontaktuje Pavla Knežika na adrese <pavel.knezik@pirati.cz>.
 
