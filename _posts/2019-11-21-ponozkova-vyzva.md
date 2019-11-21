@@ -61,4 +61,5 @@ Eva Nováková – 775 666 988
 ***Související odkazy***:
 
 [Ponožková výzva](https://facebook.com/events/3055907981091684)
-[Zaháení](https://facebook.com/events/984972588514681)
+
+[Zahájení](https://facebook.com/events/984972588514681)
