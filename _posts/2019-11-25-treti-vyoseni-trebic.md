@@ -13,7 +13,7 @@ image: posts/2019-11-25-treti-vyoseni-trebic.jpg
 
 Pirátský zastupitel, organizátor kulturních akcí a frontman kapely Mr. Cook Roman Pašek pokračuje v tradici festivalů a koncertů svobodné hudby, které jsou zaměřené proti Ochrannému svazu autorskému (OSA). Od loňského prvního ročníku třebíčského VyOsení, který se konal 17. listopadu 2018, stihl uspořádat druhý ročník v březnu letošního roku a na podzim ještě multižánrový Festival svobodné kultury ve třech městech na Vysočině včetně Třebíče. Letošní hudební sezónu tak symbolicky uzavře na „domácí půdě“.
 
-A co nabídne to listopadové sobotní VyOsení? **Program začne cca ve 20. hodin v Hudebním klubu B a postupně zahrají kapely Mr. Cook, Procz a Iron Soul.** 
+A co nabídne to listopadové sobotní VyOsení? **Program začne cca ve 20:00 v Hudebním klubu B a postupně zahrají kapely Mr. Cook, Procz a Iron Soul.** 
 
 Česká pirátská strana podporuje autorskou tvorbu a umění a zdůrazňuje přitom společenské a kulturní změny, které jsou s nimi ve 21. století spojeny. *„Naše společnost je založena na tradici „svobodné kultury“, tedy na svobodě projevu, svobodném trhu a obchodu, svobodném podnikání, tvůrce a inovátory jak přímo přiznáním práv duševního vlastnictví, tak i nepřímo omezováním rozsahu těchto práv, aby zajistila dalším generacím co největší svobodu a zbavila je pout minulosti. Svobodná kultura neznamená svět bez vlastnictví, stejně jako volný trh neznamená trh, kde je vše zdarma.“* Lawrence Lessig, Svobodná kultura.
 
