@@ -15,7 +15,7 @@ Vysočina má svého pirátského zástupce v Poslanecké sněmovně, od loňsk�
 
 Chceš se k nám přidat a být součástí skvělého týmu, vytvářet prostředí pro kvalitní život svůj i svého okolí? 
 
-Piráti veškerou svou činnost dělají dobrovolně po práci a tak mezi sebou rádi uvítáme všechny aktivní lidi, kteří se zajímají o dění kolem sebe. Pro Piráty není důležité, zda je člověk členem, příznivcem, či přispívá jako dobrovolník bez zapojení se do vnitřních politických procesů strany. Důležitá je pro nás premisa zábavy a efektivního výsledku. “Musí to mít smysl a musí nás to bavit.” To je ze všeho nejdůležitější. Souhlasíš? Líbí se ti Piráti a máš nápad, co bys chtěl změnit? Přijď mezi nás. Naloď se na [nalodeni.pirati.cz](https://nalodeni.pirati.cz) a my se ti ozveme. 
+Piráti veškerou svou činnost dělají dobrovolně po práci a tak mezi sebou rádi uvítáme všechny aktivní lidi, kteří se zajímají o dění kolem sebe. Pro Piráty není důležité, zda je člověk členem, příznivcem, či přispívá jako dobrovolník bez zapojení se do vnitřních politických procesů strany. Důležitá je pro nás premisa zábavy a efektivního výsledku. *“Musí to mít smysl a musí nás to bavit.”* To je ze všeho nejdůležitější. Souhlasíš? Líbí se ti Piráti a máš nápad, co bys chtěl změnit? Přijď mezi nás. Naloď se na [nalodeni.pirati.cz](https://nalodeni.pirati.cz) a my se ti ozveme. 
 
 Těšíme se na všechny nováčky.
 
