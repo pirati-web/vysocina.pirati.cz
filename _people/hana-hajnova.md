@@ -12,6 +12,11 @@ profession: projektová manažerka
 img: people/hana-hajnova.jpg
 mail:
   - hana.hajnova@pirati.cz
+mob:
+  - 721 684 323
+profiles:
+  facebook: https://www.facebook.com/hanka.hajnova
+  linkedin: https://www.linkedin.com/in/hanahajnova
   
 ---
 
@@ -30,3 +35,7 @@ V roce 2018 jsem kandidovala podruhé do telčského zastupitelstva za koalici S
 V srpnu 2018 jsem byla zvolena vedoucí Mediálního odboru KS Vysočina, pravidelně organizuji úklidové akce v rámci Ukliďme Česko v Telči a pádluji i kapitánuji na dračích lodích v Telči. Mým velkým koníčkem je kroket (už několik let jsem předsedkyní telčského kroketového klubu se kterým se nám podařilo v Telči vybudovat jediné profesionální kroketové kurty v ČR), tancování, snowboarding a knihy.
 
 Nejdůležitějšími hodnotami jsou pro mě svoboda a láska a oblíbeným mottem „Život je radostná spoluúčast na zázraku bytí.“ (Václav Havel)
+
+---
+
+<iframe src="https://calendar.google.com/calendar/embed?src=hana.hajnova%40kroket.org&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
