@@ -16,7 +16,7 @@ mob:
   - 721 684 323
 profiles:
   facebook: https://www.facebook.com/hanka.hajnova
-  linkedin: https://www.linkedin.com/in/hanahajnova
+  linkedin: https://www.linkedin.com/in/hana-hajnova-692a5025
   
 ---
 
