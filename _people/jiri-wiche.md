@@ -5,7 +5,7 @@ category:
   - clenove
   - mshavlbrod
   - kandidat2018
-description: kandidát v krajských volbách 2020
+description: člen místního sdružení Havlíčkův Brod
 profession: 
 img: 
 mail:
