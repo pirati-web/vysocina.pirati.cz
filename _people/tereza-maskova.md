@@ -4,7 +4,7 @@ name:     Tereza Mašková
 category:
   - clenove
 description: člen Krajského sdružení Vysočina
-img: 
+img: people/tereza-maskova.jpg
 mail:
   - tereza.maskova@pirati.cz
 profiles:
