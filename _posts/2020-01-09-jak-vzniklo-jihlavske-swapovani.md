@@ -35,7 +35,7 @@ Součástí swapu je také sbírka na některou z dobročinných organizací. Po
 
 Děkujeme také za oblečení, které na swapu zůstalo k věnování na charitu. Po prvním swapu jsme zbylé zimní oblečení poskytli organizaci Food not bombs. Oblečení, které jsme vytřídili tentokrát, poputuje daleko – poveze se až do Řecka, do uprchlických táborů na tamních ostrovech, kde je situace jedním slovem příšerná. 
 
-A už víme, že na **příští swap, který se koná 12. února 2020 od 14:00,** potřebujeme vyřešit lepší vystavení knížek a hraček. A že se nám hodí další stojany na pověšení oblečení. A také ramínka.  Kdybyste nám mohli stojan nebo ramínka věnovat, budeme vám vděční. Kontakt pro domluvu ohledně předání: <lanka.lednicka@pirati.cz>, případně na [FB Pirátská strana – Vysočina](https://www.facebook.com/pirati.vysocina) nebo [Blanka Lednická](https://www.facebook.com/blanka.c.lednicka). 
+A už víme, že na **příští swap, který se koná 12. února 2020 od 14:00,** potřebujeme vyřešit lepší vystavení knížek a hraček. A že se nám hodí další stojany na pověšení oblečení. A také ramínka.  Kdybyste nám mohli stojan nebo ramínka věnovat, budeme vám vděční. Kontakt pro domluvu ohledně předání: <blanka.lednicka@pirati.cz>, případně na [FB Pirátská strana – Vysočina](https://www.facebook.com/pirati.vysocina) nebo [Blanka Lednická](https://www.facebook.com/blanka.c.lednicka). 
 
 ---
 
