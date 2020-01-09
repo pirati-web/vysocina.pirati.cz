@@ -1,5 +1,5 @@
 ---
-date: 2020-01-07
+date: 2020-01-09
 category: blog
 tags: Poslanecká-sněmovna
 layout: post
