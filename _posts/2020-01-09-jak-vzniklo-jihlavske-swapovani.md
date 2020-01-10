@@ -1,5 +1,5 @@
 ---
-date: 2020-01-09
+date: 2020-01-10
 category: blog
 tags: SWAP Jihlava
 layout: post
@@ -9,7 +9,7 @@ authorId:  blanka.lednicka
 image: posts/2020-01-09-jak-vzniklo-jihlavske-swapovani.jpg
 ---
 
-*9. ledna 2020, Jihlava* – ***Jistě to znáte – doma se vám hromadí různé věci, které už nevyužijete, ovšem je vám líto je vyhodit, protože by ještě mohly posloužit. K prodeji to ale není, věnovat není komu. Byla jsem na tom podobně. Naše čtyři děti rychle vyrůstají z oblečení – něco dědí mladší po starších, museli bychom mít ale trojčata, aby unosila všechno to, co po starších zdědí. Já sama jsem za poslední roky taky z některého svého oblečení vyrostla, hromadí se mi tu navíc knížky, které chci poslat dál.***
+*10. ledna 2020, Jihlava* – ***Jistě to znáte – doma se vám hromadí různé věci, které už nevyužijete, ovšem je vám líto je vyhodit, protože by ještě mohly posloužit. K prodeji to ale není, věnovat není komu. Byla jsem na tom podobně. Naše čtyři děti rychle vyrůstají z oblečení – něco dědí mladší po starších, museli bychom mít ale trojčata, aby unosila všechno to, co po starších zdědí. Já sama jsem za poslední roky taky z některého svého oblečení vyrostla, hromadí se mi tu navíc knížky, které chci poslat dál.***
 
 Četla jsem o swapech, tedy výměnách oblečení, hraček a dalších věcí, pořádaných v Praze nebo v Brně. Bydlím ale na vesnici a tam se taková aktivita moc nenosí. Dědí se zpravidla v rámci široké rodiny, věcí často slouží do roztrhání. 
 
