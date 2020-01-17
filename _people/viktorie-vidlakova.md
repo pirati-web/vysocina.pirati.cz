@@ -3,14 +3,12 @@ uid: viktorie.vidlakova
 name:     Viktorie Vidláková
 category:
   - clenove
-    - mstrebicsko
-ordpks: 
-description: 
-profession: 
+  - mstrebicsko
+description: členka místního sdružení Třebíčsko
+profession: studentka
 img: 
 mail:
   - viktorie.vidlakova@gmail.com
-mob:
 profiles:
 
 ---
