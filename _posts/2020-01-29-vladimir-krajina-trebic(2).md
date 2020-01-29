@@ -19,6 +19,11 @@ Pirátský zastupitel Roman Pašek by poté, co se podařilo odejmout čestné o
 
 ---
 
+**Odkazy**
+
+[Článek nejodvážnější odbojář](https://vladislavsvoboda.blog.idnes.cz/blog.aspx?c=441997)
+
+
 **Kontakt pro média**
 
 Hana Hajnová, <hana.hajnova@pirati.cz>, 721 684 323
