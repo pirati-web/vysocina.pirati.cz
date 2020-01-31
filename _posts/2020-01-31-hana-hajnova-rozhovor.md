@@ -3,7 +3,7 @@ date: 2020-01-31
 category: blog
 tags: Lídryně Hana Hajnová Vysočina
 layout: post
-title: Hajnová: Před Piráty na Vysočině nestojí problémy, ale výzvy
+title: Hajnová - Před Piráty na Vysočině nestojí problémy, ale výzvy
 author: Jiří Svoboda  
 authorId:  jiri.svoboda
 image: posts/2020-01-31-hana-hajnova-rozhovor.jpg
