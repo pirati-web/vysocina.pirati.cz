@@ -58,7 +58,7 @@ Do ankety ji přihlásil jeden z chudobínských pamětníků Ing. Milan Peňáz
 
 **Odkazy**
 
-Foto: Marek Olbrzymek (archiv soutěže)
+Foto: [Marek Olbrzymek](https://www.stromroku.cz/finaliste/aktualni/Chudobinska-borovice) (archiv soutěže)
 
 [Facebookový profil](https://www.facebook.com/Chudobinskaborovice)
 
