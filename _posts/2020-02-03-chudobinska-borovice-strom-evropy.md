@@ -9,7 +9,7 @@ authorId:
 image: posts/2020-02-03-chudobinska-borovice-strom-evropy.jpg
 ---
 
-*Vír, 3. února 2020* – ***Chudobínská borovice, český [strom roku 2019](https://vysocina.pirati.cz/aktuality/chudobinska-borovice-vyhrala.html), soutěží s 15 dalšími stromy z různých zemí v anketě Evropský strom roku. Tato anketa hodnotí stromy podle jejich příběhu. Chudobínská borovice do ní vstupuje pod názvem "Strážkyně zatopené vesnice". Hlasování probíhá do konce února na stránce [treeoftheyear.org](https://www.treeoftheyear.org/vote) a my neskromně připomínáme, že by Vysočině titul Evropský strom roku určitě slušel!***
+*Vír, 3. února 2020* – ***Chudobínská borovice, český [Strom roku 2019](https://vysocina.pirati.cz/aktuality/chudobinska-borovice-vyhrala.html), soutěží s 15 dalšími stromy z různých zemí v anketě Evropský strom roku 2020. Tato anketa hodnotí stromy podle jejich příběhu. Chudobínská borovice do ní vstupuje pod názvem "Strážkyně zatopené vesnice". Hlasování probíhá do konce února na stránce [treeoftheyear.org](https://www.treeoftheyear.org/vote) a my neskromně připomínáme, že by Vysočině titul Evropský strom roku určitě slušel!***
 
 Chudobínská borovice minulý rok vyhrála českou anketu Strom roku, kde získala 4 396 hlasů. Letos míří na evropskou soutěž, kde se bude ucházet o titul Evropský Strom roku 2020. Do soutěže ji nominoval Ing. Milan Peňáz, CSc., hlavním organizátorem kampaně je pirátský starosta obce Vír Mgr. Ladislav Stalmach.
 
