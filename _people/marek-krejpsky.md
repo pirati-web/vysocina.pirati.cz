@@ -4,7 +4,7 @@ name:     Marek Křejpský
 category:
   - clenove
   - msjihlavsko
-description: členka místního sdružení Jihlavsko
+description: člen místního sdružení Jihlavsko
 profession: IT konzultant
 img: 
 mail:
@@ -13,7 +13,7 @@ profiles:
 
 ---
 
-Ing. Marek Křejpský (* 28. dubna 1974 v Novém Městě na Moravě) je členem MS Jihlavsko od prosince 2019. 
+Ing. Marek Křejpský (* 28. listopadu 1974 v Novém Městě na Moravě) je členem MS Jihlavsko od prosince 2019. 
 
 Vystudoval Gymnazium ve Žďáru nad Sázavou a poté VUT Brno obor Informatika výpočetní technika na Fakultě informačních technologíí. Dlouhodobě spolupracuje na zahraničních IT projektech pro klienty v UK. 
 
