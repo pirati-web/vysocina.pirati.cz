@@ -3,7 +3,7 @@ date: 2020-02-05
 category: blog
 tags: Sněmovna celostátní životní-prostředí
 layout: post
-title: Prosinec ve Sněmovně z pohledu Jana Pošváře
+title: Zákon pro zahrádkáře prošel do druhého čtení. Definuje zahrádkářství jako prospěšnou činnost
 author: Jan Pošvář
 authorId:  jan.posvar
 image: posts/2020-02-05-osady-zahradkaru-ochranime-proti-developerum.jpg
