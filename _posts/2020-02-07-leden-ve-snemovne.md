@@ -1,12 +1,12 @@
 ---
-date: 2020-01-09
+date: 2020-02-07
 category: blog
 tags: Poslanecká-sněmovna Jan-Pošvář celostátní
 layout: post
 title: Leden ve Sněmovně z pohledu Jana Pošváře
 author: Jan Pošvář
 authorId:  jan.posvar
-image: posts/2020-02-07-leden-ve-snemovne.png
+image: posts/2020-02-07-leden-ve-snemovne.jpg
 ---
 
 *7. února 2020, Jihlava* – První měsíc roku 2020 začal ve vysokém tempu. Ihned z kraje měsíce se konal [tříkrálový SWAP](https://vysocina.pirati.cz/aktuality/trikralovy-swap.html), na který jsem přispěl spoustu svých věcí, které bych už nevyužil (třeba kalkulačku do školy, voskovky, Tamagotchi nebo starší záložní zdroj). Následující týden se konalo Celostátní fórum Pirátů v Ostravě, kde jsem letos nemohl chybět. Jsem rád, že pozice v předsednictvu strany obhájili Ivan Bartoš, Olga Richterová a Radek Holomčík, stejně tak jsem rád za dvě nové tváře - Vojtěcha Pikala a Martina Kučeru, kteří mají potenciál přispět lepšímu toku informací a myšlenek shora dolů a naopak. Na celostátním fóru se ale pouze nevolilo předsednictvo, ale také diskutovalo o budoucím směřování České republiky, členská základna byla informována o činnosti našich politických zástupců a neméně důležitou součástí této akce bylo i navazování nových kontaktů a setkání celorepublikových týmů.
