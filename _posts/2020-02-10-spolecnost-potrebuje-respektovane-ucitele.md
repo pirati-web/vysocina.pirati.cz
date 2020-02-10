@@ -9,7 +9,7 @@ authorId:  jan.brizdala
 image: posts/2020-02-10-spolecnost-potrebuje-respektovane-ucitele.jpg
 ---
 
-10. února 2020, Třebíč*– ***Ve starších českých (resp. československých) filmech, například Škola základ života, Páni kluci, Marečku, podejte mi pero, Vrať se do hrobu! apod. se objevují scény ze školského prostředí, ve kterých vystupují učitelé, kteří se od těch současných liší v jedné důležité vlastnosti. Ve zmiňovaných scénách se jedná o společensky respektované osoby, zatímco dnešní obraz vnímání učitelů je zcela odlišný.***
+*10. února 2020, Třebíč* – ***Ve starších českých (resp. československých) filmech, například Škola základ života, Páni kluci, Marečku, podejte mi pero, Vrať se do hrobu! apod. se objevují scény ze školského prostředí, ve kterých vystupují učitelé, kteří se od těch současných liší v jedné důležité vlastnosti. Ve zmiňovaných scénách se jedná o společensky respektované osoby, zatímco dnešní obraz vnímání učitelů je zcela odlišný.***
 
 V dnešní době jsou učitelé často vnímáni jako ti, kteří pracují pouze od 8 ráno do 2 odpoledne, nemusí nic moc dělat, mají v průběhu školního roku na rozdíl od ostatních pracujících několik dní volna navíc a k tomu ještě dva měsíce prázdnin. To je ovšem velký omyl, který rozhodně nepřispívá ke zlepšení veřejného mínění o tomto povolání.
 
