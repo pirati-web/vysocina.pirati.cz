@@ -3,7 +3,7 @@ date: 2020-02-11
 category: blog
 tags: krajské-volby Vysočiny lídryně 
 layout: post
-title: Piráti na Vysočině představili čelo kandidátky pro krajské volby. V programu se chtějí zaměřit na rozvoj venkova a boj se suchem
+title: Piráti na Vysočině představili čelo kandidátky pro krajské volby - v programu se chtějí zaměřit na rozvoj venkova a boj se suchem
 author: Redakce 
 authorId:  
 image: posts/2020-02-11-predstaveni-cela-kandidatky.jpg
