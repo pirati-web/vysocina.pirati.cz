@@ -17,7 +17,7 @@ image: posts/2020-02-11-predstaveni-cela-kandidatky.jpg
 
 2.	**[RNDr. Jan Břížďala](https://vysocina.pirati.cz/lide/jan-brizdala)**, Třebíč, místopředseda krajského sdružení Vysočina, zástupce ředitelky Agro školy Pozďatín, středoškolský učitel matematiky a chemie, zodpovídá za oblast školství
 
-3.	**[Bc. Blanka Lednická](https://vysocina.pirati.cz/lide/blanka-lednicka)**, Olešná u Havlíčkova Brodu, předsedkyně krajského sdružení Vysočina, OSVČ, zodpovídá za obl](https://vysocina.pirati.cz/lide/roman-pasek)**ast zemědělství a životního prostředí
+3.	**[Bc. Blanka Lednická](https://vysocina.pirati.cz/lide/blanka-lednicka)**, Olešná u Havlíčkova Brodu, předsedkyně krajského sdružení Vysočina, OSVČ, zodpovídá za oblast zemědělství a životního prostředí
 
 4.	**[Ing. Jiří Wiche](https://vysocina.pirati.cz/lide/jiri-wiche)**, Havlíčkův Brod, člen finančního výboru zastupitelstva, ekonom, zodpovídá za oblast investic a majetku
 
