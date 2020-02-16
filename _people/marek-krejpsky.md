@@ -6,7 +6,7 @@ category:
   - msjihlavsko
 description: člen místního sdružení Jihlavsko
 profession: IT konzultant
-img: 
+img: people/marek-krejpsky.jpg
 mail:
   - marek.krejpsky@pirati.cz
 profiles:
