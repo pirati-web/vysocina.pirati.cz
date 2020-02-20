@@ -3,7 +3,7 @@ date: 2020-02-20
 category: blog
 tags: Havlíčkův-Brod psychiatrie celostátní odvolání 
 layout: post
-title: Havlíčkobrodští Piráti nesouhlasí s odvoláním ředitelepsychiatrické nemocnice. Při zítřejší návštěvě ministra zdravotnictví se připojí k veřejnému protestu
+title: Havlíčkobrodští Piráti nesouhlasí s odvoláním ředitele psychiatrické nemocnice. Při zítřejší návštěvě ministra zdravotnictví se připojí k veřejnému protestu
 author: Jiří Svoboda
 authorId:  
 image: posts/2020-02-20-pirati-nesouhlasi-s-odvolanim-reditele-nemocnice-HB.jpg
