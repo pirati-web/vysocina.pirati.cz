@@ -11,6 +11,7 @@ description: >-
   Oficiální stránka Krajského sdružení Vysočina České pirátské strany
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 keywords: piráti, česká pirátská strana, svoboda, demokracie, vysočina, piráti na vysočině
+url: "https://vysocina.pirati.cz" # the base hostname & protocol for your site - added to fix link sharer to Facebook
 
 administrator:
   email: roman.pasek@pirati.cz # mail kam pujdou chybove vystupy
