@@ -3,7 +3,7 @@ date: 2020-02-20
 category: blog
 tags: Havlíčkův-Brod psychiatrie celostátní odvolání 
 layout: post
-title: Havlíčkobrodští Piráti nesouhlasí s odvoláním ředitele psychiatrické nemocnice
+title: Havlíčkobrodští Piráti nesouhlasí s odvoláním ředitelepsychiatrické nemocnice. Při zítřejší návštěvě ministra zdravotnictví se připojí k veřejnému protestu
 author: Jiří Svoboda
 authorId:  
 image: posts/2020-02-20-pirati-nesouhlasi-s-odvolanim-reditele-nemocnice-HB.jpg
@@ -17,7 +17,7 @@ V prohlášení Psychiatrické společnosti ČLS JEP reagující na vývoj kauzy
 
 Psychiatrická nemocnice Havlíčkův Brod, v jejímž čele MUDr. Jaromír Mašek působil dlouhých 14 let, je vnímána odbornou veřejností, pacienty, a nakonec i občany města jako bezproblémová fungující organizace s dobrou pověstí. Ve spolupráci s Fokusem Vysočina vytvořila Centrum duševního zdraví, podílí se na tzv. reformě psychiatrie (která je však mnohými odborníky považována za nekoncepční), zajišťuje psychiatrickou péči pro spádovou oblast s 1,13 milionem obyvatel.
 
-*„Pan Mašek byl člověkem na správném místě. Dokázal z vlastních zdrojů nemocnice našetřit na financování jednoho pavilonu, zaměstnává oborníky se specializovaným vzděláváním, psychiatrickou nemocnici posunul mezi nejvýznamnější specializovaná zařízení v republice. Odvolání ředitele postrádá jakoukoliv koncepčnost. Obáváme se o další chod instituce, která je čtvrtým největším zaměstnavatelem na Havlíčkobrodsku,“* říká havlíčkobrodský zastupitel Jan Kerber (Piráti).
+*„Pan Mašek byl člověkem na správném místě. Dokázal z vlastních zdrojů nemocnice našetřit na financování jednoho pavilonu, zaměstnává odborníky se specializovaným vzděláváním, psychiatrickou nemocnici posunul mezi nejvýznamnější specializovaná zařízení v republice. Odvolání ředitele postrádá jakoukoliv koncepčnost. Obáváme se o další chod instituce, která je čtvrtým největším zaměstnavatelem na Havlíčkobrodsku,“* říká havlíčkobrodský zastupitel Jan Kerber (Piráti).
 
 *„O další informace ohledně reformy psychiatrické péče jsme zároveň požádali místopředsedkyni Pirátů Olgu Richterovou, která je členkou zdravotního výboru poslanecké sněmovny,“* doplňuje Kerber.
 
