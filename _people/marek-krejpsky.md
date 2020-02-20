@@ -22,5 +22,7 @@ Ve svém volném čase se věnuje historickému šermu, dlouhou dobu byl členem
 
 V politice je jeho doménou resort doprava a problematika výstavby VRT v České republice. Z profesních důvodů se také zajímá o pokrytí venkova České republiky vysokorychlostním internetem. Podporuje legalizaci měkkých drog, zejména uvolnění pěstování konopí pro vlastní i průmyslové využití.  
 
+....{{ site.baseurl }} , {{ post.url }} ....
+
 
 
