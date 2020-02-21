@@ -13,7 +13,7 @@ contentSize: even
   <h1 class="t-h2-alt">Přidejte se</h1>
 </div>
 
-Zajímá tě co Piráti dělají? Chceš odebírat novinky, stát se členem nebo nám pomoci v kampani? Regitru se na [nalodění](https://nalodeni.pirati.cz/) a přijď nás osobně poznat na pirátskou schůzi, kterou pořádáme v [jihlavském pirátském centru (JiPiCe)](https://vysocina.pirati.cz/jipice/) pravidelně každou druhou neděli v měsíci od 16 hodin ([kalendář Pirátů na Vysočině](https://calendar.google.com/calendar/ical/r26esfjiivuu9temt46dholqhs%40group.calendar.google.com/public/basic.ics)). 
+Zajímá tě co Piráti dělají? Chceš odebírat novinky, stát se členem nebo nám pomoci v kampani? Regitru se na [nalodění](https://nalodeni.pirati.cz/) a přijď nás osobně poznat na pirátskou schůzi, kterou pořádáme v [jihlavském pirátském centru](https://vysocina.pirati.cz/jipice/) (JiPiCe) pravidelně každou druhou neděli v měsíci od 16 hodin. Ověř si to v [kalendáři Pirátů na Vysočině](https://calendar.google.com/calendar/ical/r26esfjiivuu9temt46dholqhs%40group.calendar.google.com/public/basic.ics). 
 
 Chceš nás podpořit, ale nemáš zrovna moc času na dobrovolničení? Pošli nám libovolný dar na libovolný účel. Finanční dary můžeš posílat na [dary](https://dary.pirati.cz).
 Pokud chceš darovat přímo našemu krajskému sdružení, poraď se s koordinátorkou kraje, Michaelou Vodovou.
