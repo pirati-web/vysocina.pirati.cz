@@ -21,7 +21,7 @@ Psychiatrická nemocnice Havlíčkův Brod, v jejímž čele MUDr. Jaromír Maš
 
 *„O další informace ohledně reformy psychiatrické péče jsme zároveň požádali místopředsedkyni Pirátů Olgu Richterovou, která je členkou zdravotního výboru poslanecké sněmovny,“* doplňuje Kerber.
 
-**Podporujeme otevřený dopis vedoucích zaměstnanců PN Havlíčkův Brod reagující na nečekané odvolání ředitele MUDr. Jaromíra Maška. Souhlasíme s tím, že důvody odvolání ředitele Maška jsou zkreslující a manipulativní. Na zítřejší plánovanou návštěvu ministra zdravotnictví Adama Vojtěcha (ANO) se připojíme k nespokojeným zaměstnancům a vyzýváme všechny, kteří můžou a chtějí přijít, aby se ve vší slušnosti shromáždili před administrativní budovou nemocnice a dali tak najevo svůj nesouhlas s krokem pana ministra.**
+**Podporujeme otevřený dopis vedoucích zaměstnanců PN Havlíčkův Brod reagující na nečekané odvolání ředitele MUDr. Jaromíra Maška. Souhlasíme s tím, že důvody odvolání ředitele Maška jsou zkreslující a manipulativní. Na zítřejší plánovanou návštěvu ministra zdravotnictví Adama Vojtěcha (nestr. za ANO) se připojíme k nespokojeným zaměstnancům a vyzýváme všechny, kteří můžou a chtějí přijít, aby se ve vší slušnosti shromáždili před administrativní budovou nemocnice a dali tak najevo svůj nesouhlas s krokem pana ministra.**
 
 ---
 
