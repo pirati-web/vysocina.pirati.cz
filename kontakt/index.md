@@ -13,19 +13,16 @@ contentSize: even
   <h1 class="t-h2-alt">Přidejte se</h1>
 </div>
 
-Zajímá vás co piráti dělají? Ozvěte se Michaele Vodové nebo přijďte k nám
-na schůzi kterou pořádáme v Jihlavském pirátském centru pravidelně každou druhou neděli v měsíci od 16 hodin.
+Zajímá tě co Piráti dělají? Chceš odebírat novinky, stát se členem nebo nám pomoci v kampani? Regitru se na [nalodění](https://nalodeni.pirati.cz/) a přijď nás osobně poznat na pirátskou schůzi, kterou pořádáme v [jihlavském pirátském centru (JiPiCe)](https://vysocina.pirati.cz/jipice/) pravidelně každou druhou neděli v měsíci od 16 hodin ([kalendář Pirátů na Vysočině](https://calendar.google.com/calendar/ical/r26esfjiivuu9temt46dholqhs%40group.calendar.google.com/public/basic.ics)). 
 
-Chcete přístup k pirátskym systémům? Regitrujte se na [nalodění](https://nalodeni.pirati.cz/).
-
-Finanční dary můžete posílat na [dary](https://dary.pirati.cz).
-Pokud chcete darovat přimo našemu krajskému sdružení poraďte se s koordinátorkou kraje, Michaelou Vodovou
+Chceš nás podpořit, ale nemáš zrovna moc času na dobrovolničení? Pošli nám libovolný dar na libovolný účel. Finanční dary můžeš posílat na [dary](https://dary.pirati.cz).
+Pokud chceš darovat přímo našemu krajskému sdružení, poraď se s koordinátorkou kraje, Michaelou Vodovou.
 
 
-Stránky našich jednotlivých místních sdružení:
-* Havlíčkův Brod [wiki](https://wiki.pirati.cz/regiony/vysocina/havlickuvbrod) [forum](https://forum.pirati.cz/viewforum.php?f=862)
-* Chotěboř [wiki](https://wiki.pirati.cz/regiony/vysocina/chotebor) [forum](https://forum.pirati.cz/viewforum.php?f=866)
-* Jihlavsko [wiki](https://wiki.pirati.cz/regiony/vysocina/jihlavsko) [forum](https://forum.pirati.cz/viewforum.php?f=1014)
-* Telčsko [wiki](https://wiki.pirati.cz/regiony/vysocina/telcsko) [forum](https://forum.pirati.cz/viewforum.php?f=880)
-* Třebíčsko [wiki](https://wiki.pirati.cz/regiony/vysocina/trebicsko) [forum](https://forum.pirati.cz/viewforum.php?f=915)
+Diskuzní fora jednotlivých místních sdružení:
+* Havlíčkův Brod [forum](https://forum.pirati.cz/viewforum.php?f=862)
+* Chotěboř [forum](https://forum.pirati.cz/viewforum.php?f=866)
+* Jihlavsko [forum](https://forum.pirati.cz/viewforum.php?f=1014)
+* Telčsko [forum](https://forum.pirati.cz/viewforum.php?f=880)
+* Třebíčsko [forum](https://forum.pirati.cz/viewforum.php?f=915)
 
