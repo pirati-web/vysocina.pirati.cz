@@ -18,8 +18,9 @@ title: Ukliďme Česko
                 <h3 class="o-section__heading t-h4-super">Plánované úklidy</h3>
             </div>
             <div class="u-1margin--top">
-              <ul><li><a href="https://www.facebook.com/events/1042879112777305/">duben - Jihlava</a></li>
-              <li>duben - Pelhřimov </li>                
+              <ul><li><a href="https://www.facebook.com/events/1042879112777305/">duben 2020 - Jihlava</a></li>
+              <li>duben 2020 - Pelhřimov </li>                
+              <li>duben 2020 - Olešná u Havlíčkova Brodu </li>                
                 </ul>
             </div>
         </section>
