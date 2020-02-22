@@ -18,7 +18,8 @@ title: Ukliďme Česko
                 <h3 class="o-section__heading t-h4-super">Plánované úklidy</h3>
             </div>
             <div class="u-1margin--top">
-              <ul><li>4. dubna - Pelhřimov </li>                
+              <ul><li><a href="https://www.facebook.com/events/1042879112777305/"> 4. dubna - Jihlava</a></li>
+              <li>4. dubna - Pelhřimov </li>                
                 </ul>
             </div>
         </section>
