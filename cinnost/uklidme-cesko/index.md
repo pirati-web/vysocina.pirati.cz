@@ -18,7 +18,7 @@ title: Ukliďme Česko
                 <h3 class="o-section__heading t-h4-super">Plánované úklidy</h3>
             </div>
             <div class="u-1margin--top">
-                <ul>                  
+              <ul><li>4. dubna - Pelhřimov </li>                
                 </ul>
             </div>
         </section>
