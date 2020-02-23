@@ -29,7 +29,7 @@ title: Piratecony
                 <h3 class="o-section__heading t-h4-super">Proběhlé Piratecony</h3>
             </div>
             <div class="u-1margin--top">
-              <ul> <li><a href="https://www.facebook.com/events/jihlavsk%C3%A9-pir%C3%A1tsk%C3%A9-centrum-jipice/piragrocon/439859943393398/">PirAgroCon 2020 - tvorba krajiny, zemědělství a životní prostředí</a></li>
+              <ul> <li><a href="https://www.facebook.com/events/jihlavsk%C3%A9-pir%C3%A1tsk%C3%A9-centrum-jipice/piragrocon/439859943393398/">PirAgroCon 2019 - tvorba krajiny, zemědělství a životní prostředí</a></li>
                     <li><a href="https://vysocina.pirati.cz/cinnost/piratecon/2019-nenechme_si_prodat_pudu_pod_nohama.html">Nenechme si prodat půdu pod nohama!</a></li>    
                     <li><a href="https://vysocina.pirati.cz/cinnost/piratecon/2018-piratecon_ke_komunalu_vysocina.html">Piratecon ke komunálu 2018 - Vysočina</a></li>                    
                 </ul>
