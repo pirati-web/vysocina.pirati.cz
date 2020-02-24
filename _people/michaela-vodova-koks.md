@@ -17,7 +17,7 @@ mob:
 profiles:  # vyplnit pouze to, co používáte/vlastníte
   facebook: https://www.facebook.com/michaela.vodova
   twitter: https://twitter.com/misavoda
-  web: https://michaelavodova.cz/
+  web: http://michaelavodova.cz/
   linkedin: https://www.linkedin.com/in/michaela-vodova
   
 ---
