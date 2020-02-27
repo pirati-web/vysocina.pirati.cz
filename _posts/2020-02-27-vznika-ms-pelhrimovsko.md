@@ -3,7 +3,7 @@ date: 2020-02-27
 category: blog
 tags: Pelhřimov Piráti členové
 layout: post
-title: Piráti na Vysočině rostou - v Pelhřimově vzniká nové místní sdružení 
+title: Rosteme - v Pelhřimově vzniká nové místní sdružení 
 author: Redakce
 authorId:  
 image: posts/2020-02-27-vznika-ms-pelhrimovsko.jpg
