@@ -7,6 +7,7 @@ titles:
 category:
   - koks
   - kontaktni_osoba
+  - clen
 description: koordinátorka Krajského sdružení Vysočina
 profession: OSVČ, koordinátorka Krajského sdružení Vysočina
 img: people/michaela-vodova.jpg
