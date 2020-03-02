@@ -1,7 +1,7 @@
 ---
 date: 2019-11-25
 category: blog
-tags: Vyosení Třebíč svobodná-hudba
+tags: VyOsení Třebíč svobodná-hudba
 layout: post
 title: Sobotní večer bude v Třebíči patřit VyOsení
 author: Hana Hajnová
