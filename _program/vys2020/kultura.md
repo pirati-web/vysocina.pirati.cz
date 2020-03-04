@@ -4,8 +4,7 @@ uid: kultura
 campaignCategoryUid: vys2020
 campaignGroupUid: vys2020
 garant: roman.pasek
-perex: Kultura emotext
-
+perex: Podporu z fondu Vysočiny zpřístupníme i malým kulturním organizacím a aktivním občanům. Zvýhodníme vícezdrojové financování.
 order: 1
 ---
 
