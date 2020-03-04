@@ -4,7 +4,6 @@ description:
 keywords: 
 title: Festival svobodné kultury
 ---
-
 <div class="pce-hero pce-hero--entry">
     <div class="pce-hero__content">
         <h1 class="c-page-title">Festival svobodné kultury</h1>
@@ -358,7 +357,6 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </span></h4><strong class="c-program-candidate-badge__profession">
             Jsme kapela, která funguje už pro nás těžko uvěřitelných 8 let. Za tu dobu jsme toho zažili spoustu – od koncertů pro pár lidiček v klubu na druhý straně republiky po hraní před velkýma kapelama. Pokaždý je pro nás ale hraní počínaje cestou na koncert ta největší svoboda, jakou můžeme zažít. Jsme rádi, že se můžeme zapojit do akce, která tyhle hodnoty (jedince či skupiny, kteří se věnují tomu, co je baví) podporuje.
 </strong></div></div></div>
-
 </div>
 </div>
 </div>
