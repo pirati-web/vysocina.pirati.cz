@@ -4,7 +4,7 @@ uid: kultura
 campaignCategoryUid: vys2020
 campaignGroupUid: vys2020
 garant: roman.pasek
-perex: > Kultura emotext
+perex: > Kultura emotext >
 
 order: 1
 ---
