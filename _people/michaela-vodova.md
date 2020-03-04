@@ -5,7 +5,7 @@ titles:
   before: 
   after:
 category:
-  - clen
+  - clenove
   - mstrebicsko
   - koks
   - kontaktni_osoba
