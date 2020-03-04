@@ -14,6 +14,7 @@ image: posts/2020-03-04-jihlavska-koalice-jede-dal.jpg
 Nově podepsaná koaliční smlouva sice znamená, že budeme působit v menšinové koalici, nicméně o to důležitější bude snaha získat pro naše vize podporu i od ostatních zastupitelů. Věříme, že i nadále se nám podaří držet kurz a realizovat projekty, které Jihlavě přináší například možnost stát se městem přátelským k dětem, řešit dostupné bydlení i bytovou nouzi nebo zajistit kvalitní vzdělání pro všechny. Vedení města může pokračovat i v dalších cílech, které si vytyčilo, ať už jde o snahy o zlepšení kvality životního prostředí a ovzduší ve městě, koncepční rozvoj kultury a cestovního ruchu (díky nově zřízené příspěvkové organizaci Brána Jihlavy) nebo ukončení vleklého sporu o vodohospodářskou infrastrukturu. V neposlední řadě to znamená, že příprava výstavby nového zimního stadionu může pokračovat podle plánu. Piráti se i nadále budou aktivně podílet na práci v sociální oblasti nebo na strategii řízení městských společností. 
 
 ---
+
 **Odkazy**
 
 [Oficiální tisková zpráva](https://jihlava.cz/namestkem-primatorky-byl-zvolen-petr-ryska/d-537494/p1=103430?fbclid=IwAR00sYvIdlCtLGhbWT5y7TZ2vFiCkcNiaYkjaxfOnuQJBrfl1aA6L8abX1A)
