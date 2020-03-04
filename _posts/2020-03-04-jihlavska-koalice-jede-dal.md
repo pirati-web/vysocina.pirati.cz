@@ -6,7 +6,7 @@ layout: post
 title: Komentář - Jihlavská koalice jede dál
 author: Eva Nováková
 authorId:  eva.novakova
-image: posts/2020-03-04-jihlavska-koalice-jede-dal.jpg
+image: posts/2020-03-04-jihlavska-koalice-jede-dal.JPG
 ---
 
 *Jihlava, 4. března 2020* – V pondělí 2. března podepsal předseda zastupitelského klubu Žijeme Jihlavou! Vojtěch Prchal (nez. za Piráty) společně s primátorkou Karolínou Koubovou (Fórum Jihlava), Jaroslavem Huňáčkem (ODS) a Martinem Laštovičkou (nez. za KDU-ČSL) novou koaliční smlouvu. „Staronová“ koalice bude podporována některými zastupiteli zvolenými za KDU-ČSL a rada města má nyní šest uvolněných radních z devíti. Náměstka Petra Laštovičku (ODS), který odstoupil ze všech veřejných funkcí na začátku února, nahradil na postu náměstka primátorky Petr Ryška (ODS). Všechny tyto změny potvrdilo zastupitelstvo města na svém pondělním jednání. 
