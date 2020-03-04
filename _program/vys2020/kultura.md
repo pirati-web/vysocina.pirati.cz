@@ -4,7 +4,7 @@ uid: kultura
 campaignCategoryUid: vys2020
 campaignGroupUid: vys2020
 garant: roman.pasek
-perex: >Lidé jsou tvorové kulturní a ti, kteří žijí na Vysočině, to jistě rádi potvrdí. Náš kraj vyrůstá z kulturních tradic a odjakživa v něm žili lidé šikovní a tvořiví. Naším cílem je podporovat kulturu i lidi, kteří ji vytvářejí, a zároveň reflektovat společenské a kulturní změny, které přináší život v 21. století. Podpoříme knihovny, galerie, divadla či muzea, která budou splňovat podmínky průhledného hospodaření. Podpoříme autorskou tvorbu a umění s důrazem na svobodnou kulturu, která je naším vzorem a tvůrcům nabízí inspiraci, jak může jejich tvorba vzkvétat v podmínkách digitálního věku. 
+perex: > 
 order: 1
 ---
 
