@@ -4,7 +4,6 @@ description:
 keywords: 
 title: Festival svobodných filmů
 ---
-
 <div class="pce-hero pce-hero--entry">
     <div class="pce-hero__content">
         <h1 class="c-page-title">Festival svobodných filmů</h1>
@@ -126,6 +125,3 @@ title: Festival svobodných filmů
             </div>
   </section>
 </div>
-           
-            
-
