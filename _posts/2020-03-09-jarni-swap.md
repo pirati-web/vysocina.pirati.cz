@@ -23,7 +23,7 @@ Přestože je vstup na SWAP zdarma, budeme vděčni za dobrovolný příspěvek,
 
 **Těšíme se na vás!**
  
-
+ 
 ---
 
 **Odkazy**
