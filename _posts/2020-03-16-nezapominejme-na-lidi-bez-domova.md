@@ -3,7 +3,7 @@ date: 2020-03-16
 category: blog
 tags: koronavirus karantena bezpečnostní-rada
 layout: post
-title: Dopis bezpečnostní rady kraje – nezapomínejme na lidi bez domova
+title: Dopis bezpečnostní radě kraje – nezapomínejme na lidi bez domova
 author: Eva Nováková
 authorId:  eva.novakova
 image: posts/2020-03-16-nezapominejme-na-lidi-bez-domova.png
