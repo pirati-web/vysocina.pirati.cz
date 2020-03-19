@@ -6,7 +6,8 @@ category:
   - mshavlbrod
 ordpmshavlbrod: 
 description: člen Místního sdružení Havlíčkův Brod
-profession: jiri-svobodajan-kerber.jpg
+profession: 
+img: people/jiri-svoboda.jpg
 mail:
   - jiri.svoboda.hb@pirati.cz
   
