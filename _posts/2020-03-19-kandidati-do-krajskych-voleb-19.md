@@ -11,8 +11,6 @@ image: posts/2020-03-19-kandidati-do-krajskych-voleb-19.jpg
 
 *Jihlava, 19. března 2020* – Piráti na Vysočině pokračují v primární volbě kandidátů pro podzimní krajské volby. Volby probíhají online a jednotlivé kandidáty volí přímo sami členové krajského sdružení. Aktuálně běží rozprava a nominace na 20. – 29. místo kandidátky. K lídryni Haně Hajnové již přibylo 18 dalších jmen, se kterými se Piráti pokusí poprvé probojovat do krajského zastupitelstva. A jaké kandidáty na prvních 19 míst Piráti vybrali?
 
-*„Krajské sdružení České pirátské strany čítá na Vysočině již 53 členů a 21 registrovaných příznivců“*, zmínila v úvodu krajská předsedkyně Blanka Lednická. Ta označila zvolené čelo kandidátky jako vyvážené po stránce geografického i odborného zastoupení. A koho konkrétně Piráti vybrali? 
-
 1.	**[Hana Hajnová](https://vysocina.pirati.cz/lide/hana-hajnova)**, Telč, zastupitelka, místopředsedkyně místního sdružení Mikroregion Telčsko, projektová manažerka, zodpovídá za oblast regionálního rozvoje
 
 2.	**[Jan Břížďala](https://vysocina.pirati.cz/lide/jan-brizdala)**, Třebíč, místopředseda krajského sdružení Vysočina, zástupce ředitelky Agro školy Pozďatín, středoškolský učitel matematiky a chemie, zodpovídá za oblast školství
