@@ -3,7 +3,7 @@ date: 2020-03-19
 category: blog
 tags: krajské-volby Vysočiny kandidátka 
 layout: post
-title: 7 žen a 13 mužů, to je celkem 19 pirátských kandidátů do krajských voleb
+title: 7 žen a 12 mužů, to je celkem 19 pirátských kandidátů do krajských voleb
 author: Redakce 
 authorId:  
 image: posts/2020-03-19-kandidati-do-krajskych-voleb-19.jpg
