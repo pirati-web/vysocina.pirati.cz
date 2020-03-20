@@ -33,13 +33,13 @@ image: posts/2020-03-19-kandidati-do-krajskych-voleb-19.jpg
 
 11. **[Daniel Škarka](https://lide.pirati.cz/personProfile/786)**, Jihlava, zastupitel a uvolněný radní pro oblast školství, kultury, a tělovýchovy a v oblasti sociálních věcí
 
-12. **[Václav Honz](https://vysocina.pirati.cz/lide/vaclav-honzl)**, Staré Bříště, neuvolněný starosta, absolvent  VŠE Praha a Právnické fakulty UK, pracuje jako Global Mobility manažer v nadnárodní firmě
+12. **[Václav Honzl](https://vysocina.pirati.cz/lide/vaclav-honzl)**, Staré Bříště, neuvolněný starosta, absolvent  VŠE Praha a Právnické fakulty UK, pracuje jako Global Mobility manažer v nadnárodní firmě
 
 13. **[Petra Kujínek Polodnová](https://vysocina.pirati.cz/lide/petra-kujinek-polodnova)**, Telč, zastupitelka a advokátka, specializuje se na rodinné právo
 
 14. **[Irena Bačinová](https://vysocina.pirati.cz/lide/irena-bacinova)**, Havlíčkův Brod, sociální pracovnice a členka sociálního výboru města Havlíčkův Brod
 
-15. **[Ladislav Stalmach](https://vysocina.pirati.cz/lide/ladislav-stalmach)**, Vír, starosta, organizuje Vírskou univerzitu třetího věku a stál na kampaní Chudobínská borovice Evropský strom roku 2020
+15. **[Ladislav Stalmach](https://vysocina.pirati.cz/lide/ladislav-stalmach)**, Vír, starosta, organizuje Vírskou univerzitu třetího věku a stál za kampaní Chudobínská borovice Evropský strom roku 2020
 
 16. **[Michaela Vodová](https://vysocina.pirati.cz/lide/michaela-vodova)**, Chlum, koordinátorka krajského sdružení Vysočina, podílela se na historicky prvním referendu v Jihlavě  
 
