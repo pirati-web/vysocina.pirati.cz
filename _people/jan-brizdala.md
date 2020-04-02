@@ -2,12 +2,11 @@
 uid: jan.brizdala
 name:     Jan Břížďala
 category:
-  - kandidat2018
   - clenove
   - mstrebicsko
   - pks
-ordpks: 3
-description: 2. místopředseda Krajského sdružení Vysočina
+ordpks: 2
+description: 1. místopředseda Krajského sdružení Vysočina
 profession: středoškolský učitel
 img: people/jan-brizdala.jpg
 mail:
