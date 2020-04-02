@@ -8,8 +8,8 @@ category:
   - clenove
   - pks
   - poslanec
-ordpks: 5
-description: 4. místopředseda Krajského sdružení Vysočina # zobrazuje se v lide
+ordpks: 4
+description: 3. místopředseda Krajského sdružení Vysočina # zobrazuje se v lide
 profession: poslanec
 img: people/jan-posvar.jpg
 mail:
