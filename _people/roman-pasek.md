@@ -3,10 +3,8 @@ uid: roman.pasek
 name:     Roman Pašek
 category:
   - clenove
-  - pks
   - mstrebicsko
-ordpks: 2
-description: 1. místopředseda Krajského sdružení Vysočina
+description: předseda Místního sdružení Třebíčsko
 profession: programátor analytik
 img: people/roman-pasek.jpg
 mail:
@@ -39,7 +37,7 @@ Ve svém volném čase se aktivně věnuje hudbě. Dříve to byla kytara a bic�
 * od ledna 2018 členem
 * od dubna 2018 organizuje v Třebíči **Vyosení**
 * aktivně se podílí na tvorbě **Pirátských listů** - krajské mutace na Vysočině
-* od května 2018 1. místopředsedou **KS Vysočina**
+* od května 2018 do dubna 2020 1. místopředsedou **KS Vysočina**
 * od října 2018 zastupitelem **Třebíče**
 * od října 2018 předsedou **MS Třebíčsko**
 * organizátor **Festivalu svobodných filmů**
