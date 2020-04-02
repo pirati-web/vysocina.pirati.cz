@@ -10,8 +10,8 @@ category:
   - pks
   - kandidat2018 
 ordpmsjihlavsko: 2
-ordpks: 4
-description: 3. místopředsedkyně Krajského sdružení Vysočina
+ordpks: 3
+description: 2. místopředsedkyně Krajského sdružení Vysočina
 profession: Vedoucí sociální služby
 img: people/eva-novakova.jpg
 mail:
