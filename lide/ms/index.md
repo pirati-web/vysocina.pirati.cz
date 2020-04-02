@@ -225,7 +225,6 @@ keywords: lidé, členové, piráti, pirátky, příznivci, kandidátka, volby
 </div>
 </div>
 
-
 <div class="o-section-header o-section-header--bordered">
 <h3 class="o-section__heading t-h2-super">
             Třebíčsko
@@ -279,6 +278,59 @@ keywords: lidé, členové, piráti, pirátky, příznivci, kandidátka, volby
 </div>
 </div>
 
+
+<div class="o-section-header o-section-header--bordered">
+<h3 class="o-section__heading t-h2-super">
+            Pelhřimovsko
+</h3>
+</div>
+<div class="c-program-candidates">
+<div class="c-program-candidate-badge">
+<a class="c-program-candidate-badge__body" 
+            href="https://vysocina.pirati.cz/lide/pavel-knezik/">
+<div class="c-program-candidate-badge__description">
+<h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Pavel Knežik
+</span></h4>
+<strong class="c-program-candidate-badge__profession">
+            předseda Místního sdružení Pelhřimovsko
+</strong>
+</div>
+</a>
+</div>
+</div>
+  
+<div class="c-program-candidates">
+<div class="c-program-candidate-badge">
+<a class="c-program-candidate-badge__body" 
+            href="https://vysocina.pirati.cz/lide/petr-kozel/">
+<div class="c-program-candidate-badge__description">
+<h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Petr Kozel
+</span></h4>
+<strong class="c-program-candidate-badge__profession">
+            1. místopředseda Místního sdružení Pehřimovsko
+</strong>
+</div>
+</a>
+</div>
+</div>  
+
+<div class="c-program-candidates">
+<div class="c-program-candidate-badge">
+<a class="c-program-candidate-badge__body" 
+            href="https://vysocina.pirati.cz/lide/zdenka-liskova/">
+<div class="c-program-candidate-badge__description">
+<h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Zdena Lišková
+</span></h4>
+<strong class="c-program-candidate-badge__profession">
+            2. místopředsedkyně Místního sdružení Pelhřimovsko
+</strong>
+</div>
+</a>
+</div>
+</div>
 
 
 </div>
