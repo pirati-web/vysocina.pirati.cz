@@ -3,7 +3,9 @@ uid: pavel.knezik
 name:     Pavel Knežik
 category:
   - clenove
-description: člen Krajského sdružení Vysočina
+  - pks
+ordpks: 5
+description: 4. místopředseda Krajského sdružení Vysočina
 img: people/pavel-knezik.jpg
 mail:
   - pavel.knezik@pirati.cz
