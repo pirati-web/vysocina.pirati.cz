@@ -1,7 +1,7 @@
 ---
 date: 2020-04-05
 category: blog
-tags: Poslanecká-sněmovna Jan-Pošvář celostátní
+tags: Poslanecká-sněmovna Pošvář celostátní
 layout: post
 title: Březen ve Sněmovně z pohledu Jana Pošváře
 author: Jan Pošvář
