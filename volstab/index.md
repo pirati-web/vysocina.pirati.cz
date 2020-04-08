@@ -30,7 +30,17 @@ title: Volební štáb
 </div>
 
 
-
-<iframe src="https://calendar.google.com/calendar/embed?height=800&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FPrague&amp;src=MGxvazRhaXRvYjY5OXQ1OHJka2RmM2N1azRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%238E24AA&amp;showTitle=0&amp;showNav=1&amp;showDate=0&amp;showTabs=1&amp;showCalendars=0&amp;showTz=0&amp;showPrint=0&amp;" style="border-width:0" width="1120" height="800" frameborder="0" scrolling="no"></iframe>
+<div class="row o-section-block c-emphasized-text">
+    <div class="medium-12 large-12 columns">
+        <section class="o-section">
+            <div class="o-secion-header o-section-header--bordered">
+                <h3 class="o-section__heading t-h4-super">Kalendář</h3>
+            </div>
+            <div class="u-1margin--top">
+                <iframe src="https://calendar.google.com/calendar/embed?height=800&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FPrague&amp;src=MGxvazRhaXRvYjY5OXQ1OHJka2RmM2N1azRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%238E24AA&amp;showTitle=0&amp;showNav=1&amp;showDate=0&amp;showTabs=1&amp;showCalendars=0&amp;showTz=0&amp;showPrint=0&amp;" style="border-width:0" width="1120" height="800" frameborder="0" scrolling="no"></iframe>
+            </div>
+        </section>
+    </div>    
+</div>
 
 <br><br>
