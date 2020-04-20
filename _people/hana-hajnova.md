@@ -1,6 +1,7 @@
 ---
 uid: hana.hajnova
 name: Hana Hajnová
+fullname: Mgr. Hana Hajnová
 category:
   - clenove
   - mstelcsko
