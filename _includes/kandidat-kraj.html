@@ -16,8 +16,8 @@
       <div class="c-program-candidate-badge__description">
           <h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">{% include people/fullname.html person=include.candidatePage %}</span></h4>
           <strong class="c-program-candidate-badge__profession">
-              {% if include.candidate.residence %} {{ include.candidate.residence }}, {% endif %}
-              {{ include.candidate.profession }}{% if include.candidate.expertise %}, {{ include.candidate.expertise }} {% endif %}
+              {% if include.candidate.residence %} {{ include.candidate.residence }}<br>{% endif %}
+              {{ include.candidate.profession }}{% if include.candidate.expertise %}<br>{{ include.candidate.expertise }} {% endif %}
           </strong>
           {% if include.candidate.description %}
           <p class="c-program-candidate-badge__bio">{{ include.candidate.description }}</p>

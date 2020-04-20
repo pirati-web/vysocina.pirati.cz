@@ -6,7 +6,7 @@ layout: blank-article
   {% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
   {% assign programCategories = site.program | where: "campaignCategoryUid", page.campaignCategoryUid | sort:"order" %}
 
-  {% capture headline %}{{ page.title }}{% if candidates.number %}<span class="t-subheader u-1margin--left">&raquo; volte č. {{ candidates.number }} &laquo;</span>{% endif %}{% endcapture %}
+  {% capture headline %}{% if candidates.number %}<span class="t-subheader u-1margin--left">&raquo; volte č. {{ candidates.number }} &laquo;</span>{% endif %}{% endcapture %}
   {% capture headerContent %}
     <div class="c-content-block c-emphasized-text">{{ content }}</div>
   {% endcapture %}
@@ -37,7 +37,7 @@ layout: blank-article
             {% for candidate in candidates.head %}
               {% assign candidatePage = site.people | where: "uid", candidate.uid  | first %}
               {% assign candidateRank = forloop.index | plus: 1 %}
-              {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false rank=candidateRank %}
+              {% include kandidat-kraj.html candidate=candidate candidatePage=candidatePage leader=false rank=candidateRank %}
             {% endfor %}
         {% endif %}
 
@@ -50,17 +50,17 @@ layout: blank-article
                 <strong> {{ candidateRank }}.
                     {% if candidate.uid %}
                         {% assign candidatePage = site.people | where: "uid", candidate.uid | first %}
-                        <a href={{candidatePage.url}}> {% include people/fullname.html person=candidatePage %}</a>{% if candidate.age or candidate.profession or candidate.party %}, {% endif %}
+                        <a href={{candidatePage.url}}> {% include people/fullname.html person=candidatePage %}</a>{% if candidate.residence or candidate.profession or candidate.expertise %}, {% endif %}
                     {% else %}
                         {{ candidate.name }}{% if candidate.residence or candidate.profession or candidate.expertise %}, {% endif %}
                     {% endif %}
                 </strong>
 
                 {% if candidate.residence %}
-                    {{ candidate.residence }} let{% if candidate.profession or candidate.expertise %}, {% endif %}
+                    {{ candidate.residence }}{% if candidate.profession or candidate.expertise %}<br>{% endif %}
                 {% endif %}
                 {% if candidate.profession %}
-                    {{ candidate.profession }}{% if candidate.expertise %}, {% endif %}
+                    {{ candidate.profession }}{% if candidate.expertise %}<br>{% endif %}
                 {% endif %}
                 {% if candidate.expertise %}
                     {{ candidate.expertise }}
