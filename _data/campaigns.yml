@@ -2,26 +2,26 @@
 # aktuální volby
 # --------------
 
-- groupUid: vys2020
+- groupUid: 2020vys
   title: Krajské volby 2020
   campaigns:
     - title: Vysočina
-      categoryUid: vys2020
+      categoryUid: 2020vys
 
 # --------------
 # zastupitelstva
 # --------------
 
-- groupUid: trebic  
+- groupUid: trebic
   title: Práce v zastupitelstvu
   campaigns:
-    - title: Třebíč  
+    - title: Třebíč
       categoryUid: trebic
-      
-- groupUid: jaromerice  
+
+- groupUid: jaromerice
   title: Práce v zastupitelstvu
   campaigns:
-    - title: Jaroměřice nad Rokytnou  
+    - title: Jaroměřice nad Rokytnou
       categoryUid: jaromerice
 
 # --------------
@@ -69,4 +69,3 @@
   campaigns:
     - title: Jaroměřice nad Rokytnou   # individual campaigns within the group
       categoryUid: jaromerice2018
-
