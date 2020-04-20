@@ -6,5 +6,3 @@ keywords: lidé, členové, piráti, pirátky, příznivci, kandidátka, volby, 
 #campaignCategoryUid: 2020vys
 candidateListUid: 2020vys
 ---
-
-<img src="https://vysocina.pirati.cz/assets/img/volby/2020-vys/kraj-stredem-pozornosti.png"></img>
