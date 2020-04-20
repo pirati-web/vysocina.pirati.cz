@@ -7,7 +7,7 @@ category:
   - kandidat2018
 description: člen místního sdružení Havlíčkův Brod
 profession: 
-img: people/jiri-wiche.JPG
+img: people/jiri-wiche.jpg
 mail:
   - jiri.wiche@pirati.cz
   
