@@ -20,18 +20,6 @@ Schůze probíhají pravidelně každý první čtvrtek v měsíci.
 * Na první kontakt doporučujeme přijít na **krajskou schůzi** nebo na **Pirátské úterý**, viz [kalendář](kalendar/#praha).
 
 
-{% comment %}
-## Dotazník
-<div>
-	<a href="https://docs.google.com/forms/d/17MEmWfP4hyHO8On9V_PUTuWNDtS89bdhfomnyMfHoqY/viewform?edit_requested=true">
-		<img src="{{"/assets/img/pripoj-se/dotaznik.png" }}" style="margin-top:10px;width:100%" alt="Pirátský dotazník"/>
-	</a>
-	<a style="width:100%" class="button alert expand radius large" href="https://docs.google.com/forms/d/17MEmWfP4hyHO8On9V_PUTuWNDtS89bdhfomnyMfHoqY/viewform?edit_requested=true">
-	Vyplň Pirotazník ještě dnes!i
-	</a>
-</div>
-{% endcomment %}
-
 ## Kalendář akcí
 
 <iframe
