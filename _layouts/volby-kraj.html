@@ -6,7 +6,7 @@ layout: blank-article
   {% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
   {% assign programCategories = site.program | where: "campaignCategoryUid", page.campaignCategoryUid | sort:"order" %}
 
-  {{ page.title }}{% if candidates.number %}<span class="t-subheader u-1margin--left">&raquo; volte č. {{ candidates.number }} &laquo;</span>{% endif %}{% endcapture %}
+  {% capture headline %}{{ page.title }}{% if candidates.number %}<span class="t-subheader u-1margin--left">&raquo; volte č. {{ candidates.number }} &laquo;</span>{% endif %}{% endcapture %}
   {% capture headerContent %}
     <div class="c-content-block c-emphasized-text">{{ content }}</div>
   {% endcapture %}
