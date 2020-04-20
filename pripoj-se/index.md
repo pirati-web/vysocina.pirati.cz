@@ -1,6 +1,6 @@
 ---
 layout: page
-img: miscellaneous/volebni-rozcestnik.png
+# img: miscellaneous/volebni-rozcestnik.png
 article-boxes:
   - title: "Přidejte se k Pirátům"
 #    image: /assets/img/pripoj-se/noviny.jpg
