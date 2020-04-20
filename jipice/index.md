@@ -10,10 +10,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
         <h2 class="t-h4-alt">
           Pirátské centrum v Jihlavě, známé také jako JiPiCe, slouží jako kancelář poslance za kraj Vysočina Jana Pošváře a také jako zázemí pro aktivní Piráty. Jelikož je transparentně financováno z veřejných peněz, nabízíme centrum ve volných chvílích bezplatně k užitku i vám. Může se hodit na veřejné přednášky, workshopy nebo třeba jako prostor k uskutečnění vašeho jedinečného nápadu.
         </h2>
-        <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/jipice/jipice_koutek.jpg" alt="Jipice - Jihlavské pirátské centrum" style="width: 100%; height: auto; margin:10px 0px">
-        <h2 class="t-h4-alt">
-          Vybavení Jipice + dětský koutek.
-        </h2>
+        <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/jipice/jipice_koutek.jpg" alt="Jipice - Jihlavské pirátské centrum" style="width: 100%; height: auto; margin:0px 0px">
     </div>
 </div>
 
@@ -35,7 +32,6 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
         <br><br>
         <strong>Pirátské centrum</strong>
          <ul>
-            <li>Pondělí zavřeno</li>
             <li>Úterý 12:00 - 17:00</li>
             <li>Středa 10:00 - 15:00</li>
             <li>Čtvrtek 12:00 - 17:00</li>
