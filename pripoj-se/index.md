@@ -1,28 +1,5 @@
 ---
 layout: page
-# img: miscellaneous/volebni-rozcestnik.png
-article-boxes:
-  - title: "Přidejte se k Pirátům"
-#    image: /assets/img/pripoj-se/noviny.jpg
-    button:  Naloďte se k pirátům!
-    url: https://nalodeni.pirati.cz
-    description: Ceníte si svobody a demokracie? Chcete se zapojit do dění na české politické scéně? Připojte se k nám! Členům, příznivcům i podporovatelům nabízí "nalodění" snadný vstup.
-  - title: Zastupitelé na Magistrátu
-#    image: /assets/img/pripoj-se/zastupko.jpg
-    button: Hledáme odborníky a stážisty!
-    url: prazsti-zastupitele.html
-    description:  >
-              Kritizujeme politické trafiky, nevýhodné záměry developerů a další desítky kauz.
-              Chceme moderní město s průhledným hospodařením!  
-
-  - title: Krajské předsednictvo
-#    image:  /assets/img/pripoj-se/krajske-forum.jpg
-    button: Hledáme nové členy a příznivce!
-    url: predsednictvo.html
-    description:  >
-              Krajské předsednictvo vede sdružení, přijímá nové členy,
-              organizuje akce, koordinuje dobrovolníky a hospodaří
-              s penězi. 		
 rbar:
   - kodo
 ---
