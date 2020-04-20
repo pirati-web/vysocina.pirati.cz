@@ -1,6 +1,7 @@
 ---
 uid: hana.hajnova
-name:     Hana Hajnová
+name: Hana Hajnová
+fullname: Mgr. Hana Hajnová
 category:
   - clenove
   - mstelcsko
@@ -17,7 +18,7 @@ mob:
 profiles:
   facebook: https://www.facebook.com/hanka.hajnova
   linkedin: https://www.linkedin.com/in/hana-hajnova-692a5025
-  
+
 ---
 
 **Mgr. Hana Hajnová**
