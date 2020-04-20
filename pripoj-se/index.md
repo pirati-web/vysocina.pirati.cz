@@ -2,6 +2,7 @@
 layout: page
 rbar:
   - kodo
+  - calendar
 ---
 
 
@@ -18,13 +19,3 @@ Schůze probíhají pravidelně každý první čtvrtek v měsíci.
 * [Příručka piráta](https://redmine.pirati.cz/projects/po/wiki0)    
 
 * Na první kontakt doporučujeme přijít na **krajskou schůzi** nebo na **Pirátské úterý**, viz [kalendář](kalendar/#praha).
-
-
-## Kalendář akcí
-
-<iframe
-	src="{{site.calendar.page}}"
-	style="border-width:0"
-	width="735" height="600"
-	frameborder="0" scrolling="no">
-</iframe>
