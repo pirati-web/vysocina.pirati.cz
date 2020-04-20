@@ -9,3 +9,4 @@ keywords: lidé, členové, piráti, pirátky, příznivci, kandidátka, volby
   <li><a href="https://vysocina.pirati.cz/volby/2019-ep/harmonogram/">Harmonogram akcí na Vysočině</a></li>
   <li><a href="https://vysocina.pirati.cz/volby/2019-ep/zapojit/">Shrnutí jak se zapojit na Vysočině</a></li>
 </ul>
+<br><br><br><br><br>

@@ -18,3 +18,4 @@ Piráti na Vysočině nezaháleli a sestavili 13 kandidátek do komunálních vo
 <li><a href="https://vysocina.pirati.cz/volby/2018-komunal/trebic/">Třebíč</a></li>
 <li><a href="https://vysocina.pirati.cz/volby/2018-komunal/obce/">Ostatní obce</a></li>
 </ul>
+<br><br>
