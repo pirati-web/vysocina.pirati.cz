@@ -1,7 +1,7 @@
 ---
 layout: page
 rbar:
-  - kodo
+  - koks
 ---
 
 
