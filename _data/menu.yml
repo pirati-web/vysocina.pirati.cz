@@ -23,9 +23,6 @@ main:
       - link: /lide/pks/
         name: Krajské předsednictvo
         match: pks
-      - link: /lide/mo/
-        name: Mediální odbor
-        match: mo
       - link: /lide/ms/
         name: Místní sdružení
         match: ms
