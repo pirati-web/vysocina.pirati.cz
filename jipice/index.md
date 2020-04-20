@@ -1,7 +1,7 @@
 ---
 layout: page
 title: JiPiCe - jihlavské pirátské centrum
-description: 
+description:
 keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
 ---
 
@@ -23,11 +23,6 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
     </div>
 </div>
 
-<div class="pce-hero pce-hero--entry">
-    <div class="pce-hero__content">        
-        <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/jipice/jipice_cedule.jpg" alt="Jipice - Jihlavské pirátské centrum" style="width: 100%; height: auto; margin:10px 0px">
-    </div>
-</div>
 
 <div class="o-section">
   <div class="row">
@@ -46,10 +41,9 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
         <strong>Pirátské centrum</strong>
          <ul>
             <li>Pondělí zavřeno</li>
-            <li>Úterý 9:00 - 17:00</li>
-            <li>Středa 9:00 - 17:00</li>
-            <li>Čtvrtek 9:00 - 17:00</li>
-            <li>Pátek 10:00 - 15:00</li>
+            <li>Úterý 12:00 - 17:00</li>
+            <li>Středa 10:00 - 15:00</li>
+            <li>Čtvrtek 12:00 - 17:00</li>
          </ul>
         <br>
         <strong>Poslanecká kancelář</strong>
