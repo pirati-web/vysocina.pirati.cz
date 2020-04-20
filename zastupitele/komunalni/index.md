@@ -12,7 +12,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
       </div>
       <div class="c-program-candidates">
         <div class="c-program-candidate-badge">
-          <a class="c-program-candidate-badge__body" href="https://vysocina.pirati.cz/komunalni-zastupitele/jihlava/">
+          <a class="c-program-candidate-badge__body" href="https://vysocina.pirati.cz/zastupitele/komunalni/jihlava/">
             <div class="c-program-candidate-badge__avatar">
               <img src="{{ "/assets/img/jihlava.jpg"  }}" alt="Jihlava" class="c-program-candidate-badge__avatar-image">
             </div>
@@ -36,7 +36,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
       </div>
       <div class="c-program-candidates">
         <div class="c-program-candidate-badge">
-          <a class="c-program-candidate-badge__body" href="https://vysocina.pirati.cz/komunalni-zastupitele/trebic/">
+          <a class="c-program-candidate-badge__body" href="https://vysocina.pirati.cz/zastupitele/komunalni/trebic/">
             <div class="c-program-candidate-badge__avatar">
               <img src="{{ "/assets/img/trebic.png"  }}" alt="Třebíč" class="c-program-candidate-badge__avatar-image">
             </div>
@@ -60,7 +60,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
       </div>
       <div class="c-program-candidates">
         <div class="c-program-candidate-badge">
-          <a class="c-program-candidate-badge__body" href="https://vysocina.pirati.cz/komunalni-zastupitele/havlbrod/">
+          <a class="c-program-candidate-badge__body" href="https://vysocina.pirati.cz/zastupitele/komunalni/havlbrod/">
             <div class="c-program-candidate-badge__avatar">
               <img src="{{ "/assets/img/havlbrod.jpg"  }}" alt="Čechtín" class="c-program-candidate-badge__avatar-image">
             </div>
@@ -84,7 +84,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
       </div>
       <div class="c-program-candidates">
         <div class="c-program-candidate-badge">
-          <a class="c-program-candidate-badge__body" href="https://vysocina.pirati.cz/komunalni-zastupitele/telc/">
+          <a class="c-program-candidate-badge__body" href="https://vysocina.pirati.cz/zastupitele/komunalni/telc/">
             <div class="c-program-candidate-badge__avatar">
               <img src="{{ "/assets/img/telc.jpg"  }}" alt="Telč" class="c-program-candidate-badge__avatar-image">
             </div>
@@ -108,7 +108,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
       </div>
       <div class="c-program-candidates">
         <div class="c-program-candidate-badge">
-          <a class="c-program-candidate-badge__body" href="https://vysocina.pirati.cz/komunalni-zastupitele/jaromerice/">
+          <a class="c-program-candidate-badge__body" href="https://vysocina.pirati.cz/zastupitele/komunalni/jaromerice/">
             <div class="c-program-candidate-badge__avatar">
               <img src="{{ "/assets/img/jaromerice.png"  }}" alt="Jaroměřice nad Rokytnou" class="c-program-candidate-badge__avatar-image">
             </div>
@@ -134,7 +134,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
       </div>
       <div class="c-program-candidates">
         <div class="c-program-candidate-badge">
-          <a class="c-program-candidate-badge__body" href="https://vysocina.pirati.cz/komunalni-zastupitele/obce/">
+          <a class="c-program-candidate-badge__body" href="https://vysocina.pirati.cz/zastupitele/komunalni/obce/">
             <div class="c-program-candidate-badge__avatar">
               <img src="{{ "/assets/img/pirati-obce.jpg"  }}" alt="Ostatní obce" class="c-program-candidate-badge__avatar-image">
             </div>

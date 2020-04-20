@@ -29,26 +29,26 @@ main:
       - link: /lide/ms/
         name: Místní sdružení
         match: ms        
-  - link: /komunalni-zastupitele/
+  - link: /zastupitele/komunalni/
     name: Zastupitelstva
-    match: komunalni-zastupitele
+    match: zastupitele/komunalni
     submenu:
-      - link: /komunalni-zastupitele/jihlava/
+      - link: /zastupitele/komunalni/jihlava/
         name: Jihlava
         match: jihlava    
-      - link: /komunalni-zastupitele/trebic/
+      - link: /zastupitele/komunalni/trebic/
         name: Třebíč
         match: trebic        
-      - link: /komunalni-zastupitele/havlbrod/
+      - link: /zastupitele/komunalni/havlbrod/
         name: Havlíčkův Brod
         match: havlbrod               
-      - link: /komunalni-zastupitele/telc/
+      - link: /zastupitele/komunalni/telc/
         name: Telč
         match: telc        
-      - link: /komunalni-zastupitele/jaromerice/
+      - link: /zastupitele/komunalni/jaromerice/
         name: Jaroměřice nad Rokytnou
         match: jaromerice
-      - link: /komunalni-zastupitele/obce/
+      - link: /zastupitele/komunalni/obce/
         name: Ostatní obce
         match: obce  
   - link: /cinnost/
