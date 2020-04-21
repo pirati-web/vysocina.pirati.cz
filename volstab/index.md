@@ -20,13 +20,13 @@ title: Volební štáb
         <h3 class="o-section__heading t-h4-alt">Volební štáb</h3>
       </div>
       <ul>
-        <li>Roman Pašek (volební manažer)</li>                    
-        <li>Hana Hajnová (lídryně kandidátky)</li>
-        <li>Pavel Knežik (zástupce krajského předsednictva, ex-volební manažer)</li>
-        <li>Jan Břížďala (zástupce krajského předsednictva)</li>
-        <li>Michaela Vodová (koordinátorka krajského sdružení)</li>
-        <li>Jiří Svoboda (zástupce krajského mediálního odboru)</li>
-        <li>Ondřej Tůma (správce krajského sdružení)</li>
+        <li>Roman Pašek</li>                    
+        <li>Hana Hajnová</li>
+        <li>Pavel Knežik</li>
+        <li>Jan Břížďala</li>
+        <li>Michaela Vodová</li>
+        <li>Jiří Svoboda</li>
+        <li>Ondřej Tůma</li>
       </ul>
     </div>
     <div class="columns medium-4">
@@ -46,14 +46,13 @@ title: Volební štáb
         <h3 class="o-section__heading t-h4-alt">Mediální odbor</h3>
       </div>
       <ul>
-        <li>Hana Hajnová (vedoucí MO)</li>                    
-        <li>Jiří Svoboda (zástupce vedoucího MO)</li>
+        <li>Hana Hajnová</li>                    
+        <li>Jiří Svoboda</li>
         <li>Ondřej Tůma</li>
         <li>Roman Pašek</li>
         <li>Eva Nováková</li>
         <li>Viktorie Vidláková</li>
-        <li>Tereza Mašková</li>
-        jirikuvmail@seznam.cz,
+        <li>Tereza Mašková</li>        
       </ul>
     </div>
   </div>
