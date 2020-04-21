@@ -6,10 +6,9 @@ category:
   - mstelcsko
 description: člen Místního sdružení Telčsko
 profession: zdravotnický záchranář
-# img: people/miroslav-vacha.jpg
+img: people/miroslav-vacha.jpg
 mail:
   - miroslav.vacha@pirati.cz
-  
 ---
 
 Miroslav Vácha (* 14. dubna 1984 v Jihlavě) je členem MS Telčsko. Otec tří dětí.
