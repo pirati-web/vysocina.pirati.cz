@@ -11,7 +11,7 @@
           {% else %}
             {% capture img %}https://a.pirati.cz/common/img/people/unknown-pirate.svg{% endcapture %}
           {% endif %}
-          <img src="{{ img }}" alt="{% include people/fullname.html person=include.candidatePage plain=true %}" class="c-program-candidate-badge__avatar-image" {border: 1px solid black }>
+          <img src="{{ img }}" alt="{% include people/fullname.html person=include.candidatePage plain=true %}" class="c-program-candidate-badge__avatar-image" style="border: 1px solid black;">
       </div>
       <div class="c-program-candidate-badge__description">
           <h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">{% include people/fullname.html person=include.candidatePage %}</span></h4>
