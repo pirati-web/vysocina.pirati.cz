@@ -13,7 +13,7 @@
           {% endif %}
           <img src="{{ img }}" alt="{% include people/fullname.html person=include.candidatePage plain=true %}" class="c-program-candidate-badge__avatar-image" style="border: 1px solid black;">
       </div>
-      <div class="c-program-candidate-badge__description" style="border: 1px solid black;">
+      <div class="c-program-candidate-badge__description" style="border-width: 1px 1px 1px 0px; border-style: solid; border-color: black;">
           <h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">{% include people/fullname.html person=include.candidatePage %}</span></h4>
           <strong class="c-program-candidate-badge__profession">
               {% if include.candidate.residence %} {{ include.candidate.residence }}<br>{% endif %}
