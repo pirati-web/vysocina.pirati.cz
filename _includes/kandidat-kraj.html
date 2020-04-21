@@ -6,7 +6,7 @@
             {% if site.mediaStorage %}
                 {% capture img %}https://a.pirati.cz/resize/225x225/{{ site.mediaStorage }}/img/{{ include.candidatePage.img }}{% endcapture %}
             {%- else -%}
-                {% capture img %}{% asset '{{ include.candidatePage.img }}' magick:resize='225x225^' magick:gravity='center' magick:crop='225x225+0+0' magick:border='1x1' @path %}{% endcapture %}
+                {% capture img %}{% asset '{{ include.candidatePage.img }}' magick:resize='225x225^' magick:gravity='center' magick:crop='225x225+0+0' magick:border='1' magick:bordercolor='black' @path %}{% endcapture %}
             {%- endif -%}
           {% else %}
             {% capture img %}https://a.pirati.cz/common/img/people/unknown-pirate.svg{% endcapture %}
