@@ -6,12 +6,12 @@
             {% if site.mediaStorage %}
                 {% capture img %}https://a.pirati.cz/resize/225x225/{{ site.mediaStorage }}/img/{{ include.candidatePage.img }}{% endcapture %}
             {%- else -%}
-                {% capture img %}{% asset '{{ include.candidatePage.img }}' magick:resize='225x225^' magick:gravity='center' magick:crop='225x225+0+0' magick:border='1' magick:bordercolor='black' @path %}{% endcapture %}
+                {% capture img %}{% asset '{{ include.candidatePage.img }}' magick:resize='225x225^' magick:gravity='center' magick:crop='225x225+0+0' @path %}{% endcapture %}
             {%- endif -%}
           {% else %}
             {% capture img %}https://a.pirati.cz/common/img/people/unknown-pirate.svg{% endcapture %}
           {% endif %}
-          <img src="{{ img }}" alt="{% include people/fullname.html person=include.candidatePage plain=true %}" class="c-program-candidate-badge__avatar-image">
+          <img src="{{ img }}" alt="{% include people/fullname.html person=include.candidatePage plain=true %}" class="c-program-candidate-badge__avatar-image" border="2">
       </div>
       <div class="c-program-candidate-badge__description">
           <h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">{% include people/fullname.html person=include.candidatePage %}</span></h4>
