@@ -1,7 +1,7 @@
 ---
 layout: blank-article
-description: 
-keywords: 
+description:
+keywords:
 title: Volební štáb
 ---
 <div class="pce-hero pce-hero--entry">
@@ -23,6 +23,7 @@ title: Volební štáb
                 <ul>
                     <li><a href="https://drive.google.com/drive/folders/1eGoMJgE1lw3T0qg46C9wBGvhGd7xla_d">Sdílená krajská složka na google disku ke krajským volbám</a></li>                    
                     <li><a href="https://drive.google.com/drive/folders/1MGJlqyFzNeQhSQTrhpBi5zTHQrrs486N">Sdílená celostátní složka na google disku ke krajským volbám</a></li>
+                    <li><a href="https://vysocina.pirati.cz/volby/2020-kraj/">Kandidátka</a></li>
                 </ul>
             </div>
         </section>
