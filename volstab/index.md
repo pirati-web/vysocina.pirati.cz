@@ -13,6 +13,52 @@ title: Volební štáb
     </div>
 </div>
 
+<div class="o-section">
+  <div class="row">
+    <div class="columns medium-4">
+      <div class="o-section-header o-section-header--bordered">
+        <h3 class="o-section__heading t-h4-alt">Volební štáb</h3>
+      </div>
+      <ul>
+        <li>Roman Pašek (volební manažer)</li>                    
+        <li>Hana Hajnová (lídryně kandidátky)</li>
+        <li>Pavel Knežik (zástupce krajského předsednictva, ex-volební manažer)</li>
+        <li>Jan Břížďala (zástupce krajského předsednictva)</li>
+        <li>Michaela Vodová (koordinátorka krajského sdružení)</li>
+        <li>Jiří Svoboda (zástupce krajského mediálního odboru)</li>
+        <li>Ondřej Tůma (správce krajského sdružení)</li>
+      </ul>
+    </div>
+    <div class="columns medium-4">
+      <div class="o-section-header o-section-header--bordered">
+        <h3 class="o-section__heading t-h4-alt">Volební výbor (PKS)</h3>
+      </div>
+      <ul>
+        <li>Blanka Lednická</li>                    
+        <li>Jan Břížďala</li>
+        <li>Eva Nováková</li>
+        <li>Jan Pošvář</li>
+        <li>Pavel Knežik</li>
+      </ul>
+    </div>
+    <div class="columns medium-4">
+      <div class="o-section-header o-section-header--bordered">
+        <h3 class="o-section__heading t-h4-alt">Mediální odbor</h3>
+      </div>
+      <ul>
+        <li>Hana Hajnová (vedoucí MO)</li>                    
+        <li>Jiří Svoboda (zástupce vedoucího MO)</li>
+        <li>Ondřej Tůma</li>
+        <li>Roman Pašek</li>
+        <li>Eva Nováková</li>
+        <li>Viktorie Vidláková</li>
+        <li>Tereza Mašková</li>
+        jirikuvmail@seznam.cz,
+      </ul>
+    </div>
+  </div>
+</div>
+
 <div class="row o-section-block c-emphasized-text">
     <div class="medium-12 large-12 columns">
         <section class="o-section">
@@ -29,7 +75,6 @@ title: Volební štáb
         </section>
     </div>    
 </div>
-
 
 <div class="row o-section-block c-emphasized-text">
     <div class="medium-12 large-12 columns">
