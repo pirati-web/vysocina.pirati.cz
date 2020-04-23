@@ -3,7 +3,7 @@ date: 2020-04-15
 category: blog
 tags: koronavirus zdravotnictví
 layout: post
-title: Komentář Olgy Richterové: Náměstek Prymula přislíbil účast otců u porodu už za dva dny, potvrdí to vláda?
+title: Komentář Olgy Richterové - Náměstek Prymula přislíbil účast otců u porodu už za dva dny, potvrdí to vláda?
 author: Olga Richterová
 authorId:  olga.richerova
 image: posts/2020-04-15-otcove-u-porodu-komentar.jpg
