@@ -21,9 +21,11 @@ Luboš Patkaň, druhý ze čtyř nových asistentů dodává: *“V tuhle chvíl
 
 ---
 
-***Foto***
+**Foto**
 
 [MP Kladno](https://kladenskelisty.cz/119139/kladenska-mestska-policie-hleda-do-svych-rad-dalsi-asistenty-prevence-kriminality/)
+
+---
 
 **Kontakt pro média**
 
