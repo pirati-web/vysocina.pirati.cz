@@ -1,6 +1,6 @@
 ---
 uid: jiri.pykal
-name:     Jiří Pykal
+name: Jiří Pykal
 category:
   - kandidat2018
 description: kandidát v komunálních volbách 2018 - Telč 

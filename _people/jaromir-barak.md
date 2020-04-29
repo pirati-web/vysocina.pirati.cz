@@ -1,6 +1,6 @@
 ---
 uid: jaromir.barak
-name:     Jaromír Barák
+name: Jaromír Barák
 category:
   - clenove
   - mstrebicsko

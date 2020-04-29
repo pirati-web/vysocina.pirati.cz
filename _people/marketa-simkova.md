@@ -1,6 +1,6 @@
 ---
 uid: marketa.simkova
-name:     Markéta Šimková
+name: Markéta Šimková
 category:
   - clenove
 description: členka Krajského sdružení Vysočina

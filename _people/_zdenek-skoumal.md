@@ -1,6 +1,6 @@
 ---
 uid: zdenek.skoumal
-name:     Zdeněk Skoumal
+name: Zdeněk Skoumal
 category:
   - komise
 description: člen výboru - Třebíč

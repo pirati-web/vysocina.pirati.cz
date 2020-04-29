@@ -1,6 +1,6 @@
 ---
 uid: roman.kubat
-name:     Roman Kubát
+name: Roman Kubát
 category:
   - clenove
 description: člen Krajského sdružení Vysočina

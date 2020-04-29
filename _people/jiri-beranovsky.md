@@ -1,6 +1,6 @@
 ---
 uid: jiri.beranovsky
-name:     Jiří Beranovský
+name: Jiří Beranovský
 category:
   - clenove
   - mstrebicsko

@@ -1,6 +1,6 @@
 ---
 uid: viktorie.vidlakova
-name:     Viktorie Vidláková
+name: Viktorie Vidláková
 category:
   - clenove
   - mstrebicsko

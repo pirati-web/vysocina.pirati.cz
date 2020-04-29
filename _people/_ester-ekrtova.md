@@ -1,6 +1,6 @@
 ---
 uid: ester.ekrtova
-name:     Ester Ekrtová
+name: Ester Ekrtová
 category:
   - kandidat2018
 description: kandidát v komunálních volbách 2018 - Telč 

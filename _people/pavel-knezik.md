@@ -1,6 +1,6 @@
 ---
 uid: pavel.knezik
-name:     Pavel Knežik
+name: Pavel Knežik
 category:
   - clenove
   - pks

@@ -1,6 +1,6 @@
 ---
 uid: filip.krska
-name:     Filip Krška
+name: Filip Krška
 category:
   - clenove
   - mstrebicsko

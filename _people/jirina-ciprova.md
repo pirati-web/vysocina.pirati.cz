@@ -1,6 +1,6 @@
 ---
 uid: jirina.ciprova            
-name:     Jiřina Ciprová        
+name: Jiřina Ciprová        
 fullname: Jiřina Ciprová      
 category:                 
   - clenove

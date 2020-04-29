@@ -1,6 +1,6 @@
 ---
 uid: petr.simecek
-name:     Petr Šimeček
+name: Petr Šimeček
 category:
   - clenove
 description: člen Krajského sdružení Vysočina

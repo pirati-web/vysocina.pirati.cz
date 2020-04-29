@@ -1,6 +1,6 @@
 ---
 uid: helena.tomiskova
-name:     Helena Tomíšková
+name: Helena Tomíšková
 category:
   - kandidat2018
 description: kandidát v komunálních volbách 2018 - Telč 

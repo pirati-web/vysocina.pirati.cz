@@ -1,7 +1,7 @@
 ---
 
 uid: dominik.hana             
-name:     Dominik Hána        
+name: Dominik Hána        
 fullname: Dominik Hána        
 category:
   - kandidat2018             

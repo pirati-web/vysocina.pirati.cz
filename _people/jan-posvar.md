@@ -1,6 +1,6 @@
 ---
 uid: jan.posvar
-name:     Jan Pošvář  	# běžně používáné jméno
+name: Jan Pošvář  	# běžně používáné jméno
 titles:
   before:
   after:

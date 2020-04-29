@@ -1,7 +1,7 @@
 ---
 
 uid: vit.zacek             
-name:     Vít Žáček        
+name: Vít Žáček        
 fullname: Vít Žáček       
 category:               
   - clenove

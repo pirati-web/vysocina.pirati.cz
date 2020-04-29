@@ -1,6 +1,6 @@
 ---
 uid: jan.spevacek
-name:     Jan Spěváček
+name: Jan Spěváček
 category:
   - clenove
   - msjihlavsko

@@ -1,6 +1,6 @@
 ---
 uid: petra.kujinek.polodnova
-name:     Petra Kujínek Polodnová
+name: Petra Kujínek Polodnová
 category:
   - clenove
   - mstelcsko

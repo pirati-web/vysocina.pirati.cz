@@ -1,6 +1,6 @@
 ---
 uid: svatava.matuskova
-name:     Svatava Matušková
+name: Svatava Matušková
 category:
   - komise
 description: členka komise - Třebíč

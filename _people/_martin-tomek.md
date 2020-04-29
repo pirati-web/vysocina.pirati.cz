@@ -1,6 +1,6 @@
 ---
 uid: martin.tomek
-name:     Martin Tomek
+name: Martin Tomek
 category:
   - komise
 description: člen komise - Třebíč

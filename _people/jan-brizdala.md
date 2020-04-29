@@ -1,6 +1,6 @@
 ---
 uid: jan.brizdala
-name:     Jan Břížďala
+name: Jan Břížďala
 category:
   - clenove
   - mstrebicsko

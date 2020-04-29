@@ -1,6 +1,6 @@
 ---
 uid: roman.semik
-name:     Roman Šemík
+name: Roman Šemík
 titles:
   before:
   after: 

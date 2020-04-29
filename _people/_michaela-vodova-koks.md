@@ -1,6 +1,6 @@
 ---
 uid: michaela.vodova
-name:     Michaela Vodová      # běžně používáné jméno
+name: Michaela Vodová      # běžně používáné jméno
 titles:
   before: 
   after:

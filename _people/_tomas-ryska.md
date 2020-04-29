@@ -1,7 +1,7 @@
 ---
 
 uid: tomas.ryska       
-name:     Tomáš Ryška    
+name: Tomáš Ryška    
 fullname: Tomáš Ryška     
 category:
   - kandidat2018        

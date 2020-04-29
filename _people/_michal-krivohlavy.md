@@ -1,6 +1,6 @@
 ---
 uid: michal.krivohlavy
-name:     Michal Křivohlavý      # běžně používáné jméno
+name: Michal Křivohlavý      # běžně používáné jméno
 category:
   - clenove
   - mschotebor

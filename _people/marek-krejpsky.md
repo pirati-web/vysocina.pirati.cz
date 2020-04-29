@@ -1,6 +1,6 @@
 ---
 uid: marek.krejpsky
-name:     Marek Křejpský
+name: Marek Křejpský
 category:
   - clenove
   - msjihlavsko

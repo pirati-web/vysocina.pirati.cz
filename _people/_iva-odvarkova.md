@@ -1,6 +1,6 @@
 ---
 uid: iva.odvarkova
-name:     Iva Odvářková
+name: Iva Odvářková
 category:
   - kandidat2018
 description: kandidát v komunálních volbách 2018 - Chotěboř

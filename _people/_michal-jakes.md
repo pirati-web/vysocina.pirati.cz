@@ -1,6 +1,6 @@
 ---
 uid: michal.jakes
-name:     Michal Jakeš
+name: Michal Jakeš
 category:
   - kandidat2018
 description: kandidát v komunálních volbách 2018 - Chotěboř

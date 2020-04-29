@@ -1,6 +1,6 @@
 ---
 uid: michal.salomoun
-name:     Michal Šalomoun
+name: Michal Šalomoun
 category:
   - senat2018
 description: kandidát senátních voleb 2018 Třebíč

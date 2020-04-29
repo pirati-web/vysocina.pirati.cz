@@ -1,7 +1,7 @@
 ---
 
 uid: tomas.bouda            
-name:     Tomáš Bouda        
+name: Tomáš Bouda        
 fullname: Tomáš Bouda        
 category:                    
   - clenove

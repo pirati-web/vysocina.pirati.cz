@@ -1,6 +1,6 @@
 ---
 uid: miroslav.teply
-name:     Miroslav Teplý
+name: Miroslav Teplý
 category:
   - komise
 description: člen komise - Třebíč

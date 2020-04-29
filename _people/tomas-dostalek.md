@@ -1,6 +1,6 @@
 ---
 uid: tomas.dostalek
-name:     Tomáš Dostálek
+name: Tomáš Dostálek
 category:
   - clenove
 description: člen Krajského sdružení Vysočina # zobrazuje se v lide

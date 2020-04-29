@@ -1,6 +1,6 @@
 ---
 uid: milan.dadourek
-name:     Milan Daďourek  	# běžně používáné jméno
+name: Milan Daďourek  	# běžně používáné jméno
 category:
   - clenove
   - kandidat2018

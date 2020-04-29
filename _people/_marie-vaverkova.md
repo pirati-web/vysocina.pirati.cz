@@ -1,6 +1,6 @@
 ---
 uid: marie.vaverkova
-name:     Marie Vaverková
+name: Marie Vaverková
 category:
   - komise
 description: členka komise - Třebíč

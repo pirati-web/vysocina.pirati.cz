@@ -1,6 +1,6 @@
 ---
 uid: vit.sestak
-name:     Vít Šesták
+name: Vít Šesták
 category:
   - komise
 description: člen komise - Třebíč

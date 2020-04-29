@@ -1,6 +1,6 @@
 ---
 uid: tereza.maskova
-name:     Tereza Mašková
+name: Tereza Mašková
 category:
   - clenove
 description: člen Krajského sdružení Vysočina

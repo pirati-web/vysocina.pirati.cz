@@ -1,6 +1,6 @@
 ---
 uid: stepan.voda
-name:     Štěpán Voda
+name: Štěpán Voda
 category:
   - clenove
   - mstrebicsko

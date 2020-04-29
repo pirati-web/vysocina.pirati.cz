@@ -1,6 +1,6 @@
 ---
 uid: ondrej.tuma
-name:     Ondřej Tůma  	# běžně používáné jméno
+name: Ondřej Tůma  	# běžně používáné jméno
 category:
   - clenove
   - rv

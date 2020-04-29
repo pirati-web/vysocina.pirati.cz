@@ -1,6 +1,6 @@
 ---
 uid: marcel.dzurnak
-name:     Marcel Dzurňák
+name: Marcel Dzurňák
 category:
   - komise
 description: člen komise - Třebíč

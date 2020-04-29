@@ -1,6 +1,6 @@
 ---
 uid: ondrej.skvor
-name:     Ondřej Škvor
+name: Ondřej Škvor
 category:
   - clenove
   - mshavlbrod

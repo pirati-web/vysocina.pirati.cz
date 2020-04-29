@@ -1,6 +1,6 @@
 ---
 uid: pavla.marusova
-name:     Pavla Marušová
+name: Pavla Marušová
 category:
   - clenove
 description: členka Krajského sdružení Vysočina

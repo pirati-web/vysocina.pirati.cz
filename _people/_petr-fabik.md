@@ -1,6 +1,6 @@
 ---
 uid: petr.fabik
-name:     Petr Fabík
+name: Petr Fabík
 category:
   - komise
 description: člen komise - Třebíč

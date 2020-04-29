@@ -1,7 +1,7 @@
 ---
 
 uid: vojtech.prchal            
-name:     Vojtěch Prchal       
+name: Vojtěch Prchal       
 fullname: Vojtěch Prchal      
 category:
   - kandidat2018             

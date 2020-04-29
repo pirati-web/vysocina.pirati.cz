@@ -1,6 +1,6 @@
 ---
 uid: martin.kovacka
-name:     Martin Kovačka
+name: Martin Kovačka
 category:
   - kandidat2018
 description: kandidát v komunálních volbách 2018 - Chotěboř

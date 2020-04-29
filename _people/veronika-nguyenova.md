@@ -1,6 +1,6 @@
 ---
 uid: veronika.nguyenova
-name:     Veronika Nguyenová
+name: Veronika Nguyenová
 category:
   - clenove
 description: členka Krajského sdružení Vysočina

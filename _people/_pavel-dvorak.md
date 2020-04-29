@@ -1,6 +1,6 @@
 ---
 uid: pavel.dvorak
-name:     Pavel Dvořák
+name: Pavel Dvořák
 category:
   - kandidat2018
 description: kandidát v komunálních volbách 2018 - Telč 

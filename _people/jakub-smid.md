@@ -1,6 +1,6 @@
 ---
 uid: jakub.smid
-name:     Jakub Šmíd
+name: Jakub Šmíd
 category:
   - clenove
   - mshavlbrod

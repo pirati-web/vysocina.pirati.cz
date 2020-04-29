@@ -1,6 +1,6 @@
 ---
 uid: petr.varbuchta
-name:     Petr Vařbuchta
+name: Petr Vařbuchta
 category:
   - kandidat2018
 description: kandidát v komunálních volbách 2018 - Telč 

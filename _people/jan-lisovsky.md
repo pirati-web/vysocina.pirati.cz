@@ -1,6 +1,6 @@
 ---
 uid: jan.lisovsky
-name:     Jan Lišovský
+name: Jan Lišovský
 category:
   - clenove
 description: člen Krajského sdružení Vysočina

@@ -1,6 +1,6 @@
 ---
 uid: martin.pasek
-name:     Martin Pašek
+name: Martin Pašek
 category:
   - kandidat2018
 description: kandidát v komunálních volbách 2018 - Třebíč

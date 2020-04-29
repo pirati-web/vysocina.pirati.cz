@@ -1,6 +1,6 @@
 ---
 uid: mario.pospisil
-name:     Mario Pospíšil
+name: Mario Pospíšil
 category:
   - clenove
   - mstelcsko

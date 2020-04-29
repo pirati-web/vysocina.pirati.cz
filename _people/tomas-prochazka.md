@@ -1,7 +1,7 @@
 ---
 
 uid: tomas.prochazka             
-name:     Tomáš Procházka        
+name: Tomáš Procházka        
 category:                 
   - clenove
   - mstrebicsko

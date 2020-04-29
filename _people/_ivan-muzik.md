@@ -1,6 +1,6 @@
 ---
 uid:          ivan.muzik
-name:         Ivan Mužík
+name:     Ivan Mužík
 category:
   - clenove
   - mstrebicsko
