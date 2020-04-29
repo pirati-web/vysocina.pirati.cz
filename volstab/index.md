@@ -7,7 +7,7 @@ article-boxes:
   - title: "Krajské volby 2020"
     button:  Kraj středem pozornosti
     url: https://vysocina.pirati.cz/volby/2020-kraj
-    description: Kandidátka Pirátů na Vysočině do krajských voleb 2020. 
+    description: Kandidátka Pirátů na Vysočině do krajských voleb 2020.
 ---
 <div class="pce-hero pce-hero--entry">
     <div class="pce-hero__content">
