@@ -88,7 +88,7 @@ article-boxes:
             </div>      
             <div class="o-section">
               <div class="row">
-                <div class="columns medium-2">
+                <div class="columns medium-3">
                   <div class="o-section-header o-section-header--bordered">
                     <h3 class="o-section__heading t-h4-alt">Bezpečnost</h3>
                   </div>
@@ -98,7 +98,7 @@ article-boxes:
                     <li>Miroslav Vácha</li>
                   </ul>
                 </div>
-                <div class="columns medium-2">
+                <div class="columns medium-3">
                   <div class="o-section-header o-section-header--bordered">
                     <h3 class="o-section__heading t-h4-alt">Zemědělství a ŽP</h3>
                   </div>
@@ -112,7 +112,7 @@ article-boxes:
                     <li>Jakub Šmíd</li>
                   </ul>
                 </div>
-                <div class="columns medium-2">
+                <div class="columns medium-3">
                   <div class="o-section-header o-section-header--bordered">
                     <h3 class="o-section__heading t-h4-alt">Místní rozvoj</h3>
                   </div>
@@ -121,7 +121,7 @@ article-boxes:
                     <li>Hana Hajnová</li>
                   </ul>
                 </div>
-                <div class="columns medium-2">
+                <div class="columns medium-3">
                   <div class="o-section-header o-section-header--bordered">
                     <h3 class="o-section__heading t-h4-alt">Kultura, Cestovní ruch</h3>
                   </div>
@@ -134,8 +134,12 @@ article-boxes:
                     <li>Richard Pospíchal</li>
                     <li>Ondřej Chromý</li>
                   </ul>
-                </div>
-                <div class="columns medium-2">
+                </div>                
+              </div>
+            </div>
+            <div class="o-section">
+              <div class="row">                
+                <div class="columns medium-3">
                   <div class="o-section-header o-section-header--bordered">
                     <h3 class="o-section__heading t-h4-alt">Doprava</h3>
                   </div>
@@ -143,11 +147,7 @@ article-boxes:
                     <li><b>Ondřej Tůma</b></li>
                   </ul>
                 </div>
-              </div>
-            </div>
-            <div class="o-section">
-              <div class="row">                
-                <div class="columns medium-2">
+                <div class="columns medium-3">
                   <div class="o-section-header o-section-header--bordered">
                     <h3 class="o-section__heading t-h4-alt">Otevřený úřad, IT</h3>
                   </div>
@@ -156,7 +156,7 @@ article-boxes:
                     <li>Vojtěch Prchal</li>
                   </ul>
                 </div>
-                <div class="columns medium-2">
+                <div class="columns medium-3">
                   <div class="o-section-header o-section-header--bordered">
                     <h3 class="o-section__heading t-h4-alt">Finance a majetek</h3>
                   </div>
@@ -167,7 +167,7 @@ article-boxes:
                     <li>Viktorie Vidláková</li>                    
                   </ul>
                 </div>
-                <div class="columns medium-2">
+                <div class="columns medium-3">
                   <div class="o-section-header o-section-header--bordered">
                     <h3 class="o-section__heading t-h4-alt">Sociální oblast</h3>
                   </div>
@@ -177,8 +177,12 @@ article-boxes:
                     <li>Irena Bačinová</li>
                     <li>Ladislav Stalmach</li>
                   </ul>
-                </div>
-                <div class="columns medium-2">
+                </div>                
+              </div>            
+            </div>    
+            <div class="o-section">
+              <div class="row">
+                <div class="columns medium-3">
                   <div class="o-section-header o-section-header--bordered">
                     <h3 class="o-section__heading t-h4-alt">Zdravotnictví</h3>
                   </div>
@@ -187,7 +191,7 @@ article-boxes:
                     <li>Marcel Dzurňák</li>
                   </ul>
                 </div>
-                <div class="columns medium-2">
+                <div class="columns medium-3">
                   <div class="o-section-header o-section-header--bordered">
                     <h3 class="o-section__heading t-h4-alt">Školství, vzdělávání, inovace a sport</h3>
                   </div>
@@ -198,8 +202,8 @@ article-boxes:
                     <li>Markéta Šimková</li>
                   </ul>
                 </div>
-              </div>
-            </div>            
+              </div>            
+            </div>  
         </section>
     </div>    
 </div>

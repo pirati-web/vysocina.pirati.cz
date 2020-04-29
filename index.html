@@ -1,9 +1,20 @@
 ---
 layout: default
-rbar: 
+rbar:
    - fb
    - calendar
+article-boxes:
+   - title: "Krajské volby 2020"
+     button:  Kraj středem pozornosti
+     url: https://vysocina.pirati.cz/volby/2020-kraj
+     description: Kandidátka Pirátů na Vysočině do krajských voleb 2020.
 ---
+
+<div class="row">
+	{% if page.article-boxes %}
+		{% include article-box/three-in-row.html article-boxes=page.article-boxes %}
+	{% endif %}
+</div>
 
 <div class="row">
   <div class="medium-12 large-8 columns">
