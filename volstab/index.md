@@ -132,6 +132,73 @@ title: Volební štáb
                 </div>
               </div>
             </div>
+            <div class="o-section">
+              <div class="row">
+                <div class="columns medium-3">
+                  <div class="o-section-header o-section-header--bordered">
+                    <h3 class="o-section__heading t-h4-alt">Doprava</h3>
+                  </div>
+                  <ul>
+                    <li><b>Ondřej Tůma</b></li>
+                  </ul>
+                </div>
+                <div class="columns medium-3">
+                  <div class="o-section-header o-section-header--bordered">
+                    <h3 class="o-section__heading t-h4-alt">Otevřený úřad, IT</h3>
+                  </div>
+                  <ul>
+                    <li><b>Pavel Knežik</b></li>
+                    <li>Vojtěch Prchal</li>
+                  </ul>
+                </div>
+                <div class="columns medium-3">
+                  <div class="o-section-header o-section-header--bordered">
+                    <h3 class="o-section__heading t-h4-alt">Finance a majetek</h3>
+                  </div>
+                  <ul>
+                    <li><b>Ivoš Bártík</b></li>
+                    <li>Jiří Wiche</li>
+                    <li>Petr Kozel</li>
+                    <li>Viktorie Vidláková</li>                    
+                  </ul>
+                </div>
+                <div class="columns medium-3">
+                  <div class="o-section-header o-section-header--bordered">
+                    <h3 class="o-section__heading t-h4-alt">Sociální oblast</h3>
+                  </div>
+                  <ul>
+                    <li><b>Eva Nováková</b></li>
+                    <li>Dan Škarka</li>
+                    <li>Irena Bačinová</li>
+                    <li>Ladislav Stalmach</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="o-section">
+              <div class="row">
+                <div class="columns medium-3">
+                  <div class="o-section-header o-section-header--bordered">
+                    <h3 class="o-section__heading t-h4-alt">Zdravotnictví</h3>
+                  </div>
+                  <ul>
+                    <li><b>Miroslav Vácha</b></li>
+                    <li>Marcel Dzurňák</li>
+                  </ul>
+                </div>
+                <div class="columns medium-3">
+                  <div class="o-section-header o-section-header--bordered">
+                    <h3 class="o-section__heading t-h4-alt">Školství, vzdělávání, inovace a sport</h3>
+                  </div>
+                  <ul>
+                    <li><b>Jan Břížďala</b></li>
+                    <li>Veronika Nguyenová</li>
+                    <li>Marta Kozdas</li>
+                    <li>Markéta Šimková</li>
+                  </ul>
+                </div>                
+              </div>
+            </div>
         </section>
     </div>    
 </div>
