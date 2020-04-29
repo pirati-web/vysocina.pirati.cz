@@ -3,6 +3,11 @@ layout: blank-article
 description:
 keywords:
 title: Volební štáb
+article-boxes:
+  - title: "Krajské volby 2020"
+    button:  Kraj středem pozornosti
+    url: https://vysocina.pirati.cz/volby/2020-kraj
+    description: Kandidátka Pirátů na Vysočině do krajských voleb 2020. 
 ---
 <div class="pce-hero pce-hero--entry">
     <div class="pce-hero__content">
@@ -20,7 +25,7 @@ title: Volební štáb
         <h3 class="o-section__heading t-h4-alt">Volební štáb</h3>
       </div>
       <ul>
-        <li>Roman Pašek</li>                    
+        <li><b>Roman Pašek</b></li>                    
         <li>Hana Hajnová</li>
         <li>Pavel Knežik</li>
         <li>Jan Břížďala</li>
@@ -34,7 +39,7 @@ title: Volební štáb
         <h3 class="o-section__heading t-h4-alt">Volební výbor (PKS)</h3>
       </div>
       <ul>
-        <li>Blanka Lednická</li>                    
+        <li><b>Blanka Lednická</b></li>                    
         <li>Jan Břížďala</li>
         <li>Eva Nováková</li>
         <li>Jan Pošvář</li>
@@ -46,7 +51,7 @@ title: Volební štáb
         <h3 class="o-section__heading t-h4-alt">Mediální odbor</h3>
       </div>
       <ul>
-        <li>Hana Hajnová</li>                    
+        <li><b>Hana Hajnová</b></li>                    
         <li>Jiří Svoboda</li>
         <li>Ondřej Tůma</li>
         <li>Roman Pašek</li>
