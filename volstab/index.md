@@ -176,7 +176,7 @@ keywords:
             </div>    
             <div class="o-section">
               <div class="row">
-                <div class="columns medium-3">
+                <div class="columns medium-6">
                   <div class="o-section-header o-section-header--bordered">
                     <h3 class="o-section__heading t-h4-alt">Zdravotnictví</h3>
                   </div>
@@ -185,7 +185,7 @@ keywords:
                     <li>Marcel Dzurňák</li>
                   </ul>
                 </div>
-                <div class="columns medium-3">
+                <div class="columns medium-6">
                   <div class="o-section-header o-section-header--bordered">
                     <h3 class="o-section__heading t-h4-alt">Školství, vzdělávání, inovace a sport</h3>
                   </div>
