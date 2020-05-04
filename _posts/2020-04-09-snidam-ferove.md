@@ -1,15 +1,15 @@
 ---
-date: 2020-04-09
+date: 2020-05-04
 category: blog
-tags: fair-trade místní pěstitelé Havlíčkův-Brod 
+tags: fair-trade zemědělství Havlíčkův-Brod 
 layout: post
-title: Květnová Férová snídaně nejenom v Havlíčkově Brodě
+title: Pojďte s námi v sobotu snídat férově
 author: Jiří Svoboda
 authorId:  jiri.svoboda.hb
 image: posts/2020-04-09-snidam-ferove.jpg
 ---
 
-*Havlíčkův Brod, 9. dubna 2020* - Havlíčkobrodští Piráti budou přesně za měsíc v sobotu 9. května snídat férově za podporu pěstitelů. V rámci akce Férová snídaně budeme v Havlíčkově Brodě a okolí podporovat naše lokální, ale i globální pěstitele. Nyní však kvůli koronavirové pandemii v trochu obměněné podobě.
+*Havlíčkův Brod, 5. května 2020* - Havlíčkobrodští Piráti budou tuto sobotu 9. května snídat férově. A vy se můžete připojit také. V rámci akce Férová snídaně budeme v Havlíčkově Brodě a okolí podporovat naše lokální, ale i globální pěstitele. Nyní však kvůli koronavirové pandemii v trochu obměněné podobě.
 
 Férová snídaně je název projektu organizace NaZemi, která se už od roku 2011 pořádá jako oslava Světového dne pro fair trade (World fair trade day). Koncept pikniku, který v sobě spojuje setkání lidí, seznámení s lokálními a fairtradeovými dobrotami a podporou pěstitelů se slaví každoročně, vždy druhou květnovou sobotu.
 
