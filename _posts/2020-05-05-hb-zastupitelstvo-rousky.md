@@ -21,6 +21,10 @@ Došlo tradičně i na informace o stavbě jihovýchodního obchvatu města. Pir
 
 Na příštím jednání zastupitelstva pak pravděpodobně přijde na přetřes otázka ohledně využití chátrajícího objektu obchodní akademie.
 
+Jak to na jednání vypadalo, se můžete podívat ve videu:
+
+```{% raw %}{% include youtube.html id='XKfEFs7qp8A' %}{% endraw %}```
+
 ---
 
 **Kontakt pro média**
