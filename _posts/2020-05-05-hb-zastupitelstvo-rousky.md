@@ -23,9 +23,7 @@ Na příštím jednání zastupitelstva pak pravděpodobně přijde na přetřes
 
 Jak to na jednání vypadalo, se můžete podívat ve videu:
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_XKfEFs7qp8A/0.jpg)](http://https://www.youtube.com/watch?v=XKfEFs7qp8A)
-
-{% include youtube.html id='XKfEFs7qp8A' %}
+[![HB ZASTUPITELSTVO](assets/img/posts/2020-05-05-hb-zastupitelstvo-rousky.jpg)](http://https://www.youtube.com/watch?v=XKfEFs7qp8A)
 
 ---
 
