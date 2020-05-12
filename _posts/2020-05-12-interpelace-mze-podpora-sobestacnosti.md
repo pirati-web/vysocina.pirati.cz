@@ -3,7 +3,7 @@ date: 2020-05-12
 category: blog
 tags: zemědělství finance koronavirus 
 layout: post
-title: KPiráti se ptají, jak rozdělí Ministerstvo zemědělství 4,3 miliardy korun na podporu soběstačnosti
+title: Piráti se ptají, jak rozdělí Ministerstvo zemědělství 4,3 miliardy korun na podporu soběstačnosti
 author: Redakce
 authorId:  
 image: posts/2020-05-12-interpelace-mze-podpora-sobestacnosti.jpg
