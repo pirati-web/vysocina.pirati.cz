@@ -1,7 +1,7 @@
 ---
 date: 2020-02-04
 category: blog
-tags: TENISCENTRUM Jihlava Vojtěch-Prchal Žijeme-Jihlavou
+tags: TENISCENTRUM Jihlava Žij!
 layout: post
 title: TENISCENTRUM JIHLAVA si zvolilo nové představenstvo, v jeho čele stojí zastupitel Vojtěch Prchal
 author: Hana Hajnová
