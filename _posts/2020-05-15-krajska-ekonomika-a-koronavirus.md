@@ -17,7 +17,7 @@ Jak taková krajská podpora může vypadat? Jedním z opatření je výrazně n
 
 Dalším opatřením by měla být přímá finanční pomoc malým a středním podnikatelům v kraji, kteří jsou páteří regionální ekonomiky. Klíčovým prvkem by měla v tomto případě být jednoduchost a dostupnost žádosti, aby se pomoci dostalo každému podnikateli, který ji opravdu potřebuje. Pro krajskou (ale i státní) ekonomiku je mnohem výhodnější, když i drobný podnikatel dostane finanční dotaci na to, aby mohl v podnikání dále pokračovat, než když skončí na úřadu práce. Zapomínat by se nemělo ani na podporu startu podnikání. 
 
-A v neposlední řadě by kraj měl k celé krizi přistupovat i jako k příležitosti – zhodnotit svoje silné a slabé stránky a zaměřit se na podporu v těch částech krajské ekonomiky, které dokáží přinášet dlouhodobě přidanou hodnotu. Je to jeden z nástrojů, jak posilovat obranyschopnost regionálního ekosystému nejen v časech krize. Vysočina by měla opustit úzkou profilaci na jeden klíčový obor a začít hledat příležitosti a svoje silné stránky i v jiných oblastech. A příležitost začít je právě teď. Protože budoucnost řešíme teď. 
+A v neposlední řadě by kraj měl k celé krizi přistupovat i jako k příležitosti – zhodnotit svoje silné a slabé stránky a zaměřit se na podporu v těch částech krajské ekonomiky, které dokáží přinášet dlouhodobě přidanou hodnotu. Je to jeden z nástrojů, jak posilovat obranyschopnost regionálního ekosystému nejen v časech krize. Vysočina by měla opustit úzkou profilaci na jeden klíčový obor a začít hledat příležitosti a svoje silné stránky i v jiných oblastech. A příležitost začít je právě teď. Protože [budoucnost řešíme teď](https://budoucnostresimeted.cz). 
 
 ---
 
