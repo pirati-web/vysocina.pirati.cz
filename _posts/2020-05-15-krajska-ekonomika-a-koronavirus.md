@@ -23,6 +23,7 @@ A v neposlední řadě by kraj měl k celé krizi přistupovat i jako k příle�
 
 ***Odkazy***
 
+[Budoucnost řešíme teď](https://budoucnostresimeted.cz) - pirátský plán pro obnovu ekonomiky
 [Hana Hajnová](https://vysocina.pirati.cz/lide/hana-hajnova/)
 
 
