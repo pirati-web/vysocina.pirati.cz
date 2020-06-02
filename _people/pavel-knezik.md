@@ -4,13 +4,13 @@ name: Pavel Knežik
 category:
   - clenove
   - pks
-ordpks: 5
-description: 4. místopředseda Krajského sdružení Vysočina
+ordpks: 4
+description: 3. místopředseda Krajského sdružení Vysočina
 img: people/pavel-knezik.jpg
 mail:
   - pavel.knezik@pirati.cz
 profiles:
-  
+
 ---
 
 Pavel Knežik (19. října 1979 Čadca, SR) od útlého věku jsem vyrůstal na Vysočině, konkrétně město Pelhřimov (Starý Pelhřimov) kde žiji do teď.

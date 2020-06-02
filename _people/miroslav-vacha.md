@@ -3,8 +3,10 @@ uid: miroslav.vacha
 name: Miroslav Vácha
 category:
   - clenove
+  - pks
   - mstelcsko
-description: člen Místního sdružení Telčsko
+ordpks: 5
+description: 4. místopředseda Krajského sdružení Vysočina
 profession: zdravotnický záchranář
 img: people/miroslav-vacha.jpg
 mail:

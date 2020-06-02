@@ -8,14 +8,14 @@ category:
   - clenove
   - pks
   - poslanec
-ordpks: 4
-description: 3. místopředseda Krajského sdružení Vysočina # zobrazuje se v lide
+ordpks: 3
+description: 2. místopředseda Krajského sdružení Vysočina # zobrazuje se v lide
 profession: poslanec
 img: people/jan-posvar.jpg
 mail:
   - jan.posvar@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/ArAx666 
+  facebook: https://www.facebook.com/ArAx666
 ---
 
 Bc. Jan Pošvář (16. května 1985, Kamenice nad Lipou) je místopředsedou
@@ -37,5 +37,4 @@ V současnosti žije v Havlíčkově Brodě.
 
 Zajímá se o historii, přírodu, lidská práva, politiku, informační
 technologie a informační podporu krizového řízení. Ve volném čase
-programuje. 
-
+programuje.
