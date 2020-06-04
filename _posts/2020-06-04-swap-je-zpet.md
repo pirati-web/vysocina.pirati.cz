@@ -1,9 +1,9 @@
 ---
 date: 2020-06-04
 category: blog
-tags: SWAP Jihlava
+tags: SWAP Jihlava Pelhřimov
 layout: post
-title: SWAP je zpátky! Po korona-odmlce můžete přijít vyměnit své věci za jiné do Jihlavy nebo Pelhřimova
+title: SWAP je zpátky. Po korona-odmlce můžete přijít vyměnit své věci za jiné do Jihlavy nebo Pelhřimova
 author: Hana Hajnová
 authorId:  hana.hajnova
 image: 2020-06-04-swap-je-zpet.png
@@ -16,14 +16,14 @@ Pokud jste dvouměsíční pauzu s karanténou využili k domácímu úklidu a v
 Zda je potřeba připravit se na nějaká omezení, odpověděla hlavní organizátorka jihlavského swapu Blanka Lednická: *„Abychom vyhověli zvýšeným hygienickým požadavkům, rozprostřeme tentokrát donesené věci v Jihlavském pirátském centru do více místností včetně chodby tak, aby bylo možné dodržovat rozestupy mezi jednotlivými návštěvníky. Zároveň bude k dispozici dezinfekce a prosíme všechny účastníky, pokud se nebudou zdravotně cítit úplně dobře, aby zvážili svou účast.“*
 
 Hlavní organizátorkou pelhřimovského swapu je Tereza Mašková, členka místního pirátského sdružení, která se svými kolegy plánovala na úspěch jihlavského swapu navázat už březnu. *„Ano, je to tak, první swap jsme plánovali na 30. března letošního roku, ale kvůli vyhlášení nouzového stavu jsme ho museli zrušit. Doufám, že na druhý pokus už to vyjde a lidé si k nám najdou cestu,“* uvedla Mašková. Podle projeveného zájmu a počtu účastníků také vyhodnotí, v jakém intervalu se pelhřimovské swapy budou konat. Současný plán je pořádat výměnný bazar jednou za čtvrt roku. *„Zatím se musí návštěvníci připravit na omezení v podobě vstupu s rouškou a dezinfekce rukou, kterou samozřejmě na místě zajistíme,“* doplnila Mašková. 
-
- 
  
 ---
 
 **Odkazy**
 
-[Facebooková událost](https://www.facebook.com/events/188801052533574/)
+[Facebooková událost Jihlava](https://www.facebook.com/events/979687649154633/)
+
+[Facebooková událost Pelhřimov](https://www.facebook.com/events/1387453244776615/)
 
 ---
 
