@@ -18,6 +18,7 @@ Praha, 3. června 2020 – Piráti dnes ve druhém čtení předložili návrh, 
 Výši kompenzací už dříve Pošvář i ochránci zvířat kritizovali. Sama poslankyně Balaštíková dříve uvedla, že výše kompenzací stát zruinuje. Pošvář proto vyslovil domněnku, že kompenzace jsou zástěrkou pro to, aby došlo k zabránění zákazu klecových chovů, který je součástí návrhu. Předražené kompenzace mohou být strašákem, který zabrání dalšímu zpřísňování ochrany zvířat, které se nelíbí zejména zemědělským koncernům.
 
 Návrh byl podán v rámci druhého čtení novely zákona o ochraně týrání proti zvířatům. Pirátští poslanci a poslankyně Dana Balcarová, Jan Pošvář a František Elfmark podali celkem 16 pozměňovacích návrhů, ve kterých se zaměřují na zákaz klecových chovů a dalších opatření ke zlepšení života hospodářských zvířat, lepší možnosti odhalovat nelegální množírny, či omezují mrzačení ptáků.
+
 ---
 
 **Odkazy**
