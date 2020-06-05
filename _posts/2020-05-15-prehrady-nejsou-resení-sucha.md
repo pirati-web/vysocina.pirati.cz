@@ -3,7 +3,7 @@ date: 2020-05-15
 category: blog
 tags: sucho zemědělství 
 layout: post
-title: Přehrady sucho neřešeší. Zdravá krajina ano!
+title: Přehrady sucho nevyřeší. Zdravá krajina ano!
 author: Blanka Lednická
 authorId:  blanka.lednicka
 image: posts/2020-05-15-prehrady-nejsou-resení-sucha.jpg
