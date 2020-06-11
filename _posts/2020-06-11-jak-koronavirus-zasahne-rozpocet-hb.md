@@ -27,6 +27,8 @@ Vzhledem k neustále se měnícím odhadům budoucích příjmů jsou města ve 
 
 V úterý schválený příspěvek pro obce ve výši 1.200 korun na obyvatele jako kompenzace za nižší příjmy z daní pokryje jen část předpokládaného výpadku příjmů. Určitě bychom ocenili i nástroje, které by aktivně podpořili ekonomiku a ochotu domácností více utrácet, aby se dařilo křivku daňových příjmů zvednout i touto cestou. 
 
+Jiří Wiche, <jiri.wiche@pirati.cz>, člen Finančního výboru města Havlíčkův Brod
+
 ---
 
 **Kontakt pro média**
