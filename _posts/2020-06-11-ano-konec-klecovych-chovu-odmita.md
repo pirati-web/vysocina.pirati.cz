@@ -16,6 +16,7 @@ Novela zákona na ochranu zvířat proti týrání je sledovanou novelou, která
 Další paradoxní situace nastala u pozměňovacího návrhu o vazném ustájení. Výbor schválil návrh, že je správné zakázat vazné ustájení skotu, ale zároveň jej zachoval u koní. Pirátští poslanci hlasovali proti a podpořili můj pozměňovací návrh, který zakazuje vazné ustájení od roku 2030 bez výjimek.
 
 V tomtéž tisku výbor podpořil můj pozměňovací návrh, který navrhuje reálné kompenzace pro majitele kožešinových farem a napravuje tak návrh ANO ovlivněný lobbisty s přemrštěnými částkami. Mnou navržená výše kompenzací vychází z posouzení tržní hodnoty kožek na světových aukcích z roku 2016, kdy trh ještě nebyl ovlivněn zákazem. Odpočteny jsou srovnatelné náklady na odchování jednoho zvířete. Navrhovaný příspěvek dále pokrývá odhadovanou výši průměrných nákladů spojených s ukončením chovu.
+
 ---
 
 **Odkazy**
