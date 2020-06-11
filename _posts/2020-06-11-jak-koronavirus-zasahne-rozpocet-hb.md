@@ -6,7 +6,7 @@ layout: post
 title: Jak zasáhne koronavirus do rozpočtu Havlíčkova Brodu?
 author: Jiří Wiche
 authorId:  jiri.wiche
-image: posts/2020-06-11-jak-koronavirus-zasahne-rozpocet-hb.jpg
+image: posts/2020-06-11-jak-koronavirus-zasahne-rozpocet-hb.jpg	
 ---
 
 *Havlíčkův Brod, 11. června 2020* - 26. května se na havlíčkobrodské radnici konal Finanční výbor zastupitelstva města, který měl na programu mimo jiné bod o předpovědích vývoje daňových příjmů na roky 2020 a 2021 v souvislosti s dopady nákazy COVID 19. Kromě mediálně známé spoluúčasti měst či obcí na kompenzačním bonusu pro podnikatele, se můžeme obávat i poklesu samotných sdílených daní.
