@@ -8,4 +8,4 @@ profession: truhlář
 img: people/petr-holecek.jpg
 ---
 
-Petr Holeček
+Petr Holeček pracuje jako truhlář. Mezi jeho zájmy patří práce se dřevem, rodina a příroda. Petr je ženatý a má 2 děti.
