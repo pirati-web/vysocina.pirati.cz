@@ -3,10 +3,10 @@ date: 2020-05-15
 category: blog
 tags: sucho zemědělství 
 layout: post
-title: Přehrady sucho neřešeší. Zdravá krajina ano!
+title: Přehrady sucho nevyřeší. Zdravá krajina ano!
 author: Blanka Lednická
 authorId:  blanka.lednicka
-image: posts/2020-05-15-prehrady-nejsou-resení-sucha.jpg
+image: posts/2020-05-15-prehrady-nejsou-resení-sucha-smaller.jpg
 ---
 
 *Olešná u Havlíčkova Brodu, 15. května 2020* - Potřebujeme nové vodní nádrže? 
@@ -14,6 +14,10 @@ image: posts/2020-05-15-prehrady-nejsou-resení-sucha.jpg
 Přehrady mají v současné situaci rozhodně své místo, protože slouží k zajištění zásobování obyvatelstva pitnou vodou. 
 
 Nové přehrady, o kterých začalo tento týden „básnit“ ministerstvo zemědělství, ale nejsou tím správným řešením problému prohlubujícího se sucha. Přehrady pro zádrž vody v krajině nefungují, protože když je sucho, tak je sucho i v těch přehradách. Navíc ministerstvo nově plánuje vodní nádrže i do míst, kde může dojít k poškození vzácných lokalit (např. Holštejn v Moravském krasu). 
+
+
+![Dešťovka koloběh](https://zemedelstvi.pirati.cz/assets/img/posts/2020-05-15-prehrady-nejsou-resení-sucha.jpg)
+
 
 Pojďme peníze, určené na tyto projekty, použít na řešení problémů naší krajiny a toho, aby byla schopna zadržet vodu a ta z ní zbytečně neodtékala. 
 
