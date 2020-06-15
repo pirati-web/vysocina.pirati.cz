@@ -7,4 +7,4 @@ profession:
 img: people/zuzana-titzova.jpg
 ---
 
-Podporovatelka pirátské politiky, duše Krasohledů a lektorka Chaloupek.
+Podporovatelka pirátské politiky, duše Krasohledů a lektorka Chaloupek. 
