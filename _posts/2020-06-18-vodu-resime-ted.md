@@ -9,7 +9,7 @@ authorId:
 image: posts/2020-06-18-vodu-resime-ted.jpg
 ---
 
-*18. června 2020, Praha* – Piráti představili před mimořádnou schůzí Sněmovny ohledně sucha svůj třífázový plán „Vodu řešíme teď“. Ten přináší celou řadu ucelených návrhů, jak se v Česku vypořádat s extrémními projevy změny klimatu. Řešení jsou rozdělena do čtyř tematických sekcí: dostupná a kvalitní pitná voda, zdravá krajina, živá i udržitelná města a motivovaný hospodář. V souladu s těmito záměry předloží Piráti na plénu také konkrétní legislativní návrhy, které mají za cíl zlepšit současný stav.
+*18. června 2020, Praha* – Piráti představili před mimořádnou schůzí Sněmovny ohledně sucha svůj třífázový plán [„Vodu řešíme teď“](https://voda.pirati.cz). Ten přináší celou řadu ucelených návrhů, jak se v Česku vypořádat s extrémními projevy změny klimatu. Řešení jsou rozdělena do čtyř tematických sekcí: dostupná a kvalitní pitná voda, zdravá krajina, živá i udržitelná města a motivovaný hospodář. V souladu s těmito záměry předloží Piráti na plénu také konkrétní legislativní návrhy, které mají za cíl zlepšit současný stav.
 
 *„Některé české obce se ještě ani nevzpamatovaly z víkendových lokálních povodní a už nás čekají další tři dny vydatných dešťů. Přitom 40 až 100 centrimetrů pod zemí stále převládá kritické půdní sucho a hladina podzemních vod je hluboce pod normálem. Vláda bohužel situaci neřeší. I proto jsme za Piráty podpořili mimořádnou schůzi k suchu, která se bude zabývat legislativou v oblasti hospodaření a ochrany vody i schopností krajiny vodu zadržovat. Stejně tak jsme připravili plán na boj s klimatickými změnami a v souvislosti s ním představíme ve Sněmovně pět pozměňovacích návrhů ke zlepšení situace,“* popsala pirátská poslankyně Dana Balcarová, která působí jako předsedkyně Výboru pro životní prostředí.
 
@@ -33,6 +33,8 @@ Třetí pilíř „živá a udržitelná města“ popsal pirátský poslanec Fr
 
 [Pirati pracují](https://piratipracuji.cz)
 
+[Vodu řešíme teď](https://voda.pirati.cz)
+ 
 ---
 
 **Kontakt pro média**
