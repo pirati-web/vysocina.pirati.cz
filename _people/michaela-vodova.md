@@ -7,10 +7,8 @@ titles:
 category:
   - clenove
   - mstrebicsko
-  - kodo
-  - kontaktni_osoba
-description: koordinátorka Krajského sdružení Vysočina
-profession: OSVČ, koordinátorka Krajského sdružení Vysočina
+description: členka KS Vysočina
+profession: sociální pracovnice
 img: people/michaela-vodova.jpg
 mail:
   - michaela.vodova@pirati.cz
