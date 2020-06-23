@@ -8,8 +8,6 @@ perex: Životní prostředí sdílíme všichni a na jeho stavu závisí i naše
 order: 1
 ---
 
-## Vysočina živá
-
 **Životní prostředí sdílíme všichni a na jeho stavu závisí i naše svoboda. Znečištěné ovzduší omezí naši svobodu vycházet. Důsledkem znečištěné půdy bude omezení pitné vody. Vyrazíme ven a budeme hledat místa, příležitosti a opatření, která pomohou zlepšit nakládání s vodou v naší krajině i ve městech.**
 
 **Zdravá příroda je důležitější než peníze. Budeme účinně předcházet podobným kalamitám, jako je ta kůrovcová. Úrodnou půdu zachováme pro naše děti. Blíže k přírodě budeme i díky využití nových technologických inovací. Budeme rádi, když se k této cestě připojíte.**
