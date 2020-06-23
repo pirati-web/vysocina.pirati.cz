@@ -10,6 +10,10 @@ order: 1
 
 ## Vysočina živá
 
+**Životní prostředí sdílíme všichni a na jeho stavu závisí i naše svoboda. Znečištěné ovzduší omezí naši svobodu vycházet. Důsledkem znečištěné půdy bude omezení pitné vody. Vyrazíme ven a budeme hledat místa, příležitosti a opatření, která pomohou zlepšit nakládání s vodou v naší krajině i ve městech.**
+
+**Zdravá příroda je důležitější než peníze. Budeme účinně předcházet podobným kalamitám, jako je ta kůrovcová. Úrodnou půdu zachováme pro naše děti. Blíže k přírodě budeme i díky využití nových technologických inovací. Budeme rádi, když se k této cestě připojíte.**
+
 ### Prolomíme sucho
 * Sucho je jedním z největších současných problémů, který ovlivňuje životy nás všech. Zaměříme se na obnovu malého vodního oběhu. Díky tomu Vysočina zůstane úrodným krajem se zdroji pitné vody.
 * V krajinném plánování využijeme nejnovější vědecké poznatky, třeba model Zdoňov pro obnovu hydrologického režimu krajiny. Díky tomu obohatíme náš kraj o dvojnásobné množství vody, než zadrží nejobjemnější česká přehrada Orlík.
