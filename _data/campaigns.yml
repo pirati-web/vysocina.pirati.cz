@@ -3,9 +3,9 @@
 # --------------
 
 - groupUid: 2020vys
-  title: Krajské volby 2020
+  title: Program
   campaigns:
-    - title: Vysočina
+    - title: Krajské volby 2020
       categoryUid: 2020vys
 
 # --------------
