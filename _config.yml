@@ -19,13 +19,13 @@ administrator:
 organization:
   name: Krajské sdružení Vysočina
   shortName: Krajské sdružení Vysočina
-  contactUid: michaela.vodova
-  email: michaela.vodova@pirati.cz
-  phone: +420 602 276 233
-  address: 
+  contactUid: roman.pasek
+  email: roman.pasek@pirati.cz
+  phone: +420 734 507 329
+  address:
     Matky Boží 9,
     Jihlava
-  residenceImg:
+  residenceImg: https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/jipice/jipice_header.jpg
   mapLink: https://goo.gl/maps/uCjxZoD47N82
   redmineLink: https://redmine.pirati.cz/projects/kraj-vysocina/issues/new
   # dataBoxId: b2i4r6j
