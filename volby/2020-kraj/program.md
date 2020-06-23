@@ -1,5 +1,5 @@
 ---
-layout: volby-kraj
+layout: volby-kraj-program
 title: Kraj středem pozornosti
 description: Členové a příznivci jsou to dělá Českou pirátskou stranu silnou. Seznamte se Piráty na Vysočině.
 keywords: program, kraj, krajské volby, volby, piráti, vysočina
