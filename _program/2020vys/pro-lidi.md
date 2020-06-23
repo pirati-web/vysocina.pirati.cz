@@ -1,6 +1,6 @@
 ---
 title: Vysočina pro lidi
-uid: lidi
+uid: pro-lidi
 campaignCategoryUid: 2020vys
 campaignGroupUid: 2020vys
 garant: hana.hajnova
