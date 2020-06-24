@@ -3,7 +3,7 @@ title: Vysočina bezpečná
 uid: bezpecna
 campaignCategoryUid: 2020vys
 campaignGroupUid: 2020vys
-garant:
+garant: pavel.knezik
 perex1: Vnímáme Vysočinu jako bezpečné místo pro život. Takové místo bychom rádi předali i našim dětem. Našimi prioritami jsou informovanost, prevence místo represe i podpora spolkového života v místních komunitách. Právě dobré sousedské vztahy jsou mnohdy funkčnějším řešením než úřední mechanismy.
 perex2: Zločinu je lépe předcházet, než ho trestat. Zaměříme se na systematickou prevenci kriminality ve všech oblastech života. Nedílnou prioritou bude podpora integrovaného záchranného systému, včetně koordinace s dobrovolnými hasiči a krajskými krizovými centry.
 order: 11
