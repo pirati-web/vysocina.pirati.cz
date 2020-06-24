@@ -6,7 +6,7 @@ layout: post
 title: Kraj středem pozornosti - Piráti na Vysočině představili volební program pro letošní krajské volby  
 author: Redakce
 authorId:  
-image: posts/2020-06-24-kraj-stredem-pozornosti.jpg	
+image: posts/2020-06-24-kraj-stredem-pozornosti.JPG	
 ---
 
 Jihlava, 24. června 2020 - Čelní kandidáti Pirátské strany na Vysočině dnes na tiskové konferenci představili své programové priority, se kterými se budou ucházet o přízeň voličů v podzimních krajských volbách. Ty se uskuteční 2. a 3. října a Pirátská strana na Vysočině do nich sestavila samostatnou pirátskou kandidátku.
