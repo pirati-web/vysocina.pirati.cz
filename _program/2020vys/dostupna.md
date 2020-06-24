@@ -3,7 +3,7 @@ title: Vysočina dostupná
 uid: dostupna
 campaignCategoryUid: 2020vys
 campaignGroupUid: 2020vys
-garant:
+garant: ondrej.tuma
 perex1: Dostupná a kvalitní doprava by měla být základem dobře fungujícího kraje. Kraj Vysočina, to není jen dálnice a tranzitní doprava. Region potřebuje dobrou dopravní obslužnost i do té nejmenší obce. Vnímáme jako klíčové, aby se děti dostaly bezpečně do školy i jiným dopravním prostředkem, než autem. Chceme regionální silnice bez děr a výmolů.
 perex2: Budování vysokorychlostní infrastruktury je velkou příležitostí pro Vysočinu a její obyvatele. Aktivně se zasadíme o to, aby se Vysočina této příležitosti chopila a naši občané měli možnost ji využívat. Velkou výzvou je pro nás napojení vysokorychlostní tratě na dopravu v kraji tak, aby byla dostupná i z okrajových oblastí.
 order: 6
