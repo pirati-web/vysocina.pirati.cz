@@ -17,17 +17,17 @@ Piráti budou během jednání s premiérem také požadovat, aby bylo jasně do
 
 Příští týden proto Piráti předloží premiérovi seznam požadavků a návrhů, jak záměr dostavby zefektivnit a zprůhlednit. Žádají:
 
-Zpracovat aktualizaci Státní energetické koncepce a předložit detailní výhledy bilancí v energetice, včetně závěrů Uhelné komise ještě před podpisem smlouvy s vítězem výběrového řízení, aby byla zřejmá skutečná potřebnost projektu.
-
-> 1. Aby se investorem stala firma 100% vlastněná státem.
+> 1. Zpracovat aktualizaci Státní energetické koncepce a předložit detailní výhledy bilancí v energetice, včetně závěrů Uhelné komise ještě před podpisem smlouvy s vítězem výběrového řízení, aby byla zřejmá skutečná potřebnost projektu.
 >
-> 2. Pokud bude nutná provozní podpora projektu, měla by být kompenzována skrze státní rozpočet a ne peněženky koncových odběratelů. Stavba jaderného zdroje není tržně ekonomickým, ale strategickým rozhodnutím státu. Uvažované formy státní podpory musí projít řádným procesem notifikace Evropskou komisí.
+> 2. Aby se investorem stala firma 100% vlastněná státem.
 >
-> 3. Poptávka musí být maximálně transparentní, technologicky neutrální a otevřena maximálnímu počtu možných dodavatelů, avšak s přihlédnutím k bezpečnostním zájmům státu.
+> 3. Pokud bude nutná provozní podpora projektu, měla by být kompenzována skrze státní rozpočet a ne peněženky koncových odběratelů. Stavba jaderného zdroje není tržně ekonomickým, ale strategickým rozhodnutím státu. Uvažované formy státní podpory musí projít řádným procesem notifikace Evropskou komisí.
 >
-> 4. Vláda představí schéma podpory s časovým výhledem 10 let na podporu výzkumu a vývoje malých modulárních reaktorů a dalších jaderných technologií.
+> 4. Poptávka musí být maximálně transparentní, technologicky neutrální a otevřena maximálnímu počtu možných dodavatelů, avšak s přihlédnutím k bezpečnostním zájmům státu.
 >
-> 5. Zpracovat komplexní LCA/CBA analýzu projektu a ohodnocení a nacenění závazku státu vůči investorovi.
+> 5. Vláda představí schéma podpory s časovým výhledem 10 let na podporu výzkumu a vývoje malých modulárních reaktorů a dalších jaderných technologií.
+>
+> 6. Zpracovat komplexní LCA/CBA analýzu projektu a ohodnocení a nacenění závazku státu vůči investorovi.
 
 ***[Dokument Budoucnost jaderné energetiky v ČR](https://www.pirati.cz/assets/pdf/budoucnost-je-cr.pdf)***
 
