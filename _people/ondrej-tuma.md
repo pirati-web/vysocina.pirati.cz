@@ -11,6 +11,8 @@ profession: správce JiPiCe
 img: people/ondrej-tuma.jpg
 mail:
   - ondrej.tuma@pirati.cz
+mob:
+  - 770 113 639
 profiles:
   facebook: https://www.facebook.com/ondra.tuma.1
   twitter: https://twitter.com/pantrumpetka  
