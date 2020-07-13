@@ -3,7 +3,7 @@ date: 2020-07-13
 category: blog
 tags: Třebíč kultura
 layout: post
-title: Komentář Romana Paška - Kulturní akce v Třebíči nesmí dělat pouze jeden pořadatel
+title: Komentář Romana Paška - Kulturní akce v Třebíči na louce nesmí dělat pouze jeden pořadatel
 author: Roman Pašek
 authorId: roman.pasek
 image: posts/2020-07-13-kultura-trebic.jpg
