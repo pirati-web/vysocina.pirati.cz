@@ -9,7 +9,7 @@ authorId:
 image: posts/2020-07-21-dostavba-dukovan-kontrola-mocnych.jpg
 ---
 
-*Praha, 20. července 2020* – Výstavba nového bloku Dukovan má stát okolo 160 miliard korun. Smlouvy takto zásadního projektu jsou však připravovány bez možnosti kontroly veřejnosti. Vláda neřeší ani potřebnost projektu a hrozí, že dopadne jako kauza solárních baronů. Piráti se STAN opětovně vyzývají vládu k uveřejnění materiálu. Dostavba představuje riziko pro bezpečnost státu i peněženky občanů.
+*Praha, 20. července 2020* – ***Výstavba nového bloku Dukovan má stát okolo 160 miliard korun. Smlouvy takto zásadního projektu jsou však připravovány bez možnosti kontroly veřejnosti. Vláda neřeší ani potřebnost projektu a hrozí, že dopadne jako kauza solárních baronů. Piráti se STAN opětovně vyzývají vládu k uveřejnění materiálu. Dostavba představuje riziko pro bezpečnost státu i peněženky občanů.***
 
 *„Výstavba nového bloku Dukovan má stát nejméně 160 miliard korun. Plán vlády na její realizaci je přitom podle dostupných informací zcela nedomyšlený. Chybí i kvalifikované odhady, kolik budou lidé dávat jako příplatek v platbách za elektřinu, což je klíčové pro cenu energií. Smlouvy mezi státem a ČEZ jsou připravovány v utajovaném režimu, a to znemožňuje řádnou kontrolu občany. Piráti opakovaně žádali o odtajnění těchto smluv, osobně jsem k tomu i vyzval dopisem pana premiéra – ovšem bez reakce. Máme obavy, aby to celé nedopadlo fiaskem jako u solárních elektráren,“* varoval předseda Pirátů Ivan Bartoš.
 
@@ -24,6 +24,7 @@ Před bezpečnostními riziky pro Českou republiku pak varoval předseda STAN V
 *„Pro Piráty má znalostní ekonomika zásadní význam, dlouhodobě usilujeme o to, aby bylo Česko mozkovnou a ne montovnou. Uvědomujeme si, že v oblasti jádra máme velmi vysoké know-how i vliv v mezinárodních institucích, jedná se také o dobrý exportní artikl. Jaderná energetika je rovněž významnou součástí energetického mixu Česka. Při odklonu energetiky od uhlí je tak nutné potenciál jádra plně využít a zajistit energetickou bezpečnost. Chceme proto mimo jiné, aby vláda jasně deklarovala, jak se bude stavět k rozvoji malých jaderných reaktorů a představila desetileté schéma financování jaderného výzkumu,“* uzavřel poslanec.
 
 Podrobný seznam požadavků Pirátů a STAN naleznete [zde](https://www.pirati.cz/assets/pdf/Po%C5%BEadavky%20na%20vl%C3%A1du_Dukovany.pdf).
+
 ---
 
 **Kontakt pro média**
