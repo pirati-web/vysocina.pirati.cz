@@ -1,13 +1,8 @@
-# example.pirati.cz
-
-
-
-Tento web slouží jako výchozí stanice pro tvorbu dalších webu. Ať už regionálních nebo specializovaných celostátních.
-Nebojte se cokoliv přiohnout, koukejte se do dalšich pirátských webů o featurach které se vám líbí a přidejte si je do svého.
+# pardubicky.pirati.cz
 
 ## Obsah
 
-- [example.pirati.cz](#examplepiraticz)
+- [pardubicky.pirati.cz](#pardubickypiraticz)
   - [Obsah](#obsah)
   - [Úvod](#Úvod)
   - [Lokální spuštění](#lokální-spuštění)
@@ -89,7 +84,7 @@ instalujte docker podle návodu na váš operační systém (anglicky)
 * [Ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 * [Fedora](https://docs.docker.com/install/linux/docker-ce/fedora/)
 
-a ověřte že máte `docker-compose` [official resources](https://docs.docker.com/compose/install/ a spušteného demona.
+a ověřte že máte `docker-compose` [official resources](https://docs.docker.com/compose/install/) a spušteného demona.
 Pak stačí:
 ```
 docker-compose up
@@ -248,28 +243,33 @@ webu](https://pardubice.pirati.cz).
 
 ## Zobrazení mapky návrhů
 
-Postupujte obdobně jako při zprovoznění kalendáře. Potřebujete v Google
-Developer Consoli povolit Google Maps API. Také potřebujete přidat environment
-variable `GOOGLE_MAPS_APIKEY`. Následně můžete do kterékoliv stránky
+Implementace mapky návrhů byla ve verzi 6.1.0 jekyll-theme-piráti upravena,
+nyní je mapový podklad řešen přes službu [Mapbox](https://www.mapbox.com/).
+
+Abyste mapičku zobrazili, je nutné si tam vytvořit účet a následně získáte
+*access token*. Ten pak při spuštění stránek poskytnete pomocí environment
+variable `MAPBOX_ACCESS_TOKEN`. Následně můžete do kterékoliv stránky
 přidat kód podobný tomuto:
 
 ```
-{% if site.env.GOOGLE_MAPS_APIKEY %}
-  <div class="__vue-root" data-app="CustomLayerMap" data-apikey="{{ site.env.GOOGLE_MAPS_APIKEY }}" data-layer="[váš layer id]"></div>
+{% if site.env.MAPBOX_ACCESS_TOKEN %}
+  <div class="__vue-root" data-app="IntentionMap" data-accesstoken="{{ site.env.MAPBOX_ACCESS_TOKEN }}" data-dataset="https://gist.githubusercontent.com/xaralis/f9711e5d12f971504d0753ba40c3d33e/raw/4a1701c64de5eb7ed6aa1538cb269022965d82d6/map.geojson" data-ideaform="https://goo.gl/forms/wKSPmWNDzgRiUxLN2"></div>
 {% endif %}
 ```
 
-Jak vidno, potřebujete vědět layer id. To získáte tak, že v aplikace Google MyMaps
-u vaší mapky kliknete na "Sdílet" a vyberete možnost vložení mapy do stránky.
+Jak je vidět, potřebujete nějaký geojson soubor, který definuje jednotlivé položky
+na mapě. Pro vytvoření mapového podkladu můžete využít libovolný GeoJSON
+editor, např. `http://geojson.io`. Aby mapa záměrů správně fungovala,
+měly by jednotlivé položky mapy mít následující atributy:
 
-Google vám pak ukáže kód cca ve tvaru:
+* `id` - jedinečný identifikátor záměru, celé číslo
+* `name` - definuje jméno záměru na mapě
+* `category` - definuje kategorii záměru
+* `description` - definuje detailní popis záměru
+* `image` (volitelné) - URL obrázku záměru
 
-```
-<iframe src="https://www.google.com/maps/d/embed?mid=12ZdsIK1_ScKE6PpIylp-4YccnOgcsr_n" width="640" height="480"></iframe>
-```
-
-Textový řetězec za `mid` je to co hledáte. V tomto případě je to tedy "12ZdsIK1_ScKE6PpIylp-4YccnOgcsr_n".
-
+Pomocí atributu `data-ideaform` lze volitelně připojit i link na formulář, kam vám
+veřejnost může zasílat své nápady.
 
 ## Otestování buildu
 
