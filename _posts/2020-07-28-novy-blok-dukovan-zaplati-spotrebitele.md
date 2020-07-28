@@ -1,5 +1,5 @@
 ---
-date: 2020-07-28
+date: 2020-07-27
 category: blog
 tags: kontrola-moci-a-mocnych energetika
 layout: post
