@@ -3,7 +3,7 @@ date: 2020-07-28
 category: blog
 tags: cestovni-ruch koronavirus
 layout: post
-title:  'Slova motivují, příklady táhnou' platí i v případě podpory domácího cestovního ruchu
+title:  Slova motivují, příklady táhnou platí i v případě podpory domácího cestovního ruchu
 author: Hana Hajnová
 authorId: hana.hajnova
 image: posts/2020-07-28-podpora-cestovního-ruchu-prikladem.jpg
