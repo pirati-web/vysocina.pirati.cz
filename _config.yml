@@ -14,7 +14,7 @@ keywords: piráti, česká pirátská strana, svoboda, demokracie, vysočina, pi
 url: "https://vysocina.pirati.cz" # the base hostname & protocol for your site - added in attempt to fix link sharer to Facebook
 
 administrator:
-  email: roman.pasek@pirati.cz # mail kam pujdou chybove vystupy
+  email: jan.suchanek@pirati.cz # mail kam pujdou chybove vystupy
 
 mediaStorage: vysocina #obrazky a pdf jsou na https://a.pirati.cz/vysocina/
 
