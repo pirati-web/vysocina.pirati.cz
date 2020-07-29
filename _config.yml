@@ -109,10 +109,10 @@ theme: jekyll-theme-pirati
 markdown: kramdown
 theme: jekyll-theme-pirati
 plugins:
-  - jekyll-feed
+  #- jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-environment-variables
+  #- jekyll-environment-variables
 paginate_path: "/aktuality/:num/"
 paginate: 11
 
