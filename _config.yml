@@ -16,6 +16,8 @@ url: "https://vysocina.pirati.cz" # the base hostname & protocol for your site -
 administrator:
   email: roman.pasek@pirati.cz # mail kam pujdou chybove vystupy
 
+mediaStorage: vysocina #obrazky a pdf jsou na https://a.pirati.cz/vysocina/
+
 organization:
   name: Krajské sdružení Vysočina
   shortName: Krajské sdružení Vysočina
