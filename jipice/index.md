@@ -6,11 +6,11 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
 ---
 <div class="pce-hero pce-hero--entry">
     <div class="pce-hero__content">        
-        <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/jipice/jipice_header.jpg" alt="Jipice - Jihlavské pirátské centrum" style="width: 100%; height: auto; margin:0px 0px">
+        <img src="https://a.pirati.cz/vysocina/img/jipice/jipice_header.jpg" alt="Jipice - Jihlavské pirátské centrum" style="width: 100%; height: auto; margin:0px 0px">
         <h2 class="t-h4-alt">
           Pirátské centrum v Jihlavě, známé také jako JiPiCe, slouží jako kancelář poslance za kraj Vysočina Jana Pošváře a také jako zázemí pro aktivní Piráty. Jelikož je transparentně financováno z veřejných peněz, nabízíme centrum ve volných chvílích bezplatně k užitku i vám. Může se hodit na veřejné přednášky, workshopy nebo třeba jako prostor k uskutečnění vašeho jedinečného nápadu.
         </h2>
-        <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/jipice/jipice_koutek.jpg" alt="Jipice - Jihlavské pirátské centrum" style="width: 100%; height: auto; margin:0px 0px">
+        <img src="https://a.pirati.cz/vysocina/img/jipice/jipice_koutek.jpg" alt="Jipice - Jihlavské pirátské centrum" style="width: 100%; height: auto; margin:0px 0px">
     </div>
 </div>
 
@@ -22,7 +22,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
       <div class="o-section-header o-section-header--bordered">
         <h3 class="o-section__heading t-h4-alt">Logo Jipice</h3>
       </div>
-      <img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/jipice/jipice_logo.png" alt="Jipice" style="margin:0px 0px">
+      <img src="https://a.pirati.cz/vysocina/img/jipice/jipice_logo.png" alt="Jipice" style="margin:0px 0px">
     </div>
     <div class="columns medium-4">
       <div class="o-section-header o-section-header--bordered">
