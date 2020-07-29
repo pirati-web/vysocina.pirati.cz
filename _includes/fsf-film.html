@@ -1,6 +1,14 @@
 <div class="c-program-candidate-badge"> 
   <div class="c-program-candidate-badge__avatar">
-      {% capture img %}{% if include.candidatePage.img %}{% asset '{{ include.candidatePage.img }}' magick:resize='400x225^' magick:gravity='center' magick:crop='400x225+0+0' @path %}{% else %}{{ 'assets/img/people/unknown-pirate.svg' | relative_url }}{% endif %}{% endcapture %}
+          {% if include.candidatePage.img %}
+            {% if site.mediaStorage %}
+                {% capture img %}https://a.pirati.cz/resize/400x225/{{ site.mediaStorage }}/img/{{ include.candidatePage.img }}{% endcapture %}
+            {%- else -%}
+                {% capture img %}{% asset '{{ include.candidatePage.img }}' magick:resize='400x225^' magick:gravity='center' magick:crop='400x225+0+0' @path %}{% endcapture %}
+            {%- endif -%}
+          {% else %}
+            {% capture img %}https://a.pirati.cz/common/img/people/unknown-pirate.svg{% endcapture %}
+          {% endif %}
           <img src="{{ img }}" alt="{% include people/fullname.html person=include.candidatePage plain=true %}" class="c-program-candidate-badge__avatar-image">
       </div>
       <div class="c-program-candidate-badge__description">
