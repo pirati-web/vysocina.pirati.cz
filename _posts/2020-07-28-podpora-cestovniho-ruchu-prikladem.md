@@ -7,6 +7,7 @@ title:  Slova motivují, příklady táhnou platí i v případě podpory domác
 author: Hana Hajnová
 authorId: hana.hajnova
 image: posts/2020-07-28-podpora-cestovniho-ruchu-prikladem.jpg
+important: true
 ---
 
 *Telč, 28. července 2020* - ***Koronavirová krize dopadla na cestovní ruch obzvláště těžce. Vláda celé čtyři měsíce od vypuknutí pandemie vypouštěla do médií plány a sliby o voucherech na dovolené v Česku, které měly situaci zlepšit. A že to byly jen sliby, o kterých si většina zařízení může nechat jen zdát, dokazuje skutečnost, že jediné vouchery byly totiž zatím schváleny pro lázně. A jak dopadly, jsem měla to “štěstí” zažít na vlastní kůži. Naposledy se objevily “plány” na kampaň za 2 mld korun na podporu domácího cestovního ruchu, které by vláda vyplatila nikoliv podnikatelům v cestovním ruchu, ale médiím za reklamu.*** 
