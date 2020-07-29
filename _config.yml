@@ -109,10 +109,10 @@ theme: jekyll-theme-pirati
 markdown: kramdown
 theme: jekyll-theme-pirati
 plugins:
-  #- jekyll-feed
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
-  #- jekyll-environment-variables
+  - jekyll-environment-variables
 paginate_path: "/aktuality/:num/"
 paginate: 11
 
@@ -173,10 +173,9 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.7.0/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.5.0/_sass
     - assets/css
     - assets/fonts
     - assets/video
     - assets/img
-    - assets/img/posts
     - _sass
