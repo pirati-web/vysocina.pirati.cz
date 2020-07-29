@@ -74,18 +74,18 @@ title: Piratecon ke komunálu 2018 - Vysočina
                 <table>
                   <tr>
                     <td>CooLAND, neziskový sektor</td>
-                    <td><a href="https://github.com/pirati-web/vysocina.pirati.cz/raw/master/assets/piratecon/2019_01_cooland.pdf">PDF</a></td>
-                    <td><a href="https://github.com/pirati-web/vysocina.pirati.cz/raw/master/assets/piratecon/2019_01_cooland.pptx">PPTX</a></td>
+                    <td><a href="https://a.pirati.cz/vysocina/piratecon/2019_01_cooland.pdf">PDF</a></td>
+                    <td><a href="https://a.pirati.cz/vysocina/piratecon/2019_01_cooland.pptx">PPTX</a></td>
                   </tr>
                   <tr>
                     <td>Reálný příklad z praxe Permafarmy Veselice</td>
-                    <td><a href="https://github.com/pirati-web/vysocina.pirati.cz/raw/master/assets/piratecon/2019_01_veselice.pdf">PDF</a></td>
+                    <td><a href="https://a.pirati.cz/vysocina/piratecon/2019_01_veselice.pdf">PDF</a></td>
                     <td></td>
                   </tr>                  
                   <tr>
                     <td>Společnost mladých agrárníků ČR</td>
-                    <td><a href="https://github.com/pirati-web/vysocina.pirati.cz/raw/master/assets/piratecon/2019_01_mladi.pdf">PDF</a></td>
-                    <td><a href="https://github.com/pirati-web/vysocina.pirati.cz/raw/master/assets/piratecon/2019_01_mladi.pptx">PPTX</a></td>
+                    <td><a href="https://a.pirati.cz/vysocina/piratecon/2019_01_mladi.pdf">PDF</a></td>
+                    <td><a href="https://a.pirati.cz/vysocina/piratecon/2019_01_mladi.pptx">PPTX</a></td>
                   </tr>
                 </table>
             </div>

@@ -18,19 +18,19 @@ title: Festival svobodné kultury
       <div class="o-section-header o-section-header--bordered">
         <h3 class="o-section__heading t-h4-alt">Havlíčkův Brod</h3>
       </div>
-      <a href="/cinnost/fsk/havlbrod/"><img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/havlbrod.png" alt="Festival svobodné kultury - Havlíčkův Brod" style="margin:10px 0px"></a>
+      <a href="/cinnost/fsk/havlbrod/"><img src="https://a.pirati.cz/vysocina/img/fsk/havlbrod.png" alt="Festival svobodné kultury - Havlíčkův Brod" style="margin:10px 0px"></a>
     </div>
     <div class="columns medium-4">
       <div class="o-section-header o-section-header--bordered">
         <h3 class="o-section__heading t-h4-alt">Třebíč</h3>
       </div>
-      <a href="/cinnost/fsk/trebic/"><img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/trebic.png" alt="Festival svobodné kultury - Třebíč" style="margin:10px 0px"></a>
+      <a href="/cinnost/fsk/trebic/"><img src="https://a.pirati.cz/vysocina/img/fsk/trebic.png" alt="Festival svobodné kultury - Třebíč" style="margin:10px 0px"></a>
     </div>
     <div class="columns medium-4">
       <div class="o-section-header o-section-header--bordered">
         <h3 class="o-section__heading t-h4-alt">Jihlava</h3>
       </div>
-      <a href="/cinnost/fsk/jihlava/"><img src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/jihlava.png" alt="Festival svobodné kultury - Jihlava" style="margin:10px 0px"></a>
+      <a href="/cinnost/fsk/jihlava/"><img src="https://a.pirati.cz/vysocina/img/fsk/jihlava.png" alt="Festival svobodné kultury - Jihlava" style="margin:10px 0px"></a>
     </div>
   </div>
 </div>
@@ -44,7 +44,7 @@ title: Festival svobodné kultury
 <div class="columns medium-12">          
  
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/alena_nixova.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/alena_nixova.png" 
             alt="Alena Nixová" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Alena Nixová
@@ -53,7 +53,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>  
   
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/alena_spruijtova.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/alena_spruijtova.png" 
             alt="Alena Spruijtová" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Alena Spruijtová
@@ -62,7 +62,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
   
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/anna_lorencova.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/anna_lorencova.png" 
             alt="Anna Lorencová" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Anna Lorencová
@@ -71,7 +71,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
   
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/anna_mothejlova.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/anna_mothejlova.png" 
             alt="Anna Mothejlová" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Anna Mothejlová
@@ -80,7 +80,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>  
   
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/anna_treterova.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/anna_treterova.png" 
             alt="Anna Treterová" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Anna Treterová
@@ -89,7 +89,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/daniel_zverina.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/daniel_zverina.png" 
             alt="Daniel Zvěřina" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Daniel Zvěřina
@@ -98,7 +98,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/daniela_weissova.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/daniela_weissova.png" 
             alt="Daniela Weissová" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Daniela Weissová
@@ -107,7 +107,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
   
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/eugene_morrow.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/eugene_morrow.png" 
             alt="Eugene Morrow" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Eugene Morrow
@@ -116,7 +116,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/eva_matejovicova.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/eva_matejovicova.png" 
             alt="Eva Matejovičová" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Eva Matejovičová
@@ -125,7 +125,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
   
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/filip_versteeg.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/filip_versteeg.png" 
             alt="Filip Versteeg" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Filip Versteeg
@@ -134,7 +134,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
   
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/gabriela_vaclavkova.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/gabriela_vaclavkova.png" 
             alt="Gabriela Václavková" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Gabriela Václavková
@@ -143,7 +143,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
   
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/iron_soul.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/iron_soul.png" 
             alt="Iron Soul" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Iron Soul
@@ -152,7 +152,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>  
   
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/iva_ruzickova.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/iva_ruzickova.png" 
             alt="Iva Růžičková" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Iva Růžičková
@@ -161,7 +161,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/jakub_copak.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/jakub_copak.png" 
             alt="Jakub Čopák" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Jakub Čopák
@@ -170,7 +170,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/jakub_hlavac.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/jakub_hlavac.png" 
             alt="Jakub Hlaváč" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Jakub Hlaváč
@@ -179,7 +179,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/jana_paskova.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/jana_paskova.png" 
             alt="Jana Pašková" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Jana Pašková
@@ -188,7 +188,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/jiri_trzil.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/jiri_trzil.png" 
             alt="Jiří Tržil" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Jiří Tržil
@@ -197,7 +197,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/jitka_fischerova.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/jitka_fischerova.png" 
             alt="Jitka Fischerová" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Jitka Fischerová
@@ -206,7 +206,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/jolana_martin.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/jolana_martin.png" 
             alt="Jolana a Martin" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Jolana a Martin
@@ -215,7 +215,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div> 
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/kristina_nemcova.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/kristina_nemcova.png" 
             alt="Kristina Němcová" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Kristina Němcová
@@ -224,7 +224,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
   
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/lenka_sromova.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/lenka_sromova.png" 
             alt="Lenka Šromová" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Lenka Šromová
@@ -233,7 +233,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/maite.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/maite.png" 
             alt="Maite" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Maite
@@ -242,7 +242,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
   
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/martin_jelinek.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/martin_jelinek.png" 
             alt="Martin Jelínek" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Martin Jelínek
@@ -251,7 +251,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
   
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/michal_schmidt.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/michal_schmidt.png" 
             alt="Michal Schmidt" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Michal Schmidt
@@ -260,7 +260,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/milus_kotisova.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/milus_kotisova.png" 
             alt="Milus Kotisova" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Miluš Kotišová
@@ -270,7 +270,7 @@ V letošním roce Miluš vydala knihu Jazyk nepoznaný: peníze, kde přináší
 </strong></div></div></div>
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/noir_voir.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/noir_voir.png" 
             alt="Noir Voir" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Noir Voir
@@ -279,7 +279,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
   
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/ortodoxni_jidas.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/ortodoxni_jidas.png" 
             alt="Ortodoxní Jidáš" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Ortodoxní Jidáš
@@ -287,7 +287,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
             Ortodoxní Jidáš vystupuje se svojí kapelou a předvádí svěží koncertní elektronickou show, jeho debutové album vyšlo v létě roku 2014, první klip se jmenoval EuroTest. Před pár lety Jidáš vyrukoval s videoklipem nazvaným Jidáš a Mikuláš. </strong></div></div></div>  
             
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/pavel_hlavac.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/pavel_hlavac.png" 
             alt="Pavel Hlaváč" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Pavel Hlaváč
@@ -296,7 +296,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>   
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/richard_ramirez.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/richard_ramirez.png" 
             alt="Richard Ramirez" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Richard Ramirez
@@ -305,7 +305,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/sinks.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/sinks.png" 
             alt="sinks" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             sinks
@@ -314,7 +314,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/the_desperate_mind.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/the_desperate_mind.png" 
             alt="The Desperate Mind" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             The Desperate Mind
@@ -323,7 +323,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
   
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/thrashsurf.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/thrashsurf.png" 
             alt="THRASHSURF" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             THRASHSURF
@@ -332,7 +332,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/tomas_ryska.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/tomas_ryska.png" 
             alt="Tomáš Ryška" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Tomáš Ryška
@@ -341,7 +341,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
   
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/veronika_vohralikova.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/veronika_vohralikova.png" 
             alt="Veronika Vohralíková" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Veronika Vohralíková
@@ -350,7 +350,7 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </strong></div></div></div>
 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/vzhuru_a_niz.png" 
+            src="https://a.pirati.cz/vysocina/img/fsk/vzhuru_a_niz.png" 
             alt="Vzhůru a níž" 
 class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
             Vzhůru a níž
