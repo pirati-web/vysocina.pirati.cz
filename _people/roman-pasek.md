@@ -5,6 +5,7 @@ category:
   - clenove
   - mstrb
   - mo
+  - kontaktni_osoba
 description: člen krajského sdružení
 descriptionms: předseda místního sdružení
 descriptionmo: správce webu
