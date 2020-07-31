@@ -6,7 +6,7 @@ category:
   - mstrb
   - mo
   - kontaktni_osoba
-description: člen krajského sdružení
+description: manažer krajských voleb
 descriptionms: předseda místního sdružení
 descriptionmo: správce webu
 profession: volební manažer
