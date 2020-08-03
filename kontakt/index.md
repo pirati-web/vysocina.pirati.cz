@@ -12,7 +12,7 @@ contentSize: even
 contactPersons:
   - id: blanka.lednicka
     position: Předseda krajského sdružení
-  - id: roman.pasek
+  - id: hana.hajnova
     position: Kontakt pro novináře
   - id: ondrej.tuma
     position: Kontakt pro dobrovolníky
