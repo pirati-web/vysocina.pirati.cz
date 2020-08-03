@@ -3,7 +3,7 @@ uid: stanislav.neuman
 name: Stanislav Neuman
 category:
   - clenove
-  - mstrebicsko
+  - pmstrebicsko
   - kandidat2018
 description: člen Místního sdružení Třebíčsko
 profession: vedoucí sportovní prodejny

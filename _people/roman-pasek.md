@@ -3,7 +3,7 @@ uid: roman.pasek
 name: Roman Pašek
 category:
   - clenove
-  - mstrb
+  - pmstrebicsko
   - mo
 description: člen krajského sdružení
 descriptionms: předseda místního sdružení
