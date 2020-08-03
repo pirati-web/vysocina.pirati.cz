@@ -14,7 +14,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
         <div class="c-program-candidate-badge">
           <a class="c-program-candidate-badge__body" href="https://vysocina.pirati.cz/zastupitele/komunalni/jihlava/">
             <div class="c-program-candidate-badge__avatar">
-              <img src="{{ "/assets/img/jihlava.jpg"  }}" alt="Jihlava" class="c-program-candidate-badge__avatar-image">
+              <img src="{{ "https://a.pirati.cz/vysocina/img/jihlava.jpg"  }}" alt="Jihlava" class="c-program-candidate-badge__avatar-image">
             </div>
             <div class="c-program-candidate-badge__description">
               <h4 class="c-program-candidate-badge__name">
@@ -38,7 +38,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
         <div class="c-program-candidate-badge">
           <a class="c-program-candidate-badge__body" href="https://vysocina.pirati.cz/zastupitele/komunalni/trebic/">
             <div class="c-program-candidate-badge__avatar">
-              <img src="{{ "/assets/img/trebic.png"  }}" alt="Třebíč" class="c-program-candidate-badge__avatar-image">
+              <img src="{{ "https://a.pirati.cz/vysocina/img/trebic.png"  }}" alt="Třebíč" class="c-program-candidate-badge__avatar-image">
             </div>
             <div class="c-program-candidate-badge__description">
               <h4 class="c-program-candidate-badge__name">
@@ -62,7 +62,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
         <div class="c-program-candidate-badge">
           <a class="c-program-candidate-badge__body" href="https://vysocina.pirati.cz/zastupitele/komunalni/havlbrod/">
             <div class="c-program-candidate-badge__avatar">
-              <img src="{{ "/assets/img/havlbrod.jpg"  }}" alt="Čechtín" class="c-program-candidate-badge__avatar-image">
+              <img src="{{ "https://a.pirati.cz/vysocina/img/havlbrod.jpg"  }}" alt="Čechtín" class="c-program-candidate-badge__avatar-image">
             </div>
             <div class="c-program-candidate-badge__description">
               <h4 class="c-program-candidate-badge__name">
@@ -86,7 +86,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
         <div class="c-program-candidate-badge">
           <a class="c-program-candidate-badge__body" href="https://vysocina.pirati.cz/zastupitele/komunalni/telc/">
             <div class="c-program-candidate-badge__avatar">
-              <img src="{{ "/assets/img/telc.jpg"  }}" alt="Telč" class="c-program-candidate-badge__avatar-image">
+              <img src="{{ "https://a.pirati.cz/vysocina/img/telc.jpg"  }}" alt="Telč" class="c-program-candidate-badge__avatar-image">
             </div>
             <div class="c-program-candidate-badge__description">
               <h4 class="c-program-candidate-badge__name">
@@ -110,7 +110,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
         <div class="c-program-candidate-badge">
           <a class="c-program-candidate-badge__body" href="https://vysocina.pirati.cz/zastupitele/komunalni/jaromerice/">
             <div class="c-program-candidate-badge__avatar">
-              <img src="{{ "/assets/img/jaromerice.png"  }}" alt="Jaroměřice nad Rokytnou" class="c-program-candidate-badge__avatar-image">
+              <img src="{{ "https://a.pirati.cz/vysocina/img/jaromerice.png"  }}" alt="Jaroměřice nad Rokytnou" class="c-program-candidate-badge__avatar-image">
             </div>
             <div class="c-program-candidate-badge__description">
               <h4 class="c-program-candidate-badge__name">
@@ -136,7 +136,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
         <div class="c-program-candidate-badge">
           <a class="c-program-candidate-badge__body" href="https://vysocina.pirati.cz/zastupitele/komunalni/obce/">
             <div class="c-program-candidate-badge__avatar">
-              <img src="{{ "/assets/img/pirati-obce.jpg"  }}" alt="Ostatní obce" class="c-program-candidate-badge__avatar-image">
+              <img src="{{ "https://a.pirati.cz/vysocina/img/pirati-obce.jpg"  }}" alt="Ostatní obce" class="c-program-candidate-badge__avatar-image">
             </div>
             <div class="c-program-candidate-badge__description">
               <h4 class="c-program-candidate-badge__name">

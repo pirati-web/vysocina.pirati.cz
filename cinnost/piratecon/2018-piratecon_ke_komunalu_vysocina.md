@@ -78,23 +78,23 @@ title: Piratecon ke komunálu 2018 - Vysočina
                 <table>
                   <tr>
                     <td>Administrativa komunálních voleb 2018</td>
-                    <td><a href="https://github.com/pirati-web/vysocina.pirati.cz/raw/master/assets/piratecon/2018_01_administrace.pdf">PDF</a></td>
-                    <td><a href="https://github.com/pirati-web/vysocina.pirati.cz/raw/master/assets/piratecon/2018_01_administrace.odp">ODP</a></td>
+                    <td><a href="https://a.pirati.cz/vysocina/piratecon/2018_01_administrace.pdf">PDF</a></td>
+                    <td><a href="https://a.pirati.cz/vysocina/piratecon/2018_01_administrace.odp">ODP</a></td>
                   </tr>
                   <tr>
                     <td>Brněnský model participativního rozpočtování</td>
-                    <td><a href="https://github.com/pirati-web/vysocina.pirati.cz/raw/master/assets/piratecon/2018_01_paro.pdf">PDF</a></td>
-                    <td><a href="https://github.com/pirati-web/vysocina.pirati.cz/raw/master/assets/piratecon/2018_01_paro.pptx">PPTX</a></td>
+                    <td><a href="https://a.pirati.cz/vysocina/piratecon/2018_01_paro.pdf">PDF</a></td>
+                    <td><a href="https://a.pirati.cz/vysocina/piratecon/2018_01_paro.pptx">PPTX</a></td>
                   </tr>
                   <tr>
                     <td>Komunální kampaň 2018</td>
-                    <td><a href="https://github.com/pirati-web/vysocina.pirati.cz/raw/master/assets/piratecon/2018_01_kampan.pdf">PDF</a></td>
+                    <td><a href="https://a.pirati.cz/vysocina/piratecon/2018_01_kampan.pdf">PDF</a></td>
                     <td></td>
                   </tr>
                   <tr>
                     <td>Financování kampaně</td>
-                    <td><a href="https://github.com/pirati-web/vysocina.pirati.cz/raw/master/assets/piratecon/2018_01_financovani.pdf">PDF</a></td>
-                    <td><a href="https://github.com/pirati-web/vysocina.pirati.cz/raw/master/assets/piratecon/2018_01_financovani.pptx">PPTX</a></td>
+                    <td><a href="https://a.pirati.cz/vysocina/piratecon/2018_01_financovani.pdf">PDF</a></td>
+                    <td><a href="https://a.pirati.cz/vysocina/piratecon/2018_01_financovani.pptx">PPTX</a></td>
                   </tr>
                 </table>
             </div>

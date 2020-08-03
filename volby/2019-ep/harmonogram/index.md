@@ -248,10 +248,5 @@ title: Volby do Evropského parlamentu 2019
   </tr>
   </table>
 <br>
-{% include homepage/banner.html
-   title='Pirátský den v Havlíčkově Brodě'
-   default='plakat_hb.jpg'
-   mobile='plakat_hb.jpg'
-   breakpoint=640
-%}
+
 <br>

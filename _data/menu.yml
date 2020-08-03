@@ -16,63 +16,47 @@ top:
     icon: "fa fa-bar-chart"
 
 main:
+  - link: /aktuality/
+    name: Aktuality
+    match: aktuality  
   - link: /lide/
     name: Lidé
     match: lide
-    submenu:
-      - link: /lide/pks/
-        name: Krajské předsednictvo
-        match: pks
-      - link: /lide/ms/
-        name: Místní sdružení
-        match: ms
-  - link: /zastupitele/komunalni/
-    name: Zastupitelstva
-    match: zastupitele/komunalni
-    submenu:
-      - link: /zastupitele/komunalni/jihlava/
-        name: Jihlava
-        match: jihlava
-      - link: /zastupitele/komunalni/trebic/
-        name: Třebíč
-        match: trebic
-      - link: /zastupitele/komunalni/havlbrod/
-        name: Havlíčkův Brod
-        match: havlbrod
-      - link: /zastupitele/komunalni/telc/
-        name: Telč
-        match: telc
-      - link: /zastupitele/komunalni/jaromerice/
-        name: Jaroměřice nad Rokytnou
-        match: jaromerice
-      - link: /zastupitele/komunalni/obce/
-        name: Ostatní obce
-        match: obce
+  - link: /jipice/
+    name: JiPiCe
+    match: jipice    
+    #submenu:
+    #  - link: /lide/pks/
+    #    name: Krajské předsednictvo
+    #    match: pks
+    #  - link: /lide/ms/
+    #    name: Místní sdružení
+    #    match: ms
+  #- link: /zastupitele/komunalni/
+  #  name: Zastupitelstva
+  #  match: zastupitele/komunalni
+    #submenu:
+    #  - link: /zastupitele/komunalni/jihlava/
+    #    name: Jihlava
+    #    match: jihlava
+    #  - link: /zastupitele/komunalni/trebic/
+    #    name: Třebíč
+    #    match: trebic
+    #  - link: /zastupitele/komunalni/havlbrod/
+    #    name: Havlíčkův Brod
+    #    match: havlbrod
+    #  - link: /zastupitele/komunalni/telc/
+    #    name: Telč
+    #    match: telc
+    #  - link: /zastupitele/komunalni/jaromerice/
+    #    name: Jaroměřice nad Rokytnou
+    #    match: jaromerice
+    #  - link: /zastupitele/komunalni/obce/
+    #    name: Ostatní obce
+    #    match: obce
   - link: /cinnost/
     name: Činnost v kraji
     match: cinnost
-    submenu:
-      - link: /cinnost/fsk/
-        name: Festival svobodné kultury
-        match: fsk
-      - link: /cinnost/pirlisty/
-        name: Pirátské listy
-        match: pirlisty
-      - link: /cinnost/uklidme-cesko/
-        name: Ukliďme Česko
-        match: uklidme-cesko
-      - link: /cinnost/piratecon/
-        name: Piratecony
-        match: piratecon
-      - link: /cinnost/fsf/
-        name: Festival svobodných filmů
-        match: fsf
-      - link: /cinnost/vyoseni/
-        name: VyOsení
-        match: vyoseni
-  - link: /jipice/
-    name: JiPiCe
-    match: jipice
   - link: /kontakt/
     name: Kontakt
     match: kontakt
