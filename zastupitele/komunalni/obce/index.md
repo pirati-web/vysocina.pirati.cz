@@ -20,7 +20,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
             href="https://vysocina.pirati.cz/lide/jaroslav-zejda/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/people/jaroslav-zejda.jpg" 
+            src="https://a.pirati.cz/vysocina/img/people/jaroslav-zejda.jpg" 
             alt="Jaroslav Zejda" 
 class="c-program-candidate-badge__avatar-image">
 </div>
@@ -56,7 +56,7 @@ zastupitel
             href="https://vysocina.pirati.cz/lide/lubos-fuks/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/people/lubos-fuks.jpg" 
+            src="https://a.pirati.cz/vysocina/img/people/lubos-fuks.jpg" 
             alt="Luboš Fuks" 
 class="c-program-candidate-badge__avatar-image">
 </div>
@@ -91,7 +91,7 @@ určený zastupitel pro zeleň a lesy
             href="https://vysocina.pirati.cz/lide/vaclav-honzl/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/people/vaclav-honzl.jpg" 
+            src="https://a.pirati.cz/vysocina/img/people/vaclav-honzl.jpg" 
             alt="Václav Honzl" 
 class="c-program-candidate-badge__avatar-image">
 </div>
@@ -125,7 +125,7 @@ starosta
             href="https://vysocina.pirati.cz/lide/ladislav-stalmach/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/people/ladislav-stalmach.jpg" 
+            src="https://a.pirati.cz/vysocina/img/people/ladislav-stalmach.jpg" 
             alt="Ladislav Stalmach" 
 class="c-program-candidate-badge__avatar-image">
 </div>
