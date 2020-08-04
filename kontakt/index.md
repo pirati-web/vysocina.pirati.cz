@@ -14,7 +14,7 @@ contactPersons:
     position: Předseda krajského sdružení
   - id: hana.hajnova
     position: Kontakt pro novináře
-  - id: ondrej.tuma
+  - id: eva.novakova
     position: Kontakt pro dobrovolníky
   - id: roman.pasek
     position: Kontakt pro krajské volby 2020
