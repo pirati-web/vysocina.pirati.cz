@@ -23,7 +23,7 @@ main:
     name: Lidé
     match: lide
   - link: /jipice/
-    name: JiPiCe
+    name: Pirátské centrum
     match: jipice    
     #submenu:
     #  - link: /lide/pks/
