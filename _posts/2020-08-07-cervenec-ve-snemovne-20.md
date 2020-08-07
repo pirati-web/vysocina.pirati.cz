@@ -24,8 +24,6 @@ Na Vysočině jsem se byl podívat v Agro škole Pozďatín, jak vypadá součas
 [Profil Jan Pošvář](https://www.pirati.cz/lide/jan-posvar)
 
 [Pirati pracují](https://piratipracuji.cz)
-
-[Vodu řešíme teď](https://voda.pirati.cz)
  
 ---
 
