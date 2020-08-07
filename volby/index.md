@@ -8,6 +8,7 @@ candidateListUid: kraj2020
 customizeHeader: true
 ---
 
+
 {% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
 
 {% capture mainContent %}
