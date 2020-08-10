@@ -4,8 +4,9 @@ name: Jiří Svoboda
 category:
   - clenove
   - mshavlbrod
-ordpmshavlbrod: 
-description: člen Místního sdružení Havlíčkův Brod
+  - pmshavlbrod
+ordpmshavlbrod: 1 
+description: předseda Místního sdružení Havlíčkův Brod
 profession: 
 img: people/jiri-svoboda.jpg
 mail:
