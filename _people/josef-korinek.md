@@ -4,7 +4,6 @@ name: Josef Kořínek
 category:
   - clenove
   - mshavlbrod
-  - pmshavlbrod
 description: člen Místního sdružení Havlíčkův Brod
 profession: 
 img: people/josef-korinek.jpg
