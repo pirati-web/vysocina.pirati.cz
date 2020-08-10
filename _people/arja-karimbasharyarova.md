@@ -4,8 +4,9 @@ name: Arja Karimbasharyarová
 category:
   - clenove
   - mshavlbrod
-  - kandidat2018
-description: členka Místního sdružení Havlíčkův Brod
+  - pmshavlbrod
+ordpmshavlbrod: 2
+description: 1. místopředsedkyně Místního sdružení Havlíčkův Brod
 profession: 
 img: people/arja-karimbasharyarova.jpg
 mail:
