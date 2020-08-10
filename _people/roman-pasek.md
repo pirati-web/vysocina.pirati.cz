@@ -5,8 +5,8 @@ category:
   - clenove
   - pmstrebicsko
   - mo
-description: člen krajského sdružení
-descriptionms: předseda místního sdružení
+ordpmstrebicsko: 1
+description: předseda Místního sdružení Třebíčsko
 descriptionmo: správce webu
 profession: volební manažer
 img: people/roman-pasek.jpg
