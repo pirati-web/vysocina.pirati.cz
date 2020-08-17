@@ -6,7 +6,7 @@ category:
   - pmstrebicsko
   - mo
 ordpmstrebicsko: 1
-ordmo: 3
+ordmo: 5
 description: předseda Místního sdružení Třebíčsko
 descriptionmo: správce webu
 profession: volební manažer

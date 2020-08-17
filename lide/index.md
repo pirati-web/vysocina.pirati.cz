@@ -4,7 +4,7 @@ title: Lidé
 description: Členové a příznivci jsou to dělá Českou pirátskou stranu silnou. Seznamte se Piráty v Kraji Vysočina.
 keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé, zastupitel, zastupitelka, místní sdružení, havlíčkův brod, jihlavsko, telčsko, třebíčsko, pelhřimovsko
 viewMode: grouped
-sort: 
+sort:
 groups:
   - name: Krajské předsednictvo
     sort: ordpks
@@ -22,8 +22,8 @@ groups:
     sort: ordpmstrebicsko
     category: pmstrebicsko
   - name: Místní sdružení Pelhřimovsko
-    sort: ordpmpelhrimovsko
-    category: pmpelhrimovsko
+    sort: ordpmspelhrimovsko
+    category: pmspelhrimovsko
   - name: Mediální odbor
     sort: ordmo
     category: mo

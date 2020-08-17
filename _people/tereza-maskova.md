@@ -3,7 +3,7 @@ uid: tereza.maskova
 name: Tereza Mašková
 category:
   - clenove
-description: člen Krajského sdružení Vysočina
+description: členka Místního sdružení Pelhřimovsko
 heroImg: banner-default.jpg
 img: people/tereza-maskova.jpg
 mail:

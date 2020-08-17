@@ -4,6 +4,8 @@ name: Viktorie Vidláková
 category:
   - clenove
   - mstrebicsko
+  - mo
+ordmo: 4
 description: členka místního sdružení Třebíčsko
 profession: studentka
 heroImg: banner-default.jpg

@@ -4,7 +4,8 @@ name: Pavel Knežik
 category:
   - clenove
   - pks
-  - pmpelhrimovsko
+  - pmspelhrimovsko
+ordpmspelhrimovsko: 1
 ordpks: 4
 description: 3. místopředseda Krajského sdružení Vysočina
 heroImg: banner-default.jpg

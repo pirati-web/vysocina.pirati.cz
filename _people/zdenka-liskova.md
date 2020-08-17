@@ -3,8 +3,9 @@ uid: zdenka.liskova
 name: Zdeňka Lišková
 category:
   - clenove
-  - pmpelhrimovsko
-description: členka Krajského sdružení Vysočina
+  - pmspelhrimovsko
+ordpmspelhrimovsko: 3
+description: 2. místopředsedkyně Místního sdružení Pelhřimovsko
 profession: technický pracovník
 heroImg: banner-default.jpg
 img: people/zdenka-liskova.jpg
