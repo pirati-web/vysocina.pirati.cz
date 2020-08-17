@@ -32,12 +32,12 @@ Pro rodiče nabízíme vybavený dětský koutek s pracovním místem. Dětský 
 ## Otevírací doba
 
 | Jihlavské pirátské centrum |
-|------------|---------------|
+|----------------------------|
 | Pondělí    | 12:00 - 17:00 |
 | Úterý      | 12:00 - 17:00 |
 | Středa     | 10:00 - 15:00 |
 | Čtvrtek    | 12:00 - 17:00 |
 
 | Poslanecká kancelář        |
-|------------|---------------|
+|----------------------------|
 | Pondělí    | 10:00 - 18:00 |
