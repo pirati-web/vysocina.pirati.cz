@@ -11,7 +11,7 @@ profession: studentka
 heroImg: banner-default.jpg
 img: people/viktorie-vidlakova.jpg
 mail:
-  - viktorie.vidlakova@gmail.com
+  - viktorie.vidlakova@pirati.cz
 profiles:
 
 ---

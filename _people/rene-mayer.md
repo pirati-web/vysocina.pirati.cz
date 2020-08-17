@@ -8,6 +8,8 @@ description: člen Krajského sdružení Vysočina
 profession: revizní technik
 heroImg: banner-default.jpg
 img: people/rene-mayer.jpg
+mail:
+  - rene.mayer@pirati.cz
 ---
 
 René Mayer
