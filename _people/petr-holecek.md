@@ -3,7 +3,7 @@ uid: petr.holecek
 name: Petr Holeček
 category:
   - kandidat2018
-description: kandidát v komunálních volbách 2018 - Nové Město na Moravě
+description: kandidát do krajských voleb 2020
 profession: truhlář
 heroImg: banner-default.jpg
 img: people/petr-holecek.jpg
