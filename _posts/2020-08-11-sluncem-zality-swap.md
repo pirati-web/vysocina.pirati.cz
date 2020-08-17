@@ -6,7 +6,8 @@ layout: post
 title: Srpnový swap již zítra v Jihlavě
 author: Hana Hajnová
 authorId:  hana.hajnova
-image: posts/2020-08-11-sluncem-zality-swap.jpg	
+image: posts/2020-08-11-sluncem-zality-swap.jpg
+important: true
 ---
 
 *Jihlava, 11. srpna 2020* - **Ve středu 12. srpna se v Jihlavském pirátském centru** (Matky Boží 9) koná **od 14 hodin pravidelný výměnný bazar neboli swap**. Po červencové zkušenosti si jistě přijdou na své i rodiče školáků, protože kromě oblečení, bot nebo potřeb do domácnosti se mezi donesenými věcmi objevují i školní pomůcky, obaly a učebnice. 

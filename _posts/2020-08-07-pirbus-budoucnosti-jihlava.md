@@ -7,7 +7,6 @@ title: Příští zastávka - Budoucnost. Piráti představí pirátský autobus
 author: Redakce
 authorId: 
 image: posts/2020-08-07-pirbus-budoucnosti-jihlava.jpg
-important: true
 ---
 
 ***V neděli 9. srpna přijede v 11 hodin na Masarykovo náměstí v Jihlavě pirátský autobus společně s lídryní Hanou Hajnovou a dalšími pirátskými kandidáty pro letošní krajské volby na Vysočině. Využijte jedinečné příležitosti vidět pirátský autobus budoucnosti jako první v republice.***  

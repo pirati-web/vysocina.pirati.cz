@@ -7,7 +7,6 @@ title: Kvalitu škol podpoří lepší spolupráce kraje, měst a obcí
 author: Jan Břížďala
 authorId: jan.brizdala
 image: posts/2020-07-30-podpora-kvality-skol-v-regionu.jpg
-important: true
 ---
 
 *Třebíč, 30. července 2020* - ***Kraj Vysočina je v rámci České republiky charakteristický vysokým počtem obcí (celkem 704) na svém území. Tato skutečnost pak velice úzce souvisí se vzdělávací soustavou v kraji. Jednotlivé školy a školská zařízení jsou rozmístěné po celém území kraje včetně odlehlejších lokalit. To s sebou přináší na jedné straně výhodu pro obyvatele těchto menších obcí, že jsou pro ně školy dobře dostupné. Na straně druhé může být v těchto lokalitách problém sehnat kvalifikované a aprobované učitele či zajistit kvalitní poskytování souvisejících služeb (např. IT řešení). Navíc jsou ředitelé i těchto škol přehlceni administrativou, kterou musí zvládat sami a která není o moc menší než u větších škol.***
