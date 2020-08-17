@@ -6,11 +6,12 @@ category:
   - mstrebicsko
   - kandidat2018
 description: člen Místního sdružení Třebíčsko
-profession: 
+profession:
+heroImg: banner-default.jpg
 img: people/jaroslav-zejda.jpg
 mail:
   - jaroslav.zejda@pirati.cz
-  
+
 ---
 
 Jaroslav Zejda (* 25. listopadu 1994) je od června 2018 členem MS Třebíčsko. Jaroslav Zejda pochází z Čechtína (okr. Třebíč), kde žije dodnes.
@@ -21,4 +22,4 @@ Má pracovní zkušenosti jak z oblasti zemědělského podniku, tak z notářsk
 
 Mezi jeho zájmy patří přátelé, hudba a také politika.
 
-V podzimních komunálních volbách 2018 kandiduje do zastupitelstva obce Čechtín. 
+V podzimních komunálních volbách 2018 kandiduje do zastupitelstva obce Čechtín.

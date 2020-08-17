@@ -4,7 +4,8 @@ name: Jiří Rezek
 category:
   - komise
 description: člen výboru - Jaroměřice nad Rokytnou
-profession: 
+profession:
+heroImg: banner-default.jpg
 img: people/jiri-rezek.jpg
 ---
 

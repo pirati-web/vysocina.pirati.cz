@@ -11,6 +11,7 @@ ordpmstelcsko: 2
 ordmo: 1
 description: 1. místopředsedkyně Místního sdružení Telčsko
 profession: projektová manažerka
+heroImg: banner-default.jpg
 img: people/hana-hajnova.jpg
 mail:
   - hana.hajnova@pirati.cz

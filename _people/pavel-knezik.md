@@ -7,6 +7,7 @@ category:
   - pmpelhrimovsko
 ordpks: 4
 description: 3. místopředseda Krajského sdružení Vysočina
+heroImg: banner-default.jpg
 img: people/pavel-knezik.jpg
 mail:
   - pavel.knezik@pirati.cz

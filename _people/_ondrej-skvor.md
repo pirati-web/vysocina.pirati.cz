@@ -5,11 +5,12 @@ category:
   - clenove
   - mshavlbrod
 description: člen Místního sdružení Havlíčkův Brod
-profession: 
+profession:
+heroImg: banner-default.jpg
 img: people/ondrej-skvor.jpg
 mail:
   - ondrej.skvor@pirati.cz
-  
+
 ---
 
 Narodil se v Havlíčkově Brodě, 18.5.1983 a tam nyní také bydlí.
@@ -18,4 +19,4 @@ Vystudoval Střední průmyslovou školu v Mladé Boleslavy - obor silniční do
 
 Mezi Piráty v Kraji Vysočina se přidal v roce 2016. Je jedním ze zakladatelů místního sdružení v Havlíčkově Brodě.
 
-Mezi jeho zájmy patři snowboarding, floorball, cestování a hudba. Zkušenosti má s pořádáním akcí všeho druhu. 
+Mezi jeho zájmy patři snowboarding, floorball, cestování a hudba. Zkušenosti má s pořádáním akcí všeho druhu.

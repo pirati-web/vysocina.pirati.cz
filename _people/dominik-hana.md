@@ -5,8 +5,9 @@ name: Dominik Hána
 fullname: Dominik Hána        
 category:
   - kandidat2018             
-description: kandidát do komunálních voleb 2018 - Jihlava 
+description: kandidát do krajských voleb 2020
 profession: Student gymnázia se zaměřením na právo, politický aktivista, amatérský herec  
+heroImg: banner-default.jpg
 img: people/dominik-hana.jpg
 
 ---
@@ -18,5 +19,3 @@ Studuje na Gymnáziu Jihlava se zaměřením na právo, ekonomii, dějepis a pro
 Menší zkušenosti s politikou získal ze studentských simulací jednání evropských institucí zřizovaných mimo jiné Evropským parlamentem mládeže (EYP)
 
 Zájmy zahrnují širokou škálu kulturních aktivit jako kesby, hudba nebo účinkování v divadle, sport a filmy.
-
-

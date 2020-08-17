@@ -5,13 +5,14 @@ name: Vojtěch Prchal
 fullname: Vojtěch Prchal      
 category:
   - kandidat2018             
-description: kandidát do komunálních voleb 2018 - Jihlava 
+description: kandidát do komunálních voleb 2018 - Jihlava
 profession: Produktový manažer v inovačním prostředí, doktorand, hodnotitel pro ekonomické vysokoškolské programy v Národním akreditačním úřadu
+heroImg: banner-default.jpg
 img: people/vojtech-prchal.jpg
 
 ---
 
-Zastupitel města Jihlava. 
+Zastupitel města Jihlava.
 
 Vyrostl jsem a žiji v Jihlavě, věnuji se práci v inovačním a startupovém prostředí, zajímám se o tematiku Smart cities a o víkendech si dodělávám doktorát. Jsem cestovatel a dobrodruh.
 

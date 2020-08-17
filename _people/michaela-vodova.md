@@ -9,6 +9,7 @@ category:
   - mstrebicsko
 description: členka KS Vysočina
 profession: sociální pracovnice
+heroImg: banner-default.jpg
 img: people/michaela-vodova.jpg
 mail:
   - michaela.vodova@pirati.cz

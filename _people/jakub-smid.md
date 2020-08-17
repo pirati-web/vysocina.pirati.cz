@@ -5,11 +5,12 @@ category:
   - clenove
   - mshavlbrod
 description: člen Místního sdružení Havlíčkův Brod
-profession: 
+profession:
+heroImg: banner-default.jpg
 img: people/jakub-smid.jpg
 mail:
   - jakub.smid@pirati.cz
-  
+
 ---
 
 Jakub Šmíd se narodil 21. února 1985 v Praze, vyrůstal v Dejvicích, kde navštěvoval sportovní základní školu. Absolvoval Technické lyceum, kde působil po celé čtyři roky ve funkci předsedy třídy. Poté zahájil svůj návrat k přírodě studiem na České zemědělské univerzitě, kde absolvoval obor zahradnictví a doktorské studium zaměřené na léčivé, aromatické a kořeninové rostliny.

@@ -4,9 +4,10 @@ name: Miroslav Teplý
 category:
   - komise
 description: člen komise - Třebíč
-profession: 
+profession:
+heroImg: banner-default.jpg
 img: people/miroslav-teply.jpg
-  
+
 ---
 
 Miroslav Teplý

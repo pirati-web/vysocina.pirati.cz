@@ -4,9 +4,10 @@ name: Marie Vaverková
 category:
   - komise
 description: členka komise - Třebíč
-profession: 
+profession:
+heroImg: banner-default.jpg
 img: people/marie-vaverkova.jpg
-  
+
 ---
 
 Marie Vaverková

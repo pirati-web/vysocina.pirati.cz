@@ -4,6 +4,7 @@ name: Jaroslava Šmídková
 category:
 description:
 profession:
+heroImg: banner-default.jpg
 img: people/jaroslava-smidkova.jpg
 ---
 

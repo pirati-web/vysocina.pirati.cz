@@ -5,7 +5,8 @@ category:
   - clenove
 description: členka Krajského sdružení Vysočina
 profession: restaurátorka kamene
-img: people/veronika-nguyenova.jpg #
+heroImg: banner-default.jpg
+img: people/veronika-nguyenova.jpg
 mail:
   - veronika.nguyenova@pirati.cz
 profiles:

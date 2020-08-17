@@ -8,6 +8,7 @@ category:
   - kontaktni_osoba
 description: člen Krajského sdružení Vysočina # zobrazuje se v lide
 profession: správce JiPiCe
+heroImg: banner-default.jpg
 img: people/ondrej-tuma.jpg
 mail:
   - ondrej.tuma@pirati.cz

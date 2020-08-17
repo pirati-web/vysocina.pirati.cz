@@ -4,9 +4,10 @@ name: Svatava Matušková
 category:
   - komise
 description: členka komise - Třebíč
-profession: 
+profession:
+heroImg: banner-default.jpg
 img: people/svatava-matuskova.jpg
-  
+
 ---
 
 Svatava Matušková

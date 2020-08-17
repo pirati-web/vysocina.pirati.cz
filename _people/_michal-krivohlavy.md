@@ -8,6 +8,7 @@ category:
 ordmschotebor: 1
 description: předseda Místního sdružení Chotěboř
 profession: programátor, elektro projektant
+heroImg: banner-default.jpg
 img: people/michal-krivohlavy.jpg
 mail:
   - michal.krivohlavy@pirati.cz
@@ -18,15 +19,15 @@ profiles:  # vyplnit pouze to, co používáte/vlastníte
 
 Michal Křivohlavý (* 15. prosince 1992 Havlíčkův Brod) je členem MS Chotěboř.
 
-Od narození žije v Chotěboři, v současnosti částečně i v Praze. Vystudoval Střední průmyslovou školu 
-v Kutné Hoře (obor informační technologie) zakončenou maturitou v roce 2012. Následně studoval Univerzitu 
-Hradec Králové, obor informační management. Po roce studia zanechal a začal pracovat jako programátor, 
-elektro projektant v oboru automatizace potravinářského průmyslu. V létě roku 2018 změnil zaměstnavatele 
-a pracuje jako programátor pro pražskou společnost zabývající se převážně automatizací výrobních linek 
+Od narození žije v Chotěboři, v současnosti částečně i v Praze. Vystudoval Střední průmyslovou školu
+v Kutné Hoře (obor informační technologie) zakončenou maturitou v roce 2012. Následně studoval Univerzitu
+Hradec Králové, obor informační management. Po roce studia zanechal a začal pracovat jako programátor,
+elektro projektant v oboru automatizace potravinářského průmyslu. V létě roku 2018 změnil zaměstnavatele
+a pracuje jako programátor pro pražskou společnost zabývající se převážně automatizací výrobních linek
 v automobilovém průmyslu.
 
-Ve svých volných chvílích cestuje a navštěvuje hudební festivaly po Evropě. Mezi oblíbené sporty řadí 
-lyžování, běh na lyžích, plavání či in-line brusle. Mezi jeho další záliby patří naučná literatura, 
+Ve svých volných chvílích cestuje a navštěvuje hudební festivaly po Evropě. Mezi oblíbené sporty řadí
+lyžování, běh na lyžích, plavání či in-line brusle. Mezi jeho další záliby patří naučná literatura,
 hudba a sledování politického dění.
 
 ---

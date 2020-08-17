@@ -5,11 +5,12 @@ category:
   - clenove
   - mshavlbrod
 description: člen Místního sdružení Havlíčkův Brod
-profession: 
+profession:
+heroImg: banner-default.jpg
 img: people/josef-korinek.jpg
 mail:
   - josef.korinek@pirati.cz
-  
+
 ---
 
 Josef Kořínek

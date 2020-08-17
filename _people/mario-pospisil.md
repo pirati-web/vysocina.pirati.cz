@@ -7,9 +7,10 @@ category:
   - pmstelcsko
 ordpmstelcsko: 1
 description: předseda Místního sdružení Telčsko
-profession: 
+profession:
+heroImg: banner-default.jpg
 img: people/mario-pospisil.jpg
-  
+
 ---
 
 nar. 18.09.1955 Ostrava
@@ -24,4 +25,4 @@ Někdy v roce 1987 se se mnou rozvedla žena, pak se stalo důlní neštěstí, 
 
 Můj vztah k návykovým látkám : pozitivní. Tedy pro upřesnění – jsem konzument kávy a tabáku. Zkušenosti mám i s alkoholem, marihuanou a hašišem. Jenže díky zdravotním indispozicím mi je tělo nezpracovává. Už asi čtvrt století. Takže nepožívám. Leč: jsem pro legalizaci marihuany, protože je to významný lék. A podle mých zkušeností je méně návyková než tabák a alkohol.
 
-Zájmy a koníčky: hmmm, jsem takovej ten aktivní důchodce. Mám dva psy (a protože nejsem rasista, rasu neurčím – opsat by se dala jako King Charles von Bahnhof) střední velikosti (tedy 38 a 45 kg), kteří vyžadují aktivitu. Takže se couráme po okolí. Jo a fotím. Takže při tom courání a házení klacků a šišek fotím. Další zájem pro nás pacifisty typický je střelba z velkorážní pistole. Inu – co se v mládí naučíš, xtáru jako když najdeš, že? A pokud to stav rukou dovolí, týrám kytary. Taky hodně čtu. Televizi? Mám, samozřejmě. Jako velkoplošný monitor to docela ujde. Rádio – v autě tuším funguje. Ale nejsem si jistej. Rozhodně když jsem auto kupoval, fungovalo. Internet je naše moře. Snažím se v něm plout – a neutopit se. 
+Zájmy a koníčky: hmmm, jsem takovej ten aktivní důchodce. Mám dva psy (a protože nejsem rasista, rasu neurčím – opsat by se dala jako King Charles von Bahnhof) střední velikosti (tedy 38 a 45 kg), kteří vyžadují aktivitu. Takže se couráme po okolí. Jo a fotím. Takže při tom courání a házení klacků a šišek fotím. Další zájem pro nás pacifisty typický je střelba z velkorážní pistole. Inu – co se v mládí naučíš, xtáru jako když najdeš, že? A pokud to stav rukou dovolí, týrám kytary. Taky hodně čtu. Televizi? Mám, samozřejmě. Jako velkoplošný monitor to docela ujde. Rádio – v autě tuším funguje. Ale nejsem si jistej. Rozhodně když jsem auto kupoval, fungovalo. Internet je naše moře. Snažím se v něm plout – a neutopit se.

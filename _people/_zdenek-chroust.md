@@ -5,6 +5,7 @@ category:
   - kandidat2018
 description: kandidát v komunálních volbách 2018 - Jaroměřice nad Rokytnou
 profession: učitel
+heroImg: banner-default.jpg
 img: people/zdenek-chroust.jpg
 ---
 

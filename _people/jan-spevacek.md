@@ -5,11 +5,12 @@ category:
   - clenove
   - msjihlavsko
 description: člen Místního sdružení Jihlavsko
+heroImg: banner-default.jpg
 img: people/jan-spevacek.jpg
 mail:
   - jan.spevacek@pirati.cz
 profiles:
-  
+
 ---
 
 _Motto: A dej mi sílu unésti / všechno co změnit nemám sil. Jan Skácel_

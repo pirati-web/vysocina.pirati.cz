@@ -6,10 +6,11 @@ category:
   - pmpelhrimovsko
 description: člen Krajského sdružení Vysočina
 profession: ekonom
+heroImg: banner-default.jpg
 img: people/petr-kozel.jpg
 mail:
   - petr.kozel@pirati.cz
-  
+
 ---
 
 Petr Kozel * 17.6.1969 - Praha, od 2001 spokojeně žijící na Vysočině. Celoživotní optimista, ekonom se sportovním duchem a turistickým batohem s knihami nejen o oblíbené historii na zádech, blíženec se vším všudy.

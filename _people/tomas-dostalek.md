@@ -5,6 +5,7 @@ category:
   - clenove
 description: člen Krajského sdružení Vysočina # zobrazuje se v lide
 profession: daňový poradce
+heroImg: banner-default.jpg
 img: people/tomas-dostalek.jpg
 mail:
   - tomas.dostalek@pirati.cz

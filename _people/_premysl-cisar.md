@@ -5,19 +5,20 @@ category:
   - kandidat2018
 description: kandidát v komunálních volbách 2018 - Třebíč
 profession: lékárník
+heroImg: banner-default.jpg
 img: people/premysl-cisar.jpg
 mail:
   - premekcisar@seznam.cz
 profiles:
   facebook: https://www.facebook.com/premekcisar
-  twitter: 
-  linkedin: 
-  instagram: 
-  googleplus: 
-  github: 
-  web: 
-  blog: 
-  
+  twitter:
+  linkedin:
+  instagram:
+  googleplus:
+  github:
+  web:
+  blog:
+
 ---
 
 PharmDr. Přemysl Císař, Ph.D.

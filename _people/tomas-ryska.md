@@ -5,8 +5,9 @@ name: Tomáš Ryška
 fullname: Tomáš Ryška     
 category:
   - kandidat2018        
-description: kandidát do komunálních voleb 2018 - Jihlava # zde pište svoji pozici v rámci Pirátů, nečlenové například " kandidát v komunálních volbách 2018 - Třebíč"
+description: kandidát v krajských volbách 2020
 profession: Student Gymnázia Jihlava, recitátor, začínající básník a písničkář, amatérský herec
+heroImg: banner-default.jpg
 img: people/tomas-ryska.jpg
 
 ---
@@ -20,5 +21,3 @@ Ve volném čase se věnuje tvorbě vlastních básniček a písní, které proz
 Má zájem se angažovat v aktivitách souvisejících s kulturou a školstvím.
 
 Mezi jeho zájmy patří například: vlastní literární a hudební tvorba, cestování, četba, hudba (hra na kytaru, klavír), hraní počítačových her, sport (atletika).
-
-

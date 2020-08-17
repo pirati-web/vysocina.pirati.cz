@@ -3,23 +3,20 @@ uid: martin.tomek
 name: Martin Tomek
 category:
   - komise
-description: člen komise - Třebíč
+description: kandidát v krajských volbách 2020
 profession: podnikatel v IT
+heroImg: banner-default.jpg
 img: people/martin-tomek.jpg
-mail:
-  - tomekm@enviro.cz
-mob:
-  - 602 703 847
 profiles:
   facebook: https://www.facebook.com/martin.tomek.777
-  twitter: 
-  linkedin: 
-  instagram: 
-  googleplus: 
-  github: 
-  web: 
-  blog: 
-  
+  twitter:
+  linkedin:
+  instagram:
+  googleplus:
+  github:
+  web:
+  blog:
+
 ---
 
 Ing. Martin Tomek je členem Kulturní komise Rady města Třebíče.

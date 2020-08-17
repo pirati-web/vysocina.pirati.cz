@@ -5,6 +5,7 @@ category:
   - clenove
 description: člen Krajského sdružení Vysočina
 profession: pedagog volného času
+heroImg: banner-default.jpg
 img: people/roman-zak.jpg
 mail:
   - roman.zak@pirati.cz
@@ -18,4 +19,4 @@ Pracovní zkušenosti: organizace STAN - instruktor volnočasových aktivit, poz
 
 Životním heslem Romana je „carpe diem“.
 
-„Nechci už nadále nečinně sedět a nadávat na politickou situaci, ale aktivně se podílet na příběhu našich životů. Proto jsem se rozhodl kandidovat za Piráty, jež jsou nejblíž mému stylu života a mým politickým názorům. Mým hlavním politickým cílem je vnést odbornost do vládnoucí struktury a přiblížit politiku všem lidem bez rozdílů vzdělání (schopnost porozumět).“ 
+„Nechci už nadále nečinně sedět a nadávat na politickou situaci, ale aktivně se podílet na příběhu našich životů. Proto jsem se rozhodl kandidovat za Piráty, jež jsou nejblíž mému stylu života a mým politickým názorům. Mým hlavním politickým cílem je vnést odbornost do vládnoucí struktury a přiblížit politiku všem lidem bez rozdílů vzdělání (schopnost porozumět).“

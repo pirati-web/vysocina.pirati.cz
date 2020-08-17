@@ -12,6 +12,7 @@ category:
 ordpmsjihlavsko: 2
 description: 1. místopředsedkyně Místního sdružení Jihlavsko
 profession: Koordinátorka, vedoucí sociální služby
+heroImg: banner-default.jpg
 img: people/eva-novakova.jpg
 mail:
   - eva.novakova@pirati.cz

@@ -11,13 +11,14 @@ category:
 ordpmsjihlavsko: 1
 description: předseda Místního sdružení Jihlavsko
 profession: Student Fakulty strojní v Praze, obor strojírenství, ekonomie a řízení podniku. Pracuje v Automotive Lighting na oddělení technologie.
+heroImg: banner-default.jpg
 img: people/tomas-bouda.jpg
 mail:
   - tomas.bouda@pirati.cz
 
 ---
 
-Tomáš Bouda (*3. července 1995 v Jihlavě) Vyrůstal v Jihlavě. Aktuálně studuje v Praze, ale žije v Jihlavě.
+Tomáš Bouda (* 3. července 1995 v Jihlavě) Vyrůstal v Jihlavě. Aktuálně studuje v Praze, ale žije v Jihlavě.
 
 Absolvoval Gymnázium Jihlava, v nynější době studuje Strojní fakultu ČVUT v Praze.
 
@@ -28,6 +29,3 @@ Ve svém volném čase působí jako dobrovolník v Centru pro rodinu Vysočina.
 V Pirátech se podílel na kampani k parlamentním volbám, otevírání pirátského centra a zakládání pirátské buňky v Jihlavě.
 
 Mezi jeho záliby patří: sport (především fotbal, volejbal, tenis), četba, divadlo, ekologie, cestování.
-
-
-

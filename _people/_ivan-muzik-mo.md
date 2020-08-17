@@ -6,13 +6,14 @@ category:
 ordmo: 3
 description:  psavec
 profession:   
+heroImg: banner-default.jpg
 img: people/ivan-muzik.jpg
 mail:
   - ivan.muzik@pirati.cz
 
 ---
 
-**Ivan Mužík** je členem MS Třebíčsko. 
+**Ivan Mužík** je členem MS Třebíčsko.
 
 Vystudoval lesnictví a ekonomii na Mendelově univerzitě v Brně.
 

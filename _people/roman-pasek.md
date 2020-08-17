@@ -10,6 +10,7 @@ ordmo: 3
 description: předseda Místního sdružení Třebíčsko
 descriptionmo: správce webu
 profession: volební manažer
+heroImg: banner-default.jpg
 img: people/roman-pasek.jpg
 mail:
   - roman.pasek@pirati.cz

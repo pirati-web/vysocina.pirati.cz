@@ -6,14 +6,15 @@ category:
   - mo
   - mshavlbrod
   - pmshavlbrod
-ordpmshavlbrod: 1 
+ordpmshavlbrod: 1
 ordmo: 2
 description: předseda Místního sdružení Havlíčkův Brod
-profession: 
+profession:
+heroImg: banner-default.jpg
 img: people/jiri-svoboda.jpg
 mail:
   - jiri.svoboda.hb@pirati.cz
-  
+
 ---
 
 **Jiří Svoboda** (* 22. června 1984)

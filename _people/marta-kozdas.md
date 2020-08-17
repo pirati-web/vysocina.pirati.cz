@@ -5,8 +5,9 @@ name: Marta Kozdas
 fullname: Marta Kozdas       
 category:
   - kandidat2018             
-description: kandidátka v komunálních volbách 2018 - Jihlava 
+description: kandidátka v krajských volbách 2020
 profession: Ředitelka základní a mateřské školy
+heroImg: banner-default.jpg
 img: people/marta-kozdas.jpg
 
 ---

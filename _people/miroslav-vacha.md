@@ -8,6 +8,7 @@ category:
 ordpks: 5
 description: 4. místopředseda Krajského sdružení Vysočina
 profession: zdravotnický záchranář
+heroImg: banner-default.jpg
 img: people/miroslav-vacha.jpg
 mail:
   - miroslav.vacha@pirati.cz

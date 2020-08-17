@@ -5,11 +5,12 @@ category:
   - clenove
   - kandidat2018
 description: člen Krajského sdružení Vysočina
-profession: 
+profession:
+heroImg: banner-default.jpg
 img: people/ladislav-stalmach.jpg
 mail:
   - ladislav.stalmach@pirati.cz
-  
+
 ---
 
 Narodil jsem se 27. června 1970 v Havířově, kde jsem prožil své dětství i školní léta. Ta jsem ukončil v roce 1993 jako učitel tělesné výchovy a zeměpisu. Ihned po ukončení školy jsem se odstěhoval za romantikou na samotu na Vysočinu. Zde jsem učil, kácel stromy, pojišťoval, pečoval o malou dceru a v posledních patnácti letech starostoval.

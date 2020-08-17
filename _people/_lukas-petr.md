@@ -5,19 +5,20 @@ category:
   - kandidat2018
 description: kandidát v komunálních volbách 2018 - Třebíč
 profession: projektant
+heroImg: banner-default.jpg
 img: people/lukas-petr.jpg
 mail:
   - petrluka@centrum.cz
 profiles:
-  facebook: 
-  twitter: 
-  linkedin: 
-  instagram: 
-  googleplus: 
-  github: 
-  web: 
-  blog: 
-  
+  facebook:
+  twitter:
+  linkedin:
+  instagram:
+  googleplus:
+  github:
+  web:
+  blog:
+
 ---
 
 Ing. Lukáš Petr

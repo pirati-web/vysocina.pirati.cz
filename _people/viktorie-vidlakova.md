@@ -6,14 +6,15 @@ category:
   - mstrebicsko
 description: členka místního sdružení Třebíčsko
 profession: studentka
-img: 
+heroImg: banner-default.jpg
+img: people/viktorie-vidlakova.jpg
 mail:
   - viktorie.vidlakova@gmail.com
 profiles:
 
 ---
 
-Viktorie Vidláková(* 19. dubna 1998 v Třebíči) je členkou MS Třebíčsko. 
+Viktorie Vidláková(* 19. dubna 1998 v Třebíči) je členkou MS Třebíčsko.
 
 Vystudovala Obchodní akademii v Třebíči (obor: veřejná správa), kterou v roce 2017 zakončila maturitní zkouškou. Nyní studuje třetí ročník oboru finance a řízení na Vysoké škole polytechnické v Jihlavě, který studuje prezenční formou.
 

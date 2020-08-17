@@ -4,6 +4,7 @@ name: Jan Sztacho
 category:
 description:
 profession:
+heroImg: banner-default.jpg
 img: people/jan-sztacho.jpg
 ---
 

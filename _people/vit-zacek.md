@@ -11,6 +11,7 @@ category:
 ordpmsjihlavsko: 3
 description: 2. místopředseda Místního sdružení Jihlavsko
 profession: Student ekonomie, fanoušek FC Vysočina Jihlava a cestování, politický idealista
+heroImg: banner-default.jpg
 img: people/vit-zacek.jpg
 mail:
   - vit.zacek@pirati.cz

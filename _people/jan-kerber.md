@@ -7,11 +7,12 @@ category:
   - pmshavlbrod
 ordpmshavlbrod: 3
 description: 2. místopředseda Místního sdružení Havlíčkův Brod
-profession: 
+profession:
+heroImg: banner-default.jpg
 img: people/jan-kerber.jpg
 mail:
   - jan.kerber@pirati.cz
-  
+
 ---
 
 **Jan Kerber, DiS.** (narozen 29. 7. 1985 v Havlíčkově Brodě, kde také žije), vystudoval konzervatoř v Pardubicích v oboru hra na klarinet. Po ukončení studia byl přijat na Filozofickou fakultu, Univerzita Pardubice - obor filozofie, studium nedokončil.

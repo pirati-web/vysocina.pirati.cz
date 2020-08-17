@@ -4,7 +4,8 @@ name: Pavel Chlubna
 category:
   - komise
 description: člen komise - Jaroměřice nad Rokytnou
-profession: 
+profession:
+heroImg: banner-default.jpg
 img: people/pavel-chlubna.jpg
 ---
 
