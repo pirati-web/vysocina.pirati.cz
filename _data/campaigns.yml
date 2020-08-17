@@ -7,6 +7,15 @@
   campaigns:
     - title: Krajské volby 2020
       categoryUid: 2020vys
+  subLinks:
+    - title: Financování kampaně
+      icon: ico--calculator
+      classes: bg-black text-white
+      href: https://piroplaceni.pirati.cz/zamer/1491/
+    - title: Sledujte nás na Facebooku
+      icon: ico--facebook
+      classes: bg-brands-facebook text-white
+      href: https://www.facebook.com/pirati.vysocina/
 
 # --------------
 # zastupitelstva

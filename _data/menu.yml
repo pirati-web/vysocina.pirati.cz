@@ -1,19 +1,16 @@
 top:
   - link: "pirati.cz"
     url:  "https://www.pirati.cz"
-    icon: "fa fa-home"
-  - link: "wiki.pirati.cz"
-    url:  "https://wiki.pirati.cz/regiony/vysocina/start"
-    icon: "fa fa-home"
+    icon: "ico--home"
+  - link: "piratskyobchod.cz"
+    url:  "https://piratskyobchod.cz"
+    icon: "ico--cart"
   - link: "Pirátské listy"
     url:  "http://www.piratskelisty.cz"
-    icon: "fa fa-newspaper-o"
-  - link: "Naloď se!"
-    url:  "http://nalodeni.pirati.cz"
-    icon: "fa fa-anchor"
-  - link: "Uplynulé volby"
-    url: "https://vysocina.pirati.cz/volby/"
-    icon: "fa fa-bar-chart"
+    icon: "ico--newspaper"
+#  - link: "Uplynulé volby"
+    #url: "https://vysocina.pirati.cz/volby/"
+    #icon: "fa fa-bar-chart"
 
 main:
   - link: /aktuality/
@@ -22,6 +19,9 @@ main:
   - link: /lide/
     name: Lidé
     match: lide
+  - link: /volby/2020-kraj/
+    name: Krajské volby
+    match: volby-2020
   - link: /jipice/
     name: Pirátské centrum
     match: jipice
