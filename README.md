@@ -1,4 +1,4 @@
-# pardubicky.pirati.cz
+# vysocina.pirati.cz
 
 ## Obsah
 
