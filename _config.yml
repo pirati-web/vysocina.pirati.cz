@@ -135,7 +135,7 @@ defaults:   # defaults values for collection scope
   -
     scope:
       path: "_people"
-      heroImg: articles/2020/kampan20/zahajenikampan1.jpg
+      heroImg: banner-default.jpg
     values:
       layout: "person"
       rbar:
