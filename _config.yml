@@ -65,10 +65,10 @@ facebook:
 
 twitter:
   loadSDK: true
-  profile: PiratskaStrana
+  profile: pirativys
 
 instagram:
-  profilePage: https://www.instagram.com/pirati.cz/
+  profilePage: https://www.instagram.com/vysocinastredempozornosti/
 
 flicker:
   profilePage: https://www.flickr.com/photos/pirati/
@@ -121,7 +121,7 @@ collections:
 
   program:
     output: true
-    permalink: /komunalni-volby/program/:path/
+    permalink: /volby/program/:path/
 
   volby2018:
     output: true
