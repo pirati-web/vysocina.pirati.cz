@@ -21,7 +21,7 @@ contactPersons:
 
 ## Jipice
 
-Pirátské centrum v Jihlavě, známé také jako JiPiCe, slouží jako kancelář poslance za kraj Vysočina Jana Pošváře a také jako zázemí pro aktivní Piráty. Jelikož je transparentně financováno z veřejných peněz, nabízíme centrum ve volných chvílích bezplatně k užitku i vám. Může se hodit na veřejné přednášky, workshopy nebo třeba jako prostor k uskutečnění vašeho jedinečného nápadu.
+Pirátské centrum v Jihlavě, známé také jako Jipice, slouží jako kancelář poslance za kraj Vysočina Jana Pošváře a také jako zázemí pro aktivní Piráty. Jelikož je transparentně financováno z veřejných peněz, nabízíme centrum ve volných chvílích bezplatně k užitku i vám. Může se hodit na veřejné přednášky, workshopy nebo třeba jako prostor k uskutečnění vašeho jedinečného nápadu.
 
 Máte námět na vlastní akci? <a href="https://docs.google.com/forms/d/e/1FAIpQLSe1LKCLdqWKdgvQiCW8MFcciluAYWUNlUSY1w5H1kDCjviZmg/viewform?c=0&w=1">Dejte nám vědět</a>. Jipice je zdarma k dispozici pro akce nekomerční povahy.
 
@@ -31,13 +31,13 @@ Pro rodiče nabízíme vybavený dětský koutek s pracovním místem. Dětský 
 
 ## Otevírací doba
 
-| Jipice  |               |
-|---------|---------------|
-| Pondělí | 12:00 - 17:00 |
-| Úterý   | 12:00 - 17:00 |
-| Středa  | 10:00 - 15:00 |
-| Čtvrtek | 12:00 - 17:00 |
+| Jihlavské pirátské centrum |
+|------------|---------------|
+| Pondělí    | 12:00 - 17:00 |
+| Úterý      | 12:00 - 17:00 |
+| Středa     | 10:00 - 15:00 |
+| Čtvrtek    | 12:00 - 17:00 |
 
-| Poslanecká kancelář |               |
-|---------------------|---------------|
-| Pondělí             | 10:00 - 18:00 |
+| Poslanecká kancelář        |
+|------------|---------------|
+| Pondělí    | 10:00 - 18:00 |
