@@ -1,10 +1,7 @@
 # Welcome to Jekyll!
 #
-# Toto je soubor s hlavním nastavením. Na začátku je nastavení proměných, které
-# je třeba přispůsobit si pro váš web. Později v anglicky popsané části jsou více
-# technické nastavení
-#
 
+# Site settings
 title: Pirátská strana Vysočina
 email: pirati.vysocina@gmail.com
 description: >-
@@ -13,19 +10,19 @@ description: >-
 keywords: piráti, česká pirátská strana, svoboda, demokracie, vysočina, piráti na vysočině
 url: "https://vysocina.pirati.cz" # the base hostname & protocol for your site - added in attempt to fix link sharer to Facebook
 
-mediaStorage: pvysocina #obrazky a pdf jsou na https://a.pirati.cz/vysocina/
-
 administrator:
-  email: jan.suchanek@pirati.cz # mail kam pujdou chybove vystupy
+  email: roman.pasek@pirati.cz # mail kam pujdou chybove vystupy
 
 mediaStorage: vysocina #obrazky a pdf jsou na https://a.pirati.cz/vysocina/
+
+emptyArray: []
 
 organization:
   name: Krajské sdružení Vysočina
   shortName: Krajské sdružení Vysočina
-  contactUid: ondrej.tuma
-  email: ondrej.tuma@pirati.cz
-  phone: +420 770 113 639
+  contactUid: eva.novakova
+  email: eva.novakova@pirati.cz
+  phone: +420 775 666 988
   address:
     Matky Boží 9,
     Jihlava
@@ -35,18 +32,30 @@ organization:
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
 
-# Nastavení zobrazení tabulky kontaktů.
-# Lze využít:
-# 1) předdefinované typy (organizationEmail, organizationRedmineLink, organizationPhone, organizationTransparentAccount, organizationDataBox, piratiRootWebsite)
-# 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
 contactSummaryItems:
-  - type: organizationEmail
-  - type: organizationRedmineLink
-  - type: organizationPhone
-  - type: organizationTransparentAccount
-    includeMoreLink: true
-  - type: organizationDataBox
-  - type: piratiRootWebsite
+ - type: organizationEmail
+ - type: organizationPhone
+ - type: organizationRedmineLink
+ - type: organizationDataBox
+ - type: organizationTransparentAccount
+ - type: piratiRootWebsite
+   includeMoreLink: true
+ - type: custom
+   iconClass: fa fa-facebook
+   label: Facebooková stránka
+   body: <a href="https://www.facebook.com/pirati.vysocina/" target="_blank">Pirátská strana - Vysočina</a>
+ - type: custom
+   iconClass: fa fa-twitter
+   label: Twitter
+   body: <a href="https://twitter.com/PiratskaStrana">@PiratskaStrana</a>
+
+video:
+  # For nice look of the calendar, make sure you get Google Calendar API key
+  # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
+  # For deployment, contact website administrator to set you env variable.
+#  title: Krajský kalendář
+#  id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
+#  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=550&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=i7ipksvi9b852grgjic8mnhua0%40group.calendar.google.com&ctz=Europe%2FPrague
 
 calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
@@ -58,14 +67,13 @@ calendar:
 
 facebook:
   loadSDK: true
-  #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/pirati.vysocina
-  profilePageName: Piráti Vysočina
-  appId: 1526197851008996
+  #vyplntě adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
+  profilePage: "https://www.facebook.com/pirati.vysocina"
+  profilePageName: Piráti Vysočina  
 
 twitter:
   loadSDK: true
-  profile: PiratskaStrana
+  profile: pirativys
 
 instagram:
   profilePage: https://www.instagram.com/pirati.cz/
@@ -80,14 +88,8 @@ github:
   url: https://github.com/pirati-web/vysocina.pirati.cz/
   branch: master
 
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+###################technické
 
 github_username:  pirati-web
 
@@ -100,34 +102,35 @@ theme: jekyll-theme-pirati
 markdown: kramdown
 theme: jekyll-theme-pirati
 plugins:
-  - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
   - jekyll-environment-variables
 paginate_path: "/aktuality/:num/"
-paginate: 12
+paginate: 11
 
 exclude:
   - readme.md
   - Gemfile
   - Gemfile.lock
-  - vendor
+  - package.json
+  - bower.json
+  - gulpfile.js
+  - node_modules
+  - bower_components
+  - vendor  
 
-permalink: /tiskove-zpravy/:title/
+permalink: /aktuality/:title.html
 collections:
   people:
     output: true
     permalink: /lide/:path/
-
   program:
     output: true
-    permalink: /komunalni-volby/program/:path/
-
-  volby2018:
+    permalink: /volby/:path/
+  teams:
     output: true
-    permalink: /volby-2018/:path/
-
-  # Sole purpose is to create candidate lists in separate files.
+    permalink: /pripoj-se/:title/
   candidatelists:
     output: false
 
@@ -135,20 +138,35 @@ defaults:   # defaults values for collection scope
   -
     scope:
       path: "_people"
-      heroImg: articles/2020/kampan20/zahajenikampan1.jpg
     values:
       layout: "person"
-      rbar:
-        - profile
-        - people
+      rbar: 
+        - foto
+        - personContact
+        - personArticles
+          #- people
   -
     scope:
       path: "_program"
     values:
       layout: "program-post"
-      rbar:
-         - garant
-         - program
+      rbar: "volby"
+      #- garant
+      #   - program
+  -
+    scope:
+      path: "_teams"
+    values:
+      layout: "team"
+      rbar: "team-summary, teams-toc"
+  -
+    scope:
+      path: "_posts"
+    values:
+      layout: "post"
+
+fb: https://www.facebook.com/cpsmsk
+tw: PiratiMSK
 
 emptyArray: []
 
@@ -173,6 +191,6 @@ assets:
     - assets/fonts
     - assets/video
     - assets/img
+    - assets/img/posts
+    - assets/snippet
     - _sass
-
-styleguide_base_url: 'https://styleguide.pir-test.eu/latest/'

@@ -1,20 +1,15 @@
 language: ruby
-rvm: 2.5.1
-
-before_install:
-  - gem install bundler
-  - bundle install --path vendor/bundle --full-index
+rvm:
+  2.3.3
 
 script:
-  - rm -rf _site
-  - JEKYLL_ENV=production bundle exec jekyll build --drafts --future
-  - bundle exec htmlproofer --assume-extension --disable-external --url-ignore "#,#fn:1" --alt-ignore '/.*/' ./_site
-
+  - bundle exec jekyll build
+  - bundle exec htmlproofer --assume-extension --disable-external --url-ignore "#" ./_site
 
 branches:
   only:
-    - master
+    - gh-pages
 
 env:
   global:
-    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer

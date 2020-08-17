@@ -3,7 +3,6 @@ uid: petr.kozel
 name: Petr Kozel
 category:
   - clenove
-  - pmpelhrimovsko
 description: člen Krajského sdružení Vysočina
 profession: ekonom
 img: people/petr-kozel.jpg

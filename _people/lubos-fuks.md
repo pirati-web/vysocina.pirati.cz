@@ -4,6 +4,7 @@ name: Luboš Fuks
 category:
   - clenove
   - mstrebicsko
+  - pmstrebicsko
   - kandidat2018
 description: 1. místopředseda Místního sdružení Třebíčsko
 profession: 
