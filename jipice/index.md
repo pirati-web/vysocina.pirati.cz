@@ -1,65 +1,43 @@
 ---
-layout: page
-title: JiPiCe - jihlavské pirátské centrum
+layout: pirate-center
 description:
-keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé
+keywords: jipice, pirátské-centrum, jihlava, centrum
+title: Jipice - Jihlavské pirátské centrum
+shorthand: Jipice
+openingHoursSEO: Mo-Tu 12:00-17:00 We 10:00-15:00 Th 12:00-17:00
+heroHeadline: Jihlavské pirátské centrum
+heroDescription:
+img: jipice/jipice_header.jpg
+address: |
+  Jihlavské pirátské centrum
+  Matky Boží 1182/9
+  586 01 Jihlava
+addressNote:
+contactPersons:
+  - id: ondrej.tuma
+    description: Správce krajského sdružení
+
 ---
-<div class="pce-hero pce-hero--entry">
-    <div class="pce-hero__content">        
-        <img src="https://a.pirati.cz/vysocina/img/jipice/jipice_header.jpg" alt="Jipice - Jihlavské pirátské centrum" style="width: 100%; height: auto; margin:0px 0px">
-        <h2 class="t-h4-alt">
-          Pirátské centrum v Jihlavě, známé také jako JiPiCe, slouží jako kancelář poslance za kraj Vysočina Jana Pošváře a také jako zázemí pro aktivní Piráty. Jelikož je transparentně financováno z veřejných peněz, nabízíme centrum ve volných chvílích bezplatně k užitku i vám. Může se hodit na veřejné přednášky, workshopy nebo třeba jako prostor k uskutečnění vašeho jedinečného nápadu.
-        </h2>
-        <img src="https://a.pirati.cz/vysocina/img/jipice/jipice_koutek.jpg" alt="Jipice - Jihlavské pirátské centrum" style="width: 100%; height: auto; margin:0px 0px">
-    </div>
-</div>
 
+## Jipice
 
+Pirátské centrum v Jihlavě, známé také jako JiPiCe, slouží jako kancelář poslance za kraj Vysočina Jana Pošváře a také jako zázemí pro aktivní Piráty. Jelikož je transparentně financováno z veřejných peněz, nabízíme centrum ve volných chvílích bezplatně k užitku i vám. Může se hodit na veřejné přednášky, workshopy nebo třeba jako prostor k uskutečnění vašeho jedinečného nápadu.
 
-<div class="o-section">
-  <div class="row">
-    <div class="columns medium-4">
-      <div class="o-section-header o-section-header--bordered">
-        <h3 class="o-section__heading t-h4-alt">Logo Jipice</h3>
-      </div>
-      <img src="https://a.pirati.cz/vysocina/img/jipice/jipice_logo.png" alt="Jipice" style="margin:0px 0px">
-    </div>
-    <div class="columns medium-4">
-      <div class="o-section-header o-section-header--bordered">
-        <h3 class="o-section__heading t-h4-alt">Otevírací doba</h3>
-      </div>
-      <div class="u-1margin--top">
-        <br><br>
-        <strong>Pirátské centrum</strong>
-         <ul>
-            <li>Úterý 12:00 - 17:00</li>
-            <li>Středa 10:00 - 15:00</li>
-            <li>Čtvrtek 12:00 - 17:00</li>
-         </ul>
-        <br>
-        <strong>Poslanecká kancelář</strong>
-         <ul>
-            <li>Pondělí 10:00 - 18:00</li>
-            <li>Út - Pá Zavřeno</li>
-         </ul>
-      </div>  
-    </div>    
-    <div class="columns medium-4">
-      <div class="o-section-header o-section-header--bordered">
-        <h3 class="o-section__heading t-h4-alt">Adresa a kontakt</h3>
-      </div>
-      <div class="u-1margin--top">
-          <br><br>
-        <strong>Adresa</strong><br>
-          Matky Boží 1182/9 <br>
-          586 01 Jihlava <br>
-        <strong><u><a href="https://goo.gl/maps/kWW72Lxm7oK2">mapa</a></u></strong><br><br>
-        <strong>Kontakt pro veřejnost i média</strong><br>
-          Ondřej Tůma <br>
-          tel. 770 113 639 <br>
-          jipice@pirati.cz <br><br>
-          Tento <strong><u><a href="https://docs.google.com/forms/d/e/1FAIpQLSe1LKCLdqWKdgvQiCW8MFcciluAYWUNlUSY1w5H1kDCjviZmg/viewform?c=0&w=1">formulář</a></u></strong> prosím použijte, pokud v našem centru chcete pořádat neziskovou aktivitu.
-      </div>
-    </div>
-  </div>
-</div>
+Máte námět na vlastní akci? <a href="https://docs.google.com/forms/d/e/1FAIpQLSe1LKCLdqWKdgvQiCW8MFcciluAYWUNlUSY1w5H1kDCjviZmg/viewform?c=0&w=1">Dejte nám vědět</a>. Jipice je zdarma k dispozici pro akce nekomerční povahy.
+
+## Dětský koutek
+
+Pro rodiče nabízíme vybavený dětský koutek s pracovním místem. Dětský koutek je vybaven hračkami pro děti všech věkových kategorií.
+
+## Otevírací doba
+
+| Jipice  |               |
+|---------|---------------|
+| Pondělí | 12:00 - 17:00 |
+| Úterý   | 12:00 - 17:00 |
+| Středa  | 10:00 - 15:00 |
+| Čtvrtek | 12:00 - 17:00 |
+
+| Poslanecká kancelář |               |
+|---------------------|---------------|
+| Pondělí             | 10:00 - 18:00 |
