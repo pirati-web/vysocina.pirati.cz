@@ -3,11 +3,11 @@ uid: roman.pasek
 name: Roman Pašek
 category:
   - clenove
-  - mstrb
+  - pmstrebicsko
   - mo
-  - kontaktni_osoba
-description: manažer krajských voleb
-descriptionms: předseda místního sdružení
+ordpmstrebicsko: 1
+ordmo: 3
+description: předseda Místního sdružení Třebíčsko
 descriptionmo: správce webu
 profession: volební manažer
 img: people/roman-pasek.jpg
