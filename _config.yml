@@ -121,7 +121,7 @@ collections:
 
   program:
     output: true
-    permalink: /volby/program/:path/
+    permalink: /komunalni-volby/program/:path/
 
   volby2018:
     output: true

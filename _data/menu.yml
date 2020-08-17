@@ -18,13 +18,13 @@ top:
 main:
   - link: /aktuality/
     name: Aktuality
-    match: aktuality  
+    match: aktuality
   - link: /lide/
     name: Lidé
     match: lide
   - link: /jipice/
     name: Pirátské centrum
-    match: jipice    
+    match: jipice
     #submenu:
     #  - link: /lide/pks/
     #    name: Krajské předsednictvo
@@ -74,7 +74,7 @@ bottom:
     links:
       - link: /lide/
         name: Lidé
-      - link: https://vysocina.pirati.cz/komunalni-volby
+      - link: https://vysocina.pirati.cz/volby
         name: Volby
       - link: /aktuality/
         name: Aktuality
