@@ -7,10 +7,16 @@ category:
 description: členka Krajského sdružení Vysočina
 profession: technický pracovník
 heroImg: banner-default.jpg
-# img: people/zdenka-liskova.jpg
+img: people/zdenka-liskova.jpg
 mail:
   - zdenka.liskova@pirati.cz
 
 ---
 
-Zdeňka Lišková
+Vyrůstala jsem na severní Moravě a životní cesta mě přivedla až na Vysočinu, kde bydlím víc jak 20 let a kde se mi velmi líbí.
+
+Vystudovala jsem střední ekonomickou školu, ale již 15 let se zabývám životním prostředím, konkrétně odpadovým hospodářstvím. Pracuji jako střední manager - vedoucí odpadového hospodářství v Technickcý službách města Pelhřimova.
+
+Jsem členkou pirátů od 9. 5. 2019. Chtěla bych pracovat a podporovat pirátské myšlenky, jako demokracii, transparentnost a poctivost, hlavně v Pelhřimově a na Vysočině.
+
+Jinak jsem životní optimistka, smíšek a milovník hudby.
