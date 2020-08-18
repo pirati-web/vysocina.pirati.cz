@@ -1,6 +1,9 @@
 ---
 uid: roman.pasek
 name: Roman Pašek
+titles:
+  before:
+  after:
 category:
   - clenove
   - mstrebicsko
@@ -9,10 +12,9 @@ category:
 ordpmstrebicsko: 1
 ordmo: 5
 description: předseda Místního sdružení Třebíčsko
-descriptionmo: správce webu
 profession: volební manažer, student FF MUNI
-heroImg: banner-default.jpg
 img: people/roman-pasek.jpg
+heroImg: banner-default.jpg
 mail:
   - roman.pasek@pirati.cz
 mob:
@@ -27,8 +29,21 @@ profiles:
   redmine: https://redmine.pirati.cz/users/504
   web: https://www.trebic.cz/roman-pasek/o-1444/p1=30845
   blog: http://romanpasek.blogspot.com/
+  flickr:
+  youtube:
   #linkedin: https://www.linkedin.com/in/romanpasek
   #instagram: https://www.instagram.com/pasekroman  
+partyUid: pirati
+youtube:
+  id: 5f0-nQLHHM4
+  #playlist: PLKqQxo2sZ8NfKKow6zTMyVZF7jfzpIMw9
+  title: "Video"
+  button:
+    url: "https://www.youtube.com/user/CeskaPiratskaStrana/videos"
+    title: "Další videa"
+textbox:
+  title: Textbox
+  text: mistr světa ve skoku pro něco hrozne dlohy poisek který zpusobuje malé kolečko zobrazuje se v lide mistr světa ve skoku pro něco hrazne dlohy poisek který zpusobuje malé kolečko# zobrazuje se v lide mistr světa ve skoku pro něco hrazne dlohy poisek který zpusobuje malé kolečko# zobrazuje se v lide
 ---
 
 Roman Pašek (* 6. května 1993 v Třebíči) je předsedou MS Třebíčsko.
