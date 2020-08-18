@@ -3,7 +3,7 @@ date: 2020-08-18
 category: blog
 tags: Jihlava zahraniční-politika 
 layout: post
-title: Podpořme Bělorusko v jeho touze po svobod
+title: Podpořme Bělorusko v jeho touze po svobodě
 author: Hana Hajnová
 authorId:  hana.hajnova
 image: posts/2020-08-18-podporme-belorusko.jpg
