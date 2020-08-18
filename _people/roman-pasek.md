@@ -8,7 +8,7 @@ category:
 description: předseda Místního sdružení Třebíčsko
 profession: volební manažer, student FF MUNI
 img: people/roman-pasek.jpg
-heroImg: banner-fun.jpg
+heroImg: banner-default.jpg
 mail:
   - roman.pasek@pirati.cz
 mob:
