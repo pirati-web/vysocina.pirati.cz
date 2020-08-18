@@ -9,6 +9,7 @@ heroImg: banner-default.jpg
 img: people/roman-zak.jpg
 mail:
   - roman.zak@pirati.cz
+partyUid: pirati
 ---
 
 Narodil se v Novém Městě na Moravě 29.10.1977, kde vyrůstal a nyní žije. Je ženatý a má malou dcerku Rozárku.

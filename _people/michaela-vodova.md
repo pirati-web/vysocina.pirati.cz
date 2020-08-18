@@ -20,7 +20,7 @@ profiles:  # vyplnit pouze to, co používáte/vlastníte
   twitter: https://twitter.com/misavoda
   web: http://michaelavodova.cz/
   linkedin: https://www.linkedin.com/in/michaela-vodova
-
+partyUid: pirati
 ---
 
 Michaela Vodová (21. května 1979 v Praze) vyrůstala v Karlových Varech. Nyní žije od r. 2008 na Vysočině.

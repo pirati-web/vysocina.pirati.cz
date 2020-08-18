@@ -10,7 +10,7 @@ heroImg: banner-default.jpg
 img: people/irena-bacinova.jpg
 mail:
   - irena.bacinova@pirati.cz
-
+partyUid: pirati
 ---
 
 Irena Bačinová

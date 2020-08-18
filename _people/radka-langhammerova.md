@@ -7,6 +7,7 @@ profession:
 heroImg: banner-default.jpg
 img: people/radka-langhammerova.jpg
 mail:
+partyUid: bezpp
 ---
 
 Studium - Střední odborné učiliště sklářské, Nový Bor

@@ -9,7 +9,7 @@ heroImg: banner-default.jpg
 # img: people/irena-kubatova.jpg
 mail:
   - irena.kubatova@pirati.cz
-
+partyUid: pirati
 ---
 
 Irena Kubátová

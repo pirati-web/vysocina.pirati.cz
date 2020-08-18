@@ -9,7 +9,7 @@ description: kandidát do komunálních voleb 2018 - Jihlava
 profession: Produktový manažer v inovačním prostředí, doktorand, hodnotitel pro ekonomické vysokoškolské programy v Národním akreditačním úřadu
 heroImg: banner-default.jpg
 img: people/vojtech-prchal.jpg
-
+partyUid: bezpp
 ---
 
 Zastupitel města Jihlava.

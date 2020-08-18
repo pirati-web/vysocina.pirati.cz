@@ -21,11 +21,10 @@ profiles:
   twitter: https://twitter.com/pantrumpetka  
   linkedin:   
   instagram: https://www.instagram.com/pan_trumpetka  
-  googleplus: https://plus.google.com/u/0/+OndraTůma
   github:
   web:
   blog:
-
+partyUid: pirati
 ---
 
 Ondřej Tůma (* 6. ledna 1982 v Boskovicích) je členem MS Jihlavsko.

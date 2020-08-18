@@ -10,7 +10,7 @@ heroImg: banner-default.jpg
 img: people/filip-krska.jpg
 mail:
   - filip.krska@pirati.cz
-
+partyUid: pirati
 ---
 
 **Filip Krška** byl předsedou rozhodčí komise, členem zahraničního odboru, a předsedou krajského sdružení Vysočina. V současné době se věnuje organizaci putovního Festivalu svobodných filmů.

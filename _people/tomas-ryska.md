@@ -9,7 +9,7 @@ description: kandidát v krajských volbách 2020
 profession: Student Gymnázia Jihlava, recitátor, začínající básník a písničkář, amatérský herec
 heroImg: banner-default.jpg
 img: people/tomas-ryska.jpg
-
+partyUid: bezpp
 ---
 
 Tomáš Ryška (* 2. května 2000) pochází z Jihlavy, kde vyrůstal a kde i nadále žije (2018).

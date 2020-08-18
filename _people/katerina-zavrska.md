@@ -10,7 +10,7 @@ heroImg: banner-default.jpg
 img: people/katerina-zavrska.jpg
 mail:
   - katerina.zavrska@pirati.cz
-
+partyUid: pirati
 ---
 
 Kateřina Závrská

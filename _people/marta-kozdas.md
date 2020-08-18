@@ -9,7 +9,7 @@ description: kandidátka v krajských volbách 2020
 profession: Ředitelka základní a mateřské školy
 heroImg: banner-default.jpg
 img: people/marta-kozdas.jpg
-
+partyUid: bezpp
 ---
 
 Marta Kozdas (* 28. prosince 1983) je příznivkyně Pirátské strany, za kterou by ráda usedla v jihlavském zastupitelstvu. Narodila se v Jihlavě, kde se studijními a pracovními přestávkami žije dodnes.

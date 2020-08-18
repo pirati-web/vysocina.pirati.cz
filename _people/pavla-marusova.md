@@ -9,5 +9,5 @@ heroImg: banner-default.jpg
 mail:
   - pavla.marusova@pirati.cz
 profiles:
-
+partyUid: pirati
 ---

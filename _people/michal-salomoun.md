@@ -3,10 +3,11 @@ uid: michal.salomoun
 name: Michal Šalomoun
 category:
   - senat2018
-description: kandidát do krajských voleb
+description: kandidát do krajských voleb 2020
 profession:
 heroImg: banner-default.jpg
 img: people/michal-salomoun.jpg
+partyUid: bezpp
 ---
 
 Michal Šalomoun (* 21.10.1974 v Třebíči) Nyní žije na Vysočině a soudí se s kolektivními správci po celé republice.

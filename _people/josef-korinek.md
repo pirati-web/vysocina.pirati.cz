@@ -10,7 +10,7 @@ heroImg: banner-default.jpg
 img: people/josef-korinek.jpg
 mail:
   - josef.korinek@pirati.cz
-
+partyUid: pirati
 ---
 
 Josef Kořínek

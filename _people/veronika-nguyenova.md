@@ -11,7 +11,7 @@ mail:
   - veronika.nguyenova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/veronika.nguyenova.9
-
+partyUid: pirati
 ---
 
 Veronika Nguyenová (* 21. července 1985 v Pardubicích) členka české Pirátské strany a příznivec Pirátské Putovní Univerzity.

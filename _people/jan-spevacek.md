@@ -10,7 +10,7 @@ img: people/jan-spevacek.jpg
 mail:
   - jan.spevacek@pirati.cz
 profiles:
-
+partyUid: pirati
 ---
 
 _Motto: A dej mi sílu unésti / všechno co změnit nemám sil. Jan Skácel_

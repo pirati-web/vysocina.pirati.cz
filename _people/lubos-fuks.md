@@ -11,7 +11,7 @@ heroImg: banner-default.jpg
 img: people/lubos-fuks.jpg
 mail:
   - lubos.fuks@pirati.cz
-
+partyUid: pirati
 ---
 
 Luboš Fuks

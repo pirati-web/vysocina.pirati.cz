@@ -1,5 +1,4 @@
 ---
-
 uid: tomas.prochazka             
 name: Tomáš Procházka        
 category:                 
@@ -12,7 +11,7 @@ img: people/tomas-prochazka.jpg
 mail:
   - tomas.prochazka@pirati.cz
 profiles:
-
+partyUid: pirati
 ---
 
 Bc. Tomáš Procházka (* 20. srpna 1987 v Třebíči) je členem MS Třebíčsko.

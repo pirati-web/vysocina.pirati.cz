@@ -18,7 +18,7 @@ mail:
   - eva.novakova@pirati.cz
 mob:
   - 775 666 988
-
+partyUid: pirati
 ---
 
 Rodačka z Kladna, která se přes Londýn, Jeruzalém a Prahu dostala až do Jihlavy, z korporace do sociálních služeb (a zpět do korporace). V říjnu 2018 byla zvolena členkou Zastupitelstva města Jihlavy, od prosince téhož roku pracuje jako plánovačka logistiky ve společnosti BOSCH, kde je od srpna 2019 i členkou základní odborové organizace KOVO. Je první místopředsedkyní MS Jihlavsko.

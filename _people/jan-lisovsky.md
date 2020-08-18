@@ -9,5 +9,5 @@ heroImg: banner-default.jpg
 mail:
   - jan.lisovsky@pirati.cz
 profiles:
-
+partyUid: pirati
 ---

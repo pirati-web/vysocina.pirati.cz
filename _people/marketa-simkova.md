@@ -9,7 +9,7 @@ img: people/marketa-simkova.jpg
 mail:
   - marketa.simkova@pirati.cz
 profiles:
-
+partyUid: pirati
 ---
 **Mgr. Markéta Šimková**
 

@@ -12,8 +12,8 @@ img: people/jirina-ciprova.jpg
 mail:
   - jirina.ciprova@pirati.cz
 profiles:
-  youtube: https://www.youtube.com/ciprovi  
   web: http://dvornizookoutek.cz
+partyUid: pirati
 ---
 
 Jiřina Ciprová (* 30.listopadu 1967 ve Valašském Meziříčí) je členem MS Třebíčsko.

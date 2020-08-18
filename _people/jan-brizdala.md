@@ -21,7 +21,7 @@ profiles:
   github:
   web:
   blog:
-
+partyUid: pirati
 ---
 
 Jan Břížďala (* 31. srpna 1993) je 1. místopředsedou krajského sdružení Pirátů v Kraji Vysočina

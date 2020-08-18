@@ -11,7 +11,7 @@ mail:
   - tomas.dostalek@pirati.cz
 profiles:
   facebook: https://www.facebook.com/tomas.dostalek.14
-
+partyUid: pirati
 ---
 
 Tomáš Dostálek se narodil 3. srpna 1979 v Přerově a nyní žije se svou rodinou v Chotěboři.

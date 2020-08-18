@@ -9,7 +9,7 @@ description: kandidát do krajských voleb 2020
 profession: Student gymnázia se zaměřením na právo, politický aktivista, amatérský herec  
 heroImg: banner-default.jpg
 img: people/dominik-hana.jpg
-
+partyUid: bezpp
 ---
 
 Dominik Hána (13. 11. 1999) Narozen v Ústí nad Labem, ale většinu života strávil v Jihlavě. V rámci Pirátské strany funguje pouze jako aktivní podporovatel.

@@ -20,7 +20,7 @@ mob:
 profiles:
   facebook: https://www.facebook.com/hanka.hajnova
   linkedin: https://www.linkedin.com/in/hana-hajnova-692a5025
-
+partyUid: pirati
 ---
 
 **Mgr. Hana Hajnová**

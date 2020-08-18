@@ -13,7 +13,7 @@ img: people/viktorie-vidlakova.jpg
 mail:
   - viktorie.vidlakova@pirati.cz
 profiles:
-
+partyUid: pirati
 ---
 
 Viktorie Vidláková(* 19. dubna 1998 v Třebíči) je členkou MS Třebíčsko.

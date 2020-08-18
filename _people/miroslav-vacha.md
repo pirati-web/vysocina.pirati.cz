@@ -12,6 +12,7 @@ heroImg: banner-default.jpg
 img: people/miroslav-vacha.jpg
 mail:
   - miroslav.vacha@pirati.cz
+partyUid: pirati
 ---
 
 Miroslav Vácha (* 14. dubna 1984 v Jihlavě) je členem MS Telčsko. Otec tří dětí.

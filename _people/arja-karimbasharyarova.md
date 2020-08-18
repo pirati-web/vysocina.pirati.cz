@@ -12,7 +12,7 @@ heroImg: banner-default.jpg
 img: people/arja-karimbasharyarova.jpg
 mail:
   - arja.karimbasharyarova@pirati.cz
-
+partyUid: pirati
 ---
 
 Arja Karimbasharyarová

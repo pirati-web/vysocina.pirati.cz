@@ -11,7 +11,7 @@ img: people/milan-dadourek.jpg # zakomentuj radek dokud není fotka
 mail:
   - milan.dadourek@pirati.cz
 profiles:
-
+partyUid: pirati
 ---
 
 Mgr. Milan Daďourek (* 4. dubna 1975) je členem krajského sdružení Vysočina. Pochází z Liberce, od roku 2000 žije v Počítkách na Vysočině. Ženatý, dvě děti.

@@ -16,7 +16,7 @@ profiles:
   github:
   web:
   blog:
-
+partyUid: bezpp
 ---
 
 Ing. Martin Tomek je členem Kulturní komise Rady města Třebíče.

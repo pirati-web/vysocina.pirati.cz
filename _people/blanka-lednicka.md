@@ -11,7 +11,7 @@ heroImg: banner-default.jpg
 img: people/blanka-lednicka.jpg
 mail:
   - blanka.lednicka@pirati.cz
-
+partyUid: pirati
 ---
 
 Blanka Lednická (* 7. listopadu 1980 v Praze) je členkou KS Vysočina. Vyrostla u Prahy, po maturitě se přestěhovala do Brna a v roce 2010 na Vysočinu. Je vdaná a má čtyři děti.

@@ -23,7 +23,7 @@ profiles:
   github:
   web: http://romansemik.cz
   blog:
-
+partyUid: bezpp
 ---
 
 Roman Šemík (* 1962) je několik let registrovaným příznivcem Pirátů. Roman se narodil ve Vysokém Mýtě. Dětství prožil v Kolíně, kde se po ukončení základní školy vzdělával na strojní průmyslovce.

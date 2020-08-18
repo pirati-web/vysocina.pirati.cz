@@ -11,7 +11,7 @@ heroImg: banner-default.jpg
 img: people/zdenka-liskova.jpg
 mail:
   - zdenka.liskova@pirati.cz
-
+partyUid: pirati
 ---
 
 Vyrůstala jsem na severní Moravě a životní cesta mě přivedla až na Vysočinu, kde bydlím víc jak 20 let a kde se mi velmi líbí.

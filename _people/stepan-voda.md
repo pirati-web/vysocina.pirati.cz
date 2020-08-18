@@ -10,7 +10,7 @@ heroImg: banner-default.jpg
 img: people/stepan-voda.jpg
 mail:
   - stepan.voda@pirati.cz
-
+partyUid: pirati
 ---
 
 **Štěpán Voda**

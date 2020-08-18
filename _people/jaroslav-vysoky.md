@@ -10,6 +10,7 @@ heroImg: banner-default.jpg
 img: people/jaroslav-vysoky.jpg
 mail:
   - jaroslav.vysoky@pirati.cz
+partyUid: pirati
 ---
 
 **Jaroslav Vysoký** narozen 18. února 1982 v Třebíči, od července 2018 jsem členem Pirátské strany.

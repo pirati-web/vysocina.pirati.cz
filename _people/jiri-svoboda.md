@@ -14,7 +14,7 @@ heroImg: banner-default.jpg
 img: people/jiri-svoboda.jpg
 mail:
   - jiri.svoboda.hb@pirati.cz
-
+partyUid: pirati
 ---
 
 **Jiří Svoboda** (* 22. června 1984)

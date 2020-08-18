@@ -11,7 +11,7 @@ img: people/marek-krejpsky.jpg
 mail:
   - marek.krejpsky@pirati.cz
 profiles:
-
+partyUid: pirati
 ---
 Ing. Marek Křejpský (* 28. listopadu 1974 v Novém Městě na Moravě) je členem MS Jihlavsko od prosince 2019.
 

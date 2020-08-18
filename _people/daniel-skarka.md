@@ -8,6 +8,7 @@ heroImg: banner-default.jpg
 img: people/daniel-skarka.jpg
 mail:
   - dan.skarka@seznam.cz
+partyUid: bezpp
 ---
 
 Dan je vzděláním sociální antropolog. Pochází ze Žďáru nad Sázavou, ale dlouhodobě žije v Jihlavě. S nezávislým hnutím Fórum Jihlava uspěl v komunálních volbách v roce 2018 a stal se zastupitelem a uvolněným radním města Jihlavy. Jako uvolněný radní zastupuje statutární město Jihlava navenek v oblasti školství, kultury, a tělovýchovy a v oblasti sociálních věcí.

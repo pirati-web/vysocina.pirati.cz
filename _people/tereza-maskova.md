@@ -9,7 +9,7 @@ img: people/tereza-maskova.jpg
 mail:
   - tereza.maskova@pirati.cz
 profiles:
-
+partyUid: pirati
 ---
 
 Tereze je 36 let a žije s manželem a dvěma syny v Pelhřimově, kde pracuje v místní nemocnici jako zdravotní sestra na hemodialýze. Studovala Střední a následně Vyšší zdravotnickou školu v Jihlavě a je oborem diplomovaná všeobecná sestra.

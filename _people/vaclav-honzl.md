@@ -10,7 +10,7 @@ heroImg: banner-default.jpg
 img: people/vaclav-honzl.jpg
 mail:
   - vaclav.honzl@pirati.cz
-
+partyUid: pirati
 ---
 
 Vašek Honzl se narodil 3. prosince 1976 ve Starých Bříštích na Vysočině, kde také s krátkou přestávkou dodnes žije.

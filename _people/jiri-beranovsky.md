@@ -20,7 +20,7 @@ profiles:
   github:
   web:
   blog:
-
+partyUid: pirati
 ---
 
 Jiří Beranovský

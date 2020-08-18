@@ -12,6 +12,7 @@ heroImg: banner-default.jpg
 img: people/mario-pospisil.jpg
 mail:
   - mario.pospisil@pirati.cz
+partyUid: pirati
 ---
 
 nar. 18.09.1955 Ostrava

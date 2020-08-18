@@ -13,7 +13,7 @@ img: people/pavel-knezik.jpg
 mail:
   - pavel.knezik@pirati.cz
 profiles:
-
+partyUid: pirati
 ---
 
 Pavel Knežik (19. října 1979 Čadca, SR) od útlého věku jsem vyrůstal na Vysočině, konkrétně město Pelhřimov (Starý Pelhřimov) kde žiji do teď.

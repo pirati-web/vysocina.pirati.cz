@@ -7,6 +7,7 @@ description: kandidát v komunálních volbách 2018 - Nové Město na Moravě
 profession: technik v ochraně přírody
 heroImg: banner-default.jpg
 img: people/tomas-blazek.jpg
+partyUid: bezpp
 ---
 
 Ing. Tomáš Blažek

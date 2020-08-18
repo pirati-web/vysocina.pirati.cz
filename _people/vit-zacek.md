@@ -15,7 +15,7 @@ heroImg: banner-default.jpg
 img: people/vit-zacek.jpg
 mail:
   - vit.zacek@pirati.cz
-
+partyUid: pirati
 ---
 
 Vít Žáček (*15. dubna 1998) Celý život bydlí v Jihlavě, kde taky odmaturoval na Gymnáziu Jihlava. Nově studuje v Praze na fakultě financí a účetnictví Vysoké školy ekonomické.

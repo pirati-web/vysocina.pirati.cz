@@ -15,7 +15,7 @@ heroImg: banner-default.jpg
 img: people/tomas-bouda.jpg
 mail:
   - tomas.bouda@pirati.cz
-
+partyUid: pirati
 ---
 
 Tomáš Bouda (* 3. července 1995 v Jihlavě) Vyrůstal v Jihlavě. Aktuálně studuje v Praze, ale žije v Jihlavě.

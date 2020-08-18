@@ -11,7 +11,7 @@ heroImg: banner-default.jpg
 img: people/jaroslav-zejda.jpg
 mail:
   - jaroslav.zejda@pirati.cz
-
+partyUid: pirati
 ---
 
 Jaroslav Zejda (* 25. listopadu 1994) je od června 2018 členem MS Třebíčsko. Jaroslav Zejda pochází z Čechtína (okr. Třebíč), kde žije dodnes.

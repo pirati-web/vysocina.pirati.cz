@@ -10,7 +10,7 @@ heroImg: banner-default.jpg
 img: people/jaromir-barak.jpg
 mail:
   - jaromir.barak@pirati.cz
-
+partyUid: pirati
 ---
 
 **Jaromír Barák** absolvoval Obchodní akademii Dr. Albína Bráfa v Třebíči.

@@ -7,6 +7,7 @@ profession:
 heroImg: banner-default.jpg
 img: people/barbora-pokorna.jpg
 mail:
+partyUid: bezpp
 ---
 
 Narodila jsem se v Třebíči a čím jsem starší, tím větší mám k tomuto městu citovou vazbu.

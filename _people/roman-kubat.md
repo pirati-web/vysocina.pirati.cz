@@ -9,7 +9,7 @@ heroImg: banner-default.jpg
 img: people/roman-kubat.jpg
 mail:
   - roman.kubat@pirati.cz
-
+partyUid: pirati
 ---
 
 Mgr. Roman Kubát
