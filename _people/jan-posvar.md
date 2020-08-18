@@ -15,9 +15,23 @@ heroImg: banner-default.jpg
 img: people/jan-posvar.jpg
 mail:
   - jan.posvar@pirati.cz
+asistenti:
+  - name: Martin Huňady
+    tel: 732 251 216
+    mail: hunadym@psp.cz
+  - name: Ondřej Beníček
+    tel: 777 814 824
+    mail: beniceko@psp.cz
+office:
+  - address: Matky Boží 1182/9, 586 01  Jihlava
+    opening: pondělí 10&#58;00 - 18&#58;00
 profiles:
   facebook: https://www.facebook.com/ArAx666
 partyUid: pirati
+redmine: 219
+mpv: 219
+report: 1sXIZ706V7IJMuZETOl33SNVRwXvwTF7y
+calendar: 3jlgg8p8nnj3k6t1gduajv0m1g%40group.calendar.google.com
 ---
 
 Bc. Jan Pošvář (16. května 1985, Kamenice nad Lipou) je místopředsedou vysočinského Krajského sdružení a poslanec za Vysočinu. V Poslanecké sněmovně je členem zemědělského, rozpočtového výboru, místopředseda podvýboru pro daně, cla a loterie a členem volební komise.
