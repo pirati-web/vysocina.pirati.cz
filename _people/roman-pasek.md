@@ -27,13 +27,12 @@ rbar:
   - people
 #  - kodo
 #  - video
-#  - fb
-#  - tw
+  - fb
+  - tw
 #  - textbox
 #  - map
-#  - personArticles
 #  - tagArticles
-#  - board
+  - board
 #  - pageContact
 #asistenti:
 #  - name:
