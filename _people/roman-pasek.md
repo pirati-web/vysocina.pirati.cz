@@ -29,7 +29,6 @@ profiles:
   web: https://www.trebic.cz/roman-pasek/o-1444/p1=30845
   blog: http://romanpasek.blogspot.com/
   flickr: https://www.flickr.com/people/pirati/
-  youtube: https://www.youtube.com/channel/UCBp7yI8zwWZLmRLTyPSZOZQ
   #linkedin: https://www.linkedin.com/in/romanpasek
   #instagram: https://www.instagram.com/pasekroman  
 partyUid: pirati
