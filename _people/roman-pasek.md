@@ -5,6 +5,12 @@ titles:
   before:
   after:
 category:
+  - clenove
+  - mstrebicsko
+  - pmstrebicsko
+  - mo
+ordpmstrebicsko: 1
+ordmo: 4
 description: předseda Místního sdružení Třebíčsko
 profession: volební manažer, student FF MUNI
 img: people/roman-pasek.jpg

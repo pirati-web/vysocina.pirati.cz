@@ -5,7 +5,7 @@ category:
   - clenove
   - mstrebicsko
   - mo
-ordmo: 4
+ordmo: 5
 description: členka místního sdružení Třebíčsko
 profession: studentka
 heroImg: banner-default.jpg

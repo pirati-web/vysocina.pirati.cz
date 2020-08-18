@@ -5,7 +5,9 @@ category:
   - clenove
   - mstrebicsko
   - pks
+  - mo
 ordpks: 2
+ordmo: 6
 description: 1. místopředseda Krajského sdružení Vysočina
 profession: středoškolský učitel
 heroImg: banner-default.jpg
