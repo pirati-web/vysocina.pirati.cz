@@ -5,7 +5,7 @@ category:
   - clenove
   - mstrebicsko
   - kandidat2018
-description: 1. místopředseda Místního sdružení Třebíčsko
+description: člen Místního sdružení Třebíčsko
 profession:
 heroImg: banner-default.jpg
 img: people/lubos-fuks.jpg
