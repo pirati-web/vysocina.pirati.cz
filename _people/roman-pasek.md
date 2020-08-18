@@ -27,12 +27,12 @@ rbar:
   - people
 #  - kodo
 #  - video
-  - fb
-  - tw
+#  - fb
+#  - tw
 #  - textbox
 #  - map
 #  - tagArticles
-  - board
+#  - board
 #  - pageContact
 #asistenti:
 #  - name:
@@ -41,15 +41,15 @@ rbar:
 #office:
 #  - address:
 #    opening:
-boardName: Třebíč
-boardTurn:
-   electionUrl: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=23&xdz=2&xnumnuts=6104&xobec=590266&xstrana=0&xstat=0&xodkaz=1
-   endDate: 01.02.2022
-board:
-   - position: zastupitel města
-     name: Roman Pašek
-   - position: zastupitel města
-     uid: stanislav.neuman
+#boardName: Třebíč
+#boardTurn:
+#   electionUrl: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=23&xdz=2&xnumnuts=6104&xobec=590266&xstrana=0&xstat=0&xodkaz=1
+#   endDate: 01.02.2022
+#board:
+#   - position: zastupitel města
+#     name: Roman Pašek
+#   - position: zastupitel města
+#     uid: stanislav.neuman
 calendar:
 profiles:
   wikipedia:
