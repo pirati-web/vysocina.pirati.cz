@@ -20,15 +20,15 @@ mail:
 mob:
   - 734 507 329
 rbar:
-  - profile
+#  - profile
   - personArticles
-asistenti:
-  - name:
-    tel:
-    mail:
-office:
-  - address:
-    opening:
+#asistenti:
+#  - name:
+#    tel:
+#    mail:
+#office:
+#  - address:
+#    opening:
 calendar:
 profiles:
   wikipedia:
