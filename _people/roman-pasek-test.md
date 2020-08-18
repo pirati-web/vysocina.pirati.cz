@@ -1,26 +1,20 @@
 ---
-uid: roman.pasek
+uid: roman.pasek.test
 name: Roman Pašek
 titles:
-  before:
-  after:
+  before: prof. ThLic. Ing.
+  after: CSc., DiS.
 category:
-  - clenove
-  - mstrebicsko
-  - pmstrebicsko
-  - mo
-ordpmstrebicsko: 1
-ordmo: 5
 description: předseda Místního sdružení Třebíčsko
 profession: volební manažer, student FF MUNI
 img: people/roman-pasek.jpg
-heroImg: banner-default.jpg
+heroImg: banner-fun.jpg
 mail:
   - roman.pasek@pirati.cz
 mob:
   - 734 507 329
 profiles:
-  wikipedia: https://cs.wikipedia.org/wiki/Mirko_Pa%C5%A1ek
+  wikipedia: https://cs.wikipedia.org/wiki/Pir%C3%A1t
   facebook: https://www.facebook.com/pasekrom
   twitter: https://twitter.com/pasekrom
   github: https://github.com/pasekrom
