@@ -2,8 +2,8 @@
 uid: roman.pasek
 name: Roman Pašek
 titles:
-  before: Ing.
-  after: DiS.
+  before:
+  after:
 category:
   - clenove
   - mstrebicsko
