@@ -10,7 +10,7 @@ category:
   - poslanec
 ordpks: 3
 description: 2. místopředseda Krajského sdružení Vysočina # zobrazuje se v lide
-profession: poslanec
+profession: poslanec Parlamentu ČR
 heroImg: banner-default.jpg
 img: people/jan-posvar.jpg
 mail:
@@ -28,9 +28,6 @@ office:
 profiles:
   facebook: https://www.facebook.com/ArAx666
 partyUid: pirati
-redmine: 219
-mpv: 219
-report: 1sXIZ706V7IJMuZETOl33SNVRwXvwTF7y
 calendar: 3jlgg8p8nnj3k6t1gduajv0m1g%40group.calendar.google.com
 ---
 

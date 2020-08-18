@@ -19,6 +19,17 @@ mail:
   - roman.pasek@pirati.cz
 mob:
   - 734 507 329
+rbar:
+  - profile
+  - personArticles
+asistenti:
+  - name:
+    tel:
+    mail:
+office:
+  - address:
+    opening:
+calendar:
 profiles:
   wikipedia:
   facebook: https://www.facebook.com/pasekrom
