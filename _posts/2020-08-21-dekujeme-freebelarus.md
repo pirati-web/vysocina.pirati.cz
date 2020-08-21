@@ -1,7 +1,10 @@
 ---
 date: 2020-08-21
 category: blog
-tags: Jihlava zahraniční-politika
+tags:
+ - Jihlava
+ - zahraniční politika
+ - Bělorusko
 layout: post
 title: Pohár běloruské trpělivosti přetekl. Děkujeme všem, kteří přišli vyjádřit svou podporu běloruským protestům za svobodu
 author: Redakce
