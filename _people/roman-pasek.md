@@ -70,7 +70,7 @@ Roman Pašek (* 6. května 1993 v Třebíči) je předsedou MS Třebíčsko.
 
 Vystudoval Střední průmyslovou školu Třebíč v oboru Elektronické počítačové systémy. Aktuálně studuje na Filozofické fakultě Masarykovy univerzity obor Sdružená uměnovédná studia.
 
-Dříve pracoval jako mechanik měření a regulace, později jako programátor analytik ve firmě I&C Energo a. s. na jaderné elektrárně Dukovany.
+Dříve pracoval jako mechanik měření a regulace, později jako programátor analytik ve firmě I&C Energo a. s. na Jaderné elektrárně Dukovany.
 
 Ve svém volném čase se aktivně věnuje hudbě a pasivně filmu.
 
@@ -88,4 +88,4 @@ Ve svém volném čase se aktivně věnuje hudbě a pasivně filmu.
 
 ---
 
-<iframe width="720" height="480" src="https://mrak.pirati.cz/apps/calendar/embed/YnGTkzY6LKG7Yanq"></iframe>
+<iframe width="720" height="576" src="https://mrak.pirati.cz/apps/calendar/embed/YnGTkzY6LKG7Yanq"></iframe>
