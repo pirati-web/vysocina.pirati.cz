@@ -88,4 +88,4 @@ Ve svém volném čase se aktivně věnuje hudbě a pasivně filmu.
 
 ---
 
-<iframe width="720" height="720" src="https://mrak.pirati.cz/apps/calendar/embed/YnGTkzY6LKG7Yanq"></iframe>
+<iframe width="720" height="480" src="https://mrak.pirati.cz/apps/calendar/embed/YnGTkzY6LKG7Yanq"></iframe>
