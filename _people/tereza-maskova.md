@@ -12,7 +12,7 @@ profiles:
 partyUid: pirati
 ---
 
-Tereze je 36 let a žije s manželem a dvěma syny v Pelhřimově, kde pracuje v místní nemocnici jako zdravotní sestra na hemodialýze. Studovala Střední a následně Vyšší zdravotnickou školu v Jihlavě a je oborem diplomovaná všeobecná sestra.
+Tereze je 36 let a žije s manželem a dvěma syny v Pelhřimově, kde pracuje v místní nemocnici jako terénní pracovník domácí paliativní péče. Studovala Střední a následně Vyšší zdravotnickou školu v Jihlavě a je oborem diplomovaná všeobecná sestra.
 
 O politiku se Tereza začala intenzivněji zajímat asi před 4 lety, když jí došlo, že není nikdo, koho by mohla s klidným svědomím volit. Poslední dva roky Piráty nejen volí, ale šíří pirátské vize, myšlenky a program. Tereza věří, že k sobě mohou být lidé upřímní a přesto zůstat přátelští a slušní a proto se jí zalíbili Piráti na Vysočině, které poznala během svých návštěv krajských setkání v Jihlavě.
 
