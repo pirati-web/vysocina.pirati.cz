@@ -10,7 +10,6 @@ title: Podpořme Bělorusko v jeho touze po svobodě
 author: Hana Hajnová
 authorId:  hana.hajnova
 image: posts/2020-08-18-podporme-belorusko.jpg
-important: true
 ---
 
 Jihlava, 18. srpna 2020 - ***Letošní prezidentské volby v Bělorusku nenaplnily žádnou ze základních náležitostí demokratických voleb. Jejich oficiální výsledek také zdaleka neodpovídá reálnému rozložení volebních preferencí. Proto už více jak týden vyráží statisíce Bělorusů do ulic a volají po opakování voleb a ukončení policejního násilí. Jejich touhu po svobodě a demokracii ale diktátorský režim vytrvale pošlapává a trestá. Na celém světě i v mnoha městech ČR proto probíhají solidární akce na podporu svobodného Běloruska. Jednu z nich pořádá již tento čtvrtek 20. srpna od 16:00 v Jihlavě v parku Gustava Mahlera jihlavská Pirátka Eva Nováková.*** 
