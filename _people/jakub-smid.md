@@ -13,8 +13,10 @@ mail:
 partyUid: pirati
 ---
 
-Jakub Šmíd se narodil 21. února 1985 v Praze, vyrůstal v Dejvicích, kde navštěvoval sportovní základní školu. Absolvoval Technické lyceum, kde působil po celé čtyři roky ve funkci předsedy třídy. Poté zahájil svůj návrat k přírodě studiem na České zemědělské univerzitě, kde absolvoval obor zahradnictví a doktorské studium zaměřené na léčivé, aromatické a kořeninové rostliny.
+Narozen 21. února 1985 v Praze, po absolvování sportovní ZŠ, technického lycea a ČZU dobrovolně odešel žít na Vysočinu. Z Vysočiny nejprve dokončil doktorské studium na ČZU, kde se podílel na založení první legální pěstírny konopí s vysokým obsahem THC.
 
-V roce 2010 se z Prahy a jeho okolí odstěhoval na Vysočinu za lepším vzduchem a lepšími lidmi. Na ČZU stál u zrodu první legální pěstírny konopí s obsahem THC vyšším než 0,3 %. Od roku 2015 pracuje jako zahradník v Chateau Herálec, kde pečuje o anglický park a zásobuje hotelovou kuchyni jedlými květy, divokými rostlinami a vypěstovanou zeleninou.
+Poté pracoval jako zámecký zahradník, pokladník v supermarketu, mistr výroby v sušárně ovoce a zeleniny a prodavač v Hobby Marketu. Splodil zatím tři děti, jednou se oženil a jednou rozvedl. U pirátů působí od r. 2016, mimo jiné v MS Havlíčkův Brod a v RT zemědělství. Jeho hlavním tématem je odklon od antropogenní dezertifikace, potažmo další příčiny, důsledky a možná opatření související s klimatickou změnou (syn. globální oteplování, klimakrize, ekoterorismus, gretenismus…)
 
-Jakub Šmíd má dvě děti, žije na statku zděděném po babičce, ve volném čase se věnuje jeho rekonstrukci, chovu domácích zvířat, volejbalu, aktivitám pro děti a kreslení komiksů. Do České pirátské strany vstoupil v roce 2016. Jeho hlavními politickými cíli jsou legalizace konopí, obnova biologické rozmanitosti a mikroklimatu, omezení nadbytečných zákonů, zákazů a byrokratických postupů.
+Do politické strany vstoupil, aby v politice snížil zastoupení ambiciózních egoistických ziskuchtivých prolhaných psychopatů, sociopatů a jiných patů. Je členem sdružení Pro vodu!, River Tubing Klubu a Mensy ČR.
+
+Pravda a láska musí zvítězit nad lží a nenávistí.
