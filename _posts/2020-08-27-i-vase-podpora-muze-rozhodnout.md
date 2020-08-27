@@ -7,7 +7,7 @@ layout: post
 title: Podpoř Piráty Kraje Vysočina
 author: Redakce
 authorId:  
-image: posts/2020-08-27-i-vase-podpora-muze-rozhodnouts.jpg
+image: posts/2020-08-27-i-vase-podpora-muze-rozhodnout.jpg
 important: true
 ---
 
