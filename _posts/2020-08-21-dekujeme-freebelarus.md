@@ -10,7 +10,6 @@ title: Pohár běloruské trpělivosti přetekl. Děkujeme všem, kteří přiš
 author: Redakce
 authorId:  
 image: posts/2020-08-21-dekujeme-freebelarus.jpg
-important: true
 ---
 
 Jihlava, 21. srpna - ***“Čechoslováci před půlstoletím nedostali šanci rozhodnout o vlastní budoucnosti. Právě proto bychom měli usilovat o to, aby v jiných zemích tuto šanci lidé měli. Bez nátlaku nebo invaze sousedů. Právě proto jsme se včera sešli v jihlavském parku Gustava Mahlera a vyjádřili podporu běloruským občanům,” napsal ke včerejší akci solidarity v Jihlavě pirátský poslanec Jan Pošvář, který se sám akce zúčastnil.***
