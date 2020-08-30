@@ -23,7 +23,7 @@ Dnes toto veřejné prostranství slouží především jako parkoviště. Chyb�
 
 *“Revitalizace náměstí je jedinečnou příležitostí k pojmenování významného veřejného prostranství v centru města. A protože právě připravujeme architektonickou soutěž, rádi bychom s novým pojmenováním pracovali už teď a promítli ho do zadání soutěže. Název i nová podoba mohou jít ruku v ruce, do obou diskuzí proto chceme zapojit veřejnost a docílit toho, aby výsledný návrh vycházel i z potřeb a představ všech kteří náměstí užívají, ať už přes něj chodí do školy, do tanečních či na něm bydlí a pracují. V soutěži pak budeme pracovat s podněty k náměstí i s novým jménem,”* říká Tereza Kafková z Útvaru městského architekta.
 
-***Jihlava je rodu ženského***
+**Jihlava je rodu ženského**
 
 Z úvodní schůzky se zástupci historiků, památkářů, odborníků na veřejný prostor a politiků vzešla idea pojmenovat náměstí po významné jihlavské osobnosti, ideálně po ženě. *„Shodli jsme se na tom, že bychom rádi vnesli do veřejného prostoru více žen. Aktuálně máme v Jihlavě po ženách pojmenovány čtyři[1] ulice (s ulicí Matky Boží pět). I v Jihlavě se přitom narodily nebo žily ženy, které se podílely na kulturním, politickém a společenském životě města a nějakým způsobem jej ovlivnily. Máme tu lékařky, malířky, političky nebo spisovatelky. Chceme představit jejich příběhy a vrátit je do historické paměti našeho města a jeho občanů,“* vysvětluje záměr jedna z jeho iniciátorek, zastupitelka Eva Nováková (Žijeme Jihlavou! – Piráti).
 
@@ -31,7 +31,7 @@ Název by měl vycházet nejen z místní historie, ale i současnosti místní 
 
 Při hledání názvu chce město oslovit širokou i odbornou veřejnost a aktuálně prostřednictvím veřejné výzvy sbírají tipy na zajímavé osobnosti. „Znáte ženu s příběhem vnitřní síly a odvahy, která je v něčem jedinečná, o něco se zasadila a nemělo by se na ni zapomenout? Dejte nám vědět! Užší výběr bude prezentován na zářijovém veřejném projednání zadání architektonické soutěže. S názvem budeme dále pracovat jak při samotné architektonické soutěži, tak při dalších aktivitách zaměřených na veřejnost,“ upřesňuje výzvu směrem k veřejnosti náměstek primátorky Vít Zeman.
 
-***Své tipy na možné názvy můžete posílat na e-mailovou adresu <eva.novakova@jihlava-city.cz> nebo je zanechat ve sběrném boxu umístěném ve vstupní hale jihlavského magistrátu.***
+**Své tipy na možné názvy můžete posílat na e-mailovou adresu <eva.novakova@jihlava-city.cz> nebo je zanechat ve sběrném boxu umístěném ve vstupní hale jihlavského magistrátu.**
 
 ---
 [VIDEO: Náměstí před Dělnickým domem se bude revitalizovat a hledá nové jméno!](https://www.facebook.com/watch/?v=754177908693019)
