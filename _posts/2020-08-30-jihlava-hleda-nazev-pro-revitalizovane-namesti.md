@@ -10,7 +10,6 @@ title: S novou tváří nové jméno - Jihlava hledá název pro revitalizované
 author: Radovan Daněk
 authorId:  
 image: posts/2020-08-30-jihlava-hleda-nazev-pro-revitalizovane-namesti.jpg
-important: true
 ---
 
 Jihlava, 28. srpna 2020 - Prostranství před Dělnickým domem v budoucnu získá novou podobu. Mělo by se opět stát náměstím a reprezentativním prostorem s kulturním a společenským charakterem a hlavně bezpečným místem pro cesty dětí do školy.
