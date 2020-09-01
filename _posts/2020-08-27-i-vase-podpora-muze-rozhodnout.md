@@ -8,7 +8,6 @@ title: Podpoř Piráty Kraje Vysočina
 author: Redakce
 authorId:  
 image: posts/2020-08-27-i-vase-podpora-muze-rozhodnout.jpg
-important: true
 ---
 
 K ovlivňování dění nemusíš být žádný kmotr. Zákony a veřejné dění lze ovlivňovat jednoduše a transparentně. Když se lidé spojí a každý přispěje například stovkou, jsme schopní porazit oligarchy s bezednými marketingovými rozpočty. 
