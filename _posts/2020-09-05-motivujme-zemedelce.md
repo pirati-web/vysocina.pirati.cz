@@ -13,7 +13,7 @@ image: posts/2020-09-05-motivujme-zemedelce.jpg
 
 Při našem výšlapu minulou neděli na nejvyšší vrchol Třebíčska jsme se stali svědky tragické události. Silné deště způsobily obrovské problémy několika obcím, mimo jiné i [Opatovu](https://mapy.cz/zakladni?x=15.6571933&y=49.2286079&z=13&source=muni&id=5436). Za poslední týdny je voda z polí vyplavila již počtvrté. Hasiči odčerpávali vodu ze sklepů a společně s místními odklízeli naplavené bahno.  Okolní pole nabízela smutný pohled. A takový pohled bohužel není na Vysočině ojedinělý. 
 
-![Eroze](/Assets/vysocina/img/2020-09-05-eroze)
+![Eroze](/assets/img/2020-09-05-eroze)
 
 Ačkoli je více než padesát procent půdy v České republice ohroženo vodní a větrnou erozí, stále jsou na řadě takových míst pěstovány „erozní“ plodiny – v našem prostředí především kukuřice, řepa nebo brambory. To často přispívá k tomu, že když přijdou deště, objeví se problémy.
 
