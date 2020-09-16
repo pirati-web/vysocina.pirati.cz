@@ -9,7 +9,7 @@ layout: post
 title: Sněmovna podpořila zákaz klecového chovu slepic
 author: Redakce
 authorId:  
-image: posts/2020-09-08-srpen-ve-snemovne-2020.jpg
+image: posts/2020-09-16-zruseni-klecovych-chovu-slepic.jpg
 important: true
 ---
 
