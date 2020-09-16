@@ -48,9 +48,7 @@ Hana Hajnová, Tereza Mašková
 
 **Odkazy**
 
-[Profil Jan Pošvář](https://www.pirati.cz/lide/jan-posvar)
-
-[Pirati pracují](https://piratipracuji.cz)
+[Zdravotnictví středem pozornosti](https://vysocina.pirati.cz/komunalni-volby/program/2020vys/zdrava/)
  
 ---
 
