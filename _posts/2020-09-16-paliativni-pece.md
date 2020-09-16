@@ -32,7 +32,7 @@ Hana Hajnová, Tereza Mašková
 ***Tabulka: Poskytovatelé domácí hospicové péče na území Kraje Vysočina***
 
 |               | Název         | Územní působnost  |
-| -------- |:-------------:| -----------------:|
+| -------- |:-------------|:-----------------|
 | 1        | Domácí hospic Vysočina, o. p. s. Středisko hospicové péče NMNM  |   Žďár nad Sázavou, Nové Město na Moravě, Bystřice nad Pernštejnem, Velké Meziříčí |
 | 2        | Oblastní charita Havlíčkův Brod                                 |   Havlíčkův Brod, Chotěboř, Světlá nad Sázavou, Humpolec |
 | 3        | Oblastní charita Pelhřimov (Domácí hospicová péče Iris)         |   Humpolec, Pelhřimov, Pacov, Kamenice nad Lipou, Počátky |
