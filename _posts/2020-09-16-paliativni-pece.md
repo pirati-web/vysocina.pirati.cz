@@ -27,6 +27,8 @@ I proto Piráti předložili Poslanecké sněmovně návrh zákona o paliativní
 
 Hana Hajnová, Tereza Mašková
 
+---
+
 ***Tabulka: Poskytovatelé domácí hospicové péče na území Kraje Vysočina***
 
 |               | Název         | Územní působnost  |
