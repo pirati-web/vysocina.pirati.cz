@@ -7,7 +7,7 @@ layout: post
 title: Piráti na Vysočině podpoří koalici proti ANO
 author: Redakce
 authorId: 
-image: posts/Piráti na Vysočině podpoří koalici proti ANO.jpg
+image: posts/2020-10-07-memorandum-koalice-2020.jpg
 ---
 
 *Jihlava, 7. 10. 2020* - Včera ve večerních hodinách došlo k podpisu Memoranda o vzájemné spolupráci stran a hnutí v Kraji Vysočina po letošních krajských volbách. Memorandum uzavřeli Piráti, ODS a STO, KDU-ČSL, ČSSD a Starostové pro Vysočinu (STAN a SNK ED). Na základě tohoto memoranda proběhnou další jednání, jejichž cílem bude připravit návrhy pro rozdělení rezortů v radě Kraje Vysočina a návrh koaliční smlouvy.
