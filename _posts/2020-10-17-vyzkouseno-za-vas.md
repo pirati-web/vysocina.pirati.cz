@@ -4,7 +4,7 @@ category: blog
 tags:
   - koronavirus
 layout: post
-title: Vyzkoušeno za vás: Co dělat, když máte (podezření na) Covid?
+title: Vyzkoušeno za vás - Co dělat, když máte (podezření na) Covid?
 author: Eva Nováková
 authorId:  eva.novakova
 image: posts/2020-10-17-vyzkouseno-za-vas.jpg
