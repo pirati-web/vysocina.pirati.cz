@@ -68,7 +68,7 @@ profiles:
 partyUid: pirati
 ---
 
-Roman Pašek (* 6. května 1993 v Třebíči) je 2. místopředsedou MS Třebíčsko, zastupitelem města Třebíč a zastupitelem Kraje Vysočina.
+Roman Pašek (* 6. května 1993 v Třebíči) je 2. místopředsedou MS Třebíčsko, zastupitelem města Třebíče a zastupitelem Kraje Vysočina.
 
 Vystudoval Střední průmyslovou školu Třebíč v oboru Elektronické počítačové systémy. Aktuálně studuje na Filozofické fakultě Masarykovy univerzity obor Sdružená uměnovédná studia.
 

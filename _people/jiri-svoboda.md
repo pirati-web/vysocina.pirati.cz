@@ -8,7 +8,7 @@ category:
   - pmshavlbrod
 ordpmshavlbrod: 1
 ordmo: 2
-description: předseda Místního sdružení Havlíčkův Brod
+description: předseda MS Havlíčkův Brod
 profession:
 heroImg: banner-default.jpg
 img: people/jiri-svoboda.jpg

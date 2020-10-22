@@ -6,7 +6,7 @@ category:
   - mshavlbrod
   - pmshavlbrod
 ordpmshavlbrod: 2
-description: 1. místopředsedkyně Místního sdružení Havlíčkův Brod
+description: 1. místopředsedkyně MS Havlíčkův Brod
 profession:
 heroImg: banner-default.jpg
 img: people/arja-karimbasharyarova.jpg

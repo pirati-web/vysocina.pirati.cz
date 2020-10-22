@@ -5,14 +5,12 @@ name: Eva Nováková
 fullname: Eva Nováková        
 category:
   - clenove
-  - pmsjihlavsko
   - msjihlavsko
   - kandidat2018
   - koordinator
   - kz
-ordpmsjihlavsko: 2
 ordkz: 6
-description: 1. místopředsedkyně Místního sdružení Jihlavsko
+description: koordinátorka KS Vysočina
 profession: Koordinátorka, vedoucí sociální služby
 heroImg: banner-default.jpg
 img: people/eva-novakova.jpg

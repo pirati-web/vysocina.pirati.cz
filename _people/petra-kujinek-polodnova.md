@@ -5,8 +5,8 @@ category:
   - clenove
   - mstelcsko
   - pmstelcsko
-ordpmstelcsko: 3
-description: 2. místopředsedkyně Místního sdružení Telčsko
+ordpmstelcsko: 2
+description: 1. místopředsedkyně MS Telčsko
 profession: advokátka
 heroImg: banner-default.jpg
 img: people/petra-kujinek-polodnova.jpg

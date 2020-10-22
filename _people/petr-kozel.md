@@ -5,7 +5,7 @@ category:
   - clenove
   - pmspelhrimovsko
 ordpmspelhrimovsko: 2
-description: 1. místopředseda Místního sdružení Pelhřimovsko
+description: 1. místopředseda MS Pelhřimovsko
 profession: ekonom
 heroImg: banner-default.jpg
 img: people/petr-kozel.jpg

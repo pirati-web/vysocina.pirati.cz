@@ -6,7 +6,7 @@ category:
   - mshavlbrod
   - pmshavlbrod
 ordpmshavlbrod: 3
-description: 2. místopředseda Místního sdružení Havlíčkův Brod
+description: 2. místopředseda MS Havlíčkův Brod
 profession:
 heroImg: banner-default.jpg
 img: people/jan-kerber.jpg

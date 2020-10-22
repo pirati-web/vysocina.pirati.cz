@@ -6,8 +6,10 @@ titles:
   after:
 category:
   - clenove
-  - mstrebicsko
-description: členka KS Vysočina
+  - msjihlavsko
+  - pmsjihlavsko
+ordpmsjihlavsko: 3
+description: 2. místopředsedkyně MS Jihlavsko
 profession: sociální pracovnice
 heroImg: banner-default.jpg
 img: people/michaela-vodova.jpg

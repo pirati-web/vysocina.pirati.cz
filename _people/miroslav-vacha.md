@@ -5,8 +5,10 @@ category:
   - clenove
   - pks
   - mstelcsko
+  - pmstelcsko
 ordpks: 5
-description: 4. místopředseda Krajského sdružení Vysočina
+ordpmstelcsko: 3
+description: 4. místopředseda KS Vysočina, 2. místopředseda MS Telčsko
 profession: zdravotnický záchranář
 heroImg: banner-default.jpg
 img: people/miroslav-vacha.jpg
