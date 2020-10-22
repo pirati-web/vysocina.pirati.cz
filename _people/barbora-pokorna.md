@@ -2,12 +2,16 @@
 uid: barbora.pokorna
 name: Barbora Pokorná
 category:
-description:
+  - clenove
+  - pmstrebicsko
+  - kz
+ordpmstrebicsko: 1
+description: předsedkyně MS Třebíčsko
 profession:
 heroImg: banner-default.jpg
 img: people/barbora-pokorna.jpg
-mail:
-partyUid: bezpp
+mail: barbora.pokorna@pirati.cz
+partyUid: pirati
 ---
 
 Narodila jsem se v Třebíči a čím jsem starší, tím větší mám k tomuto městu citovou vazbu.

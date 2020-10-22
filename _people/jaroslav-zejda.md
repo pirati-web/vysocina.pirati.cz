@@ -3,9 +3,10 @@ uid: jaroslav.zejda
 name: Jaroslav Zejda
 category:
   - clenove
+  - pmstrebicsko
   - mstrebicsko
   - kandidat2018
-description: člen Místního sdružení Třebíčsko
+description: 1. místopředseda MS Třebíčsko
 profession:
 heroImg: banner-default.jpg
 img: people/jaroslav-zejda.jpg
