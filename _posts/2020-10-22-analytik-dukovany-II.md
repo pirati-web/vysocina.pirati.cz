@@ -15,35 +15,37 @@ Primárním cílem projektu je připravit sadu analytických podkladů k projekt
 
 **Náplň práce:**
 
-Analytická a odborná činnost, zejména v oblasti projektu Dukovany II.
+- Analytická a odborná činnost, zejména v oblasti projektu Dukovany II.
 
-Vyhledávání informací a dat z českých a zahraničních zdrojů.
+- Vyhledávání informací a dat z českých a zahraničních zdrojů.
 
-Analýza vládních legislativních návrhů a koncepčních materiálů.
+- Analýza vládních legislativních návrhů a koncepčních materiálů.
 
-Účast na jednáních resortních týmů Pirátů
+- Účast na jednáních resortních týmů Pirátů
 
-Spolupráce s dalšími experty v rámci analytického týmu poslaneckého klubu.
+- Spolupráce s dalšími experty v rámci analytického týmu poslaneckého klubu.
 
-Spolupráce na věcné stránce legislativy a příprava podkladů.
+- Spolupráce na věcné stránce legislativy a příprava podkladů.
 
-Tvorba konceptů mediálních výstupů.
+- Tvorba konceptů mediálních výstupů.
 
-Komunikace s odbornou sférou, státními institucemi a dalšími.
+- Komunikace s odbornou sférou, státními institucemi a dalšími.
 
-Spolupráce na tvorbě návrhů programových dokumentů.
+- Spolupráce na tvorbě návrhů programových dokumentů.
+
 
 **Očekávaný výstup práce na projektu:**
 
-Zpracování modelu finanční náročnosti stavby.
+- Zpracování modelu finanční náročnosti stavby.
 
-Zpracování analýzy vládního investorského a dodavatelského modelu.
+- Zpracování analýzy vládního investorského a dodavatelského modelu.
 
-Zpracování analýzy kritické cesty projektu.
+- Zpracování analýzy kritické cesty projektu.
 
-Vypracování časové osy projektu a seznamu klíčových aktérů.
+- Vypracování časové osy projektu a seznamu klíčových aktérů.
 
-Zpracování analýzy a oponentura návrhu tzv. bezemisního zákona.
+- Zpracování analýzy a oponentura návrhu tzv. bezemisního zákona.
+
 
 **Požadavky:**
 
@@ -55,6 +57,7 @@ Orientuje se v prostředí české energetiky, zvládne se seznámit s dobrou pr
 
 Bez střetu zájmů v energetickém businessu.
 
+
 **Nabízíme:**
 
 odměnu až 90 000 Kč za projekt na IČO (podmínka Sněmovny)
@@ -63,11 +66,13 @@ práce pro nejlepší politickou stranu v České republice
 
 možnost podílet se na smysluplné a transparentní politice
 
+
 **Požadavky na zařazení do výběrového řízení:**
 
 Uchazeč zašle potřebnou dokumentaci do 30.10.2020 prostřednictvím [tohoto formuláře](https://www.lmcg2.com/pd/1522693834/?rps=202).
 
 Podmínkou zařazení do výběrového řízení je zaslání strukturovaného životopisu a motivačního dopisu obsahujícího vizi působení v daném projektu. Životopis a motivační dopis vítěze výběrového řízení mohou být zveřejněny i bez předchozího souhlasu.
+
 
 **Termín nástupu:** ihned
 
