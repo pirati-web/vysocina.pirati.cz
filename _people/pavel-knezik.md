@@ -5,8 +5,10 @@ category:
   - clenove
   - pks
   - pmspelhrimovsko
+  - kz
 ordpmspelhrimovsko: 1
 ordpks: 4
+ordkz: 5
 description: 3. místopředseda Krajského sdružení Vysočina
 heroImg: banner-default.jpg
 img: people/pavel-knezik.jpg

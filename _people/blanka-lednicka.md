@@ -4,7 +4,9 @@ name: Blanka Lednická
 category:
   - clenove
   - pks
+  - kz
 ordpks: 1
+ordkz: 3
 description: předsedkyně Krajského sdružení Vysočina
 profession: OSVČ - rodopisec
 heroImg: banner-default.jpg

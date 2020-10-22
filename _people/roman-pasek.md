@@ -9,11 +9,13 @@ category:
   - mstrebicsko
   - pmstrebicsko
   - mo
+  - kz
 #  - kontaktni_osoba
 #contactType: Volební manažer
-ordpmstrebicsko: 1
+ordpmstrebicsko: 3
 ordmo: 4
-description: předseda Místního sdružení Třebíčsko
+ordkz: 7
+description: 2. místopředseda MS Třebíčsko
 profession: volební manažer, student FF MUNI
 img: people/roman-pasek.jpg
 heroImg: banner-default.jpg
@@ -66,7 +68,7 @@ profiles:
 partyUid: pirati
 ---
 
-Roman Pašek (* 6. května 1993 v Třebíči) je předsedou MS Třebíčsko.
+Roman Pašek (* 6. května 1993 v Třebíči) je 2. místopředsedou MS Třebíčsko, zastupitelem města Třebíč a zastupitelem Kraje Vysočina.
 
 Vystudoval Střední průmyslovou školu Třebíč v oboru Elektronické počítačové systémy. Aktuálně studuje na Filozofické fakultě Masarykovy univerzity obor Sdružená uměnovédná studia.
 

@@ -6,8 +6,10 @@ category:
   - mstrebicsko
   - pks
   - mo
+  - kz
 ordpks: 2
 ordmo: 6
+ordkz: 2
 description: 1. místopředseda Krajského sdružení Vysočina
 profession: středoškolský učitel
 heroImg: banner-default.jpg

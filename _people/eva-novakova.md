@@ -9,7 +9,9 @@ category:
   - msjihlavsko
   - kandidat2018
   - koordinator
+  - kz
 ordpmsjihlavsko: 2
+ordkz: 6
 description: 1. místopředsedkyně Místního sdružení Jihlavsko
 profession: Koordinátorka, vedoucí sociální služby
 heroImg: banner-default.jpg

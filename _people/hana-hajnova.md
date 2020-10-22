@@ -7,8 +7,10 @@ category:
   - mstelcsko
   - pmstelcsko
   - kandidat2018
+  - kz
 ordpmstelcsko: 2
 ordmo: 1
+ordkz: 1
 description: 1. místopředsedkyně Místního sdružení Telčsko
 profession: projektová manažerka
 heroImg: banner-default.jpg
