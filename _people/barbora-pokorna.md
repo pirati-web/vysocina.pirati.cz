@@ -4,7 +4,6 @@ name: Barbora Pokorná
 category:
   - clenove
   - pmstrebicsko
-  - kz
 ordpmstrebicsko: 1
 description: předsedkyně MS Třebíčsko
 profession:
