@@ -38,9 +38,9 @@ Rozdělení postů v nově vzniklé koalici je navrženo takto:
 
 Koalice se dohodla uvolnit zastupitele Martina Hyského (ČSSD), který bude předsedat Výboru pro rozvoj strategických projektů, životní prostředí a MA 21 a bude plnit úkoly v oblastech dopravy, na úseku odpadového hospodářství a uplatňování principu udržitelného rozvoje. 
 
-Pirátská lídryně Hana Hajnová ke koaliční dohodě uvedla: *“Vnímám koaliční dohodu jako dobrý signál pro budoucí spolupráci, protože při jejím sestavování jsme si s koaličními partnery vyzkoušeli, že dokážeme spolupracovat a na zásadních věcech se shodnout. Zároveň jsem ráda, že jako Piráti dostaneme prostor realizovat naše programové priority v oblasti regionálního rozvoje, školství, IT a díky práci v komisích a výborech i v oblasti životního prostředí.”* 
-
-*“Podpis koaliční dohody je pro nás důležitým krokem nejen ve spolupráci s dalšími politickými subjekty na Vysočině, ale především směrem k voličům, kteří nám dali svou důvěru. Společně s nimi věřím, že se pirátští zastupitelé budou moci co nejdříve pustit do práce a začít realizovat jednotlivé body našeho programu,”* doplnila Blanka Lednická, předsedkyně KS Vysočina.
+> Pirátská lídryně Hana Hajnová ke koaliční dohodě uvedla: *“Vnímám koaliční dohodu jako dobrý signál pro budoucí spolupráci, protože při jejím sestavování jsme si s koaličními partnery vyzkoušeli, že dokážeme spolupracovat a na zásadních věcech se shodnout. Zároveň jsem ráda, že jako Piráti dostaneme prostor realizovat naše programové priority v oblasti regionálního rozvoje, školství, IT a díky práci v komisích a výborech i v oblasti životního prostředí.”* 
+> 
+> *“Podpis koaliční dohody je pro nás důležitým krokem nejen ve spolupráci s dalšími politickými subjekty na Vysočině, ale především směrem k voličům, kteří nám dali svou důvěru. Společně s nimi věřím, že se pirátští zastupitelé budou moci co nejdříve pustit do práce a začít realizovat jednotlivé body našeho programu,”* doplnila Blanka Lednická, předsedkyně KS Vysočina.
 
 Termín ustavujícího krajského zastupitelstva ještě nebyl stanoven, čeká se na rozhodnutí brněnského krajského soudu, na který se obrátila koalice Pro TOP Vysočinu se stížností na neplatnost voleb. 
 
@@ -52,5 +52,5 @@ Hana Hajnová, <hana.hajnova@pirati.cz>, 721 684 323
 
 
 **ODKAZY**
-
+https://a.pirati.cz/vysocina/pdf/2020-krajska-koalicni-dohoda.pdf
 
