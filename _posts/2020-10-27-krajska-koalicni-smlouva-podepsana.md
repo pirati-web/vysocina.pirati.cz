@@ -52,5 +52,6 @@ Hana Hajnová, <hana.hajnova@pirati.cz>, 721 684 323
 
 
 **ODKAZY**
+
 https://a.pirati.cz/vysocina/pdf/2020-krajska-koalicni-dohoda.pdf
 
