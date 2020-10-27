@@ -8,7 +8,6 @@ title: Krajské fórum Pirátů na Vysočině schválilo návrh krajské koalič
 author: Redakce
 authorId:  
 image: posts/2020-10-26-podpis-koalicni-dohody-kraj.jpg
-important: true
 ---
 
 Jihlava, 26. října 2020 - Pirátské krajské fórum na Vysočině dnes schválilo návrh Koaliční dohody o spolupráci v Zastupitelstvu a Radě Kraje Vysočina ve volebním období 2020-2024. Tu uzavřou Piráti společně s ODS + STO, KDU-ČSL, Starosty pro Vysočinu a ČSSD. Podpis dohody se odehraje za přísných hygienických opatřeních dnes odpoledne v Modrém domě v Jihlavě.
