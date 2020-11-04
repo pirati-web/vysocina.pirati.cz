@@ -8,7 +8,7 @@ layout: post
 title: Piráti spustili celostátní sbírku na technické vybavení pro distanční výuku dětí
 author: Redakce
 authorId:  
-image: posts/22020-10-26-sbirka-notebooku.png
+image: posts/22020-10-26-sbirka-notebooku.jpg
 ---
 
 Praha, 26. října 2020 – S příchodem druhé vlny nákazy koronavirem přešly vzdělávací instituce opět na distanční výuku. Pro mnoho rodin je však zařízení vzdáleného přístupu pro děti nerealizovatelné, protože nedisponují potřebným technickým vybavením. Piráti proto uspořádali celorepublikovou sbírku počítačů a tabletů, přijímají také monitory, stolní myši nebo webkamery. Kampaň #SbirkaNotebooku poběží od 26. října do 2. listopadu a každý, kdo chce přispět, může navštívit některé z pirátských krajských center.
