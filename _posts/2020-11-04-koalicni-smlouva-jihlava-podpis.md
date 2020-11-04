@@ -10,7 +10,7 @@ authorId:  hana.hajnova
 image: posts/2020-11-04-koalicni-smlouva-jihlava-podpis.JPG
 ---
 
-Jihlava, 4. listopadu 2020 - Před včerejším zasedání zastupitelstva města Jihlavy došlo k podpisu aktualizované Koaliční smlouvy na období 2020-2022 mezi zástupci Fóra Jihlava, ODS, Žijeme Jihlavou! a KDU-ČSL. Z devítičlenné rady bude i nadále uvolněno šest jejích členů. 
+Jihlava, 4. listopadu 2020 - Před včerejším zasedáním zastupitelstva města Jihlavy došlo k podpisu aktualizované Koaliční smlouvy na období 2020-2022 mezi zástupci Fóra Jihlava, ODS, Žijeme Jihlavou! a KDU-ČSL. Z devítičlenné rady bude i nadále uvolněno šest jejích členů. 
 
 V úterý 3. března podepsal předseda zastupitelského klubu Žijeme Jihlavou! Vojtěch Prchal (nez. za Piráty) společně s primátorkou Karolínou Koubovou (Fórum Jihlava), Jaroslavem Huňáčkem (ODS) a Martinem Laštovičkou (nez. za KDU-ČSL) koaliční smlouvu. Ve smlouvě samotné nedošlo k žádným věcným změnám, byla pouze aktualizována. Nyní je součástí koalice celé KDU-ČSL a ta se tak bude moci opět opírat o většinu hlasů v zastupitelstvu.  
 
