@@ -36,7 +36,7 @@ Z profesního hlediska mám nejblíže k oblasti regionálního rozvoje, kterém
 
 Myslím, že můj život se příliš nezměnil, pokud neberu v potaz všechna ta jednání a vyjednávaní, která byla často velmi dlouhá a trvala třeba až do noci. Jinak funguji pořád stejně, věnuji se svojí rodině, práci, snad jen kroketu a telčskému kroketovému klubu jsem nemohla letos dát tolik času jako v minulých letech. 
 
-**Nemáte obavy z toho, že v nové poměrně široké koalici se budou tříštit názory a bude obtížné se dohodnout? **
+**Nemáte obavy z toho, že v nové poměrně široké koalici se budou tříštit názory a bude obtížné se dohodnout?**
 
 Při zevrubném pohledu na politické programy všech koaličních subjektů nemám. Můžou se objevit témata, u kterých nebude úplně snadné najít shodu, ale věřím, že takových oblastí bude minimum a domluvit se dokážeme. Stojí před námi velmi těžká a nepředvídatelná doba, kdy bude více než kdykoli jindy potřeba nehledět na malichernosti a zaměřit se na to opravdu důležité. 
 
