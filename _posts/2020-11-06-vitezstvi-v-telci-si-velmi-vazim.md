@@ -20,7 +20,7 @@ Upřímně to bylo překvapení, naše očekávání mířila někam ke dvoucife
 
 Popravdě preferenční hlasy jsem zase až tolik nesledovala, ale vítězství v Telči si velmi cením. 
 
-**Piráti porazili všechny „tradiční“ politické strany, o čem to podle Vás svědčí? **
+**Piráti porazili všechny „tradiční“ politické strany, o čem to podle Vás svědčí?**
 
 Asi bych úplně neřekla, že jsme porazili všechny tradiční strany, ale že voliči jasně vyjádřili většinovou podporu stranám nevládním. To vidím jako ten hlavní signál krajských voleb a tím směrem jsme se také rozhodli vést naše povolební vyjednávání. 
 
