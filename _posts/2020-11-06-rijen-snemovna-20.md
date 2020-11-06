@@ -5,7 +5,7 @@ tags:
   - Sněmovna
   - zemědelství 
 layout: post
-title: ŘÍJEN ve Sněmovně 
+title: Říjen ve Sněmovně 
 author: Jan Pošvář
 authorId:  jan.posvar
 image: posts/2020-11-06-rijen-snemovna-20.jpg
