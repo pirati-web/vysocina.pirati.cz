@@ -14,6 +14,8 @@ heroImg: banner-default.jpg
 img: people/jiri-wiche.jpg
 mail:
   - jiri.wiche@pirati.cz
+mob:
+  - 732 155 377
 partyUid: pirati
 ---
 

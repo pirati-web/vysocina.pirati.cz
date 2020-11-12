@@ -14,6 +14,8 @@ heroImg: banner-default.jpg
 img: people/blanka-lednicka.jpg
 mail:
   - blanka.lednicka@pirati.cz
+mob:
+  - 777 411 494
 partyUid: pirati
 ---
 

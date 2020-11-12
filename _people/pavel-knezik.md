@@ -15,6 +15,8 @@ heroImg: banner-default.jpg
 img: people/pavel-knezik.jpg
 mail:
   - pavel.knezik@pirati.cz
+mob:
+  - 731 427 289
 profiles:
 partyUid: pirati
 ---

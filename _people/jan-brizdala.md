@@ -17,6 +17,8 @@ heroImg: banner-default.jpg
 img: people/jan-brizdala.jpg
 mail:
   - jan.brizdala@pirati.cz
+mob:
+  - 737 209 799
 profiles:
   facebook: https://www.facebook.com/brizdala
   twitter:
