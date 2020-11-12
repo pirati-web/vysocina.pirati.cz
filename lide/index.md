@@ -24,9 +24,6 @@ groups:
   - name: Místní sdružení Pelhřimovsko
     sort: ordpmspelhrimovsko
     category: pmspelhrimovsko
-  - name: Mediální odbor
-    sort: ordmo
-    category: mo
   - name: Členové
     sort: ordclenove
     category: clenove
