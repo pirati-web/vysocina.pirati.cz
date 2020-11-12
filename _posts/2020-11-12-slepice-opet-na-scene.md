@@ -12,7 +12,7 @@ image: posts/2020-11-12-slepice-opet-na-scene.JPG
 important: true
 ---
 
-*Praha, 12. listopadu 2020* - Slepice opět na scéně! Senát dnes bude projednávat novelu zákona na ochranu zvířat před týráním tak, jak přišla z Poslanecké sněmovny. Na stole jsou dvě varianty, drtivá většina výborů doporučuje novelu schválit a postoupit prezidentovi k podpisu. Pouze výbor pro hospodářství, zemědělství a dopravu doporučuje novelu vrátit Sněmovně s pozměňovacími návrhy. A dva z nich jsou velmi kontroverzní. 
+*Praha, 12. listopadu 2020* - Slepice opět na scéně! ***Senát dnes bude projednávat novelu zákona na ochranu zvířat před týráním tak, jak přišla z Poslanecké sněmovny. Na stole jsou dvě varianty, drtivá většina výborů doporučuje novelu schválit a postoupit prezidentovi k podpisu. Pouze výbor pro hospodářství, zemědělství a dopravu doporučuje novelu vrátit Sněmovně s pozměňovacími návrhy. A dva z nich jsou velmi kontroverzní.*** 
 
 Prvním z nich je návrh kompenzací pro drůbežáře. Piráti usilují o to, aby drůbežáři byli finančně motivováni k přestavbě klecových chovů na jejich alternativy. Nicméně příliš vysoké kompenzace mohou naopak motivovat k zavření chovů. To může ohrozit soběstačnost ČR v produkci vajec a tedy zvýšit závislost na jejich dovozu. 
 
