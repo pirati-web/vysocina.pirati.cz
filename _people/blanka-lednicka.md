@@ -8,6 +8,7 @@ category:
 ordpks: 1
 ordkz: 3
 description: předsedkyně KS Vysočina
+descriptionkz: neuvolněná zastupitelka
 profession: OSVČ - rodopisec
 heroImg: banner-default.jpg
 img: people/blanka-lednicka.jpg

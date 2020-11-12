@@ -1,6 +1,6 @@
 ---
 layout: members-kz
-title: Lidé
+title: Zastupitelstvo Kraje Vysočina
 description: Členové a příznivci jsou to dělá Českou pirátskou stranu silnou. Seznamte se Piráty v Kraji Vysočina.
 keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé, zastupitel, zastupitelka, místní sdružení, havlíčkův brod, jihlavsko, telčsko, třebíčsko, pelhřimovsko, vysočina, kraj, komunál
 viewMode: grouped

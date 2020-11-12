@@ -11,6 +11,7 @@ ordpks: 2
 ordmo: 6
 ordkz: 2
 description: 1. místopředseda KS Vysočina
+descriptionkz: uvolněný radní
 profession: středoškolský učitel
 heroImg: banner-default.jpg
 img: people/jan-brizdala.jpg

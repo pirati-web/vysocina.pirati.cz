@@ -8,6 +8,7 @@ category:
   - kz
 ordkz: 4
 description: člen místního sdružení Havlíčkův Brod
+descriptionkz: neuvolněný zastupitel
 profession:
 heroImg: banner-default.jpg
 img: people/jiri-wiche.jpg

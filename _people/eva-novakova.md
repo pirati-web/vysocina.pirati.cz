@@ -11,6 +11,7 @@ category:
   - kz
 ordkz: 6
 description: koordinátorka KS Vysočina
+descriptionkz: neuvolněná zastupitelka
 profession: Koordinátorka, vedoucí sociální služby
 heroImg: banner-default.jpg
 img: people/eva-novakova.jpg

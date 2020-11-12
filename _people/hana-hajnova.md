@@ -12,6 +12,7 @@ ordpmstelcsko: 1
 ordmo: 1
 ordkz: 1
 description: předsedkyně MS Telčsko
+descriptionkz: 1. náměstkyně hejtmana
 profession: projektová manažerka
 heroImg: banner-default.jpg
 img: people/hana-hajnova.jpg
