@@ -92,9 +92,9 @@ bottom:
 transparencySection: false
 
 contact:
+  - id: blanka.lednicka
+    position: Předsedkyně krajského sdružení
   - id: eva.novakova
-    position: Koordinátor
-  - id: roman.pasek
-    position: Volební manažer
+    position: Kontakt pro dobrovolníky
   - id: hana.hajnova
     position: Kontakt pro novináře
