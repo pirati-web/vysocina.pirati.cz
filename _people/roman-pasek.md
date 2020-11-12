@@ -16,7 +16,7 @@ ordpmstrebicsko: 3
 ordmo: 4
 ordkz: 7
 description: 2. místopředseda MS Třebíčsko
-profession: volební manažer, student FF MUNI
+profession: student FF MUNI, zastupitel Kraje Vysočina, zastupitel města Třebíče
 img: people/roman-pasek.jpg
 heroImg: banner-default.jpg
 mail:
