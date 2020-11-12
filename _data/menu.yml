@@ -19,8 +19,8 @@ main:
   - link: /lide/
     name: Lidé
     match: lide
-  - link: /volby/2020-kraj/
-    name: Krajské volby
+  - link: /kz/
+    name: Krajské zastupitelstvo
     match: volby-2020
   - link: /jipice/
     name: Pirátské centrum
