@@ -6,9 +6,6 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé, zastup
 viewMode: grouped
 sort:
 groups:
-  - name: Krajští zastupitelé
-    sort: ordkz
-    category: kz
   - name: Krajské předsednictvo
     sort: ordpks
     category: pks
