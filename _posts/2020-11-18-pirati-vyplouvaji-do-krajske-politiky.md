@@ -28,6 +28,7 @@ Cílem Pirátů je v krajské politice věnovat pozornost aktuálním i dlouhodo
 
 **Odkazy**
 
+[Koaliční dohoda](https://a.pirati.cz/vysocina/pdf/2020-jihlavska-koalicni-smlouva.pdf)
  
 ---
 
