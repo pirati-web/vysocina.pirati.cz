@@ -8,7 +8,7 @@ layout: post
 title: Piráti vyplouvají do krajské politiky na Vysočině. V nové krajské radě zasedne Hana Hajnová a Jan Břížďala
 author: Redakce
 authorId:  
-image: posts/2020-11-18-pirati-vyplouvaji-do-krajske-politiky.JPG
+image: posts/2020-11-18-pirati-vyplouvaji-do-krajske-politiky.jpg
 important: true
 ---
 
