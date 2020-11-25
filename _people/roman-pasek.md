@@ -71,24 +71,28 @@ partyUid: pirati
 
 Roman Pašek (* 6. května 1993 v Třebíči) je 2. místopředsedou MS Třebíčsko, zastupitelem města Třebíče a zastupitelem Kraje Vysočina.
 
-Vystudoval Střední průmyslovou školu Třebíč v oboru Elektronické počítačové systémy. Aktuálně studuje na Filozofické fakultě Masarykovy univerzity obor Sdružená uměnovédná studia.
+Vystudoval Střední průmyslovou školu Třebíč v oboru Elektronické počítačové systémy. Aktuálně studuje kombinovanou formou studia na Filozofické fakultě Masarykovy univerzity obor Sdružená uměnovédná studia.
 
 Dříve pracoval jako mechanik měření a regulace, později jako programátor analytik ve firmě I&C Energo a. s. na Jaderné elektrárně Dukovany.
 
 Ve svém volném čase se aktivně věnuje hudbě a pasivně filmu.
 
 ---
+**Veřejně volené funkce:**
+* od října 2018 zastupitelem města **Třebíče**
+* od října 2020 zastupitelem **Kraje Vysočina**
 
 **Piráti:**
 * od ledna 2018 členem
-* od května 2018 do dubna 2020 1. místopředsedou **KS Vysočina**
-* od října 2018 zastupitelem **Třebíče**
-* od října 2018 předsedou **MS Třebíčsko**
-* podílí na tvorbě **Pirátských listů** - krajské mutace na Vysočině
+* od října 2020 2. místopředsedou **MS Třebíčsko**
+* podílí se na tvorbě **Pirátských listů** - krajské mutace na Vysočině
 * organizátor **VyOsení**
 * organizátor **Festivalu svobodných filmů**
-* spolupořadatel **Festivalu svobodné kultury na Vysočině** - PaRo projekt 2019
+* organizátor **Festivalu svobodné kultury na Vysočině** - PaRo projekt 2019
 
+**Piráti v minulosti:**
+* od května 2018 do dubna 2020 1. místopředsedou **KS Vysočina**
+* od října 2018 do srpna 2020 předsedou **MS Třebíčsko**
 ---
 
 <iframe width="720" height="480" src="https://mrak.pirati.cz/apps/calendar/embed/YnGTkzY6LKG7Yanq"></iframe>
