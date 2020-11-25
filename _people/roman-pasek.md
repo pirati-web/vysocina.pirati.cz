@@ -19,7 +19,7 @@ description: 2. místopředseda MS Třebíčsko
 descriptionkz: neuvolněný zastupitel
 profession: student FF MUNI, zastupitel Kraje Vysočina, zastupitel města Třebíče
 img: people/roman-pasek.jpg
-heroImg: banner-default.jpg
+heroImg: logo-wall.jpg
 mail:
   - roman.pasek@pirati.cz
 mob:
