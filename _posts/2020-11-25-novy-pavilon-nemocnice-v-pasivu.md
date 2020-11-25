@@ -3,7 +3,7 @@ date: 2020-11-25
 category: blog
 tags:
   - zdravotnictví
-  - životní-prostředí
+  - životní prostředí
 layout: post
 title: Nový pavilon Nemocnice Pelhřimov se postaví v pasivním energetickém standardu
 author: Jan Říčan
