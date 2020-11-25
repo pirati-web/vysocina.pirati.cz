@@ -79,8 +79,8 @@ Ve svém volném čase se aktivně věnuje hudbě a pasivně filmu.
 
 ---
 **Veřejné funkce:**
-* od října 2018 zastupitelem města **Třebíče**
-* od října 2020 zastupitelem **Kraje Vysočina**
+* zastupitel města **Třebíče**
+* zastupitel **Kraje Vysočina**
 * předseda **Kontrolního výboru** Zastupitelstva města Třebíče
 * člen **Sociální komise** Rady města Třebíče
 * člen **Redakční rady** Třebíčského zpravodaje
