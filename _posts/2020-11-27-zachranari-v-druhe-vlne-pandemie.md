@@ -44,4 +44,5 @@ Obdržený jednorázový příspěvek od státu za zvládnutí jarní vlny pande
 Co musím opravdu ocenit, je přístup nové hejtmanky Středočeského kraje Petry Peckové. Ta se omluvila záchranářce Veronice Brožové, za minulé jednání kraje vedeného její předchůdkyní Jaroslavou Pokornou Jermanovou z ANO. Veronika na jaře veřejně informovala o reálném stavu zdravotnických pomůcek a jako poděkování obdržela trestní oznámení. Oceňuji její odvahu, která je potřebná ke korekci systémů. Ale to je vlastně smutné, když musíte systém ovlivňovat na základě vlastní frustrace a odvahy.
 
 Bohužel kraje nemají vytvořený systém zpětné vazby zaměstnanců, což nahrává papaláštví. Pokud si dokážeme věci říkat na rovinu, tak jak skutečně jsou, můžeme se z nich poučit. Je tomu však potřeba pomoci dobře nastaveným systémem. Protože tam, kde to papalášstvím stále zavání, zavání to i informačním embargem a zastrašováním. Informace půjdou ven jen takové, jaké se zrovna hodí do krámu. Jenže jen konkrétním jednotlivcům, nikoli nám všem. Rozhodně máme stále co zlepšovat.
+
 ---
