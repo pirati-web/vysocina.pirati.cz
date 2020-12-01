@@ -10,9 +10,9 @@ authorId:
 image: posts/2020-12-01-skolstvi-prochazi-digitalni-reformou.JPG
 ---
 
-Tento článek je součástí Special reportu: [Evropské fondy v Kraji Vysočina](https://euractiv.cz/section/evropske-finance/special_report/evropske-fondy-v-kraji-vysocina-2)
+*Tento článek je součástí Special reportu: [Evropské fondy v Kraji Vysočina](https://euractiv.cz/section/evropske-finance/special_report/evropske-fondy-v-kraji-vysocina-2).*
 
-**S nedostatkem odborných učitelů na Vysočině by mohla pomoct speciální stipendia pro absolventy, myslí si nový radní pro školství a ICT Jan Břížďala. Do výuky chceme dostat více expertů z praxe, říká v rozhovoru pro EURACTIV.cz.**
+S nedostatkem odborných učitelů na Vysočině by mohla pomoct speciální stipendia pro absolventy, myslí si nový radní pro školství a ICT Jan Břížďala. Do výuky chceme dostat více expertů z praxe, říká v rozhovoru pro EURACTIV.cz.
 
 Jan Břížďala je středoškolský učitel a první místopředseda krajského sdružení Pirátů v Kraji Vysočina. V roce 2020 uspěl ve volbách do krajského zastupitelstva a stal se radním pro školství, mládež, sport, informatiku a komunikační technologie.
 
@@ -36,7 +36,7 @@ Chceme aktivněji motivovat firmy, aby pro žáky nabízely i individuální pra
 
 Jedna věc je, co se učí ve škole, druhá pak jaké jsou specifické požadavky jednotlivých firem. Školy mají například možnost účastnit se takzvaného projektu šablon. Zde je jednou z podporovaných aktivit zapojení odborníků z praxe do výuky. Vyučovací proces se tedy dá nastavit i tak, aby přímo do hodin nebo na přednášky přišel zaměstnanec firmy nebo odborník z vysoké školy či z vědecko-výzkumné instituce. Ti pak mohou předávat know-how ze skutečné praxe, aby žáci viděli, jak to celé funguje, a aby vedle teorie učené ve škole viděli i aplikaci poznatků ze skutečného světa.
 
-***Jak získat mladé učitele a učitelky***
+***JAK ZÍSKAT MLADÉ UČITELE A UČITELKY***
 
 **Vy sám jste středoškolský učitel matematiky a chemie. Dalším problémem Vysočiny je právě nedostatek odborných učitelů, přesněji jejich vysoký průměrný věk. Jak dostat do školství více mladých odborníků?**
 
@@ -50,7 +50,7 @@ Pokud se založí vysoká škola, tak docela dlouhou dobu trvá, než si získá
 
 Určitě bych nešel cestou zakládání nové vysoké školy a čekání, jak to dopadne. Místo toho bych byl pro rozšíření nabídky studijních oborů současné Vysoké školy polytechnické, kdy bychom jí zkusili poskytnout maximální metodickou, administrativní či infrastrukturní podporu, jelikož tato škola má samozřejmě vlastní samosprávu, a nemůžeme do jejích věcí zasahovat. Jeden z modelů spolupráce by mohl vypadat tak, že škola by nenabízela vzdělávání pouze v Jihlavě, ale měla by detašovaná pracoviště i v jiných městech, například v Třebíči nebo ve Žďáru nad Sázavou, tedy že by se některé obory daly studovat i mimo krajské město. To už jsem zmiňoval u Vysoké školy ekonomické v Jindřichově Hradci, nebo i Univerzita Karlova má některé fakulty v Hradci Králové či Plzni. I toto tedy vidím jako možnou cestu.
 
-***Fondy EU a jejich dopad***
+***FONDY EU A JEJICH DOPAD***
 
 **Jak se podle Vás na školství v kraji dosud projevily peníze z fondů Evropské unie?**
 
