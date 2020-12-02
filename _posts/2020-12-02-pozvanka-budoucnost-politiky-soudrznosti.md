@@ -8,7 +8,7 @@ layout: post
 title: Pozvánka na webinář Evropské fondy po roce 2020 v Česku
 author: Iveta Fryšová
 authorId:  
-image: posts/2020-pozvanka-budoucnost-politiky-soudrznosti.jpg
+image: posts/2020-12-02-pozvanka-budoucnost-politiky-soudrznosti.jpg
 ---
 
 V současné době jsou na úrovni Evropské unie i v České republice v plném proudu přípravy na nové programové období EU 2021–2027 a probíhají intenzivní vyjednávání o budoucí podobě politiky soudržnosti, možnostech a podmínkách poskytování podpory z evropských prostředků. Aktuálnější informace zejména o stavu přípravy a tematickém zaměření chystaných operačních programů na období po roce 2021 představí zástupci Ministerstva pro místní rozvoj ČR a dalších národních orgánů už příští úterý 8. prosince 2020, a to formou videokonference prostřednictvím webové stránky www.dotaceeu.cz. Pro úplnost zazní v rámci konference také informace k dalším nástrojům a iniciativám, které jsou součástí plánu Next Generation EU a cílí na oživení ekonomiky ve členských zemích po pandemii onemocnění COVID-19.
