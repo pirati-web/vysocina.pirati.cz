@@ -5,7 +5,7 @@ tags:
   - EU
   - rozvoj
 layout: post
-title: Evropské fondy po roce 2020: Budoucnost politiky soudržnosti v Česku
+title: Pozvánka na webinář Evropské fondy po roce 2020 v Česku
 author: Iveta Fryšová
 authorId:  
 image: posts/2020-pozvanka-budoucnost-politiky-soudrznosti.jpg
