@@ -8,7 +8,7 @@ category:
   - mo
   - kz
 ordpks: 2
-ordmo: 6
+ordmo: 7
 ordkz: 2
 description: 1. místopředseda KS Vysočina
 descriptionkz: uvolněný radní
