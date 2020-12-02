@@ -12,13 +12,17 @@ ordmo: 7
 ordkz: 2
 description: 1. místopředseda KS Vysočina
 descriptionkz: uvolněný radní
-profession: středoškolský učitel
+profession: radní Kraje Vysočina
 heroImg: banner-default.jpg
 img: people/jan-brizdala.jpg
 mail:
   - jan.brizdala@pirati.cz
 mob:
   - 737 209 799
+rbar:
+  - profile
+  - personArticles
+  - people
 profiles:
   facebook: https://www.facebook.com/brizdala
   twitter:
