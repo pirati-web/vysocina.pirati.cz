@@ -9,6 +9,7 @@ title: Sbírka počítačů pro děti - Díky darům Piráti na Vysočině pomoh
 author: Eva Nováková
 authorId:  eva.novakova
 image: posts/2020-12-03-dekujeme-za-pocitace-a-notebooky-pro-deti.jpg
+important: true
 ---
 
 Deset rodin z Vysočiny obdrželo darovanou výpočetní techniku, díky které školou povinné děti získaly možnost se účastnit distanční výuky. Sbírka byla součástí celorepublikové iniciativy, kterou Piráti spustili s příchodem podzimních mimořádných vládních opatření. K těm patřilo i uzavření škol a přechod na online vzdělávání. I během druhé vlny se ale ozývaly rodiny, zejména pak rodiče samoživitelé, jimž pro účast jejich dětí na distanční výuce chybělo potřebné vybavení.
