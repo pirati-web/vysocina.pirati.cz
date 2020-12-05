@@ -83,4 +83,4 @@ Nejdůležitějšími hodnotami jsou pro mě svoboda a láska a oblíbeným mott
 
 ---
 
-<iframe src="https://calendar.google.com/calendar/embed?src=hana.hajnova%40kroket.org&ctz=Europe%2FPrague" style="border: 0" width="700" height="600" frameborder="0" scrolling="no"></iframe>
+<p align="center"><iframe src="https://calendar.google.com/calendar/embed?src=hana.hajnova%40kroket.org&ctz=Europe%2FPrague" style="border: 0" width="700" height="600" frameborder="0" scrolling="no"></iframe></p>
