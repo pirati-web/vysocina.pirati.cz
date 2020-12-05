@@ -10,6 +10,17 @@ heroImg: banner-default.jpg
 img: people/vaclav-honzl.jpg
 mail:
   - vaclav.honzl@pirati.cz
+rbar:
+  - profile
+  - boardzm
+  - people
+boardzmName: Zastupitelstvo obce Staré Bříště
+boardzmTurn:
+   electionUrl: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=23&xdz=1&xnumnuts=6103&xobec=561843&xstrana=0
+   startDate: 6. 10. 2018
+boardzm:
+   - position: starosta
+     uid: vaclav.honzl
 partyUid: pirati
 ---
 

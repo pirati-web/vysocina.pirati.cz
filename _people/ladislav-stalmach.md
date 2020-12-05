@@ -10,6 +10,17 @@ heroImg: banner-default.jpg
 img: people/ladislav-stalmach.jpg
 mail:
   - ladislav.stalmach@pirati.cz
+rbar:
+  - profile
+  - boardzm
+  - people
+boardzmName: Zastupitelstvo obce Vír
+boardzmTurn:
+   electionUrl: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=23&xdz=1&xnumnuts=6105&xobec=597074&xstrana=0
+   startDate: 6. 10. 2018
+boardzm:
+   - position: starosta
+     uid: ladislav.stalmach
 partyUid: pirati
 ---
 

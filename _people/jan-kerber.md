@@ -12,6 +12,17 @@ heroImg: banner-default.jpg
 img: people/jan-kerber.jpg
 mail:
   - jan.kerber@pirati.cz
+rbar:
+  - profile
+  - boardzm
+  - people
+boardzmName: Zastupitelstvo města Havlíčkův Brod
+boardzmTurn:
+   electionUrl: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=23&xdz=2&xnumnuts=6101&xobec=568414&xstrana=0
+   startDate: 6. 10. 2018
+boardzm:
+   - position: zastupitel
+     uid: jan.kerber
 partyUid: pirati
 ---
 

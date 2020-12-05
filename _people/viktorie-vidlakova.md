@@ -12,6 +12,17 @@ heroImg: banner-default.jpg
 img: people/viktorie-vidlakova.jpg
 mail:
   - viktorie.vidlakova@pirati.cz
+rbar:
+  - profile
+  - boardzm
+  - people
+boardzmName: Zastupitelstvo obce Hvězdoňovice
+boardzmTurn:
+   electionUrl: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=23&xdz=1&xnumnuts=6104&xobec=590690&xstrana=0
+   startDate: 6. 10. 2018
+boardzm:
+   - position: zastupitelka
+     uid: viktorie.vidlakova
 profiles:
 partyUid: pirati
 ---

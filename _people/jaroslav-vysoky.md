@@ -10,6 +10,21 @@ heroImg: banner-default.jpg
 img: people/jaroslav-vysoky.jpg
 mail:
   - jaroslav.vysoky@pirati.cz
+rbar:
+  - profile
+  - boardzm
+  - people
+boardzmName: Zastupitelstvo města Jaroměřice nad Rokytnou
+boardzmTurn:
+   electionUrl: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=23&xdz=2&xnumnuts=6104&xobec=590754&xstrana=0
+   startDate: 6. 10. 2018
+boardzm:
+   - position: zastupitel
+     name: Miloslav Janda
+   - position: zastupitel
+     name: Zdeněk Chroust
+   - position: zastupitel
+     uid: jaroslav.vysoky
 partyUid: pirati
 ---
 

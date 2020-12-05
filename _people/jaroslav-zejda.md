@@ -13,6 +13,17 @@ heroImg: banner-default.jpg
 img: people/jaroslav-zejda.jpg
 mail:
   - jaroslav.zejda@pirati.cz
+rbar:
+  - profile
+  - boardzm
+  - people
+boardzmName: Zastupitelstvo obce Čechtín
+boardzmTurn:
+   electionUrl: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=23&xdz=1&xnumnuts=6104&xobec=590452&xstrana=0
+   startDate: 6. 10. 2018
+boardzm:
+   - position: zastupitel
+     uid: jaroslav.zejda
 partyUid: pirati
 ---
 
