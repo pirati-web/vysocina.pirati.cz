@@ -1,4 +1,4 @@
-{% assign posts = site.posts | assign maxPostCount = 3 | where_exp: "item","item.authorId contains page.uid" | sort:"date" %}
+{% assign posts = site.posts | where_exp: "item","item.authorId contains page.uid" | sort:"date" %}
 
 {% if posts %}
   {% include right-bar/rbar_articles.html posts=posts title="článků" %}
