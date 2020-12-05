@@ -26,6 +26,7 @@ mob:
   - 734 507 329
 rbar:
   - profile
+  - board
   - personArticles
   - people
 #  - kodo
@@ -35,7 +36,7 @@ rbar:
 #  - textbox
 #  - map
 #  - tagArticles
-  - board
+#  - board
 #  - pageContact
 #asistenti:
 #  - name:
