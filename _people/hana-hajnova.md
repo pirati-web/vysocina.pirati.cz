@@ -25,21 +25,6 @@ rbar:
   - boardkz
   - boardzm
   - people
-boardzmName: Zastupitelstvo města Telče
-boardzmTurn:
-   electionUrl: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=23&xdz=2&xnumnuts=6102&xobec=588024&xstrana=0&xstat=0&xodkaz=1
-   startDate: 6. 10. 2018
-boardzm:
-   - position: zastupitel
-     name: Jiří Pykal
-   - position: zastupitel
-     name: Pavel Dvořák
-   - position: zastupitelka
-     uid: hana.hajnova
-   - position: zastupitelka
-     uid: petra.kujinek.polodnova
-   - position: zastupitelka
-     name: Helena Tomšíková
 boardkzName: Zastupitelstvo Kraje Vysočina
 boardkzTurn:
    electionUrl: https://volby.cz/pls/kz2020/kz111?xjazyk=CZ&xkraj=9&xstrana=0&xv=2&xt=3
@@ -59,6 +44,21 @@ boardkz:
      uid: eva.novakova
    - position: zastupitel
      uid: roman.pasek
+boardzmName: Zastupitelstvo města Telče
+boardzmTurn:
+   electionUrl: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=23&xdz=2&xnumnuts=6102&xobec=588024&xstrana=0&xstat=0&xodkaz=1
+   startDate: 6. 10. 2018
+boardzm:
+   - position: zastupitel
+     name: Jiří Pykal
+   - position: zastupitel
+     name: Pavel Dvořák
+   - position: zastupitelka
+     uid: hana.hajnova
+   - position: zastupitelka
+     uid: petra.kujinek.polodnova
+   - position: zastupitelka
+     name: Helena Tomšíková
 profiles:
   facebook: https://www.facebook.com/hanka.hajnova
   linkedin: https://www.linkedin.com/in/hana-hajnova-692a5025
@@ -83,4 +83,4 @@ Nejdůležitějšími hodnotami jsou pro mě svoboda a láska a oblíbeným mott
 
 ---
 
-<iframe src="https://calendar.google.com/calendar/embed?src=hana.hajnova%40kroket.org&ctz=Europe%2FPrague" style="border: 0" width="720" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=hana.hajnova%40kroket.org&ctz=Europe%2FPrague" style="border: 0" width="700" height="600" frameborder="0" scrolling="no"></iframe>

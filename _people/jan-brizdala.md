@@ -21,8 +21,27 @@ mob:
   - 737 209 799
 rbar:
   - profile
-  - personArticles
+  - boardkz
   - people
+boardkzName: Zastupitelstvo Kraje Vysočina
+boardkzTurn:
+   electionUrl: https://volby.cz/pls/kz2020/kz111?xjazyk=CZ&xkraj=9&xstrana=0&xv=2&xt=3
+   startDate: 3. 10. 2020
+boardkz:
+   - position: 1. náměstkyně
+     uid: hana.hajnova
+   - position: radní
+     uid: jan.brizdala
+   - position: zastupitelka
+     uid: blanka.lednicka
+   - position: zastupitel
+     uid: jiri.wiche
+   - position: zastupitel
+     uid: pavel.knezik
+   - position: zastupitelka
+     uid: eva.novakova
+   - position: zastupitel
+     uid: roman.pasek
 profiles:
   facebook: https://www.facebook.com/brizdala
   twitter:
@@ -47,4 +66,4 @@ Po komunálních volbách 2018 ve městě Třebíč byl jmenován místopředsed
 
 Na krajské úrovni vede resortní tým pro školství, mládež a sport.
 
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=jan.brizdala%40gmail.com&amp;color=%23333333&amp;ctz=Europe%2FPrague" style="border-width:0" width="666" height="420" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=jan.brizdala%40gmail.com&amp;color=%23333333&amp;ctz=Europe%2FPrague" style="border-width:0" width="700" height="420" frameborder="0" scrolling="no"></iframe>
