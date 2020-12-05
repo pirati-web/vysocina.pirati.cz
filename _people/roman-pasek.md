@@ -96,6 +96,7 @@ Ve svém volném čase se aktivně věnuje hudbě a pasivně filmu.
 **Piráti v minulosti:**
 * od května 2018 do dubna 2020 1. místopředsedou **KS Vysočina**
 * od října 2018 do srpna 2020 předsedou **MS Třebíčsko**
+* od dubna 2020 do listopadu 2020 volebním manažerem ke krajským volbám v **Kraji Vysočina**
 
 ---
 
