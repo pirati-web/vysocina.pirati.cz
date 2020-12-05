@@ -26,7 +26,8 @@ mob:
   - 734 507 329
 rbar:
   - profile
-  - board
+  - boardzm
+  - boardkz
   - personArticles
   - people
 #  - kodo
@@ -45,23 +46,23 @@ rbar:
 #office:
 #  - address:
 #    opening:
-boardName: Zastupitelstvo města Třebíče
-boardTurn:
+boardzmName: Zastupitelstvo města Třebíče
+boardzmTurn:
    electionUrl: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=23&xdz=2&xnumnuts=6104&xobec=590266&xstrana=0&xstat=0&xodkaz=1
-   endDate: 6. 10. 2022
-board:
+   startDate: 6. 10. 2018
+boardzm:
    - position: zastupitel
      uid: stanislav.neuman
    - position: zastupitel
      uid: roman.pasek
-boardName: Zastupitelstvo Kraje Vysočina
-boardTurn:
+boardkzName: Zastupitelstvo Kraje Vysočina
+boardkzTurn:
    electionUrl: https://volby.cz/pls/kz2020/kz111?xjazyk=CZ&xkraj=9&xstrana=0&xv=2&xt=3
-   endDate: 3. 10. 2024
-board:
-   - position: zastupitelka
+   startDate: 3. 10. 2020
+boardkz:
+   - position: 1. náměstkyně
      uid: hana.hajnova
-   - position: zastupitel
+   - position: radní
      uid: jan.brizdala
    - position: zastupitelka
      uid: blanka.lednicka
