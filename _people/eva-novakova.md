@@ -1,5 +1,4 @@
 ---
-
 uid: eva.novakova             
 name: Eva Nováková            
 fullname: Eva Nováková        
