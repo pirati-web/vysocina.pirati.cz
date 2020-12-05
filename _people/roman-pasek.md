@@ -28,7 +28,6 @@ rbar:
   - profile
   - boardzm
   - boardkz
-  - personArticles
   - people
 #  - kodo
 #  - video
