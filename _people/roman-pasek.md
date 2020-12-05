@@ -52,7 +52,7 @@ board:
    - position: zastupitel
      uid: stanislav.neuman
    - position: zastupitel
-     name: roman.pasek
+     uid: roman.pasek
 calendar:
 profiles:
   wikipedia:

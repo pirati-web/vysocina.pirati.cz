@@ -21,7 +21,7 @@ board:
    - position: zastupitel
      uid: stanislav.neuman
    - position: zastupitel
-     name: roman.pasek
+     uid: roman.pasek
 profiles:
   facebook: https://www.facebook.com/profile.php?id=100008399146513
   twitter:
