@@ -1,5 +1,5 @@
 {% assign posts = site.posts | where_exp: "item","item.authorId contains page.uid" | sort:"date" %}
 
 {% if posts %}
-  {% include right-bar/rbar_articles.html posts=posts title="Seznam článků" %}
+  {% include right-bar/rbar_articles.html posts=posts title="Články" %}
 {% endif %}
