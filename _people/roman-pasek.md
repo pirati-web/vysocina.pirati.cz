@@ -54,6 +54,25 @@ board:
      uid: stanislav.neuman
    - position: zastupitel
      uid: roman.pasek
+boardName: Zastupitelstvo Kraje Vysočina
+boardTurn:
+   electionUrl: https://volby.cz/pls/kz2020/kz111?xjazyk=CZ&xkraj=9&xstrana=0&xv=2&xt=3
+   endDate: 3. 10. 2024
+board:
+   - position: zastupitelka
+     uid: hana.hajnova
+   - position: zastupitel
+     uid: jan.brizdala
+   - position: zastupitelka
+     uid: blanka.lednicka
+   - position: zastupitel
+     uid: jiri.wiche
+   - position: zastupitel
+     uid: pavel.knezik
+   - position: zastupitelka
+     uid: eva.novakova
+   - position: zastupitel
+     uid: roman.pasek
 calendar:
 profiles:
   wikipedia:
