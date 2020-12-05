@@ -35,7 +35,7 @@ rbar:
 #  - textbox
 #  - map
 #  - tagArticles
-#  - board
+  - board
 #  - pageContact
 #asistenti:
 #  - name:
