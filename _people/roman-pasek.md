@@ -17,7 +17,7 @@ ordmo: 4
 ordkz: 7
 description: 2. místopředseda MS Třebíčsko
 descriptionkz: neuvolněný zastupitel
-profession: student FF MUNI, zastupitel Kraje Vysočina, zastupitel města Třebíče
+profession: student FF MUNI, zastupitel Kraje Vysočina, zastupitel Třebíče
 img: people/roman-pasek.jpg
 heroImg: logo-wall.jpg
 mail:
@@ -119,5 +119,6 @@ Ve svém volném čase se aktivně věnuje hudbě a pasivně filmu.
 * od dubna 2020 do listopadu 2020 volebním manažerem ke krajským volbám v **Kraji Vysočina**
 
 ---
-
-<p align="center"><iframe width="700" height="480" src="https://mrak.pirati.cz/apps/calendar/embed/YnGTkzY6LKG7Yanq"></iframe></p>
+<div class="hidden lg:block">
+  <p align="center"><iframe width="700" height="480" src="https://mrak.pirati.cz/apps/calendar/embed/YnGTkzY6LKG7Yanq"></iframe></p>
+</div>
