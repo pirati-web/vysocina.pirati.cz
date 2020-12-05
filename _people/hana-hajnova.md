@@ -20,6 +20,45 @@ mail:
   - hana.hajnova@pirati.cz
 mob:
   - 721 684 323
+rbar:
+  - profile
+  - boardkz
+  - boardzm
+  - people
+boardzmName: Zastupitelstvo města Telče
+boardzmTurn:
+   electionUrl: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=23&xdz=2&xnumnuts=6102&xobec=588024&xstrana=0&xstat=0&xodkaz=1
+   startDate: 6. 10. 2018
+boardzm:
+   - position: zastupitel
+     name: Jiří Pykal
+   - position: zastupitel
+     name: Pavel Dvořák
+   - position: zastupitelka
+     uid: hana.hajnova
+   - position: zastupitelka
+     uid: petra.kujinek.polodnova
+   - position: zastupitelka
+     name: Helena Tomšíková
+boardkzName: Zastupitelstvo Kraje Vysočina
+boardkzTurn:
+   electionUrl: https://volby.cz/pls/kz2020/kz111?xjazyk=CZ&xkraj=9&xstrana=0&xv=2&xt=3
+   startDate: 3. 10. 2020
+boardkz:
+   - position: 1. náměstkyně
+     uid: hana.hajnova
+   - position: radní
+     uid: jan.brizdala
+   - position: zastupitelka
+     uid: blanka.lednicka
+   - position: zastupitel
+     uid: jiri.wiche
+   - position: zastupitel
+     uid: pavel.knezik
+   - position: zastupitelka
+     uid: eva.novakova
+   - position: zastupitel
+     uid: roman.pasek
 profiles:
   facebook: https://www.facebook.com/hanka.hajnova
   linkedin: https://www.linkedin.com/in/hana-hajnova-692a5025

@@ -12,6 +12,25 @@ heroImg: banner-default.jpg
 img: people/petra-kujinek-polodnova.jpg
 mail:
   - petra.kujinek.polodnova@pirati.cz
+rbar:
+  - profile
+  - boardzm
+  - people
+boardzmName: Zastupitelstvo města Telče
+boardzmTurn:
+   electionUrl: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=23&xdz=2&xnumnuts=6102&xobec=588024&xstrana=0&xstat=0&xodkaz=1
+   startDate: 6. 10. 2018
+boardzm:
+   - position: zastupitel
+     name: Jiří Pykal
+   - position: zastupitel
+     name: Pavel Dvořák
+   - position: zastupitelka
+     uid: hana.hajnova
+   - position: zastupitelka
+     uid: petra.kujinek.polodnova
+   - position: zastupitelka
+     name: Helena Tomšíková
 partyUid: pirati
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <div class="container container--default pt-8 lg:py-24">
  <section>
 <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-8">Činnost Pirátů v Kraji Vysočina</h1>

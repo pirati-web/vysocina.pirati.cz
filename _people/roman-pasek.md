@@ -26,8 +26,8 @@ mob:
   - 734 507 329
 rbar:
   - profile
-  - boardzm
   - boardkz
+  - boardzm
   - people
 #  - kodo
 #  - video
@@ -45,15 +45,6 @@ rbar:
 #office:
 #  - address:
 #    opening:
-boardzmName: Zastupitelstvo města Třebíče
-boardzmTurn:
-   electionUrl: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=23&xdz=2&xnumnuts=6104&xobec=590266&xstrana=0&xstat=0&xodkaz=1
-   startDate: 6. 10. 2018
-boardzm:
-   - position: zastupitel
-     uid: stanislav.neuman
-   - position: zastupitel
-     uid: roman.pasek
 boardkzName: Zastupitelstvo Kraje Vysočina
 boardkzTurn:
    electionUrl: https://volby.cz/pls/kz2020/kz111?xjazyk=CZ&xkraj=9&xstrana=0&xv=2&xt=3
@@ -71,6 +62,15 @@ boardkz:
      uid: pavel.knezik
    - position: zastupitelka
      uid: eva.novakova
+   - position: zastupitel
+     uid: roman.pasek
+boardzmName: Zastupitelstvo města Třebíče
+boardzmTurn:
+   electionUrl: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=23&xdz=2&xnumnuts=6104&xobec=590266&xstrana=0&xstat=0&xodkaz=1
+   startDate: 6. 10. 2018
+boardzm:
+   - position: zastupitel
+     uid: stanislav.neuman
    - position: zastupitel
      uid: roman.pasek
 calendar:
