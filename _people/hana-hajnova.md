@@ -82,5 +82,6 @@ V srpnu 2018 jsem byla zvolena vedoucí Mediálního odboru KS Vysočina, pravid
 Nejdůležitějšími hodnotami jsou pro mě svoboda a láska a oblíbeným mottem „Život je radostná spoluúčast na zázraku bytí.“ (Václav Havel)
 
 ---
-
-<p align="center"><iframe src="https://calendar.google.com/calendar/embed?src=hana.hajnova%40kroket.org&ctz=Europe%2FPrague" style="border: 0" width="700" height="480" frameborder="0" scrolling="no"></iframe></p>
+<div class="hidden lg:block">
+  <p align="center"><iframe src="https://calendar.google.com/calendar/embed?src=hana.hajnova%40kroket.org&ctz=Europe%2FPrague" style="border: 0" width="700" height="480" frameborder="0" scrolling="no"></iframe></p>
+</div>

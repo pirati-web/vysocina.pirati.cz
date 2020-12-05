@@ -9,6 +9,23 @@ description: kandidát do komunálních voleb 2018 - Jihlava
 profession: Produktový manažer v inovačním prostředí, doktorand, hodnotitel pro ekonomické vysokoškolské programy v Národním akreditačním úřadu
 heroImg: banner-default.jpg
 img: people/vojtech-prchal.jpg
+rbar:
+  - profile
+  - boardzm
+  - people
+boardzmName: Zastupitelstvo města Jihlavy
+boardzmTurn:
+   electionUrl: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=23&xdz=3&xnumnuts=6102&xobec=586846&xstrana=0
+   startDate: 6. 10. 2018
+boardzm:
+   - position: zastupitel
+     name: Vít Zeman
+   - position: zastupitelka
+     uid: eva.novakova
+   - position: zastupitelka
+     name: Silvie Čermáková
+   - position: zastupitel
+     uid: vojtech.prchal
 partyUid: bezpp
 ---
 

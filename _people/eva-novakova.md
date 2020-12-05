@@ -19,6 +19,43 @@ mail:
   - eva.novakova@pirati.cz
 mob:
   - 775 666 988
+rbar:
+  - profile
+  - boardkz
+  - boardzm
+  - people
+boardkzName: Zastupitelstvo Kraje Vysočina
+boardkzTurn:
+   electionUrl: https://volby.cz/pls/kz2020/kz111?xjazyk=CZ&xkraj=9&xstrana=0&xv=2&xt=3
+   startDate: 3. 10. 2020
+boardkz:
+   - position: 1. náměstkyně
+     uid: hana.hajnova
+   - position: radní
+     uid: jan.brizdala
+   - position: zastupitelka
+     uid: blanka.lednicka
+   - position: zastupitel
+     uid: jiri.wiche
+   - position: zastupitel
+     uid: pavel.knezik
+   - position: zastupitelka
+     uid: eva.novakova
+   - position: zastupitel
+     uid: roman.pasek
+boardzmName: Zastupitelstvo města Jihlavy
+boardzmTurn:
+   electionUrl: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=23&xdz=3&xnumnuts=6102&xobec=586846&xstrana=0
+   startDate: 6. 10. 2018
+boardzm:
+   - position: zastupitel
+     name: Vít Zeman
+   - position: zastupitelka
+     uid: eva.novakova
+   - position: zastupitelka
+     name: Silvie Čermáková
+   - position: zastupitel
+     uid: vojtech.prchal
 partyUid: pirati
 ---
 

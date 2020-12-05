@@ -10,13 +10,14 @@ category:
   - pmstrebicsko
   - mo
   - kz
-#  - kontaktni_osoba
-#contactType: Volební manažer
+  - zmtrebic
 ordpmstrebicsko: 3
 ordmo: 4
 ordkz: 7
+ordzmtrebic: 2
 description: 2. místopředseda MS Třebíčsko
 descriptionkz: neuvolněný zastupitel
+descriptionzm: neuvolněný zastupitel
 profession: student FF MUNI, zastupitel Kraje Vysočina, zastupitel Třebíče
 img: people/roman-pasek.jpg
 heroImg: logo-wall.jpg
@@ -29,22 +30,6 @@ rbar:
   - boardkz
   - boardzm
   - people
-#  - kodo
-#  - video
-#  - fb
-#  - tw
-#  - textbox
-#  - map
-#  - tagArticles
-#  - board
-#  - pageContact
-#asistenti:
-#  - name:
-#    tel:
-#    mail:
-#office:
-#  - address:
-#    opening:
 boardkzName: Zastupitelstvo Kraje Vysočina
 boardkzTurn:
    electionUrl: https://volby.cz/pls/kz2020/kz111?xjazyk=CZ&xkraj=9&xstrana=0&xv=2&xt=3
