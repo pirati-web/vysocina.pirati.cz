@@ -2,7 +2,7 @@
 layout: blank-article
 description:
 keywords:
-title: Festival svobodných filmů
+title: Stránku připravujeme
 ---
 
 Stránku připravujeme.
