@@ -117,9 +117,9 @@ Ve svém volném čase se aktivně věnuje hudbě a pasivně filmu.
 }
 </style>
 
+<div class="mobile">
+  <p align="center"><a href="https://mrak.pirati.cz/apps/calendar/embed/YnGTkzY6LKG7Yanq"><b>Veřejný kalendář</b></a></p>
+</div>
 <div class="desktop">
   <p align="center"><iframe width="700" height="480" src="https://mrak.pirati.cz/apps/calendar/embed/YnGTkzY6LKG7Yanq"></iframe></p>
-</div>
-<div class="mobile">
-  <p align="center"><a href="https://mrak.pirati.cz/apps/calendar/embed/YnGTkzY6LKG7Yanq">Veřejný kalendář</a></p>
 </div>
