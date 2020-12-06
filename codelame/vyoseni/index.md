@@ -5,31 +5,14 @@ keywords:
 title: VyOsení
 ---
 
-<div class="grid grid-cols-12 items-center calendar-table-row ">
-    <div class="col-span-8 grid grid-cols-3 calendar-table-row__col">
-      <div class="col-span-3 md:col-span-1">
-        <strong class="block">30. listopadu 2019</strong>
-        <p class="font-light text-sm mt-1">od 20:00</p>
-      </div>
-      <div class="col-span-3 md:col-span-2 mt-4 md:mt-0">
-        <strong class="block">Třebíč</strong>
-        <p class="font-light text-sm mt-1">Hudební klub "B"</p>
-      </div>
-    </div>
-    <div class="col-span-2 text-center font-light calendar-table-row__col">
-      <a href="#" class="icon-link">
-        <i class="ico--facebook text-facebook mr-1" aria-hidden="true"></i>
-        <span><a href="https://www.facebook.com/events/422577588348440/" target="_blank" rel="noopener">Facebook</a></span>
-      </a>
-    </div>
-    <div class="col-span-2 text-center font-light calendar-table-row__col">
-      <a href="#" class="icon-link">
-        <i class="ico--location text-violet-300 mr-1" aria-hidden="true"></i>
-        <span><a href="https://osm.org/go/0Jt11hvK1?node=2780209194" target="_blank" rel="noopener">Mapa</a></span>
-      </a>
-    </div>
-  </div>
+## Proběhlá VyOsení
 
+| Datum        | Místo                         | Facebooková událost | Mapa                |
+|--------------|-------------------------------|---------------------|---------------------|
+| 30. 11. 2019 | **Třebíč - Hudební klub "B"** | [odkaz](https://www.facebook.com/events/422577588348440/) | [odkaz](https://osm.org/go/0Jt11hvK1?node=2780209194) |
+| Úterý        | 12:00 - 17:00                 | -                   |
+| Středa       | 10:00 - 15:00                 | -                   |
+| Čtvrtek      | 12:00 - 17:00                 | -                   |
 
 
 <div class="pce-hero pce-hero--entry">
