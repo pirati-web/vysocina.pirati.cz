@@ -1,5 +1,5 @@
 ---
-layout: blank-article
+layout: default
 description:
 keywords:
 title: VyOsení
