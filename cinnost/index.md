@@ -14,7 +14,7 @@ layout: default
 
 <article class="card card--hoveractive"><a href="/cinnost/pripravujeme/"><img src="https://a.pirati.cz/vysocina/img/swap.jpg" alt="SWAP" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/cinnost/pripravujeme/">SWAP</a></h1> <p class="card-body-text"></p></div></article>
 
-<article class="card card--hoveractive"><a href="/cinnost/vyoseni/"><img src="https://a.pirati.cz/vysocina/img/vyoseni.jpg" alt="VyOsení" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/cinnost/vyoseni/">VyOsení</a></h1> <p class="card-body-text"></p></div></article>
+<article class="card card--hoveractive"><a href="/cinnost/vyoseni/"><img src="https://a.pirati.cz/vysocina/img/codelame/vyoseni.png" alt="VyOsení" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/cinnost/vyoseni/">VyOsení</a></h1> <p class="card-body-text"></p></div></article>
 
 <article class="card card--hoveractive"><a href="/cinnost/piratecon/"><img src="https://a.pirati.cz/vysocina/img/piratecon.jpg" alt="Piratecony" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/cinnost/piratecon/">Piratecony</a></h1> <p class="card-body-text"></p></div></article>
 
