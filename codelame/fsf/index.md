@@ -7,12 +7,6 @@ title: Festival svobodných filmů
 
 Festival svobodných filmů vznikl spontánně již na jaře roku 2013, když Piráti na Vysočině tříbili nápady na akce v době, kdy nebyli vytížení žádnou volební kampaní. Spojit příjemné s poučným a naplnit přání tvůrců, když navíc veškeré podklady jsou volně k dispozici, se přímo nabízelo. Stačilo jen spojit dohromady pár existujících přednášek od Jakuba Michálka a Marcela Kolaji a svobodné filmy ke sdílení s radostí poskytují autoři sami.
 
-## Plánované festivaly
-
-| Datum        | Čas      | Místo                                   | Facebooková událost                                                     |
-|--------------|----------|-----------------------------------------|-------------------------------------------------------------------------|
-| -            | -        | **-**                                   | -                                                                       |
-
 ## Proběhlé festivaly
 
 | Datum        | Čas      | Místo                                   | Facebooková událost                                                     |
