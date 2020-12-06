@@ -8,7 +8,7 @@ layout: default
   <main>
    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
 
-<article class="card card--hoveractive"><a href="/jipice/"><img src="https://a.pirati.cz/vysocina/img/codelame/jipice.png" alt="Jihlavské pirátské centrum" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/jipice/">Jihlavské pirátské centrum</a></h1> <p class="card-body-text"></p></div></article>
+<article class="card card--hoveractive"><a href="/jipice/"><img src="https://a.pirati.cz/vysocina/img/codelame/jipice.png" alt="Jipice - Jihlavské pirátské centrum" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/jipice/">Jipice - Jihlavské pirátské centrum</a></h1> <p class="card-body-text"></p></div></article>
 
 <article class="card card--hoveractive"><a href="/cinnost/pripravujeme/"><img src="https://a.pirati.cz/vysocina/img/pridej-se.jpg" alt="Přidej se k nám" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/cinnost/pripravujeme/">Přidej se k nám</a></h1> <p class="card-body-text"></p></div></article>
 
