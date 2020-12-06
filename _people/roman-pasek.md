@@ -105,12 +105,12 @@ Ve svém volném čase se aktivně věnuje hudbě a pasivně filmu.
 
 ---
 <style>
-@media only screen and (max-width: 799px) {
+@media only screen and (max-width: 989px) {
   .desktop {
     visibility: hidden;
   }
 }
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 990px) {
   .mobile {
     visibility: hidden;
   }
