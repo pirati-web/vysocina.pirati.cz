@@ -9,13 +9,13 @@ Vyosení je český festival svobodné hudby, který je zaměřen proti ochrann�
 
 ## Plánovaná VyOsení
 
-| Datum        | Čas      | Místo                                   | FB událost                                                    |
+| Datum        | Čas      | Místo                                   | Facebooková událost                                           |
 |--------------|----------|-----------------------------------------|---------------------------------------------------------------|
 | -            | -        | **-**                                   | -                                                             |
 
 ## Proběhlá VyOsení
 
-| Datum        | Čas      | Místo                                   | FB událost                                                    |
+| Datum        | Čas      | Místo                                   | Facebooková událost                                           |
 |--------------|----------|-----------------------------------------|---------------------------------------------------------------|
 | 25. 9. 2020  | od 18:00 | **Třebíč - Hudební klub "B"**           | [odkaz](https://www.facebook.com/events/3300903786664651/)    |
 | 12. 9. 2020  | od 20:00 | **Jihlava - Klub Moment**               | [odkaz](https://www.facebook.com/events/716862198898311/)     |
