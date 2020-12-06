@@ -83,6 +83,6 @@ Na krajské úrovni vede resortní tým pro školství, mládež a sport.
 <div class="mobile">
   <p align="center"><a href="https://calendar.google.com/calendar/embed?src=jan.brizdala%40gmail.com&ctz=Europe%2FPrague"><b>Veřejný kalendář</b></a></p>
 </div>
-<div class="desktop">
+<div class="hidden lg:block">
   <p align="center"><iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=jan.brizdala%40gmail.com&amp;color=%23333333&amp;ctz=Europe%2FPrague" style="border-width:0" width="700" height="480" frameborder="0" scrolling="no"></iframe></p>
 </div>
