@@ -10,7 +10,7 @@ layout: default
 
 <article class="card card--hoveractive"><a href="/jipice/"><img src="https://a.pirati.cz/vysocina/img/codelame/jipice.png" alt="Jipice - Jihlavské pirátské centrum" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/jipice/">Jipice - Jihlavské pirátské centrum</a></h1> <p class="card-body-text"></p></div></article>
 
-<article class="card card--hoveractive"><a href="/cinnost/pripravujeme/"><img src="https://a.pirati.cz/vysocina/img/codelame/pridej-se.jpg" alt="Přidej se k nám" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/cinnost/pripravujeme/">Přidej se k nám</a></h1> <p class="card-body-text"></p></div></article>
+<article class="card card--hoveractive"><a href="/cinnost/pripravujeme/"><img src="https://a.pirati.cz/vysocina/img/codelame/pridej-se.png" alt="Přidej se k nám" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/cinnost/pripravujeme/">Přidej se k nám</a></h1> <p class="card-body-text"></p></div></article>
 
 <article class="card card--hoveractive"><a href="/cinnost/pripravujeme/"><img src="https://a.pirati.cz/vysocina/img/codelame/swap.png" alt="SWAP" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/cinnost/pripravujeme/">SWAP</a></h1> <p class="card-body-text"></p></div></article>
 
@@ -22,9 +22,9 @@ layout: default
 
 <article class="card card--hoveractive"><a href="/cinnost/fsk/"><img src="https://a.pirati.cz/vysocina/img/codelame/fsk.png" alt="Festival svobodné kultury" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/cinnost/fsk/">Festival svobodné kultury</a></h1> <p class="card-body-text"></p></div></article>
 
-<article class="card card--hoveractive"><a href="/cinnost/pirlisty/"><img src="https://a.pirati.cz/vysocina/img/codelame/pirlisty.jpg" alt="Pirátské listy" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/cinnost/pirlisty/">Pirátské listy</a></h1> <p class="card-body-text"></p></div></article>
+<article class="card card--hoveractive"><a href="/cinnost/pirlisty/"><img src="https://a.pirati.cz/vysocina/img/codelame/pirlisty.png" alt="Pirátské listy" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/cinnost/pirlisty/">Pirátské listy</a></h1> <p class="card-body-text"></p></div></article>
 
-<article class="card card--hoveractive"><a href="/cinnost/fsf/"><img src="https://a.pirati.cz/vysocina/img/codelame/fsf.jpg" alt="Festival svobodných filmů" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/cinnost/fsf/">Festival svobodných filmů</a></h1> <p class="card-body-text"></p></div></article>
+<article class="card card--hoveractive"><a href="/cinnost/fsf/"><img src="https://a.pirati.cz/vysocina/img/codelame/fsf.png" alt="Festival svobodných filmů" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/cinnost/fsf/">Festival svobodných filmů</a></h1> <p class="card-body-text"></p></div></article>
 
    </div>
   </main>
