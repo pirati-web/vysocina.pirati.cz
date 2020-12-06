@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: codelame
 description:
 keywords:
 title: VyOsení

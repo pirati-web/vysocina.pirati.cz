@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+{% if page.img %}
+  {% if site.mediaStorage %}
+      {% capture imgPath %}https://a.pirati.cz/{{ site.mediaStorage }}/img/{{ page.img }}{% endcapture %}
+  {% else %}
+    {% capture imgPath %}{% asset '{{ page.img }}' @path %}{% endcapture %}
+    {% assign imgPath = imgPath | absolute_url %}
+  {% endif %}
+{% endif %}
+
+<div class="container container--default pt-8 lg:pb-16">
+  <article>
+    <meta itemprop="name" content="{{ page.title }}">
+    {% if page.shorthand %}
+  </article>
+</div>
