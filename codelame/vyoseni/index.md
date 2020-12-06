@@ -11,6 +11,7 @@ Vyosení je český festival svobodné hudby, který je zaměřen proti ochrann�
 
 | Datum        | Čas      | Místo                                   | FB událost                                                    |
 |--------------|----------|-----------------------------------------|---------------------------------------------------------------|
+| -            | -        | **-**                                   | -                                                             |
 
 ## Proběhlá VyOsení
 
