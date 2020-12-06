@@ -22,9 +22,6 @@ main:
   - link: /kz/
     name: Krajské zastupitelstvo
     match: volby-2020
-  - link: /jipice/
-    name: Pirátské centrum
-    match: jipice
     #submenu:
     #  - link: /lide/pks/
     #    name: Krajské předsednictvo
@@ -54,9 +51,9 @@ main:
     #  - link: /zastupitele/komunalni/obce/
     #    name: Ostatní obce
     #    match: obce
-  - link: /cinnost/
-    name: Činnost v kraji
-    match: cinnost
+  - link: /codelame/
+    name: Co děláme?
+    match: codelame
   - link: /kontakt/
     name: Kontakt
     match: kontakt
