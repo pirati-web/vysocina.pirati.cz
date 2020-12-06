@@ -20,7 +20,7 @@ title: Co děláme?
 
 <article class="card card--hoveractive"><a href="/codelame/uklidme-cesko/"><img src="https://a.pirati.cz/vysocina/img/codelame/uc.png" alt="Ukliďme Česko" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/codelame/uklidme-cesko/">Ukliďme Česko</a></h1> <p class="card-body-text"></p></div></article>
 
-<article class="card card--hoveractive"><a href="/codelame/fsk/"><img src="https://a.pirati.cz/vysocina/img/codelame/fsk.png" alt="Festival svobodné kultury" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/codelame/fsk/">Festival svobodné kultury</a></h1> <p class="card-body-text"></p></div></article>
+<article class="card card--hoveractive"><a href="/codelame/pripravujeme/"><img src="https://a.pirati.cz/vysocina/img/codelame/fsk.png" alt="Festival svobodné kultury" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/codelame/pripravujeme/">Festival svobodné kultury</a></h1> <p class="card-body-text"></p></div></article>
 
 <article class="card card--hoveractive"><a href="/codelame/pirlisty/"><img src="https://a.pirati.cz/vysocina/img/codelame/pirlisty.png" alt="Pirátské listy" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/codelame/pirlisty/">Pirátské listy</a></h1> <p class="card-body-text"></p></div></article>
 
