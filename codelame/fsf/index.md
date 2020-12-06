@@ -24,4 +24,4 @@ Festival svobodných filmů vznikl spontánně již na jaře roku 2013, když Pi
 | 3. 7. 2014   | -        | **Třebíč - Trumpetka**                  | [wiki](https://wiki.pirati.cz/regiony/vysocina/fsf#v_trebici1)          |
 | 10. 4. 2014  | -        | **Třebíč - Hudební klub "B"**           | [wiki](https://wiki.pirati.cz/regiony/vysocina/fsf#v_trebici)           |
 | 10. 4. 2014  | -        | **Pelhřimov - čajovna Utopia**          | [wiki](https://wiki.pirati.cz/regiony/vysocina/fsf#v_pelhrimove1)       |
-| 15. 10. 2013 | -        | **Pelhřimov - čajovna Utopia**          | [wiki](https://wiki.pirati.cz/regiony/vysocina/fsf#v_jihlave1)          |
+| 15. 10. 2013 | -        | **Jihlava**                             | [wiki](https://wiki.pirati.cz/regiony/vysocina/fsf#v_jihlave1)          |
