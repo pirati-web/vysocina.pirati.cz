@@ -34,7 +34,8 @@ organization:
   redmineLink: https://redmine.pirati.cz/projects/kraj-vysocina/issues/new
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
-
+  donateLink: https://dary.pirati.cz/podpor-kraj/vysocina/
+  
 # Nastavení zobrazení tabulky kontaktů.
 # Lze využít:
 # 1) předdefinované typy (organizationEmail, organizationRedmineLink, organizationPhone, organizationTransparentAccount, organizationDataBox, piratiRootWebsite)
