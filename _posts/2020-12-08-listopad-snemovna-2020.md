@@ -5,7 +5,7 @@ tags:
   - Sněmovna
   - zemědelství 
 layout: post
-title: Listoopad ve Sněmovně 
+title: Listopad ve Sněmovně 
 author: Jan Pošvář
 authorId:  jan.posvar
 image: posts/2020-12-08-listopad-snemovna-2020.jpg
