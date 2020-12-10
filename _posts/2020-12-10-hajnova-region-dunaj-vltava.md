@@ -17,7 +17,7 @@ Evropský region Dunaj-Vltava, který založilo sedm regionů na pomezí České
 
 Kraj Vysočina se bude v následujících letech aktivně angažovat při realizaci aktivit k tématu Průmysl 4.0, pro přípravu aktivit v oblasti cestovního ruchu a zdravotnictví poskytne své odborné kapacity. *„Svou roli vidíme především v přeshraničním přenosu dobré praxe a zvyšování kvalifikace v souvislosti s digitalizací a konceptem Průmyslu 4.0 na úrovni střeních a vysokých škol ale i firem. Toto téma je pro kraj důležité také z pohledu naplňování Regionální inovační strategie a Krajské přílohy národní RIS3 pro období 2021+. Aktuální epidemiologická situace bohužel přeshraniční spolupráci nepřeje, ale i přesto je v běhu řada projektů, aktuálně  např. projekt k provázání spolupráce VŠPJ a malých a středních firem z prostoru ERDV k využití technologie vybudované školou, tzv. virtuální fabriky k tématu Průmysl 4.0,“* uvedla náměstkyně hejtmana Kraje Vysočina Hana Hajnová.
 
-Bližší informace o činnosti Evropského regionu Dunaj-Vltava a jeho aktivitách jsou k dispozici na webu [www.evropskyregion.cz](www.evropskyregion.cz) a [facebookové stránce](https://m.facebook.com/EuroparegionDonauMoldauEDM).
+Bližší informace o činnosti Evropského regionu Dunaj-Vltava a jeho aktivitách jsou k dispozici na webu [www.evropskyregion.cz](www.evropskyregion.cz) a [facebookové stránce](https://www.facebook.com/EuroparegionDonauMoldauEDM).
 
 ---
 
