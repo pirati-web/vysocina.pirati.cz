@@ -5,7 +5,7 @@ tags:
   - školství
   - zdravotnictví
 layout: post
-title: Výzva pedagogům: Prosíme využijte nabídku bezplatného přednostního antigenního testování
+title: Výzva pedagogům - Prosíme využijte nabídku bezplatného přednostního antigenního testování
 author: Redakce
 authorId:  
 image: posts/2020-12-11-vyzva-antigenni-testovani-vysocina.jpg
