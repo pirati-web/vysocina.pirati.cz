@@ -11,7 +11,7 @@ authorId:  eva.novakova
 image: posts/2020-12-14-maraton-psani-dopisu-trebic.jpg
 ---
 
-Třebíč, 12. listopadu 2020 - I letos se Piráti na Vysočině připojili k celorepublikové akci Amnesty International na podporu nespravedlivě vězněných a stíhaných. Dopisy psali z pohodlí domova i během společné akce, kterou uspořádali v sobotu v Třebíči.
+Třebíč, 12. listopadu 2020 - **I letos se Piráti na Vysočině připojili k celorepublikové akci Amnesty International na podporu nespravedlivě vězněných a stíhaných. Dopisy psali z pohodlí domova i během společné akce, kterou uspořádali v sobotu v Třebíči.**
 
 *“Psaní dopisů se zařadilo mezi akce, ke kterým se rádi každoročně zapojujeme. Letos to sice bylo trochu komplikovanější, ale nakonec jsme si poradili. Účastníkům jsme dali možnost psát dopisy z domova a pak je buď odeslat samostatně, nebo nám je předat. Chtěli jsme se ale také sejít a podpořit při tom lokální podnik. Zvolili jsme proto i formu společného psaní, samozřejmě v souladu s opatřeními a nařízeními vlády,”* uvedla k akci jedna z organizátorek, Eva Nováková.
 
