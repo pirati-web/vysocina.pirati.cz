@@ -5,7 +5,7 @@ tags:
   - lidská práva
   - zahraniční
 layout: post
-title: Piráti a Pirátky na Vysočině podpořili politické vězně na celém světě
+title: Piráti a Pirátky z Vysočiny podpořili politické vězně na celém světě
 author: Eva Nováková
 authorId:  eva.novakova
 image: posts/2020-12-14-maraton-psani-dopisu-trebic.jpg
