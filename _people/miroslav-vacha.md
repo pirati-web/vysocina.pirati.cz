@@ -17,7 +17,7 @@ mail:
 partyUid: pirati
 ---
 
-Miroslav Vácha (* 14. dubna 1984 v Jihlavě) je členem MS Telčsko. Otec tří dětí.
+Miroslav Vácha (* 14. dubna 1984 v Jihlavě) je členem MS Telčsko. Otec čtyř dětí.
 
 Vystudoval Vyšší zdravotnickou školu v Brně v oboru Zdravotnický záchranář, je absolventem DAMU - akreditovaného studia Kreativní pedagogiky na Katedře autorské tvorby a pedagogiky.
 
