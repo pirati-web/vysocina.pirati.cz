@@ -11,7 +11,7 @@ authorId:  eva.novakova
 image: posts/2020-12-18-namesti-almy-rose.jpg
 ---
 
-Jihlava, 18. prosince 2020 - ***Jihlavští zastupitelé a zastupitelky  schválili, že architektonická soutěž na revitalizaci prostranství před Dělnickým domem bude vyhlášena pod názvem “Náměstí Almy Rosé”. Radnice pojmenování hledala i s pomocí občanů prostřednictvím veřejné výzvy. Vybraný návrh vystihuje reprezentativní, kulturní i společenský charakter budoucího náměstí.***
+Jihlava, 18. prosince 2020 - ***Jihlavští zastupitelé a zastupitelky schválili, že architektonická soutěž na revitalizaci prostranství před Dělnickým domem bude vyhlášena pod názvem “Náměstí Almy Rosé”. Radnice pojmenování hledala i s pomocí občanů prostřednictvím veřejné výzvy. Vybraný návrh vystihuje reprezentativní, kulturní i společenský charakter budoucího náměstí.***
 
 Obyvatelé Jihlavy mohli své tipy posílat během srpna a září, kdy probíhala kampaň na sociálních sítích města. Cílem bylo identifikovat inspirativní ženy s příběhem vnitřní síly a odvahy, které jsou spojené s Jihlavou a stojí za to si je ve veřejném prostoru připomínat. Mezi návrhy se objevovala jména jako Barbara Krafft (malířka, autorka nejslavnějšího portrétu Wolfganga Mozarta), Míla Doleželová (malířka, autorka fresky v jihlavské lékárně) nebo Anna Spitzerová (židovská lékařka vězněná v Terezíně).
 
