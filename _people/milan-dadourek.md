@@ -20,4 +20,4 @@ Vystudoval Ochranu a tvorbu životního prostředí na PřF Univerzity Palackéh
 
 Pracoval na Správě CHKO Žďárské vrchy, jako ředitel Sdružení Krajina, jako akreditovaný zemědělský poradce. V současnosti ho živí vlastní farma (www.farmovis.cz) a pracuje jako externí poradce Sdružení Krajina (grantový fundraising, strategie rozvoje). Zajímá ho zejména udržitelný rozvoj venkova a zachování tradiční venkovské krajiny.
 
-V květnu 2018 se stal druhým místopředsedou KS Vysočina.
+V prosinci 2020 byl zvolen lídrem do voleb do Poslanecké sněmovny 2021 a od ledna 2021 mu začíná funkční období 1. místopředsedy krajského sdružení Pirátů na Vysočině. 
