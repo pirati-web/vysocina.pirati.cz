@@ -9,6 +9,7 @@ title: Piráti si na Vysočině zvolili lídra do sněmovních voleb. Povede je 
 author: Hana Hajnová
 authorId:  hana.hajnova
 image: posts/2020-12-22-milan-dadourek-lidrem-snemovni-volby.jpg
+important: true
 ---
 
 Jihlava, 22. listopadu 2020 – ***Krajské fórum Pirátů na Vysočině hlasovalo do pondělních 22:00 o tom, kdo povede Piráty na Vysočině do sněmovních voleb v příštím roce. Ve dvoukolové volbě nakonec zvítězil Milan Daďourek, farmář z Počítek u Žďáru nad Sázavou.***
