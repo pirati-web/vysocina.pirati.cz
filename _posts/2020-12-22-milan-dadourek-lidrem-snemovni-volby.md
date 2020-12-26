@@ -12,7 +12,7 @@ image: posts/2020-12-22-milan-dadourek-lidrem-snemovni-volby.jpg
 important: true
 ---
 
-Jihlava, 22. listopadu 2020 – ***Krajské fórum Pirátů na Vysočině hlasovalo do pondělních 22:00 o tom, kdo povede Piráty na Vysočině do sněmovních voleb v příštím roce. Ve dvoukolové volbě nakonec zvítězil Milan Daďourek, farmář z Počítek u Žďáru nad Sázavou.***
+Jihlava, 22. prosince 2020 – ***Krajské fórum Pirátů na Vysočině hlasovalo do pondělních 22:00 o tom, kdo povede Piráty na Vysočině do sněmovních voleb v příštím roce. Ve dvoukolové volbě nakonec zvítězil Milan Daďourek, farmář z Počítek u Žďáru nad Sázavou.***
 
 Pirátský dobrovolník, farmář, poradce, bývalý místostarosta Počítek. Tím vším si prošel nový lídr pirátské kandidátky pro sněmovní volby 2021 Milan Daďourek. Doma je ve Žďárských vrších, kde pracuje na vlastní ovčí farmě. Spoluzakládal a deset let vedl spolek Sdružení Krajina, který se stará o cenné podmáčené louky. Několik let byl zemědělským poradcem a působil v Radě Státního fondu životního prostředí. U Pirátů se zaměřuje na zemědělství, rozvoj venkova, zachování krajiny a jako člen rozhodčí komise využívá i svých znalostí z oblasti práva a veřejné správy. 
 
