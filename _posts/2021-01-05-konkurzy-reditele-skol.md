@@ -17,7 +17,7 @@ Změnou ve strategii a organizaci konkurzních řízení bych rád narovnal podm
 
 Nastavení podmínek a organizace konkurzních řízení na obsazování pracovních míst ředitelů je v gesci jednotlivých zřizovatelů. Zatímco některé samosprávy vyhlašují konkurzy pravidelně, jiní prodlužují funkční období ředitelů automaticky. Mezi častými argumenty pro automatické prodlužování je nízký počet přihlášených vhodných uchazečů na danou pozici. To je často relevantní typicky pro venkovské školy (malotřídky). V případě krajem zřizovaných středních škol je však zájem o tyto pozice zpravidla vyšší.
 
-Ředitelům škol sice přibude "zátěž" v podobě přípravy na konkurzní řízení, které ale plánuji kompenzovat optimalizací frekvence průběžných hodnocení činnosti ředitelů, nastavením jednodušších podmínek pro jejich odměňování či postupným snižováním přebytečné byrokracie.   
+Ředitelům škol sice přibude "zátěž" v podobě přípravy na konkurzní řízení, kterou ale plánuji kompenzovat optimalizací frekvence průběžných hodnocení činnosti ředitelů, nastavením jednodušších podmínek pro jejich odměňování či postupným snižováním přebytečné byrokracie.   
 
 ---
 
