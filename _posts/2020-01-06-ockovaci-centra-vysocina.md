@@ -1,10 +1,13 @@
+---
 date: 2021-01-06
 category: blog
 tags:
- - koronavirus zdravotnictví
+ - koronavirus 
+ - zdravotnictví
 layout: post
 title: Kraje musí očkovací strategii převzít na svá bedra
-author: Jan Břížďala
+author: Jiří Svoboda
+authorId: jiri.svoboda.hb
 image: 2021-01-06-ockovaci-centra-vysocina.jpg
 important: true
 ---
