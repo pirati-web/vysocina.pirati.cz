@@ -1,8 +1,11 @@
 ---
-layout: page
-rbar:
-  - kodo
-  - calendar
+layout: pirate-center
+description:
+keywords: jipice, pirátské-centrum, jihlava, centrum
+title: Přidej se k nám!
+contactPersons:
+  - id: ondrej.tuma
+    description: Správce krajského sdružení
 ---
 
 # Vítáme tě u Pirátů!

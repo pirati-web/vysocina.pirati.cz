@@ -16,7 +16,6 @@ addressNote:
 contactPersons:
   - id: ondrej.tuma
     description: Správce krajského sdružení
-
 ---
 
 ## Jipice
