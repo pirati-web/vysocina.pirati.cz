@@ -1,11 +1,11 @@
 ---
 layout: pirate-center
 description:
-keywords: jipice, pirátské-centrum, jihlava, centrum
+keywords: 
 title: Přidej se k nám!
 contactPersons:
-  - id: ondrej.tuma
-    description: Správce krajského sdružení
+  - id: eva.novakova
+    description: Kontakt pro dobrovolníky
 ---
 
 # Vítáme tě u Pirátů!
