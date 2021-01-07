@@ -10,7 +10,7 @@ title: Co děláme?
 
 <article class="card card--hoveractive"><a href="/jipice/"><img src="https://a.pirati.cz/vysocina/img/codelame/jipice.png" alt="Jipice - Jihlavské pirátské centrum" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/jipice/">Jipice - Jihlavské pirátské centrum</a></h1> <p class="card-body-text"></p></div></article>
 
-<article class="card card--hoveractive"><a href="/codelame/pripravujeme/"><img src="https://a.pirati.cz/vysocina/img/codelame/pridej-se.png" alt="Přidej se k nám" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/pripoj-se/">Přidej se k nám</a></h1> <p class="card-body-text"></p></div></article>
+<article class="card card--hoveractive"><a href="/pripoj-se/"><img src="https://a.pirati.cz/vysocina/img/codelame/pridej-se.png" alt="Přidej se k nám" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/pripoj-se/">Přidej se k nám</a></h1> <p class="card-body-text"></p></div></article>
 
 <article class="card card--hoveractive"><a href="/codelame/pripravujeme/"><img src="https://a.pirati.cz/vysocina/img/codelame/swap.png" alt="SWAP" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/codelame/pripravujeme/">SWAP</a></h1> <p class="card-body-text"></p></div></article>
 
