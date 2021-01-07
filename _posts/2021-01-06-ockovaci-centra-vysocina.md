@@ -8,7 +8,7 @@ layout: post
 title: Kraje musí očkovací strategii převzít na svá bedra
 author: Jiří Svoboda
 authorId: jiri.svoboda.hb
-image: 2021-01-06-ockovaci-centra-vysocina.jpg
+image: posts/2021-01-06-ockovaci-centra-vysocina.jpg
 important: true
 ---
 
