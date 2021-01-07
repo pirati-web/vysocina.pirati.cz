@@ -1,8 +1,13 @@
 ---
 layout: pirate-center
 description:
-keywords: 
+keywords:
 title: Přidej se k nám!
+address: |
+  Jihlavské pirátské centrum
+  Matky Boží 1182/9
+  586 01 Jihlava
+addressNote:
 contactPersons:
   - id: eva.novakova
     description: Kontakt pro dobrovolníky
