@@ -10,11 +10,11 @@ contentSize: even
 # contentSize: even
 contentSize: even
 contactPersons:
-  - id: blanka.lednicka
-    position: Předsedkyně krajského sdružení
+  - id: jan.posvar
+    position: Předseda krajského sdružení
   - id: eva.novakova
     position: Kontakt pro dobrovolníky
-  - id: hana.hajnova
+  - id: jiri.svoboda
     position: Kontakt pro novináře
 ---
 
