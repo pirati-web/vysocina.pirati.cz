@@ -8,8 +8,8 @@ category:
   - clenove
   - pks
   - poslanec
-ordpks: 3
-description: 2. místopředseda KS Vysočina, poslanec Parlamentu ČR # zobrazuje se v lide
+ordpks: 1
+description: předseda KS Vysočina, poslanec Parlamentu ČR # zobrazuje se v lide
 profession: poslanec Parlamentu ČR
 heroImg: banner-default.jpg
 img: people/jan-posvar.jpg

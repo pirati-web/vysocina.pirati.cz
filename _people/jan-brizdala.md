@@ -7,10 +7,10 @@ category:
   - pks
   - mo
   - kz
-ordpks: 2
+ordpks: 3
 ordmo: 7
 ordkz: 2
-description: 1. místopředseda KS Vysočina
+description: 2. místopředseda KS Vysočina
 descriptionkz: uvolněný radní
 profession: radní Kraje Vysočina
 heroImg: banner-default.jpg

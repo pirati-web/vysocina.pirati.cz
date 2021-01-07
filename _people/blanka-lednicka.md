@@ -3,12 +3,10 @@ uid: blanka.lednicka
 name: Blanka Lednická
 category:
   - clenove
-  - pks
   - kz
-ordpks: 1
 ordkz: 3
-description: předsedkyně KS Vysočina
-descriptionkz: neuvolněná zastupitelka
+description: předsedkyně krajského zastupitelského klubu
+descriptionkz: předsedkyně krajského zastupitelského klubu
 profession: OSVČ - rodopisec
 heroImg: banner-default.jpg
 img: people/blanka-lednicka.jpg
