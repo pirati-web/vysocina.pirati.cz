@@ -8,7 +8,6 @@ title: Kraj zavede pravidelné konkurzy na ředitele škol
 author: Jan Břížďala
 authorId:  jan.brizdala
 image: posts/2021-01-05-konkurzy-reditele-skol.png
-important: true
 ---
 
 Jihlava, 5. ledna 2021 - Zřizovatel školy či školského zařízení může vyhlásit konkurzní řízení na obsazení pracovního místa ředitele před ukončením jeho funkčního období. To je podle školského zákona stanoveno na 6 let a případný konkurs musí být vyhlášen před uplynutím období výkonu funkce. Jestliže k tomu zřizovatel nepřistoupí, funkční období ředitele se automaticky prodlužuje o dalších 6 let, což byla často využívaná praxe i v Kraji Vysočina. Nově se budou konkurzní řízení vyhlašovat pravidelně vždy na konci funkčního období.
