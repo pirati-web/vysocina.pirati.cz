@@ -5,7 +5,7 @@ tags:
   - telekomunikace
   - doprava
 layout: post
-title: Břížďala: Potřebujeme urychlit výstavbu vysokorychlostních sítí
+title: Břížďala- Potřebujeme urychlit výstavbu vysokorychlostních sítí
 author: Jan Břížďala
 authorId:  jan.brizdala
 image: posts/2021-01-10-Brizdala-potrebujeme-urychlit-vystavbu.png
