@@ -9,7 +9,6 @@ title: Kraje musí očkovací strategii převzít na svá bedra
 author: Jiří Svoboda
 authorId: jiri.svoboda.hb
 image: posts/2021-01-06-ockovaci-centra-vysocina.jpg
-important: true
 ---
 
 Jihlava, 6. ledna 2021 - Po včerejším jednání mezi hejtmany a členy vlády je jasné, že očkovací strategii musí na svá bedra převzít jednotlivé kraje. Zeptali jsme se proto 1. náměstkyně hejtmana Kraje Vysočina Hany Hajnové (Piráti), jak vidí dosavadní vládní kroky kolem vakcinace proti covidu a jejich dopady na Kraj Vysočina.
