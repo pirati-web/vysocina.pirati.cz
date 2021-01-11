@@ -32,7 +32,7 @@ Dále jsme společně s Pirátkami z Vysočiny zapojili do projektu *„Piráti 
 
 **Existují lidé, kteří trpí díky bezpráví a nespravedlnosti**
 
-Nezapomínám ani na lidská práva, která nejsou všude samozřejmostí. Zúčastnil jsem se proto maratonu psaní dopisů. Možná nelze zachránit osudy lidí vězněných neprávem, ale je třeba si připomenout, že se to děje a vyvíjí tlak na naši firmu, podnik a státní představitel, aby ani oni nezapomínali a svého vlivu využívali ke zlepšení stavu v zemích, kde se lidská práva porušují.
+Nezapomínám ani na lidská práva, která nejsou všude samozřejmostí. Zúčastnil jsem se proto maratonu psaní dopisů. Možná nelze zachránit osudy lidí vězněných neprávem, ale je třeba si připomenout, že se to děje a vyvíjí tlak na naše firmy, podniky a státní představitele, aby ani oni nezapomínali a svého vlivu využívali ke zlepšení stavu v zemích, kde se lidská práva porušují.
 
 Závěrem bych vám chtěl popřát šťastný nový rok 2021. Bude to přesto náročný, ale zároveň velmi zajímavý rok. Během jara se má rozjet očkování pro veřejnost. Já mám zase v plánu pokračovat v boji proti erozi a s nadmírou byrokracie. Na podzim nás čekají parlamentní volby, které snad mění situaci v naší zemi k lepšímu. Sláva Pirátům na vzestupu a pokoj lidem dobré vůle ;-)  
 
