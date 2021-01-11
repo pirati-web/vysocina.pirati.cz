@@ -5,7 +5,7 @@ tags:
   - sněmovna
   - komentář
 layout: příspěvek
-title: Jan Pošvář-prosinec ve sněmovně
+title: Jan Pošvář - prosinec ve sněmovně
 author: Jan Pošvář
 authorId: jan.posvar
 image: posts/2021-01-11-Jan-Posvar-prosinec-ve-snemovne.jpg
