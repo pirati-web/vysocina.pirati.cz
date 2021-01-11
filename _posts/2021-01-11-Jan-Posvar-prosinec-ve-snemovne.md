@@ -38,6 +38,6 @@ Závěrem bych vám chtěl popřát šťastný nový rok 2021. Bude to přesto n
 
 ---
 
-*** KONTAKT PRO NOVINÁŘE *** 
+***KONTAKT PRO NOVINÁŘE*** 
 
 Jiří Svoboda, 724 235 840, <jiri.svoboda.hb@pirati.cz>
