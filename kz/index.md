@@ -10,3 +10,16 @@ groups:
     sort: ordkz
     category: kz
 ---
+
+##Program
+* [Vysočina živá](https://vysocina.pirati.cz/komunalni-volby/program/2020vys/ziva/)
+* [Vysočina pro lidi](https://vysocina.pirati.cz/komunalni-volby/program/2020vys/pro-lidi/)
+* [Vysočina zdravá](https://vysocina.pirati.cz/komunalni-volby/program/2020vys/zdrava/)
+* [Vysočina pečující](https://vysocina.pirati.cz/komunalni-volby/program/2020vys/pecujici/)
+* [Vysočina vzdělaná](https://vysocina.pirati.cz/komunalni-volby/program/2020vys/vzdelana/)
+* [Vysočina dostupná](https://vysocina.pirati.cz/komunalni-volby/program/2020vys/dostupna/)
+* [Vysočina otevřená](https://vysocina.pirati.cz/komunalni-volby/program/2020vys/otevrena/)
+* [Vysočina transparentní](https://vysocina.pirati.cz/komunalni-volby/program/2020vys/transparentni/)
+* [Vysočina kulturní](https://vysocina.pirati.cz/komunalni-volby/program/2020vys/kulturni/)
+* [Zažít Vysočinu](https://vysocina.pirati.cz/komunalni-volby/program/2020vys/zazit/)
+* [Vysočina bezpečná](https://vysocina.pirati.cz/komunalni-volby/program/2020vys/bezpecna/)
