@@ -11,6 +11,7 @@ groups:
     category: kz
 ---
 
+<div class="container container--default py-8 lg:py-24">
 ##Program
 * [Vysočina živá](https://vysocina.pirati.cz/komunalni-volby/program/2020vys/ziva/)
 * [Vysočina pro lidi](https://vysocina.pirati.cz/komunalni-volby/program/2020vys/pro-lidi/)
@@ -23,3 +24,4 @@ groups:
 * [Vysočina kulturní](https://vysocina.pirati.cz/komunalni-volby/program/2020vys/kulturni/)
 * [Zažít Vysočinu](https://vysocina.pirati.cz/komunalni-volby/program/2020vys/zazit/)
 * [Vysočina bezpečná](https://vysocina.pirati.cz/komunalni-volby/program/2020vys/bezpecna/)
+</div>
