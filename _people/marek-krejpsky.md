@@ -19,4 +19,10 @@ Vystudoval Gymnazium ve Žďáru nad Sázavou a poté Vysoké učení technické
 
 Od narození žije v malé obci Škrdlovice nedaleko od rybníka Velké Dářko. Ve svém volném čase se věnuje historickému šermu, dlouhou dobu byl členem skupiny historického šermu Flamberg ze Žďáru na Sázavou, nyní se učí umění kendo.
 
-V politice je jeho zájmem železniční doprava a problematika výstavby VRT v České republice. Z profesních důvodů se také zajímá o pokrytí venkova České republiky vysokorychlostním internetem. Již od studenstkých let podporuje legalizaci měkkých drog. Věří že po vyhraných volbách uvolníme pěstování konopí a výrobu marihuany svépomocí.  
+V politice je jeho zájmem železniční doprava a problematika výstavby VRT v České republice. Z profesních důvodů se také zajímá o pokrytí venkova České republiky vysokorychlostním internetem. Již od studenstkých let podporuje legalizaci měkkých drog. Věří, že po vyhraných volbách uvolníme pěstování konopí pro výrobu marihuany svépomocí.  
+
+
+
+<hr>
+<center><a href="https://zemedelstvi.pirati.cz"><img src="https://sucho.pirati.cz/assets/img/legalize_marihuana.jpg"></a></center>
+<hr>
