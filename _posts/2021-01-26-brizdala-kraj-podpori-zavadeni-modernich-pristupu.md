@@ -4,7 +4,7 @@ category: blog
 tags:
   - školství
 layout: post
-title: Urychlení výstavby vysokorychlostních sítí je zase o krok blíž
+title: Břížďala - Kraj podpoří zavádění moderních přístupů ve vzdělávání
 author: Jan Břížďala
 authorId: jan.brizdala
 image: posts/2021-01-26-brizdala-kraj-podpori-zavadeni-modernich-pristupu.jpg
