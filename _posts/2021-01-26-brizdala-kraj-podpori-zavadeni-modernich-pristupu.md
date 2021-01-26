@@ -7,7 +7,7 @@ layout: post
 title: Břížďala - Kraj podpoří zavádění moderních přístupů ve vzdělávání
 author: Jan Břížďala
 authorId: jan.brizdala
-image: posts/2021-01-26-brizdala-kraj-podpori-zavadeni-modernich-pristupu.jpg
+image: posts/2021-01-26-brizdala-kraj-podpori-zavadeni-modernich-pristupu.JPG
 important: true
 ---
 
@@ -21,6 +21,6 @@ Učitelům budou nabídnuty akce pro vzájemnou výměnu zkušeností, jak v jed
 
 ---
 
-***KONTAKT PRO NOVINÁŘE*** 
+***KONTAKT PRO NOVINÁŘE***
 
 Jiří Svoboda, 724 235 840, <jiri.svoboda.hb@pirati.cz>
