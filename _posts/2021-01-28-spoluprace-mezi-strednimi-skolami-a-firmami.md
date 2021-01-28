@@ -4,7 +4,7 @@ category: blog
 tags:
   - školství
 layout: post
-title: 
+title: Spolupráce mezi středními školami a firmami je cestou k úspěchu
 author: Jiří Svoboda
 authorId: jiri.svoboda
 image: posts/2021-01-28-spoluprace-mezi-strednimi-skolami-a-firmami.jpg
