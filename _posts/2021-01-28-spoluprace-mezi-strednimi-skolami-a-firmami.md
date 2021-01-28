@@ -11,7 +11,7 @@ image: posts/2021-01-28-spoluprace-mezi-strednimi-skolami-a-firmami.jpg
 important: true
 ---
 
-Havlíčkův Brod, 28. ledna 2021 - **Jak se dělají dny otevřených dveří v době covidové? Středeční cesta na havlíčkobrodské střední školy byla pro radního Kraje Vysočina pro oblast školství, mládeže a sportu, oblast informatiky a komunikačních technologií Jana Břížďalu (Piráti) inspirativní i poučná.**
+Havlíčkův Brod, 27. ledna 2021 - **Jak se dělají dny otevřených dveří v době covidové? Středeční cesta na havlíčkobrodské střední školy byla pro radního Kraje Vysočina pro oblast školství, mládeže a sportu, oblast informatiky a komunikačních technologií Jana Břížďalu (Piráti) inspirativní i poučná.**
 
 Je středa 27. ledna, krátce před polednem a ve Střední průmyslové škole stavební akademika Stanislava Bechyně v Havlíčkově Brodě právě začíná tisková konference u příležitosti slavnostního podpisu memoranda o spolupráci mezi školou a odbornými firmami z oborů stavebnictví, izolační materiály nebo instalatérství a topenářství.
 
