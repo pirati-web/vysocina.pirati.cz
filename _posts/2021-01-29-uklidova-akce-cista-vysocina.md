@@ -21,7 +21,7 @@ Veřejnost se do akce Čistá Vysočina 2021 bude moci zapojit od 12. do 25. dub
 
 **Harmonogram akce Čistá Vysočina 2021**
 
-• Přihlášení probíhá do 28. 2. 2021 prostřednictvím elektronického formuláře na webových stránkách Kraje Vysočina: [www.kr-vysocina.cz/cistavysocina](www.kr-vysocina.cz/cistavysocina)
+• Přihlášení probíhá do 28. 2. 2021 prostřednictvím elektronického formuláře na webových stránkách Kraje Vysočina: [www.kr-vysocina.cz/cistavysocina](https://extranet.kr-vysocina.cz/formulare/cista-vysocina/)
 
 UPOZORNĚNÍ: Přihlášky z loňského ročníku platí, balíčky jsou už připraveny. Účastníci budou emailem vyzváni, aby aktualizovali pouze datum sběru.
 
