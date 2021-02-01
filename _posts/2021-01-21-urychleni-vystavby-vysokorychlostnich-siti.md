@@ -7,7 +7,7 @@ tags:
 layout: post
 title: Urychlení výstavby vysokorychlostních sítí je zase o krok blíž
 author: Jiří Svoboda
-authorId: jiri.svoboda.hb
+authorId: jiri.svoboda
 image: posts/2021-01-21-urychleni-vystavby-vysokorychlostnich-siti.png
 important: true
 ---
