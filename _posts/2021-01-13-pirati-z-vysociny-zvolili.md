@@ -7,7 +7,7 @@ tags:
 layout: post
 title: Piráti z Vysočiny zvolili Jana Pošváře na druhé místo kandidátky
 author: Jiří Svoboda
-authorId: jiri.svoboda.hb
+authorId: jiri.svoboda
 image: posts/2021-01-13-pirati-z-vysociny-zvolili.jpg
 important: true
 ---
