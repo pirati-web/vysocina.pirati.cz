@@ -7,7 +7,7 @@ tags:
 layout: post
 title: Pirátské úspěchy v sociálním výboru města Havlíčkův Brod
 author: Jiří Svoboda
-authorId: jiri.svoboda.hb
+authorId: jiri.svoboda
 image: posts/2021-01-16-piratske-uspechy-v-socialnim-vyboru.jpg
 important: true
 ---
