@@ -7,7 +7,7 @@ tags:
 layout: post
 title: Představení dotačních programů Kraje Vysočina na rok 2021
 author: Jiří Svoboda
-authorId: jiri.svoboda.hb
+authorId: jiri.svoboda
 image: posts/2021-01-08-predstaveni-dotacnich-programu-vysocina.png
 important: true
 ---
