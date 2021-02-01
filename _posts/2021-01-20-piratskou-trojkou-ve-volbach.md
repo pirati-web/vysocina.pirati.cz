@@ -7,7 +7,7 @@ tags:
 layout: post
 title: Pirátskou trojkou ve volbách do sněmovny bude Miroslav Vácha
 author: Jiří Svoboda
-authorId: jiri.svoboda.hb
+authorId: jiri.svoboda
 image: posts/2021-01-20-piratskou-trojkou-ve-volbach.jpg
 important: true
 ---
