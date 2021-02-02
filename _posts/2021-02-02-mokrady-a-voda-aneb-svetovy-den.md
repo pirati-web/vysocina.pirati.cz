@@ -7,7 +7,7 @@ layout: post
 title: Mokřady a voda aneb světový den mokřadů u nás i ve světě
 author: Blanka Lednická
 authorId: blanka.lednicka
-image: 2021-02-02-mokrady-a-voda-aneb-svetovy-den.jpg
+image: posts/2021-02-02-mokrady-a-voda-aneb-svetovy-den.jpg
 important: true
 ---
 
