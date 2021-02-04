@@ -12,7 +12,7 @@ image: posts/2021-02-03-hana-hajnova-predstavila-react-eu.jpg
 important: true
 ---
 
-Jihlava, 3. února 2021 - **Náměstkyně hejtmana pro oblast regionálního rozvoje Hana Hajnová na včerejší tiskové konferenci v budově vědeckotechnologického parku v Jihlavě představila unijní finanční nástroj REACT-EU. Tato výzva je podporou členským státům EU ve zvládání následků pandemie COVID-19. Finanční prostředky z programu REACT-EU poputují také do Kraje Vysočina.**
+Jihlava, 3. února 2021 - **Náměstkyně hejtmana pro oblast regionálního rozvoje Hana Hajnová na včerejší tiskové konferenci v budově bývalého vědeckotechnologického parku (dnes ATX centrum) v Jihlavě představila unijní finanční nástroj REACT-EU. Tato výzva je podporou členským státům EU ve zvládání následků pandemie COVID-19. Finanční prostředky z programu REACT-EU poputují také do Kraje Vysočina.**
 
 Rada Kraje Vysočina schválila celkem 19 projektových záměrů, které budou směřovány do zdravotnictví, integrovaného záchranného systému a sociální oblasti. Konkrétně se tedy jedná o 1,3 miliardy korun na rozvoj a modernizaci přístrojového vybavení krajem zřizovaných nemocnic, 160 milionů korun na rozvoj techniky a vybavení informačními systémy pro zdravotnickou záchrannou službu a 413 milionů korun na výstavbu a rekonstrukci budov. 
 
