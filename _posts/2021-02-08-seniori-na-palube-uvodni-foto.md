@@ -2,7 +2,7 @@
 date: 2021-02-08
 category: blog
 tags:
- - Senioři na palubě 
+ - Senioři na palubě
 layout: post
 title: Senioři na palubě boří mýty o Pirátech
 author: Jiří Svoboda
@@ -37,10 +37,10 @@ Znáte ve svém okolí seniory, které by mohla Paluba a Senioři na palubě zaj
 
 **Zapojte se!**
 
-![Senioři na palubě](https://vysocina.pirati.cz/assets/vysocina/img/posts/2021-02-08-seniori-na-palube-plakat.png)
+![Senioři na palubě](https://a.pirati.cz/vysocina/img/posts/2021-02-08-seniori-na-palube-plakat.png)
 
 ---
 
-***KONTAKT PRO NOVINÁŘE*** 
+***KONTAKT PRO NOVINÁŘE***
 
 Jiří Svoboda, 724 235 840, <jiri.svoboda.hb@pirati.cz>
