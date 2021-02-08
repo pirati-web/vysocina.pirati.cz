@@ -27,7 +27,9 @@ Na Palubách se nebude řešit pouze politika. Budou to místa setkávání, vzd
 
 Znáte ve svém okolí seniory, které by mohla Paluba a Senioři na palubě zajímat? Dejte jim o nás vědět!
 
-**Pokud se chcete zapojit, kontaktujte svou krajskou koordinátorku, Evu Novákovou na telefonu 775 666 988 nebo e-mailu eva.novakova@pirati.cz**
+**Pokud se chcete zapojit, kontaktujte svou krajskou koordinátorku, Evu Novákovou**
+
+**na telefonu 775 666 988 nebo e-mailu eva.novakova@pirati.cz**
 
 **Navštivte facebookovou stránku [Seniorů na palubě](https://www.facebook.com/seniorinapalube)**
 
