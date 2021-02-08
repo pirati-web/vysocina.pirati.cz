@@ -37,7 +37,7 @@ Znáte ve svém okolí seniory, které by mohla Paluba a Senioři na palubě zaj
 
 **Zapojte se!**
 
-![Senioři na palubě](https://vysocina.pirati.cz/assets/vysocina/img/posts/2021-02-08-seniori-na-palube-plakat.png)
+![Senioři na palubě](https://mrak.pirati.cz/core/preview?fileId=2139024&x=1920&y=1080&a=true)
 
 ---
 
