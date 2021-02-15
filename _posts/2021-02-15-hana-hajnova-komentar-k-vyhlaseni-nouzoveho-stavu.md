@@ -5,7 +5,7 @@ tags:
  - nouzový stav
  - Kraj Vysočina
 layout: post
-title: Hana Hajnová - s koncem nouzového stavu omezení neskončí 
+title: Hana Hajnová – komentář k vyhlášení nouzového stavu
 author: hana.hajnova
 authorId: hana.hajnova
 image: posts/2021-02-15-hana-hajnova-komentar-k-vyhlaseni-nouzoveho-stavu.jpg
