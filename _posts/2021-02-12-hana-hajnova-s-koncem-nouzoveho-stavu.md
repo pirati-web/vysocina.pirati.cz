@@ -12,7 +12,7 @@ image: posts/2021-02-12-hana-hajnova-s-koncem-nouzoveho-stavu.jpg
 important: true
 ---
 
-Havlíčův Brod, 10. února 2021 - **Dnes odpoledne začalo slibované jednání Asociace krajů ČR s premiérem Babišem (ANO),  ministrem zdravotnictví Blatným (za ANO) a dalšími členy vlády, jehož cílem bylo navrhnout opatření, která budou platná po konci nouzového stavu. Poslanecká sněmovna včera večer rozhodla, že nouzový stav skončí v neděli 14. února. Jednání mezi vládou a kraji se účastnila také 1. náměstkyně hejtmana Kraje Vysočina Hana Hajnová (Piráti).**
+Jihlava, 12. února 2021 - **Dnes odpoledne začalo slibované jednání Asociace krajů ČR s premiérem Babišem (ANO),  ministrem zdravotnictví Blatným (za ANO) a dalšími členy vlády, jehož cílem bylo navrhnout opatření, která budou platná po konci nouzového stavu. Poslanecká sněmovna včera večer rozhodla, že nouzový stav skončí v neděli 14. února. Jednání mezi vládou a kraji se účastnila také 1. náměstkyně hejtmana Kraje Vysočina Hana Hajnová (Piráti).**
 
 Už dnes je jasné, že s koncem nouzového stavu velká část opatření neskončí. Ministerstvo zdravotnictví prostřednictvím zákona o veřejném zdraví může nadále omezit školy, restaurace či ubytování. *„Klíčové je, že i kdyby nebyl vyhlášen nouzový stav, tak většina těch omezujících opatření zůstává platných. Bavíme se primárně například o školách, protože jsem zaregistrovala, že si spousta lidí myslí, že od pondělka se ty školy otevřou. Neotevřou, to není reálné. I ministerstvo zdravotnictví je připravené, že pokud hejtmani nepožádají o vyhlášení nouzového stavu, tak to opatření o uzavření škol bude platit dál tak, jak platilo doteď,“* doplňuje Hana Hajnová.
 
