@@ -11,7 +11,7 @@ image: posts/2021-02-17-hana-hajnova-komentar-ke-grantovym-programum.jpg
 important: true
 ---
 
-Jihlava, 17. února 2021 - **Na konci roku 2021, když jsme schvalovali na krajském zastupitelstvu rozpočet na rok 2021, panovala velká nejistota ohledně daňových příjmů, dopadů tzv. daňového balíčku a absorpční kapacity ohledně zamýšlené výše investičních projektů. Proto jsme deklarovali, že přijímáme návrh rozpočtu tak, jak jej připravila předchozí rada kraje a podle vývoje situace v roce 2021 jej budeme aktualizovat. To se týkalo i Fondu Vysočiny, který je nedílnou součástí rozpočtu kraje a v návrhu rozpočtu na něj byla připravená alokace 200 mil. Kč.**
+Jihlava, 17. února 2021 - **Na konci roku 2020, když jsme schvalovali na krajském zastupitelstvu rozpočet na rok 2021, panovala velká nejistota ohledně daňových příjmů, dopadů tzv. daňového balíčku a absorpční kapacity ohledně zamýšlené výše investičních projektů. Proto jsme deklarovali, že přijímáme návrh rozpočtu tak, jak jej připravila předchozí rada kraje a podle vývoje situace v roce 2021 jej budeme aktualizovat. To se týkalo i Fondu Vysočiny, který je nedílnou součástí rozpočtu kraje a v návrhu rozpočtu na něj byla připravená alokace 200 mil. Kč.**
 
 Tu jsme také akceptovali s tím, že je na první pohled jasné, že bude stačit na vypsání méně programů než v roce 2020. Avšak pokud to rozpočet a daňové příjmy dovolí, tak se k fondu v roce 2021 vrátíme a otevřeme diskusi o jeho možném navýšení. A to stále platí. 
 
