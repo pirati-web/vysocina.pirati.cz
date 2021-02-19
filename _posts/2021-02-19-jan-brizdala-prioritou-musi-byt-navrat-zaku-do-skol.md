@@ -4,7 +4,7 @@ category: blog
 tags:
  - školství
 layout: post
-title: Jan Břížďala: Prioritou musí být návrat žáků do škol
+title: Jan Břížďala - Prioritou musí být návrat žáků do škol
 author: Jan Břížďala
 authorId: jan.brizdala
 image: posts/2021-02-19-jan-brizdala-prioritou-musi-byt-navrat-zaku-do-skol.jpg
