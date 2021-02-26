@@ -3,7 +3,7 @@ date: 2021-02-26
 category: blog
 tags:
   - sbírka
-  - #ažnakrev
+  - ažnakrev
 layout: post
 title: Úspěšná sbírka ažnakrev poputuje k matkám samoživitelkám
 author: Jiří Svoboda
