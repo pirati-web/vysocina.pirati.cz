@@ -5,7 +5,7 @@ tags:
   - sbírka
   - #ažnakrev
 layout: post
-title: Úspěšná sbírka #ažnakrev poputuje k matkám samoživitelkám
+title: Úspěšná sbírka ažnakrev poputuje k matkám samoživitelkám
 author: Jiří Svoboda
 authorId: jiri.svoboda
 image: posts/2021-02-26-uspesna-sbirka-aznakrev.jpg
