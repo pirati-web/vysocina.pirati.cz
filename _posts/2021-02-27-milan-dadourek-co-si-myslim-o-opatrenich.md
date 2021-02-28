@@ -9,7 +9,6 @@ title: Milan Daďourek - Co si myslím o opatřeních nového nouzového stavu?
 author: Milan Dadourek
 authorId: milan.dadourek
 image: posts/2021-02-27-milan-dadourek-co-si-myslim-o-opatrenich.jpg
-important: true
 ---
 
 Počítky, 27. února 2021 - **Nevím, co si člověk může myslet. Já jim příliš nerozumím. Nechápu, proč saháme k dalším omezením pohybu lidí, dalšímu omezování obchodů a služeb, ale v nařízeních nenajdeme průmyslové podniky. Není jim přikázáno testovat, nejsou žádná omezení. V provozu mohou zůstat i obrovská nákupní centra, kde budou lidé přecházet mezi několika málo otevřenými obchody. Naopak vláda zavírá školky a vyhání malé děti ze škol. Ztěžuje život zejména těm nejslabším - rodinám s dětmi, zvláště samoživitelům a samoživitelkám, živnostníkům, malým obchodům.**
