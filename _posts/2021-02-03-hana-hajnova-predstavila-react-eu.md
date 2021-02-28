@@ -9,7 +9,6 @@ title: Hana Hajnová představila REACT-EU, unijní nástroj finanční pomoci p
 author: Jiří Svoboda
 authorId: jiri.svoboda
 image: posts/2021-02-03-hana-hajnova-predstavila-react-eu.jpg
-important: true
 ---
 
 Jihlava, 3. února 2021 - **Náměstkyně hejtmana pro oblast regionálního rozvoje Hana Hajnová na včerejší tiskové konferenci v budově bývalého vědeckotechnologického parku (dnes ATX centrum) v Jihlavě představila unijní finanční nástroj REACT-EU. Tato výzva je podporou členským státům EU ve zvládání následků pandemie COVID-19. Finanční prostředky z programu REACT-EU poputují také do Kraje Vysočina.**
