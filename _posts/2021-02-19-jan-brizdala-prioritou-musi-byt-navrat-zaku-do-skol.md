@@ -8,7 +8,6 @@ title: Jan Břížďala - Prioritou musí být návrat žáků do škol
 author: Jan Břížďala
 authorId: jan.brizdala
 image: posts/2021-02-19-jan-brizdala-prioritou-musi-byt-navrat-zaku-do-skol.jpeg
-important: true
 ---
 
 Jihlava, 19. února 2021 - **V minulém týdnu se velmi aktivně řešila otázka prodloužení či opětovného vyhlášení nouzového stavu. Vláda ČR na základě žádosti všech hejtmanů a primátora hlavního města Prahy vyhlásila nový nouzový stav s účinností od 15. února. Tomu předcházely rozsáhlé diskuze, v rámci kterých se řešily priority pro následující dny. Shoda panovala na hledání cest pro urychlený návrat žáků do školních lavic.**
