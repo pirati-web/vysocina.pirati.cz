@@ -8,7 +8,6 @@ title: Horáckou galerii v Novém Městě na Moravě povede Věra Staňková
 author: Jiří Svoboda
 authorId: jiri.svoboda
 image: posts/2021-02-05-horackou-galerii-v-novem-meste-na-morave-povede-vera-stankova.jpg
-important: true
 ---
 
 Jihlava, 5. února 2021 - **Novou ředitelkou krajské Horácké galerie v Novém Městě na Moravě bude od 1. března 2021 Věra Staňková. Na úterním jednání krajské rady to stvrdilo všech jejích devět členů. I s ohledem na komplikace, které snaha obsadit místo ředitele/ky Horácké galerie přinesla v loňském roce, bylo celé výběrové řízení bedlivě sledováno. Minulá krajská rada se totiž neztotožnila s výsledkem hodnotící komise a navzdory proběhlému výběrovému řízení nikoho nejmenovala.**
