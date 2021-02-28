@@ -5,7 +5,7 @@ tags:
   - vzdělávání
   - koronavirus
 layout: post
-title: Scola Telcz - Intouchable: Letošní Scola Telcz, věnovaná obrazu města, proběhla virtuálně
+title: Scola Telcz - Intouchable. Letošní Scola Telcz, věnovaná obrazu města, proběhla virtuálně.
 author: Jaroslav Makovec
 authorId: 
 image: posts/2021-02-26-scola-telcz.jpg
