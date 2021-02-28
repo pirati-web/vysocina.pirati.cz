@@ -9,7 +9,6 @@ title: Lednové jednání třebíčského zastupitelstva o prodeji polikliniky a
 author: Jiří Svoboda
 authorId: jiri.svoboda
 image: posts/2021-02-04-lednove-jednani-trebicskeho-zastupitelstva.jpg
-important: true
 ---
 
 Třebíč, 4. února 2021 - **Ve čtvrtek 28. ledna proběhlo první zasedání zastupitelstva města Třebíč v letošním roce. Jednání se zúčastnil také třebíčský Pirát a předseda Kontrolního výboru Zastupitelstva města Třebíče Roman Pašek. Na jednání zastupitelstva se objevilo několik bodů, které si vyžádaly obšírnější diskusi.**
