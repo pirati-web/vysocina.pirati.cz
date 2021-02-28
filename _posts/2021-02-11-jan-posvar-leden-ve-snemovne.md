@@ -9,7 +9,6 @@ title: Jan Pošvář – leden ve sněmovně
 author: Jan Pošvář
 authorId: jan.posvar
 image: posts/2021-02-11-jan-posvar-leden-ve-snemovne.jpg
-important: true
 ---
 
 Jihlava, 11. února 2021 - **Do nového roku by každý z nás chtěl hledět s nadějí, že jsme si minulý rok zažili to nejhorší. Bohužel zatím stále není vidět světlo na konci tunelu a velký podíl na těžké situaci má vláda, která vsadila na represi. Opatření navíc zavádí často v rozporu s původními prohlášeními nebo s jakoukoli logikou.** 
