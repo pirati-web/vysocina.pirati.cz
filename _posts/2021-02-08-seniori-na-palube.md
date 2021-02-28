@@ -8,7 +8,6 @@ title: Senioři na palubě boří mýty o Pirátech
 author: Jiří Svoboda
 authorId: jiri.svoboda
 image: posts/2021-02-08-seniori-na-palube.jpg
-important: true
 ---
 
 Jihlava, 8. února 2021 - **Myslíte si, že Česká pirátská strana je jen pro mladé? Toužíte po tom, aby mezigenerační komunikace začala skutečně fungovat? Hledáte prostor pro vzájemnou diskuzi s odborníky, politiky, seniory? Už hledat nemusíte. Koncem loňského roku odstartoval projekt Senioři na palubě, jehož cílem je vzájemné propojení Pirátů a střední i starší generace.**
