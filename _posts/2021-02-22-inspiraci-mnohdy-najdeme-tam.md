@@ -8,7 +8,6 @@ title: Inspiraci mnohdy najdeme tam, kde bychom ji nečekali
 author: Hana Hajnová
 authorId: hana.hajnova
 image: posts/2021-02-22-inspiraci-mnohdy-najdeme-tam.png
-important: true
 ---
 
 Telč, 22. února 2021 - **Znáte knihu Příběhy pro malé rebelky na dobrou noc? I v této době jsou pro mě knihy jednou z oblíbených kratochvílí, díky kterým můžu poznat životní osudy druhých nebo cestovat po celém světě aniž bych opustila svůj domov. A knihu pro malé rebelky jsem objevila díky své dceři, které jsem ji koupila pro naše společné čtení. Jejím podtitulem je *„sněte, ještě než půjdete spát!“* a představuje životy inspirativních žen napříč dějinami i celým světem. A ukázalo se, že to není kniha jen pro děti. Nakonec jsem jí možná četla vícekrát sama pro sebe než pro dceru :-)**
