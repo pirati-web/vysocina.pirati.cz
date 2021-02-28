@@ -8,7 +8,6 @@ title: Hana Hajnová – komentář ke grantovým programům Fond Vysočiny 2021
 author: Hana Hajnová
 authorId: hana.hajnova
 image: posts/2021-02-17-hana-hajnova-komentar-ke-grantovym-programum.jpg
-important: true
 ---
 
 Jihlava, 17. února 2021 - **Na konci roku 2020, když jsme schvalovali na krajském zastupitelstvu rozpočet na rok 2021, panovala velká nejistota ohledně daňových příjmů, dopadů tzv. daňového balíčku a absorpční kapacity ohledně zamýšlené výše investičních projektů. Proto jsme deklarovali, že přijímáme návrh rozpočtu tak, jak jej připravila předchozí rada kraje a podle vývoje situace v roce 2021 jej budeme aktualizovat. To se týkalo i Fondu Vysočiny, který je nedílnou součástí rozpočtu kraje a v návrhu rozpočtu na něj byla připravená alokace 200 mil. Kč.**
