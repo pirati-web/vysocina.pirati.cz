@@ -9,7 +9,6 @@ title: Rada Kraje Vysočina představila Programové prohlášení na období 20
 author: Jiří Svoboda
 authorId: jiri.svoboda
 image: posts/2021-02-23-rada-kraje-vysocina-predstavila-programove-prohlaseni.jpg
-important: true
 ---
 
 Jihlava, 23. února 2021 - **Rada Kraje Vysočina dnes schválila své Programové prohlášení pro období 2020 – 2024. Dokument, o který se bude v dalších letech krajská devítičlenná rada opírat, je tvořen třemi pilíři zohledňujícími kvalitu života obyvatel, udržitelný rozvoj a prosperitu regionu. Na podobě programového prohlášení se samozřejmě podíleli také Piráti.**
