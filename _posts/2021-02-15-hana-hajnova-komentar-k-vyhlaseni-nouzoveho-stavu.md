@@ -9,7 +9,6 @@ title: Hana Hajnová – komentář k vyhlášení nouzového stavu
 author: hana.hajnova
 authorId: hana.hajnova
 image: posts/2021-02-15-hana-hajnova-komentar-k-vyhlaseni-nouzoveho-stavu.jpg
-important: true
 ---
 
 Jihlava, 15. února 2021 - **Po víkendovém intenzivním jednání mezi hejtmany, premiérem Babišem (ANO), ministrem zdravotnictví Blatným (za ANO) a dalšími ministry požádali všichni krajští hejtmani o prodloužení nouzového stavu, avšak za jasně stanovených podmínek, včetně návratu žáků do škol, pravidelného testování zaměstnanců firem nebo postupného otevření obchodů. K žádosti vyhlášení nouzového stavu ze strany hejtmanů se ve svém komentáři vyjádřila i 1. náměstkyně hejtmana Hana Hajnová (Piráti).**
