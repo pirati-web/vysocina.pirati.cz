@@ -9,7 +9,6 @@ title: Novinky z finančního výboru Zastupitelstva města Havlíčkův Brod
 author: Jiří Svoboda
 authorId: jiri.svoboda
 image: posts/2021-02-10-novinky-z-financniho-vyboru.png
-important: true
 ---
 
 Havlíčův Brod, 10. února 2021 - **Na konci ledna tohoto roku proběhlo jednání finančního výboru Zastupitelstva města Havlíčkův Brod. Na programu byly mimo jiné informace o plnění a čerpání rozpočtu města k 31. 12. 2020, a to včetně nástinu předběžného výsledku hospodaření za rok 2020. Jednání finančního výboru se zúčastnil i havlíčkobrodský Pirát a krajský zastupitel Jiří Wiche.**
