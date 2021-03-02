@@ -23,3 +23,5 @@ groups:
 * [Vysočina kulturní](https://vysocina.pirati.cz/komunalni-volby/program/2020vys/kulturni/)
 * [Zažít Vysočinu](https://vysocina.pirati.cz/komunalni-volby/program/2020vys/zazit/)
 * [Vysočina bezpečná](https://vysocina.pirati.cz/komunalni-volby/program/2020vys/bezpecna/)
+
+<article class="card card--hoveractive"><a href="/jipice/"><img src="https://a.pirati.cz/vysocina/img/codelame/jipice.png" alt="Jipice - Jihlavské pirátské centrum" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/jipice/">Jipice - Jihlavské pirátské centrum</a></h1> <p class="card-body-text"></p></div></article>
