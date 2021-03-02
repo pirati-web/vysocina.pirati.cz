@@ -13,7 +13,7 @@ contactPersons:
   - id: jan.posvar
     position: Předseda krajského sdružení
   - id: eva.novakova
-    position: Kontakt pro dobrovolníky
+    position: Koordinátorka krajského sdružení
   - id: jiri.svoboda
     position: Kontakt pro novináře
 ---

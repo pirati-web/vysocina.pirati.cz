@@ -15,6 +15,8 @@ heroImg: banner-default.jpg
 img: people/jan-posvar.jpg
 mail:
   - jan.posvar@pirati.cz
+mob:
+  - 773 111 185
 asistenti:
   - name: Martin Huňady
     tel: 732 251 216

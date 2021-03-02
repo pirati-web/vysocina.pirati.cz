@@ -14,6 +14,8 @@ heroImg: banner-default.jpg
 img: people/jiri-svoboda.jpg
 mail:
   - jiri.svoboda.hb@pirati.cz
+mob:
+  - 724 235 840
 partyUid: pirati
 ---
 
