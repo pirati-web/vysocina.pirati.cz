@@ -10,12 +10,12 @@ contentSize: even
 # contentSize: even
 contentSize: even
 contactPersons:
-  - id: jan.posvar
-    position: Předseda krajského sdružení
   - id: eva.novakova
     position: Koordinátorka krajského sdružení
   - id: jiri.svoboda
     position: Kontakt pro novináře
+  - id: jan.posvar
+    position: Předseda krajského sdružení
   - id: ondrej.tuma
     position: Správce krajského sdružení
 ---
