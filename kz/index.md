@@ -15,7 +15,7 @@ groups:
 <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
     <div class="card elevation-9">
       <a href="https://vysocina.pirati.cz/komunalni-volby/program/2020vys/ziva/"><div class="card__body">
-        [Vysočina živá](https://vysocina.pirati.cz/komunalni-volby/program/2020vys/ziva/)
+        <h1 class="card-headline mb-2">Vysočina živá</h1>
       </div></a>
     </div>
 
