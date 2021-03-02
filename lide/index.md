@@ -6,25 +6,25 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé, zastup
 viewMode: grouped
 sort:
 groups:
-  - name: Krajské předsednictvo
+  - name: Předsednictvo krajského sdružení Vysočina
     sort: ordpks
     category: pks
-  - name: Místní sdružení Havlíčkův Brod
+  - name: Předsednictvo místního sdružení Havlíčkův Brod
     sort: ordpmshavlbrod
     category: pmshavlbrod
-  - name: Místní sdružení Jihlavsko
+  - name: Předsednictvo místního sdružení Jihlavsko
     sort: ordpmsjihlavsko
     category: pmsjihlavsko
-  - name: Místní sdružení Telčsko
+  - name: Předsednictvo místního sdružení Telčsko
     sort: ordpmstelcsko
     category: pmstelcsko
-  - name: Místní sdružení Třebíčsko
+  - name: Předsednictvo místního sdružení Třebíčsko
     sort: ordpmstrebicsko
     category: pmstrebicsko
-  - name: Místní sdružení Pelhřimovsko
+  - name: Předsednictvo místního sdružení Pelhřimovsko
     sort: ordpmspelhrimovsko
     category: pmspelhrimovsko
-  - name: Členové
+  - name: Členové krajského sdružení Vysočina
     sort: ordclenove
     category: clenove
 ---
