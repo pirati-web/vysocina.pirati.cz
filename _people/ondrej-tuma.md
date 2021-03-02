@@ -8,7 +8,7 @@ category:
   - kontaktni_osoba
   - mo
 ordmo: 3
-description: člen Krajského sdružení Vysočina # zobrazuje se v lide
+description: správce KS Vysočina # zobrazuje se v lide
 profession: správce JiPiCe
 heroImg: banner-default.jpg
 img: people/ondrej-tuma.jpg
