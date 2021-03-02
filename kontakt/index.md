@@ -16,6 +16,8 @@ contactPersons:
     position: Koordinátorka krajského sdružení
   - id: jiri.svoboda
     position: Kontakt pro novináře
+  - id: ondrej.tuma
+    position: Správce krajského sdružení
 ---
 
 <div class="o-section-header o-section-header--indented">

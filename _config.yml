@@ -35,15 +35,15 @@ organization:
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
   donateLink: https://dary.pirati.cz/podpor-kraj/vysocina/
-  
+
 # Nastavení zobrazení tabulky kontaktů.
 # Lze využít:
 # 1) předdefinované typy (organizationEmail, organizationRedmineLink, organizationPhone, organizationTransparentAccount, organizationDataBox, piratiRootWebsite)
 # 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
 contactSummaryItems:
-  - type: organizationEmail
-  - type: organizationRedmineLink
-  - type: organizationPhone
+#  - type: organizationEmail
+#  - type: organizationRedmineLink
+#  - type: organizationPhone
   - type: organizationTransparentAccount
     includeMoreLink: true
   - type: organizationDataBox
