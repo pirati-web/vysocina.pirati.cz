@@ -14,9 +14,9 @@ groups:
 <h2 class="head-heavy-base mb-4">Volební program 2020 - 2024</h2>
 <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
     <div class="card elevation-9">
-      <div class="card__body">
+      <a href="https://vysocina.pirati.cz/komunalni-volby/program/2020vys/ziva/"><div class="card__body">
         [Vysočina živá](https://vysocina.pirati.cz/komunalni-volby/program/2020vys/ziva/)
-      </div>
+      </div></a>
     </div>
 
     <div class="card elevation-9">
