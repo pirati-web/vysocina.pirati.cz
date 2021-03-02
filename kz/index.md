@@ -11,7 +11,7 @@ groups:
     category: kz
 ---
 
-<b>Program</b>
+<h2 class="head-heavy-base mb-4">Volební program 2020 - 2024</h2>
 * [Vysočina živá](https://vysocina.pirati.cz/komunalni-volby/program/2020vys/ziva/)
 * [Vysočina pro lidi](https://vysocina.pirati.cz/komunalni-volby/program/2020vys/pro-lidi/)
 * [Vysočina zdravá](https://vysocina.pirati.cz/komunalni-volby/program/2020vys/zdrava/)
