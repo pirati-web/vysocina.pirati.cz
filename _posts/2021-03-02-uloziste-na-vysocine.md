@@ -5,8 +5,8 @@ tags:
   - úložiště
 layout: post
 title: Úložiště na Vysočině? Kraj chce být obcím partnerem
-author: Milan Dadourek
-authorId: milan.dadourek
+author: Jiří Svoboda
+authorId: jiri.svoboda
 image: posts/2021-03-02-uloziste-na-vysocine.jpg
 important: true
 ---
