@@ -83,7 +83,7 @@ github:
 
 
 matomo:
-  loadSDK: true
+  loadSDK: false
   siteId: 51
   
   
