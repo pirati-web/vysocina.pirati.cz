@@ -81,6 +81,12 @@ github:
   url: https://github.com/pirati-web/vysocina.pirati.cz/
   branch: master
 
+
+matomo:
+  loadSDK: true
+  siteId: 51
+  
+  
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
