@@ -1,5 +1,5 @@
 ---
-layout: blank
+layout: codelame
 description:
 keywords:
 title: Místní sdružení Třebíčsko
@@ -15,7 +15,7 @@ Text v MARKDOWNu, takže můžete sami chystat obsah. Já vám to tam pak nahraj
     {% if page.viewMode == 'grouped' %}
     {% for group in page.groups %}
       <section>
-        {% assign team = site.people | where_exp: "item", "item.categories contains group.category" %}
+        {% assign team = site.people | where_exp: "item", "item.categories contains group.category", "category = mstrebicsko" %}
         {% if group.sort %}
           {% assign team = team | sort: group.sort %}
         {% endif %}
