@@ -1,14 +1,10 @@
 ---
 uid: ondrej.tuma
-name: Ondřej Tůma  	# běžně používáné jméno
+name: Ondřej Tůma
 category:
   - clenove
-  - rv
-  - msjihlavsko
   - kontaktni_osoba
-  - mo
-ordmo: 3
-description: správce KS Vysočina # zobrazuje se v lide
+description: správce KS Vysočina
 profession: správce JiPiCe
 heroImg: banner-default.jpg
 img: people/ondrej-tuma.jpg
@@ -19,11 +15,7 @@ mob:
 profiles:
   facebook: https://www.facebook.com/ondra.tuma.1
   twitter: https://twitter.com/pantrumpetka  
-  linkedin:   
   instagram: https://www.instagram.com/pan_trumpetka  
-  github:
-  web:
-  blog:
 partyUid: pirati
 ---
 
