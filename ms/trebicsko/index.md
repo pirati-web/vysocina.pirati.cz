@@ -4,6 +4,12 @@ description:
 keywords:
 title: Místní sdružení Třebíčsko
 category: mstrebicsko
+groups:
+  - name: Předsednictvo místního sdružení Třebíčsko
+    sort: ordpmstrebicsko
+    category: pmstrebicsko
+  - name: Členové místního sdružení Třebíčsko
+    category: mstrebicsko
 ---
 
 Text v MARKDOWNu, takže můžete sami chystat obsah. Já vám to tam pak nahraju.
