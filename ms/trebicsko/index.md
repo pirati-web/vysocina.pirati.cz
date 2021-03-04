@@ -3,6 +3,7 @@ layout: ms
 description:
 keywords:
 title: Místní sdružení Třebíčsko
+name: Členové místního sdružení Třebíčsko
 category: mstrebicsko
 groups:
   - name: Předsednictvo místního sdružení Třebíčsko
