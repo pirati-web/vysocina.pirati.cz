@@ -3,8 +3,8 @@ uid: jaroslav.zejda
 name: Jaroslav Zejda
 category:
   - clenove
+  #- mstrebicsko
   - pmstrebicsko
-  - mstrebicsko
 ordpmstrebicsko: 2
 description: 1. místopředseda MS Třebíčsko
 profession:

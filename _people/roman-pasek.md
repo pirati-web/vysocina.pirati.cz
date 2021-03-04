@@ -6,7 +6,7 @@ titles:
   after:
 category:
   - clenove
-  - mstrebicsko
+  #- mstrebicsko
   - pmstrebicsko
   - kz
   - zmtrebic

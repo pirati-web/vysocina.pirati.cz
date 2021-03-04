@@ -3,7 +3,7 @@ uid: barbora.pokorna
 name: Barbora Pokorná
 category:
   - clenove
-  - mstrebicsko
+  #- mstrebicsko
   - pmstrebicsko
 ordpmstrebicsko: 1
 description: předsedkyně MS Třebíčsko
