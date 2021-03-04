@@ -8,8 +8,7 @@ groups:
   - name: Předsednictvo místního sdružení Třebíčsko
     sort: ordpmstrebicsko
     category: pmstrebicsko
-  - name: Členové krajského sdružení Vysočina
-    sort: ordms
+  - name: Členové místního sdružení Třebíčsko
     category: mstrebicsko
 ---
 

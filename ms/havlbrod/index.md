@@ -6,7 +6,7 @@ title: Místní sdružení Havlíčkův Brod
 viewMode: grouped
 groups:
   - name: Předsednictvo místního sdružení Havlíčkův Brod
-    sort: ordpmsjihlavsko
+    sort: ordpmshavlbrod
     category: pmshavlbrod
   - name: Členové krajského místního sdružení Havlíčkův Brod
     category: mshavlbrod
