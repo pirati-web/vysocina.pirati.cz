@@ -4,7 +4,6 @@ name: Jiří Wiche
 category:
   - clenove
   - mshavlbrod
-  - kandidat2018
   - kz
 ordkz: 4
 description: člen místního sdružení Havlíčkův Brod
