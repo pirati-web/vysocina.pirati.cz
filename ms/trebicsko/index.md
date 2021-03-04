@@ -3,13 +3,13 @@ layout: ms
 description:
 keywords:
 title: Místní sdružení Třebíčsko
-name: Členové místního sdružení Třebíčsko
-category: mstrebicsko
+viewMode: grouped
 groups:
   - name: Předsednictvo místního sdružení Třebíčsko
     sort: ordpmstrebicsko
     category: pmstrebicsko
-  - name: Členové místního sdružení Třebíčsko
+  - name: Členové krajského sdružení Vysočina
+    sort: ordms
     category: mstrebicsko
 ---
 
