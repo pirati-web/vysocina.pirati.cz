@@ -23,7 +23,7 @@ Text v MARKDOWNu, takže můžete sami chystat obsah. Já vám to tam pak nahraj
         {% if group.sort %}
           {% assign team = team | sort: group.sort %}
         {% endif %}
-        {% include people/list-group-kz.html team=team teamName=group.name teamShortcut=group.category %}
+        {% include people/list-group.html team=team teamName=group.name teamShortcut=group.category %}
       </section>
       {% unless forloop.last %}<hr class="hr--big" />{% endunless %}
     {% endfor %}
@@ -39,7 +39,7 @@ Text v MARKDOWNu, takže můžete sami chystat obsah. Já vám to tam pak nahraj
     {% endif %}
 
     <section>
-      {% include people/list-responsive-kz.html team=team %}
+      {% include people/list-responsive.html team=team %}
     </section>
   {% endif %}
 </div>
