@@ -11,7 +11,7 @@ Text v MARKDOWNu, takže můžete sami chystat obsah. Já vám to tam pak nahraj
 
 > Snad jo!
 
-<div class="container container--default py-8 lg:py-24">
+<div>
     {% if page.viewMode == 'grouped' %}
     {% for group in page.groups %}
       <section>
