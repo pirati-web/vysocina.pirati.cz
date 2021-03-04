@@ -1,6 +1,6 @@
 ---
 uid: michaela.vodova
-name: Michaela Vodová      # běžně používáné jméno
+name: Michaela Vodová
 titles:
   before:
   after:
@@ -17,7 +17,7 @@ mail:
   - michaela.vodova@pirati.cz
 mob:
   - 6O2 276 233
-profiles:  # vyplnit pouze to, co používáte/vlastníte
+profiles:
   facebook: https://www.facebook.com/michaela.vodova
   twitter: https://twitter.com/misavoda
   web: http://michaelavodova.cz/

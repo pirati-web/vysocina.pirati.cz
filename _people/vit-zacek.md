@@ -6,8 +6,7 @@ fullname: Vít Žáček
 category:               
   - clenove
   - pmsjihlavsko         
-  - msjihlavsko           
-  - kandidat2018   
+  - msjihlavsko            
 ordpmsjihlavsko: 1
 description: předseda MS Jihlavsko
 profession: Student ekonomie, fanoušek FC Vysočina Jihlava a cestování, politický idealista

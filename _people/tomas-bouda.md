@@ -6,8 +6,7 @@ fullname: Tomáš Bouda
 category:                    
   - clenove
   - pmsjihlavsko
-  - msjihlavsko        
-  - kandidat2018  
+  - msjihlavsko         
 ordpmsjihlavsko: 2
 description: 1. místopředseda MS Jihlavsko
 profession: Student Fakulty strojní v Praze, obor strojírenství, ekonomie a řízení podniku. Pracuje v Automotive Lighting na oddělení technologie.

@@ -5,7 +5,6 @@ fullname: Eva Nováková
 category:
   - clenove
   - msjihlavsko
-  - kandidat2018
   - koordinator
   - kz
 ordkz: 6
