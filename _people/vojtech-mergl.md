@@ -8,7 +8,9 @@ category:
 description: člen Místního sdružení Havlíčkův Brod
 profession:
 heroImg: banner-default.jpg
-#img: people/vojtech-prchal.jpg
+#img: people/vojtech-mergl.jpg
+mail:
+  - vojtech.mergl@pirati.cz
 partyUid: pirati
 ---
 
