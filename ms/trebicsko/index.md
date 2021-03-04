@@ -3,6 +3,10 @@ layout: codelame
 description:
 keywords:
 title: Místní sdružení Třebíčsko
+groups:
+  - name: Členové místního sdružení
+    sort: ordpmstrebicsko
+    category: mstrebicsko
 ---
 
 Text v MARKDOWNu, takže můžete sami chystat obsah. Já vám to tam pak nahraju.
@@ -15,7 +19,7 @@ Text v MARKDOWNu, takže můžete sami chystat obsah. Já vám to tam pak nahraj
     {% if page.viewMode == 'grouped' %}
     {% for group in page.groups %}
       <section>
-        {% assign team = site.people | where_exp: "item", "item.categories contains group.category", "category = mstrebicsko" %}
+        {% assign team = site.people | where_exp: "item", "item.categories contains group.category" %}
         {% if group.sort %}
           {% assign team = team | sort: group.sort %}
         {% endif %}
