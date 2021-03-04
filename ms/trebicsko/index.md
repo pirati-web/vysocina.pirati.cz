@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 description:
 keywords:
 title: Místní sdružení Třebíčsko
