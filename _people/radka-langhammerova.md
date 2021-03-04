@@ -2,12 +2,13 @@
 uid: radka.langhammerova
 name: Radka Langhammerová
 category:
-- mspelhrimovsko
+  - mspelhrimovsko
 description: člen Místního sdružení Pelhřimovsko
 profession:
 heroImg: banner-default.jpg
 img: people/radka-langhammerova.jpg
 mail:
+  - radka.langhammerova@pirati.cz
 partyUid: pirati
 ---
 
