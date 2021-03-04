@@ -1,5 +1,5 @@
 ---
-layout: codelame
+layout: default
 description:
 keywords:
 title: Místní sdružení Třebíčsko
