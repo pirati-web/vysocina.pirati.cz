@@ -30,7 +30,7 @@ Text v MARKDOWNu, takže můžete sami chystat obsah. Já vám to tam pak nahraj
         {% endif %}
         {% include people/list-group.html team=team teamName=group.name teamShortcut=group.category %}
       </section>
-      {% unless forloop.last %}<hr class="hr--big" />{% endunless %}
+      {% unless forloop.last %}<br><br>{% endunless %}
     {% endfor %}
   {% else %}
     {% if page.category %}
