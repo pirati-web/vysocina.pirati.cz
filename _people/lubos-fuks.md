@@ -4,7 +4,6 @@ name: Luboš Fuks
 category:
   - clenove
   - mstrebicsko
-  - kandidat2018
 description: člen Místního sdružení Třebíčsko
 profession:
 heroImg: banner-default.jpg

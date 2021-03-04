@@ -8,11 +8,9 @@ category:
   - clenove
   - mstrebicsko
   - pmstrebicsko
-  - mo
   - kz
   - zmtrebic
 ordpmstrebicsko: 3
-ordmo: 4
 ordkz: 7
 ordzmtrebic: 2
 description: 2. místopředseda MS Třebíčsko

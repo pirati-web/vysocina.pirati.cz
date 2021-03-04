@@ -3,6 +3,7 @@ uid: stanislav.neuman
 name: Stanislav Neuman
 category:
   - clenove
+  - mstrebicsko
 description: člen Místního sdružení Třebíčsko
 profession: vedoucí sportovní prodejny
 heroImg: banner-default.jpg
@@ -24,13 +25,6 @@ board:
      uid: roman.pasek
 profiles:
   facebook: https://www.facebook.com/profile.php?id=100008399146513
-  twitter:
-  linkedin:
-  instagram:
-  googleplus:
-  github:
-  web:
-  blog:
 partyUid: pirati
 ---
 

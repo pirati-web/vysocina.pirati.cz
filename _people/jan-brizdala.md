@@ -5,10 +5,8 @@ category:
   - clenove
   - mstrebicsko
   - pks
-  - mo
   - kz
 ordpks: 3
-ordmo: 7
 ordkz: 2
 description: 2. místopředseda KS Vysočina
 descriptionkz: uvolněný radní
@@ -44,13 +42,6 @@ boardkz:
      uid: roman.pasek
 profiles:
   facebook: https://www.facebook.com/brizdala
-  twitter:
-  linkedin:
-  instagram:
-  googleplus:
-  github:
-  web:
-  blog:
 partyUid: pirati
 ---
 

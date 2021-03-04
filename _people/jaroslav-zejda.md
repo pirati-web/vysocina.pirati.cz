@@ -5,7 +5,6 @@ category:
   - clenove
   - pmstrebicsko
   - mstrebicsko
-  - kandidat2018
 ordpmstrebicsko: 2
 description: 1. místopředseda MS Třebíčsko
 profession:
