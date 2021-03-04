@@ -19,7 +19,7 @@ Text v MARKDOWNu, takže můžete sami chystat obsah. Já vám to tam pak nahraj
 
 > Snad jo!
 
-
+<br><br>
 
 <div>
     {% if page.viewMode == 'grouped' %}
