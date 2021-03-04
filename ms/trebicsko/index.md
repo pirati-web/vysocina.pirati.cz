@@ -3,7 +3,9 @@ layout: codelame
 description:
 keywords:
 title: Místní sdružení Třebíčsko
-group:
+category: mstrebicsko
+sort: ordpmstrebicsko
+groups:
   - name: Členové místního sdružení
     sort: ordpmstrebicsko
     category: mstrebicsko
