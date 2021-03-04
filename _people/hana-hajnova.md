@@ -3,13 +3,10 @@ uid: hana.hajnova
 name: Hana Hajnová
 category:
   - clenove
-  - mo
   - mstelcsko
   - pmstelcsko
-  - kandidat2018
   - kz
 ordpmstelcsko: 1
-ordmo: 1
 ordkz: 1
 description: předsedkyně MS Telčsko
 descriptionkz: 1. náměstkyně hejtmana
