@@ -12,6 +12,8 @@ Text v MARKDOWNu, takže můžete sami chystat obsah. Já vám to tam pak nahraj
 
 > Snad jo!
 
+
+## Členové místního sdružení
 <div>
     {% if page.viewMode == 'grouped' %}
     {% for group in page.groups %}
