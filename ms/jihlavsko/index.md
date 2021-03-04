@@ -7,7 +7,7 @@ viewMode: grouped
 groups:
   - name: Předsednictvo místního sdružení Jihlavsko
     sort: ordpmsjihlavsko
-    category: pmstrebicsko
+    category: pmsjihlavsko
   - name: Členové krajského místního sdružení Jihlavsko
     category: msjihlavsko
 ---
