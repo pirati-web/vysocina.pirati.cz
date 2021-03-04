@@ -3,9 +3,10 @@ uid: petr.simecek
 name: Petr Šimeček
 category:
   - clenove
-description: člen Krajského sdružení Vysočina
+  - mspelhrimovsko
+description: člen Místního sdružení Pelhřimovsko
 heroImg: banner-default.jpg
-img: people/petr-simecek.jpg #
+img: people/petr-simecek.jpg
 mail:
   - petr.simecek@pirati.cz
 profiles:

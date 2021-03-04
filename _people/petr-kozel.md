@@ -4,6 +4,7 @@ name: Petr Kozel
 category:
   - clenove
   - pmspelhrimovsko
+  - mspelhrimovsko
 ordpmspelhrimovsko: 2
 description: 1. místopředseda MS Pelhřimovsko
 profession: ekonom

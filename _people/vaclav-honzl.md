@@ -3,8 +3,8 @@ uid: vaclav.honzl
 name: Václav Honzl
 category:
   - clenove
-  - kandidat2018
-description: člen Krajského sdružení Vysočina
+  - mspelhrimovsko
+description: člen Místního sdružení Pelhřimovsko
 profession:
 heroImg: banner-default.jpg
 img: people/vaclav-honzl.jpg

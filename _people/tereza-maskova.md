@@ -3,6 +3,7 @@ uid: tereza.maskova
 name: Tereza Mašková
 category:
   - clenove
+  - mspelhrimovsko
 description: členka Místního sdružení Pelhřimovsko
 heroImg: banner-default.jpg
 img: people/tereza-maskova.jpg

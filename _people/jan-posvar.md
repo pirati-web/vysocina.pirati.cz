@@ -1,15 +1,12 @@
 ---
 uid: jan.posvar
-name: Jan Pošvář  	# běžně používáné jméno
-titles:
-  before:
-  after:
+name: Jan Pošvář
 category:
   - clenove
   - pks
-  - poslanec
+  - mspelhrimovsko
 ordpks: 1
-description: předseda KS Vysočina, poslanec Parlamentu ČR # zobrazuje se v lide
+description: předseda KS Vysočina, poslanec Parlamentu ČR
 profession: poslanec Parlamentu ČR
 heroImg: banner-default.jpg
 img: people/jan-posvar.jpg

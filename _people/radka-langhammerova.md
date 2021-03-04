@@ -2,12 +2,13 @@
 uid: radka.langhammerova
 name: Radka Langhammerová
 category:
-description:
+- mspelhrimovsko
+description: člen Místního sdružení Pelhřimovsko
 profession:
 heroImg: banner-default.jpg
 img: people/radka-langhammerova.jpg
 mail:
-partyUid: bezpp
+partyUid: pirati
 ---
 
 Studium - Střední odborné učiliště sklářské, Nový Bor

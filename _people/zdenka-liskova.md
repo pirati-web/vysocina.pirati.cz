@@ -4,6 +4,7 @@ name: Zdeňka Lišková
 category:
   - clenove
   - pmspelhrimovsko
+  - mspelhrimovsko
 ordpmspelhrimovsko: 3
 description: 2. místopředsedkyně MS Pelhřimovsko
 profession: technický pracovník

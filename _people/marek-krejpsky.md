@@ -3,7 +3,7 @@ uid: marek.krejpsky
 name: Marek Křejpský
 category:
   - clenove
-description: člen místního sdružení Jihlavsko
+description: člen Krajského sdružení Vysočina
 profession: IT konzultant, správce serverů, šermíř
 heroImg: banner-default.jpg
 img: people/marek-krejpsky.jpg
