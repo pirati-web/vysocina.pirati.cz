@@ -12,9 +12,7 @@ Text v MARKDOWNu, takže můžete sami chystat obsah. Já vám to tam pak nahraj
 > Snad jo!
 
 <div class="container container--default py-8 lg:py-24">
-  {% include page-header.html headline=page.title content=content contentClass="mb-8 lg:mb-16 content-block" %}
-
-  {% if page.viewMode == 'grouped' %}
+    {% if page.viewMode == 'grouped' %}
     {% for group in page.groups %}
       <section>
         {% assign team = site.people | where_exp: "item", "item.categories contains group.category" %}
