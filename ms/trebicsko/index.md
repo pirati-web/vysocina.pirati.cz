@@ -14,9 +14,34 @@ groups:
 
 Text v MARKDOWNu, takže můžete sami chystat obsah. Já vám to tam pak nahraju.
 
-## Chápeme?
+## Zastupitelstva
+<article class="card elevation-0 bg-grey-50 container-padding--zero md:container-padding--auto">
+    <div class="card__body p-4 lg:p-8 flex space-x-8 items-start">
+      <img src="https://a.pirati.cz/vysocina/img/trebic.png" class="w-16" />
+      <div class="space-y-4 flex-grow">
+        <div>
+          <h1 class="head-alt-base mb-2"><a href="#">Svitavy</a></h1>
+          <div class="flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-4">
+            <span><b>Společně otevřeme Třebíč</b> - koalice Pirátů a TOP 09.</span>
+          </div>
+          <p class="mt-2 font-light text-sm leading-snug">opozice</p>
+        </div>
+        <a href="https://vysocina.pirati.cz/lide/roman-pasek/" class="candidate-table-row">
+          <div class="avatar candidate-table-row__avatar">
+            <img src="https://a.pirati.cz/resize/225x225/vysocina/img/people/roman-pasek.jpg" alt="Avatar" />
+          </div>
 
-> Snad jo!
+          <div class="candidate-table-row__name head-heavy-2xs font-bold">Roman Pašek</div>
+          <div class="candidate-table-row__bio font-condensed">předseda kontrolního výboru, člen sociální komise, člen redakční rady Třebíčského zpravodaje</div>
+          <div class="candidate-table-row__affiliation">
+            <div class="avatar w-6 mr-2">
+              <img src="https://a.pirati.cz/vysocina/img/brand/logo.svg" alt="Avatar" />
+            </div>
+            <span class="font-bold font-condensed">Pirátská strana</span>
+          </div>
+        </a>
+    </div>
+</article>
 
 <br><br>
 
