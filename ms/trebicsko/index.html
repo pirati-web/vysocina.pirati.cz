@@ -223,3 +223,14 @@ groups:
     </section>
   {% endif %}
 </div>
+
+<div class="space-y-8">
+  {% include sharebox.html %}
+
+  {% comment %}Optional infoboxes in the right row{% endcomment %}
+  {% if page.infoboxes %}
+    {% for infobox in page.infoboxes %}
+      {% include article-infobox.html content=infobox.content %}
+    {% endfor %}
+  {% endif %}
+</div>
