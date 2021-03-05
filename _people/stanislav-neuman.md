@@ -13,7 +13,7 @@ mail:
 rbar:
   - profile
   - people
-  - board
+  - boardzm
 boardName: Zastupitelstvo města Třebíče
 boardTurn:
    electionUrl: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=23&xdz=2&xnumnuts=6104&xobec=590266&xstrana=0&xstat=0&xodkaz=1
