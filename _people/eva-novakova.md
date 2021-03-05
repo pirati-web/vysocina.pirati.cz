@@ -11,7 +11,7 @@ ordkz: 6
 description: koordinátorka KS Vysočina
 descriptionkz: neuvolněná zastupitelka
 profession: Koordinátorka, vedoucí sociální služby
-heroImg: banner-default.jpg
+heroImg: logo-wall.jpg
 img: people/eva-novakova.jpg
 mail:
   - eva.novakova@pirati.cz
