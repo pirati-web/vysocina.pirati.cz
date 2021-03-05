@@ -2,13 +2,28 @@
 uid: jaroslava.smidkova
 name: Jaroslava Šmídková
 category:
-description:
-profession:
+  - clenove
+description: členka KS Vysočina
+profession: komunitní manažerka
 heroImg: banner-default.jpg
 img: people/jaroslava-smidkova.jpg
-partyUid: bezpp
+mail: jaroslava.smidkova@pirati.cz
+mob:
+  - 724 947 760
+profiles:
+  facebook: https://www.facebook.com/SkolaJinakNM
+  web: https://skolajinaknm.webnode.cz
+partyUid: pirati
 ---
 
-Jaroslava Šmídková (* 1978) se narodila v Novém Městě na Moravě, dlouhodobě žila v Praze, nyní žije zpátky na Vysočině. Vystudovala Filozofickou fakultu Univerzity Karlovy, obor informační studia a knihovnictví. Pracovala ve veřejné správě, nyní působí jako komunitní projektový manažer. Je předsedkyní Sdružení Krajina, místopředsedkyní Spolku Jinak a členkou spolku Walda. Usiluje o vznik lesního klubu a alternativní základní školy v Novém Městě na Moravě.
+Mgr. Jaroslava Šmídková (* 1978) se narodila v Novém Městě na Moravě, dlouhodobě žila v Praze, nyní žije opět na Vysočině. Vystudovala Filozofickou fakultu Univerzity Karlovy, obor informační studia a knihovnictví. Pracovala ve veřejné správě, nyní působí jako komunitní manažer. Je předsedkyní Sdružení Krajina, místopředsedkyní Spolku Jinak a členkou spolku Walda. Spolu s dalšími lidmi stojí za vznikem alternativní základní školy, lesního komunitního centra a lesního klubu v Novém Městě na Moravě.  
 
-Zajímá ji jiný pohled na vzdělávání, zemědělství, krajinu, společnost. Studuje homeopatii a včelaří.
+Zajímá ji jiný pohled na vzdělávání, zemědělství, krajinu a společnost. Studuje homeopatii a včelaří.
+
+---
+**Veřejné funkce:**
+* členka **kontrolního výboru** městyse Sněžné
+* členka **výboru pro výchovu, vzdělávání a zaměstnanost** Kraje Vysočina
+
+**Piráti:**
+* pádlování na **dračích lodích**, Pilská nádrž 2020

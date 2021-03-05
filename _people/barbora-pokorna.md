@@ -11,15 +11,26 @@ profession:
 heroImg: banner-default.jpg
 img: people/barbora-pokorna.jpg
 mail: barbora.pokorna@pirati.cz
+mob:
+  - 776 147 766
+profiles:
+  wikipedia:
+  facebook: https://www.facebook.com/barbora.pokorna.37
 partyUid: pirati
 ---
 
-Narodila jsem se v Třebíči a čím jsem starší, tím větší mám k tomuto městu citovou vazbu.
+Barbora Pokorná  (* 14. 2. 1991) je občanská aktivistka, máma s respektujícím přístupem a žena, která podporuje svobodu a transparentnost.
 
-Třebíč vidím jako příjemné komunitní místo, kde se pořádají hezké kulturní akce, lidé se tu umí vzájemně podpořit, začínají se více zajímat o historii města a není jim lhostejná ani příroda kolem nás.
+Pracuje s dětmi v předškolním věku v třebíčském spolku Makovička a příležitostně jako barmanka. Ve svém volném čase podporuje ženy a jejich děti v době šestinedělí jako laktační poradkyně a poporodní dula.
 
-Pracuji jako servírka a ve svém volném čase se věnuji ženám a jejich dětem v době šestinedělí jako poporodní dula a laktační poradkyně.
+U Pirátů se kromě jiného zajímá o sociální oblast, zapojila se do programu Piráti pomáhají a s Pirátkami na Vysočině organizuje projekty na podporu žen, které jsou v tíživé životní situaci.
 
-Protože mě zajímá ekologie, šetrné chování k přírodě a s tím spojená recyklace věcí, připravuji pro vás ve spolupráci s místním sdružením Třebíčsko SWAP, což je výměnný bazárek a šance pro věci, které by jinak skončily třeba v odpadkovém koši. Věřím a doufám, že SWAP nebude jediná, přínosná věc, na které se budu jako pirátka podílet.
+„Jsem optimistka, která má chuť a zapálení do nových věcí, pokud se ztotožnuji s jejich myšlenkou, což jsem našla právě u Pirátů.“
 
-Jsem optimistka, mám chuť a zapálení do nových věcí, pokud se tedy ztotožňuji s jejich myšlenkou, čemuž tak u Pirátů je.
+---
+**Piráti:**
+* organizátorka akce **Pro Rodinu**, srpen 2020
+*	od září 2020 členka
+*	od září 2020 předsedkyně **MS Třebíčsko**
+*	**Piráti pomáhají**, prosinec 2020
+*	zakládající členka kampaně **#ažnakrev**, 2021

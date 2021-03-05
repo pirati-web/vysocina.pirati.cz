@@ -7,7 +7,7 @@ category:
   - pmstrebicsko
 ordpmstrebicsko: 2
 description: 1. místopředseda MS Třebíčsko
-profession:
+profession: 1. místopředseda MS Třebíčsko, zastupitel obce Čechtín, úředník KÚ
 heroImg: banner-default.jpg
 img: people/jaroslav-zejda.jpg
 mail:
@@ -26,12 +26,18 @@ boardzm:
 partyUid: pirati
 ---
 
-Jaroslav Zejda (* 25. listopadu 1994) je od června 2018 členem MS Třebíčsko. Jaroslav Zejda pochází z Čechtína (okr. Třebíč), kde žije dodnes.
+Mgr. Jaroslav Zejda (* 1994, Třebíč) vystudoval Střední zemědělskou školu v Třebíči a následně také Právnickou fakultu Masarykovy univerzity v Brně.
 
-Vystudoval Střední zemědělskou školu v Třebíči se zaměřením na ekonomiku podniku. Od roku 2015 studuje pětiletý magisterský studijní program Právo a právní věda na Právnické fakultě Masarykovy univerzity v Brně.
+Po ukončení studií začal pracovat na Krajském úřadě na Odboru regionálního rozvoje.
 
-Má pracovní zkušenosti jak z oblasti zemědělského podniku, tak z notářské kanceláře, kde byl praxi v létě 2018.
+Ve svém volném čase se věnuje přátelům, poslechu hudby a studiu angličtiny.
 
-Mezi jeho zájmy patří přátelé, hudba a také politika.
+---
+**Veřejné funkce:**
+* zastupitel obce **Čechtín**
+*	předseda **kontrolního výboru**
 
-V podzimních komunálních volbách 2018 kandiduje do zastupitelstva obce Čechtín.
+
+**Piráti:**
+* od roku 2018 člen
+* od roku 2020 1. místopředseda **MS Třebíčsko**
