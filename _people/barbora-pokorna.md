@@ -7,7 +7,7 @@ category:
   - pmstrebicsko
 ordpmstrebicsko: 1
 description: předsedkyně MS Třebíčsko
-profession:
+profession: předsedkyně MS Třebíčsko
 heroImg: banner-default.jpg
 img: people/barbora-pokorna.jpg
 mail: barbora.pokorna@pirati.cz
