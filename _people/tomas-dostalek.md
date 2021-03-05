@@ -11,8 +11,6 @@ mail:
   - tomas.dostalek@pirati.cz
 mob:
   - 603 400 218
-profiles:
-  facebook: https://www.facebook.com/tomas.dostalek.14
 partyUid: pirati
 ---
 
