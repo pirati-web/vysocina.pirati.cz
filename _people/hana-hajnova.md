@@ -15,8 +15,10 @@ heroImg: banner-default.jpg
 img: people/hana-hajnova.jpg
 mail:
   - hana.hajnova@pirati.cz
+  - hajnova.h@kr-vysocina.cz
 mob:
   - 721 684 323
+  - 734 690 048
 rbar:
   - profile
   - boardkz
