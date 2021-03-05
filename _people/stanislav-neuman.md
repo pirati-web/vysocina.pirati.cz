@@ -14,11 +14,11 @@ rbar:
   - profile
   - people
   - boardzm
-boardName: Zastupitelstvo města Třebíče
-boardTurn:
+boardzmName: Zastupitelstvo města Třebíče
+boardzmTurn:
    electionUrl: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=23&xdz=2&xnumnuts=6104&xobec=590266&xstrana=0&xstat=0&xodkaz=1
    endDate: 6. 10. 2022
-board:
+boardzm:
    - position: zastupitel
      uid: stanislav.neuman
    - position: zastupitel
