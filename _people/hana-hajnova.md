@@ -15,10 +15,8 @@ heroImg: banner-default.jpg
 img: people/hana-hajnova.jpg
 mail:
   - hana.hajnova@pirati.cz
-  - hajnova.h@kr-vysocina.cz
 mob:
   - 721 684 323
-  - 734 690 048
 rbar:
   - profile
   - boardkz
@@ -61,7 +59,7 @@ boardzm:
 profiles:
   facebook: https://www.facebook.com/PiratkaHanka
   twitter: https://twitter.com/piratkahanka
-  github: https://github.com/hana.hajnova
+  github: https://github.com/Hannah397
   web: https://www.spolecneprotelc.cz
 partyUid: pirati
 ---
