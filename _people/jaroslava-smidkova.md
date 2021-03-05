@@ -3,7 +3,7 @@ uid: jaroslava.smidkova
 name: Jaroslava Šmídková
 category:
   - clenove
-description: členka KS Vysočina
+description: členka Krajského sdružení Vysočina
 profession: komunitní manažerka
 heroImg: banner-default.jpg
 img: people/jaroslava-smidkova.jpg
