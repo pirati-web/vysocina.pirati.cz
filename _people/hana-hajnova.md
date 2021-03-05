@@ -77,7 +77,7 @@ Ve svém volném čase ráda sportuje, čte knížky, hraje kroket nebo trajdá 
 ---
 **Veřejné funkce:**
 * zastupitelka města **Telče**
-*	1. náměstkyně hejtmana **Kraje Vysočina** pro oblast regionálního rozvoje, územního plánu a stavebního řádu, Fondu Vysočiny a NNO
+*	statutární náměstkyně hejtmana **Kraje Vysočina** pro oblast regionálního rozvoje, územního plánu a stavebního řádu, Fondu Vysočiny a NNO
 *	místopředsedkyně **Finančního výboru** Zastupitelstva města Telče
 *	předsedkyně dozorčí rady **Služeb Telč**
 

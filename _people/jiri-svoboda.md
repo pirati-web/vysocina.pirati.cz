@@ -32,7 +32,6 @@ Ve volném čase se věnuje dramaturgii Filmového OKA neboli filmového projekt
 * člen **Výboru pro cestovní ruch, média a kulturu** Zastupitelstva města Havlíčkův Brod
 *	člen **Školské rady Obchodní akademie a Hotelové školy Havlíčkův Brod**
 
-
 **Piráti:**
 * člen České pirátské strany od roku 2019
 *	od června 2020 předseda **MS Havlíčkův Brod**

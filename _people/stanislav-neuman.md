@@ -12,8 +12,8 @@ mail:
   - stanislav.neuman@pirati.cz
 rbar:
   - profile
-  - people
   - boardzm
+  - people
 boardzmName: Zastupitelstvo města Třebíče
 boardzmTurn:
    electionUrl: https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=23&xdz=2&xnumnuts=6104&xobec=590266&xstrana=0&xstat=0&xodkaz=1

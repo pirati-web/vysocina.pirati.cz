@@ -7,7 +7,7 @@ category:
   - pmstrebicsko
 ordpmstrebicsko: 2
 description: 1. místopředseda MS Třebíčsko
-profession: 1. místopředseda MS Třebíčsko, zastupitel obce Čechtín, úředník KÚ
+profession: místopředseda MS Třebíčsko, zastupitel obce Čechtín, úředník KÚ
 heroImg: banner-default.jpg
 img: people/jaroslav-zejda.jpg
 mail:

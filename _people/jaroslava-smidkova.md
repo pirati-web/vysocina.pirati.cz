@@ -7,7 +7,8 @@ description: členka Krajského sdružení Vysočina
 profession: komunitní manažerka
 heroImg: banner-default.jpg
 img: people/jaroslava-smidkova.jpg
-mail: jaroslava.smidkova@pirati.cz
+mail:
+  - jaroslava.smidkova@pirati.cz
 mob:
   - 724 947 760
 profiles:
