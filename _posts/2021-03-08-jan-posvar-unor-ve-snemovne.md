@@ -18,7 +18,7 @@ Protože nám situace nikdy nebyla lhostejná, představili jsme plán **[Za pě
 
 V následujících dnech premiér ignoroval žádosti o jednání s opozicí a rozhodl se, že bude jednat pouze s hejtmany. Došlo nakonec k bolestivé dohodě, ale netrvalo to ani den a vláda porušila slib, který dala ohledně pandemického zákona občanům, hejtmanům i opozici. Místo projednání pandemického zákona z dílny Pirátů a Starostů, který by zbytečně neomezoval práva či svobodu lidí, kontroloval smysluplnost opatření a řešil kompenzace, se kabinet rozhodl předložit svou vlastní verzi, která byla téměř totožná s návrhem, který poslanci odmítli již na jaře. Naštěstí díky našemu tlaku se nám nakonec podařilo návrh přepracovat. A jaký je rozdíl od nouzového stavu? To ukazuje následující grafika:
 
-                        ![Protiepidemická opatření](https://a.pirati.cz/vysocina/img/posts/2021-03-08infografika únor ve sněmovně.png)
+![Protiepidemická opatření](https://a.pirati.cz/vysocina/img/posts/2021-03-08infografika únor ve sněmovně.png)
 
 Naneštěstí se situace velmi zhoršila, velmi rychle se u nás šíří nové mutace, a tak vláda zavedla povinné nošení respirátorů v obchodech, MHD nebo v místech s vyšší koncentrací osob. Nakonec došlo i k dalšímu omezení pohybu. Opatření mají smysl, pokud je budou lidé dodržovat. Nesmíme zapomínat, že to neděláme kvůli vládě, ale kvůli nám samotným. Přetížené nemocnice jsou obrovský problém, protože nejenom že nestíháme se starat o pacienty s těžkým průběhem onemocnění Covid-19, ale nemůžeme se plně postarat o pacienty trpící jinými chorobami.
 
