@@ -9,7 +9,7 @@ title: Nový dotační program Venkovské služby pomůže nejen s provozem prod
 author: Jiří Svoboda
 authorId: jiri.svoboda
 image: posts/2021-03-09-novy-dotacni-program-venkovske-sluzby.jpg
-
+important: true
 ---
 
 Jihlava, 9. března 2021 - **Krajská rada dnes projednala nové zacílení dotační podpory, která je určena pro obce do 500 obyvatel a má pomoci zachovat dostupnost veřejných služeb na venkově. Nový dotační program s názvem Venkovské služby pomůže obcím nejenom se zajištěním provozu prodejen, ale také s podporou dalších služeb. Vznik dotačního programu musí ještě posvětit krajské zastupitelstvo, jehož jednání je naplánováno na 23. března.**
