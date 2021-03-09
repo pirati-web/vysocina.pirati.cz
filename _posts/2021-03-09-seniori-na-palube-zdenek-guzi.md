@@ -41,9 +41,9 @@ Více informací o projektu Senioři na palubě najdete na webu [seniori.pirati.
 
 **Další Paluby s panem Gužim:**
 
-Dne 24. 3.: Romský jazyk a kultura: Co je to romství?
+Středa 24. 3. od 18:00: Romský jazyk a kultura: Co je to romství?
 
-Dne 7. 4.: Padesát let Mezinárodního dne Romů: České i světové romské hnutí
+Středa 7. 4. od 18:00: Padesát let Mezinárodního dne Romů: České i světové romské hnutí
 
 ---
 
