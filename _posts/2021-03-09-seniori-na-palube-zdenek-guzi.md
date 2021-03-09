@@ -44,6 +44,7 @@ Více informací o projektu Senioři na palubě najdete na webu [seniori.pirati.
 24. 3.: Romský jazyk a kultura: Co je to romství?
 
 7. 4.: Padesát let Mezinárodního dne Romů: České i světové romské hnutí
+
 ---
 
 ***KONTAKT PRO NOVINÁŘE*** 
