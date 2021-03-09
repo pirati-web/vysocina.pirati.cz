@@ -76,7 +76,7 @@ Roman Pašek (* 6. května 1993 v Třebíči) je 2. místopředsedou MS Třebí�
 
 Vystudoval Střední průmyslovou školu Třebíč v oboru Elektronické počítačové systémy. Aktuálně studuje kombinovanou formou studia na Filozofické fakultě Masarykovy univerzity obor Sdružená uměnovédná studia.
 
-Dříve pracoval jako mechanik měření a regulace, později jako programátor analytik ve firmě I&C Energo a. s. na Jaderné elektrárně Dukovany.
+Dříve pracoval jako mechanik měření a regulace, později jako programátor analytik ve firmě I&C Energo a. s. na Jaderné elektrárně Dukovany. Nyní pracuje jako vývojář v třebíčské firmě PC HELP a. s.
 
 Ve svém volném čase se aktivně věnuje hudbě a pasivně filmu.
 
