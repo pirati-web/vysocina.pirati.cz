@@ -4,7 +4,7 @@ category: blog
 tags:
   - Senioři na palubě
 layout: post
-title: Senioři na palubě - Zdeněk Guži: Ze slovenské osady do parlamentu
+title: Senioři na palubě - Zdeněk Guži - Ze slovenské osady do parlamentu
 author: Eva Nováková
 authorId: eva.novakova
 image: posts/2021-03-09-seniori-na-palube-zdenek-guzi.jpg
