@@ -45,6 +45,8 @@ Středa 24. 3. od 18:00: Romský jazyk a kultura: Co je to romství?
 
 Středa 7. 4. od 18:00: Padesát let Mezinárodního dne Romů: České i světové romské hnutí
 
+Autor fotografie: Jan Ort
+
 ---
 
 ***KONTAKT PRO NOVINÁŘE*** 
