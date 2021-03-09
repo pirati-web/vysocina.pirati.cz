@@ -37,7 +37,7 @@ Celorepublikový projekt Senioři na palubě si klade hned několik cílů. Seni
 
 **Doplňující informace**
 
-Více informací o projektu Senioři na palubě najdete na webu [seniori.pirati.cz](https://seniori.pirati.cz/), vyprávění pana Gužiho na stránkách [Paměť Romů](https://www.pametromu.cz/index.php/pametnici-prehled/119-zdenek-guzi) nebo na webu [Romea.cz](http://www.romea.cz/cz/romano-vodi/zdenek-guzi-ze-slovenske-osady-pres-armadu-k-roi).
+Více informací o projektu Senioři na palubě najdete na webu [seniori.pirati.cz](https://seniori.pirati.cz/), vyprávění pana Gužiho na stránkách [Paměť Romů](https://www.pametromu.cz/index.php/pametnici-prehled/119-zdenek-guzi), v časopise romistických studií [Romano džaniben](https://www.dzaniben.cz/files/7c51b38b0f2de108a1273a8c06403df2.pdf?fbclid=IwAR3DdA2FbQ8LRIjjCyw1z8xMdGYPaCLJV_4moeC1XwhxLsTfxHTSP3SnFGE) nebo na webu [Romea.cz](http://www.romea.cz/cz/romano-vodi/zdenek-guzi-ze-slovenske-osady-pres-armadu-k-roi).
 
 **Další Paluby s panem Gužim:**
 
