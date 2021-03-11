@@ -8,7 +8,7 @@ layout: post
 title: 13 let spolupráce mezi Krajem Vysočina a Zakarpatskou oblastí
 author: Jiří Svoboda
 authorId: jiri.svoboda
-image: posts/2021-03-11-13-let-spoluprace-mezi-krajem-vysocina.a zakarpadskou-oblasti.jpg
+image: posts/2021-03-11-13-let-spoluprace-mezi-krajem-vysocina.jpg
 ---
 
 Havlíčkův Brod, 11. března 2021 - **Před několika dny jsme oslavili jedno výročí, o němž se prakticky nepsalo. 28. 2. 2008 byla tehdejším hejtmanem Kraje Vysočina Milošem Vystrčilem a předsedou Zakarpadské oblastní rady Mychajlem Mychajlovyčem Kičkovským podepsána Smlouva o spolupráci mezi ukrajinskou Zakarpadskou oblastí a Krajem Vysočina. Spolupráce mezi těmito regiony probíhá až do dneška, neustále se prohlubuje a připravují se další společné projekty.**
