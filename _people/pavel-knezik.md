@@ -5,7 +5,7 @@ category:
   - clenove
   - pks
   - pmspelhrimovsko
-  - mspelhrimovsko
+  #- mspelhrimovsko
   - kz
 ordpmspelhrimovsko: 1
 ordpks: 5

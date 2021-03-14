@@ -3,7 +3,7 @@ uid: petra.kujinek.polodnova
 name: Petra Kujínek Polodnová
 category:
   - clenove
-  - mstelcsko
+  #- mstelcsko
   - pmstelcsko
 ordpmstelcsko: 2
 description: 1. místopředsedkyně MS Telčsko

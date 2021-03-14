@@ -3,7 +3,7 @@ uid: hana.hajnova
 name: Hana Hajnová
 category:
   - clenove
-  - mstelcsko
+  #- mstelcsko
   - pmstelcsko
   - kz
 ordpmstelcsko: 1

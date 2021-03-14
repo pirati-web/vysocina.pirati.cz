@@ -4,7 +4,7 @@ name: Miroslav Vácha
 category:
   - clenove
   - pks
-  - mstelcsko
+  #- mstelcsko
   - pmstelcsko
 ordpks: 4
 ordpmstelcsko: 3

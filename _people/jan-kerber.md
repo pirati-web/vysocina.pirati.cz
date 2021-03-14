@@ -3,7 +3,7 @@ uid: jan.kerber
 name: Jan Kerber
 category:
   - clenove
-  - mshavlbrod
+  #- mshavlbrod
   - pmshavlbrod
 ordpmshavlbrod: 3
 description: 2. místopředseda MS Havlíčkův Brod

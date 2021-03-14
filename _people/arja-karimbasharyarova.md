@@ -3,7 +3,7 @@ uid: arja.karimbasharyarova
 name: Arja Karimbasharyarová
 category:
   - clenove
-  - mshavlbrod
+  #- mshavlbrod
   - pmshavlbrod
 ordpmshavlbrod: 2
 description: 1. místopředsedkyně MS Havlíčkův Brod

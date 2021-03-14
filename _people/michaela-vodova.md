@@ -1,12 +1,9 @@
 ---
 uid: michaela.vodova
 name: Michaela Vodová
-titles:
-  before:
-  after:
 category:
   - clenove
-  - msjihlavsko
+  #- msjihlavsko
   - pmsjihlavsko
 ordpmsjihlavsko: 3
 description: 2. místopředsedkyně MS Jihlavsko
