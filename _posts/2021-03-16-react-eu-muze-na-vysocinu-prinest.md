@@ -1,11 +1,11 @@
 ---
-date: 2021-03-11
+date: 2021-03-16
 category: blog
 tags:
  - COVID-19
  - zdravotnictví
 layout: post
-title: REACT-EU může na Vysočinu přinést až 1,5 miliardy korun
+title: REACT-EU může na Vysočinu přinést více než 1,5 miliardy korun
 author: Jiří Svoboda
 authorId: jiri.svoboda
 image: posts/2021-03-16-react-eu-muze-na-vysocinu-prinest.jpg
