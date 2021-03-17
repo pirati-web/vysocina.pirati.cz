@@ -8,7 +8,7 @@ layout: post
 title: Jan Břížďala - Kraj nastavuje transparentní přístup pro financování sportovních investic
 author: Jan Břížďala
 authorId:  jan.brizdala
-image: posts/2021-03-17-jan-brizdala-kraj-nastavuje.jpg
+image: posts/2021-03-17-jan-brizdala-kraj-nastavuje.png
 ---
 
 Jihlava, 17. března 2020 - **Pravidelně se na Kraj Vysočina obrací různé obce a sportovní organizace s žádostí o podporu různých projektů. Využívat k tomu lze systémové dotační nástroje v rámci programů Fondu Vysočiny. Pokud však konkrétní projekt nelze z těchto programů podpořit, podává si žadatel individuální žádost. Posouzení a vyhodnocení této žádosti pak bylo doposud výlučně otázkou přístupu krajské samosprávy.**
