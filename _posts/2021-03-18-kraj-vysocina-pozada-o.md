@@ -9,6 +9,7 @@ title: Kraj Vysočina požádá o více než 24 milionů na Kotlíkové dotace
 author: Jiří Svoboda
 authorId:  jiri.svoboda
 image: posts/2021-03-18-kraj-vysocina-pozada-o.jpg
+important: true
 ---
 
 Jihlava, 18. března 2021 - **Kraj Vysočina žádá ministerstvo životního prostředí o dodatečné prostředky pro projekt Kotlíkové dotace v Kraji Vysočina III. Celkem se jedná o částku 24 030 386 Kč, za kterou by bylo možné podpořit přibližně 225 výměn zdrojů tepla ještě v letošním roce.**
