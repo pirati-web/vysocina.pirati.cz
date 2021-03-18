@@ -2,8 +2,7 @@
 date: 2021-03-17
 category: blog
 tags:
-  - sport
-  - investice
+  - Kotlíkové dotace
 layout: post
 title: Kraj Vysočina požádá o více než 24 milionů na Kotlíkové dotace
 author: Jiří Svoboda
