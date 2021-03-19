@@ -8,7 +8,7 @@ layout: post
 title: Milan Daďourek – Komu je vláda skutečně přítelem?
 author: Milan Daďourek
 authorId:  milan.dadourek
-image: posts/2021-03-19-milan-dadourek-komu-je-vlada.heic
+image: posts/2021-03-19-milan-dadourek-komu-je-vlada.png
 ---
 
 Počítky, 19. března 2021 - **Po čtvrtečním večerním brífinku ministrů Blatného a Havlíčka je jasné, že omezení pohybu mezi okresy nadále zůstane v platnosti, že ministr zdravotnictví Blatný (za ANO) požádá o prodloužení nouzového stavu a že ve firmách se bude (možná) testovat častěji. Drobné úpravy nařízení v podobě uvolnění volnočasových aktivit i mimo katastr obce a umožnění návštěv dětí v ústavní péči jsou spíše nápravou špatného rozhodnutí, než uvolňujícím opatřením.**
