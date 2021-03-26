@@ -8,7 +8,7 @@ layout: post
 title: Hana Hajnová – S budováním hlubinného úložiště radioaktivního odpadu nemusíme spěchat
 author: Hana Hajnová
 authorId: hana.hajnova
-image: posts/2021-03-26-hana-hajnova-s-budovanim-hlubinneho-uloziste.jpg
+image: posts/2021-03-26-hana-hajnova-s-budovanim-hlubinneho-uloziste.png
 
 ---
 
