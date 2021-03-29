@@ -8,7 +8,7 @@ layout: post
 title: Kraj je připraven se podílet na rozšíření vysokorychlostního internetu
 author: Jiří Svoboda
 authorId: jiri.svoboda
-image: posts/2021-03-29-kraj-je-pripraven-se-podilet-na-rozsireni.jpg
+image: posts/2021-03-29-kraj-je-pripraven-se-podilet-na-rozsireni-vysokorychlostniho.jpg
 important: true
 ---
 
