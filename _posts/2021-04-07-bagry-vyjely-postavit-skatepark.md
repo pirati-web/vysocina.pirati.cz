@@ -23,6 +23,8 @@ Důležitým milníkem pro vznik nového skateparku se stalo Veřejné fórum v 
 
 Stavba nového skateparku vyjde městskou pokladnu na 5,5 milionu korun. Součástí projektu jsou také terénní úpravy. První sportovci by se na novém skateparku měli projet v červenci letošního roku. 
 
+![Bagry vyjely postavit skatepark](https://a.pirati.cz/vysocina/img/posts/2021-04-07-bagry-vyjely-postavit-skatepark-prace-projekt.jpg)
+
 ---
 
 ***KONTAKT PRO NOVINÁŘE*** 
