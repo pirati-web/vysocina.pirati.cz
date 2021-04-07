@@ -15,6 +15,8 @@ Havlíčkův Brod, 7. dubna 2021 - **V minulém týdnu se rozeběhly stavební p
 
 Na začátku dubna vyjely bagry na travnatou plochu mezi havlíčkobrodským koupalištěm, severovýchodním obchvatem a zahrádkářskou kolonií Na Nebi, aby připravily prostor pro nový skatepark. *„Rozloha celého skateparku bude více než tisíc metrů čtverečních. Na tisíci metrech betonu najdou vyznavači všech freestylových sportů oddělený betonový bazén a zhruba dvacítku překážek,“* doplňuje havlíčkobrodský zastupitel Jan Kerber (Piráti).
 
+![Bagry vyjely postavit skatepark](https://a.pirati.cz/vysocina/img/posts/2021-04-07-bagry-vyjely-postavit-skatepark-prace.jpg)
+
 Zájem o vlastní sportoviště pro skateboardisty sahá už před rok 1989. Místní široká komunita skejťáků si na své zázemí a sportovní svatostánek musela počkat až do roku 2002, kdy byla v centru města u katastrálního úřadu vybudována asfaltová plocha s několika překážkami. Záhy však bylo jasné, že potřebám plnohodnotného sportoviště nebude ani tento prostor stačit. 
 
 Důležitým milníkem pro vznik nového skateparku se stalo Veřejné fórum v roce 2017, na němž se skatepark, díky iniciativě místních skejťáků, dostal na první místo projektů potřebných pro Havlíčkův Brod. *„Jsem rád, že se nám povedlo navázat na výsledek fóra a během třech let projekt oživit a dovést do konce. Chtěl bych zároveň připomenout, že bez vůle zastupitelstva, vedení města a skateboardové komunity by se stavba nového skateparku nepodařila. Velké díky všem,“* dodává Jan Kerber.
