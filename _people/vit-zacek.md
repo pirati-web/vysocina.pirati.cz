@@ -14,6 +14,8 @@ heroImg: banner-default.jpg
 img: people/vit-zacek.jpg
 mail:
   - vit.zacek@pirati.cz
+mob:
+  - 721 008 275
 profiles:
   wikipedia:
   facebook: https://www.facebook.com/profile.php?id=100009021649717
