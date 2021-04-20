@@ -5,7 +5,7 @@ tags:
  - zemědělství
  - komentář
 layout: post
-title: Milan Daďourek: Je důležité umožnit zemědělcům, aby se mohli beze strachu bránit
+title: Milan Daďourek Je důležité umožnit zemědělcům, aby se mohli beze strachu bránit
 author: Milan Daďourek
 authorId: milan.dadourek
 image: posts/2021-04-20-milan-dadourek-je-důlezite-umoznit-zemedelcum.JPG
