@@ -8,8 +8,7 @@ layout: post
 title: Milan Daďourek: Je důležité umožnit zemědělcům, aby se mohli beze strachu bránit
 author: Milan Daďourek
 authorId: milan.dadourek
-image: posts/2021-04-20-milan-dadourek-je-dulezite-umoznit.png
-
+image: posts/2021-04-20-milan-dadourek-je-důlezite-umoznit-zemedelcum.JPG
 ---
 
 Počítky, 20. dubna 2021 - **Farmaření, či chcete-li sedlačení, je plné nejistot. Kolísají výkupní ceny, počasí, úroda. Velkou nejistotu vzbuzují i stále se měnící zákonné požadavky a podmínky pro získání potřebné podpory. Menší zemědělci se přitom nezřídka střetávají s libovůlí pracovníků kontrolních orgánů při početných inspekcích. Obrana je riskantní – případné odvolání vede k zadržení dotčených plateb a podnik se dostává do potíží s nedostatkem peněz. Z praxe vím, že v naprosté většině případů farmáři raději snesou bezpráví, než by snášeli komplikace spojené s obranou proti chybnému výsledku kontroly.**
