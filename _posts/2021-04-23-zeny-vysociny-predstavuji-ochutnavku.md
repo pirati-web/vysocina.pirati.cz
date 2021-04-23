@@ -16,10 +16,9 @@ Tyto a další zajímavé životní příběhy se mi podařilo objevit díky pro
 
 Díky brněnské spisovatelce Aleně Kastnerové vzniklo prvních dvanáct textů-životní příběhů, které nyní čekají na svou grafickou formu. Ještě před prázdninami bychom rády představily originální plakát a kalendář s autorskými ilustracemi. Kromě výše zmíněných žen se můžete také těšit na osudy Vlasty Javořické, Suzanne Renaud, Anny Pammrové, loni zesnulé Kamily Moučkové, Zdenky Vorlové Vlčkové a dalších. A třeba se brzké době projdete ulicí nebo náměstím, které ponese jejich jméno. 
 
-![Ženy Vysočiny představují ochutnávku z připravovaného kalendáře](https://a.pirati.cz/vysocina/img/posts/2021-04-23-kamila-mouckova-ilustrace.jpg)
-
 Už dnes vám můžeme nabídnout malou ochutnávku z připravovaného kalendáře. Sami jistě poznáte, koho namalovala brněnská ilustrátorka [Julie Opletalová](https://www.itusa.cz/)? Ano, správně. Všichni jste na ilustraci jistě poznali známou československou rozhlasovou a televizní moderátorku Kamilu Moučkovou. Kamila Moučková, která se narodila v Jihlavě, se v roce 1957 stala vůbec první ženou v Československu i v Evropě, která moderovala hlavní televizní zpravodajství. Moderátorka, která jako první v roce 1968 ohlásila vpád vojsk Varšavské smlouvy do Československa, zemřela 24. listopadu 2020.
 
+![Ženy Vysočiny představují ochutnávku z připravovaného kalendáře](https://a.pirati.cz/vysocina/img/posts/2021-04-23-kamila-mouckova-ilustrace.jpg)
 
 ---
 
