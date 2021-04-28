@@ -6,8 +6,8 @@ tags:
  - Zdravotní komise
 layout: post
 title: Návštěva Dětského centra v Jihlavě aneb rozhýbejme komisi
-author: Tereza Mašková, Miroslav Vácha
-authorId: tereza.maskova, miroslav.vacha
+author: Tereza Mašková
+authorId: tereza.maskova
 image: posts/2021-04-28-navsteva-detskeho-centra.jpg
 ---
 
@@ -35,6 +35,7 @@ Paní ředitelka nám částečně naznačuje osudy některých jejích svěřen
 
 Během celé návštěvy na nás dýchala příjemná a přátelská atmosféra, děti byly bezprostřední, veselé, některé opatrné, ale celkově je na tomto místě cítit pozitivní energie, za kterou toto místo vděčí nejen dětem, ale hlavně všem skvělým zaměstnancům, kterým jsme za jejich náročnou práci jménem členů Zdravotní komise Kraje Vysočina ze srdce poděkovali.
 
+Autoři: Tereza Mašková, Miroslav Vácha
 ---
 
 ***KONTAKT PRO NOVINÁŘE*** 
