@@ -8,7 +8,7 @@ layout: post
 title: Veřejné fórum kraje Vysočina - Mezi jedenáct priorit se dostala cyklomobilita, ochrana přírody nebo prevence obezity
 author: Jiří Svoboda
 authorId: jiri.svoboda
-image: posts/2021-04-30-verejne-forum-kraje-vysocina.jpg
+image: posts/2021-04-30-verejne-forum.png
 ---
 
 Jihlava, 30. dubna 2021 - **Dva dny intenzivní diskuze a argumentace – to bylo šesté Veřejné fórum Zdravého Kraje Vysočina, které kvůli současné nepříznivé epidemiologické situaci poprvé proběhlo zcela on-line a přilákalo přes 80 účastníků. Výsledkem široké debaty odborníků i zástupců veřejnosti z řad zájmových sdružení, podnikatelů a vzdělávacích subjektů bylo definování deseti prioritních námětů, tzv. 10P, v letošním roce díky shodě hlasujících půjde nakonec o 11P.**
