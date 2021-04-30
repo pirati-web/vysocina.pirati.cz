@@ -2,9 +2,10 @@
 uid: radka.langhammerova
 name: Radka Langhammerová
 category:
+  - clenove
   - mspelhrimovsko
 description: člen Místního sdružení Pelhřimovsko
-profession:
+profession: pracovnice v sociálních službách
 heroImg: banner-default.jpg
 img: people/radka-langhammerova.jpg
 mail:
