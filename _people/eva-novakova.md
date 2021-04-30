@@ -8,6 +8,7 @@ category:
   - pmsjihlavsko
   #- koordinator
   - kz
+ordpmsjihlavsko: 3
 ordkz: 6
 description: koordinátorka KS Vysočina
 descriptionkz: neuvolněná zastupitelka
