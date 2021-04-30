@@ -5,7 +5,7 @@ tags:
  - Veřejné fórum
  - Kraj Vysočina
 layout: post
-title: Veřejné fórum kraje Vysočina - Mezi jedenáct priorit se dostala cyklomobilita, ochrana přírody nebo prevence obezity
+title: Veřejné fórum Kraje Vysočina - Mezi jedenáct priorit se dostala cyklomobilita, ochrana přírody nebo prevence obezity
 author: Jiří Svoboda
 authorId: jiri.svoboda
 image: posts/2021-04-30-verejne-forum.png
