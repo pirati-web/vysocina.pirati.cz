@@ -4,7 +4,8 @@ name: Eva Nováková
 fullname: Eva Nováková        
 category:
   - clenove
-  - msjihlavsko
+  #- msjihlavsko
+  - pmsjihlavsko
   #- koordinator
   - kz
 ordkz: 6
@@ -90,9 +91,10 @@ Vystudovala obor sociologie a sociální politika (Bc.) na Fakultě sociálních
 
 **Piráti:**
 * od května 2018 členka
+* od dubna 2021 **2. místopředsedkyně MS Jihlavsko**
 * zakládající členka **#ažnakrev** crew
 
 **Piráti v minulosti:**
 * od září 2020 do dubna 2021 **KoKS** (koordinátorka krajského sdružení Vysočina)
-* od listopadu 2019 do dubna 2020 2. místopředsedkyně **KS Vysočina**
-* od srpna 2018 do července 2020 1. místopředsedkyně **MS Jihlavsko**
+* od listopadu 2019 do dubna 2020 **2. místopředsedkyně KS Vysočina**
+* od srpna 2018 do července 2020 **1. místopředsedkyně MS Jihlavsko**
