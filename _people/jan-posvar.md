@@ -7,7 +7,7 @@ category:
   - mspelhrimovsko
 ordpks: 1
 description: předseda KS Vysočina, poslanec Parlamentu ČR
-profession: poslanec Parlamentu ČR
+profession: Poslanec, vedoucí sekce slepice a zahrádky, předseda krajského sdružení
 heroImg: banner-default.jpg
 img: people/jan-posvar.jpg
 mail:
@@ -23,19 +23,65 @@ asistenti:
     mail: beniceko@psp.cz
 office:
   - address: Matky Boží 1182/9, 586 01  Jihlava
-    opening: pondělí 10&#58;00 - 18&#58;00
+    opening: pondělí 12&#58;00 - 17&#58;00
 profiles:
+  wikipedia: https://cs.wikipedia.org/wiki/Jan_Po%C5%A1v%C3%A1%C5%99
   facebook: https://www.facebook.com/ArAx666
+  twitter: https://twitter.com/PosvarJan
+  github: 
+  forum: https://forum.pirati.cz/memberlist.php?mode=viewprofile&u=1492
+  redmine: https://redmine.pirati.cz/users/219
+  web:
+  blog: 
+  flickr:
+  #linkedin: 
+  #instagram: 
 partyUid: pirati
 calendar: 3jlgg8p8nnj3k6t1gduajv0m1g%40group.calendar.google.com
 ---
+Jan Pošvář (* 16. května 1985, Kamenice nad Lipou) je poslanec zvolený za Vysočinu. V Poslanecké sněmovně se stal členem Zemědělského výboru, Kontrolního výboru, místopředsedou Podvýboru pro daně, cla, loterie a členem Volební komise. Na Vysočině je předsedou krajského sdružení Pirátské strany.
 
-Bc. Jan Pošvář (16. května 1985, Kamenice nad Lipou) je místopředsedou vysočinského Krajského sdružení a poslanec za Vysočinu. V Poslanecké sněmovně je členem zemědělského, rozpočtového výboru, místopředseda podvýboru pro daně, cla a loterie a členem volební komise.
+Studoval na Gymnáziu v Pelhřimově a na Vysoké škole polytechnické v Jihlavě. Poté pracoval jako programátor v pražské IT společnosti T-SOFT a.s., kde se podílel na vývoji informačních systémů (například eFarmář - Privátní portál pro zemědělce). Během svého života se učil i řemeslu svého otce a v červnu 2013 získal řemeslnou živnost – malířské a natěračské práce.
 
-Studoval na Gymnáziu Pelhřimov a na Vysoké škole polytechnické v Jihlavě. Poté pracoval jako programátor v pražské IT společnosti T-SOFT a.s., kde se podílel na vývoji informačních systémů. Během svého života se učil i řemeslu svého otce a od června 2013 získal řemeslnou živnost – malířské a natěračské práce.
-
-Od roku 2009 je členem Pirátské strany, od konce roku 2016 do poloviny roku 2018 byl předsedou krajského sdružení Vysočiny a v roce 2017 byl zvolen poslancem.
+Od roku 2010 je členem Pirátské strany, v letech 2016 až 2018 byl předsedou krajského sdružení Vysočiny. Kandidoval za Piráty v krajských volbách v roce 2016 neúspěšně a v roce 2017 ve volbách do parlamentu úspěšně.
 
 V současnosti žije v Havlíčkově Brodě.
 
-Zajímá se o historii, přírodu, lidská práva, politiku, informační technologie a informační podporu krizového řízení. Ve volném čase programuje.
+V Poslanecké sněmovně se zajímá o ochranu půdy, ochranu práv vlastníků půdy, obnovu krajiny (revitalizaci toků, obnovu mokřadů, nivních luk, rybníků), podporuje zahrádkaření včetně toho komunitního a bojuje za účelnější rozdělování dotací, které budou směrovat zemědělce k nápravě zničené krajiny, provozování udržitelného nebo rovnou ekologického zemědělství.
+
+---
+**Veřejné funkce:**
+* poslanec
+* člen zemědělského výboru Poslanecké sněmovny
+* člen kontrolního výboru Poslanecké sněmovny
+* člen volební komise
+
+**Piráti:**
+* předseda krajského sdružení Vysočina
+* od 2010 člen
+
+**Piráti v minulosti:**
+* místopředseda krajského sdružení Vysočina
+
+---
+<style>
+@media only screen and (max-width: 989px) {
+  .desktop {
+    visibility: hidden;
+  }
+}
+@media only screen and (min-width: 990px) {
+  .mobile {
+    visibility: hidden;
+  }
+}
+</style>
+
+<div class="mobile">
+  <p align="center"><a href="https://calendar.google.com/calendar/u/0?cid=M2psZ2c4cDhubmozazZ0MWdkdWFqdjBtMWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"><b>Veřejný kalendář</b></a></p>
+</div>
+<div class="hidden lg:block">
+  <p align="center"><iframe width="700" height="480" src="https://calendar.google.com/calendar/u/0?cid=M2psZ2c4cDhubmozazZ0MWdkdWFqdjBtMWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"></iframe></p>
+</div>
+
+
