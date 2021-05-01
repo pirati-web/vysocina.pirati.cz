@@ -4,13 +4,15 @@ name: Eva Nováková
 fullname: Eva Nováková        
 category:
   - clenove
-  - msjihlavsko
-  - koordinator
+  #- msjihlavsko
+  - pmsjihlavsko
+  #- koordinator
   - kz
+ordpmsjihlavsko: 3
 ordkz: 6
 description: koordinátorka KS Vysočina
 descriptionkz: neuvolněná zastupitelka
-profession: Koordinátorka, vedoucí sociální služby
+profession: členka zastupitelstva města jihlavy a kraje vysočina
 heroImg: logo-wall.jpg
 img: people/eva-novakova.jpg
 mail:
@@ -54,19 +56,46 @@ boardzm:
      name: Silvie Čermáková
    - position: zastupitel
      uid: vojtech.prchal
+profiles:
+  wikipedia:
+  facebook: https://www.facebook.com/eva.adams.1840
+  twitter: https://twitter.com/evazumin
+  github: https://github.com/efka-novakova
+  forum: https://forum.pirati.cz/memberlist.php?mode=viewprofile&u=12381
+  redmine: https://redmine.pirati.cz/users/667
+  web:
+  blog: 
+  flickr:
+  #linkedin: 
+  #instagram: https://www.instagram.com/eva.novak_ova/ 
 partyUid: pirati
 ---
 
-Rodačka z Kladna, která se přes Londýn, Jeruzalém a Prahu dostala až do Jihlavy, z korporace do sociálních služeb (a zpět do korporace). V říjnu 2018 byla zvolena členkou Zastupitelstva města Jihlavy, od prosince téhož roku pracuje jako plánovačka logistiky ve společnosti BOSCH, kde je od srpna 2019 i členkou základní odborové organizace KOVO. Je první místopředsedkyní MS Jihlavsko.
+Eva Nováková (* 29. června 1981) je rodačka z Kladna, která se přes Londýn, Jeruzalém a Prahu dostala až do Jihlavy, z korporace do sociálních služeb (a zpět do korporace). V říjnu 2018 byla zvolena členkou Zastupitelstva města Jihlavy, o dva roky později členkou Zastupitelstva Kraje Vysočina. 
 
-V rámci působení v Zastupitelstvu města Jihlavy je členkou majetkové komise, komise pro bezpečnost a prevenci kriminality a komise pro sociální a neziskovou oblast. Podílela se na přípravě projektu, díky kterému Jihlava od října 2019 zařadila do svého portfolia metodu Housing First. Kromě sociální oblasti se zajímá o posilování participace občanů.
+První tři roky v Jihlavě pracovala jako vedoucí terénní sociální služby, a po krátké epizodě, kdy pracovala jako plánovačka logistiky ve společnosti BOSCH, kde byla i členkou základní odborové organizace KOVO, nastoupila u Pirátů jako koordinátorka krajského sdružení Vysočina.
 
-Vystudovala obor sociologie a sociální politika (Bc.) na Fakultě sociálních věd UK, nedostudovala obor romistika na Filosofické fakultě UK. Absolvovala několik kurzů zaměřených na manažerské dovednosti a leadership.
+V rámci působení v Zastupitelstvu města Jihlavy je členkou majetkové komise, komise pro bezpečnost a prevenci kriminality a komise pro sociální a neziskovou oblast. Podílela se na přípravě projektu, díky kterému Jihlava od října 2019 zařadila do svého portfolia metodu Housing First. Kromě sociální oblasti se zajímá o posilování participace občanů. 
 
-Tři roky pracovala jako vedoucí terénní sociální služby. Vedla tým deseti kolegů a kolegyň. Kromě klasické sociální práce se společně snažili působit i na změnu podmínek, které vedou k prohlubování sociálního vyloučení. S kolegy a kolegyněmi se účastnila pracovní skupiny pro sociální bydlení zřízené městem, realizovala projekt zaměřený na podporu inkluzivního vzdělávání, který kromě přímé podpory žáků/studentů a jejich rodin cílil i na změnu postojů pedagogů a odpovědných institucí, a podporovala zástupce romské komunity v participaci a občanské angažovanosti.
+Kromě toho s místním kolektivem Jídlo místo zbraní pravidelně vaří veganské jídlo pro lidi bez domova a podílí se na organizaci různých benefičních a kulturních akcí. Ve spolupráci s divadlem DIOD organizovala Rozpravy - večery zaměřené na představování romské kultury široké veřejnosti i Romům samotným.
 
-Kromě toho s místním kolektivem Jídlo místo zbraní pravidelně vaří veganské jídlo pro lidi bez domova a podílí se na organizaci různých benefičních a kulturních akcí. Ve spolupráci s divadlem DIOD dva roky organizovala Rozpravy - večery zaměřené na představování romské kultury široké veřejnosti i Romům samotným.
+Vystudovala obor sociologie a sociální politika (Bc.) na Fakultě sociálních věd UK, nedostudovala obor romistika na Filosofické fakultě UK. 
 
-Pracovně ještě občas překládá pro romistický časopis, v minulosti učila romštinu, dělala PR pro pár projektů (Férové bydlení, Stan romské kultury) nebo působila jako manažerka kapely Terne Čhave. V pražském klubu Cross dva roky organizovala UFOSS - večery zaměřené na různá romská/romistická témata. Předtím se věnovala tématu nenásilného palestinského hnutí proti okupaci.
+---
+**Veřejné funkce:**
+* zastupitelka města **Jihlavy**
+* zastupitelka **Kraje Vysočina**
+* členka **Majetkové komise** Rady města Jihlavy
+* členka **Komise pro neziskovou a sociální oblast** Rady města Jihlavy
+* členka **Komise pro bezpečnost a prevenci kriminality** Rady města Jihlavy
+* členka **Komise pro oblast sociální a drogové politiky** Rady Kraje Vysočina
 
-Ve volném čase se snaží věnovat akrobacii na šálách a pohybu obecně. Na oblíbenou aktivitu bike pólo už bohužel moc času nezbývá.
+**Piráti:**
+* od května 2018 členka
+* od dubna 2021 **2. místopředsedkyně MS Jihlavsko**
+* zakládající členka **#ažnakrev** crew
+
+**Piráti v minulosti:**
+* od září 2020 do dubna 2021 **KoKS** (koordinátorka krajského sdružení Vysočina)
+* od listopadu 2019 do dubna 2020 **2. místopředsedkyně KS Vysočina**
+* od srpna 2018 do července 2020 **1. místopředsedkyně MS Jihlavsko**
