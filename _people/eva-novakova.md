@@ -10,9 +10,9 @@ category:
   - kz
 ordpmsjihlavsko: 3
 ordkz: 6
-description: koordinátorka KS Vysočina
+description: 2. místopředsedkyně MS Jihlavsko
 descriptionkz: neuvolněná zastupitelka
-profession: členka zastupitelstva města jihlavy a kraje vysočina
+profession: členka Zastupitelstva města Jihlavy a Kraje Vysočina
 heroImg: logo-wall.jpg
 img: people/eva-novakova.jpg
 mail:
@@ -64,22 +64,22 @@ profiles:
   forum: https://forum.pirati.cz/memberlist.php?mode=viewprofile&u=12381
   redmine: https://redmine.pirati.cz/users/667
   web:
-  blog: 
+  blog:
   flickr:
-  #linkedin: 
-  #instagram: https://www.instagram.com/eva.novak_ova/ 
+  #linkedin:
+  #instagram: https://www.instagram.com/eva.novak_ova/
 partyUid: pirati
 ---
 
-Eva Nováková (* 29. června 1981) je rodačka z Kladna, která se přes Londýn, Jeruzalém a Prahu dostala až do Jihlavy, z korporace do sociálních služeb (a zpět do korporace). V říjnu 2018 byla zvolena členkou Zastupitelstva města Jihlavy, o dva roky později členkou Zastupitelstva Kraje Vysočina. 
+Eva Nováková (* 29. června 1981) je rodačka z Kladna, která se přes Londýn, Jeruzalém a Prahu dostala až do Jihlavy, z korporace do sociálních služeb (a zpět do korporace). V říjnu 2018 byla zvolena členkou Zastupitelstva města Jihlavy, o dva roky později členkou Zastupitelstva Kraje Vysočina.
 
 První tři roky v Jihlavě pracovala jako vedoucí terénní sociální služby, a po krátké epizodě, kdy pracovala jako plánovačka logistiky ve společnosti BOSCH, kde byla i členkou základní odborové organizace KOVO, nastoupila u Pirátů jako koordinátorka krajského sdružení Vysočina.
 
-V rámci působení v Zastupitelstvu města Jihlavy je členkou majetkové komise, komise pro bezpečnost a prevenci kriminality a komise pro sociální a neziskovou oblast. Podílela se na přípravě projektu, díky kterému Jihlava od října 2019 zařadila do svého portfolia metodu Housing First. Kromě sociální oblasti se zajímá o posilování participace občanů. 
+V rámci působení v Zastupitelstvu města Jihlavy je členkou majetkové komise, komise pro bezpečnost a prevenci kriminality a komise pro sociální a neziskovou oblast. Podílela se na přípravě projektu, díky kterému Jihlava od října 2019 zařadila do svého portfolia metodu Housing First. Kromě sociální oblasti se zajímá o posilování participace občanů.
 
 Kromě toho s místním kolektivem Jídlo místo zbraní pravidelně vaří veganské jídlo pro lidi bez domova a podílí se na organizaci různých benefičních a kulturních akcí. Ve spolupráci s divadlem DIOD organizovala Rozpravy - večery zaměřené na představování romské kultury široké veřejnosti i Romům samotným.
 
-Vystudovala obor sociologie a sociální politika (Bc.) na Fakultě sociálních věd UK, nedostudovala obor romistika na Filosofické fakultě UK. 
+Vystudovala obor sociologie a sociální politika (Bc.) na Fakultě sociálních věd UK, nedostudovala obor romistika na Filosofické fakultě UK.
 
 ---
 **Veřejné funkce:**

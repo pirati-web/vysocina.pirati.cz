@@ -7,7 +7,7 @@ category:
   - mspelhrimovsko
 ordpks: 1
 description: předseda KS Vysočina, poslanec Parlamentu ČR
-profession: Poslanec, vedoucí sekce slepice a zahrádky, předseda krajského sdružení
+profession: poslanec, vedoucí sekce slepice a zahrádky, předseda KS
 heroImg: banner-default.jpg
 img: people/jan-posvar.jpg
 mail:
@@ -28,14 +28,14 @@ profiles:
   wikipedia: https://cs.wikipedia.org/wiki/Jan_Po%C5%A1v%C3%A1%C5%99
   facebook: https://www.facebook.com/ArAx666
   twitter: https://twitter.com/PosvarJan
-  github: 
+  github:
   forum: https://forum.pirati.cz/memberlist.php?mode=viewprofile&u=1492
   redmine: https://redmine.pirati.cz/users/219
   web:
-  blog: 
+  blog:
   flickr:
-  #linkedin: 
-  #instagram: 
+  #linkedin:
+  #instagram:
 partyUid: pirati
 calendar: 3jlgg8p8nnj3k6t1gduajv0m1g%40group.calendar.google.com
 ---
@@ -81,7 +81,5 @@ V Poslanecké sněmovně se zajímá o ochranu půdy, ochranu práv vlastníků 
   <p align="center"><a href="https://calendar.google.com/calendar/u/0?cid=M2psZ2c4cDhubmozazZ0MWdkdWFqdjBtMWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"><b>Veřejný kalendář</b></a></p>
 </div>
 <div class="hidden lg:block">
-  <p align="center"><iframe width="700" height="480" src="https://calendar.google.com/calendar/u/0?cid=M2psZ2c4cDhubmozazZ0MWdkdWFqdjBtMWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"></iframe></p>
+  <p align="center"><iframe src="https://calendar.google.com/calendar/u/0?cid=M2psZ2c4cDhubmozazZ0MWdkdWFqdjBtMWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" style="border-width:0" width="700" height="480" frameborder="0" scrolling="no"></iframe></p>
 </div>
-
-

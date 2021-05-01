@@ -5,23 +5,23 @@ category:
   - clenove
   - mstrebicsko
 description: člen Místního sdružení Třebíčsko
-profession: Inženýr produktových zážitků v oblasti svobodného software
+profession: inženýr produktových zážitků v oblasti svobodného software
 heroImg: banner-default.jpg
 img: people/filip-krska.jpg
 mail:
   - filip.krska@pirati.cz
 profiles:
   wikipedia:
-  facebook: 
+  facebook:
   twitter: 
-  github: https://github.com/ins-pirat-ion 
+  github: https://github.com/ins-pirat-ion
   forum: https://forum.pirati.cz/memberlist.php?mode=viewprofile&u=873
   redmine: https://redmine.pirati.cz/users/202
   web: https://gitlab.com/ins-pirat-ion
-  blog: 
+  blog:
   flickr:
-  #linkedin: 
-  #instagram: 
+  #linkedin:
+  #instagram:
 partyUid: pirati
 ---
 

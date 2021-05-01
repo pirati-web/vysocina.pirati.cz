@@ -6,7 +6,7 @@ category:
   - clenove
   - msjihlavsko             
 description: člen místního sdružení jihlavsko
-profession: Zastupitel města Jihlava, podnikatel, cestovatel
+profession: zastupitel města Jihlava, podnikatel, cestovatel
 heroImg: banner-default.jpg
 img: people/vojtech-prchal.jpg
 mail:
@@ -30,13 +30,13 @@ boardzm:
      uid: vojtech.prchal
 profiles:
   wikipedia:
-  facebook: 
-  twitter: 
-  github: 
+  facebook:
+  twitter:
+  github:
   forum: https://forum.pirati.cz/memberlist.php?mode=viewprofile&u=12451
-  redmine: 
+  redmine:
   web: https://lide.pirati.cz/personProfile/439/
-  blog: 
+  blog:
   flickr:
 partyUid: pirati
 ---
