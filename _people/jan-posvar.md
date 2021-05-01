@@ -78,8 +78,8 @@ V Poslanecké sněmovně se zajímá o ochranu půdy, ochranu práv vlastníků 
 </style>
 
 <div class="mobile">
-  <p align="center"><a href="https://calendar.google.com/calendar/u/0?cid=M2psZ2c4cDhubmozazZ0MWdkdWFqdjBtMWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"><b>Veřejný kalendář</b></a></p>
+  <p align="center"><a href="https://calendar.google.com/calendar/embed?src=pochvajan%40gmail.com&ctz=Europe%2FPrague"><b>Veřejný kalendář</b></a></p>
 </div>
 <div class="hidden lg:block">
-  <p align="center"><iframe src="https://calendar.google.com/calendar/u/0?cid=M2psZ2c4cDhubmozazZ0MWdkdWFqdjBtMWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" style="border-width:0" width="700" height="480" frameborder="0" scrolling="no"></iframe></p>
+  <p align="center"><iframe src="https://calendar.google.com/calendar/embed?src=pochvajan%40gmail.com&ctz=Europe%2FPrague" style="border-width:0" width="700" height="480" frameborder="0" scrolling="no"></iframe></p>
 </div>
