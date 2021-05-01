@@ -20,13 +20,13 @@ profiles:
   wikipedia:
   facebook: https://www.facebook.com/miro.vacha
   twitter:
-  github: 
-  forum: 
-  redmine: 
+  github:
+  forum:
+  redmine:
   web:
-  blog: 
+  blog:
   flickr:
-  #linkedin: 
+  #linkedin:
   #instagram:  
 partyUid: pirati
 ---
@@ -46,8 +46,8 @@ Ve svém volném čase rád běhá na lesních cestách, čte a sleduje inspirat
 * člen Zdravotní komise Rady Kraje Vysočina
 
 **Piráti:**
-* 3. místopředseda krajského sdružení Vysočina
-* 2. místopředseda místního sdružení Mikroregion Telčsko
+* místopředseda krajského sdružení Vysočina
+* místopředseda místního sdružení Mikroregion Telčsko
 * kandidát ve volbách do Poslanecké sněmovny 2021
 * člen mediálního a volebního týmu 2021
 * od srpna 2019 člen
@@ -55,4 +55,3 @@ Ve svém volném čase rád běhá na lesních cestách, čte a sleduje inspirat
 **Piráti v minulosti:**
 * kandidát ve volbách do zastupitelstev krajů 2020
 * člen týmu pro povolební vyjednávání 2020
-
