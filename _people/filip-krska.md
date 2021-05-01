@@ -5,20 +5,35 @@ category:
   - clenove
   - mstrebicsko
 description: člen Místního sdružení Třebíčsko
-profession:
+profession: Inženýr produktových zážitků v oblasti svobodného software
 heroImg: banner-default.jpg
 img: people/filip-krska.jpg
 mail:
   - filip.krska@pirati.cz
+profiles:
+  wikipedia:
+  facebook: 
+  twitter: 
+  github: https://github.com/ins-pirat-ion 
+  forum: https://forum.pirati.cz/memberlist.php?mode=viewprofile&u=873
+  redmine: https://redmine.pirati.cz/users/202
+  web: https://gitlab.com/ins-pirat-ion
+  blog: 
+  flickr:
+  #linkedin: 
+  #instagram: 
 partyUid: pirati
 ---
 
-**Filip Krška** byl předsedou rozhodčí komise, členem zahraničního odboru, a předsedou krajského sdružení Vysočina. V současné době se věnuje organizaci putovního Festivalu svobodných filmů.
+**Filip Krška** (* 11. dubna 1977)
 
-„K životu potřebuji (a věřím, že nejsem sám) prostor a svobodu se vyjádřit, být inspirován a inspirovat, mít možnost chovat se přirozeně, bez obav, že naprosto bezelstnou nebo dokonce záslužnou činností porušuji zákony a mohu být kdykoli perzekuován. Zákony musí respektovat realitu a nikoli ji znásilňovat ve prospěch zajištění kontinuity přežitých monopolů nebo zajištění nových tunelových komplexů“
+„K životu potřebuji (a věřím, že nejsem sám) prostor a svobodu se vyjádřit, být inspirován a inspirovat, mít možnost chovat se přirozeně, bez obav, že naprosto bezelstnou nebo dokonce záslužnou činností porušuji zákony a mohu být kdykoli perzekvován. Zákony musí respektovat realitu a nikoli ji znásilňovat ve prospěch zajištění kontinuity přežitých monopolů nebo zajištění nových tunelových komplexů.“
 
-Filip studoval na Gymnáziu Kpt. Jaroše v Brně, za které se účastnil dvou mezinárodních matematických olympiád a získal jednu bronzovou medaili. Na Matematicko-fyzikální fakultě Univerzity Karlovy vystudoval obor výpočtová matematika.
+---
+**Piráti:**
+* od 2009 člen
 
-Pracuje jako inženýr údržby svobodného software, pomáhal lokalizovat dárcovský systém Flattr či překládat titulky svobodného seriálu YFIAS. Pracuje na využití kryptoměny bitcoin pro pravidelné dárcovství přes které pravidelně podporuje svobodný software, kulturu a aktivismus. Je držitelem zlaté plakety Dr. Jánského za celoživotní dárcovství krve.
-
-Věnuje se rodině se dva dětmi, amatérsky mimojiné hře na kytaru, volejbalu, plachetnicím, pohybu v přírodě, tantře.
+**Piráti v minulosti:**
+* předseda rozhodčí komise
+* předseda krajského sdružení Vysočina
+* iniciátor Festivalu Svobodných Filmů
