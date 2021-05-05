@@ -21,7 +21,7 @@ U tohoto stolu probíhala velmi živá debata, která ukázala dva odlišné poh
 
 Už před dvěma lety dominovala mezi prioritami ochrana vod, péče o čistotu vod a zadržování vody v krajině i na území obcí a také zadržení vody v zemědělské a lesnické krajině správným způsobem hospodaření. Kraj se zaměřil hlavně na první dva body, tedy ochranu a čistotu vod, a to skrze budování nových vodovodů a kanalizací.
 
-vědomuji si potřebnost řešení těchto problémů, do kterých kraj v uplynulých letech investoval nemalé prostředky. Přesto jsem velmi ráda, že po diskuzi a následném hlasování postoupila tentokrát do závěrečného výběru dvě “ochranářská” témata.
+Uvědomuji si potřebnost řešení těchto problémů, do kterých kraj v uplynulých letech investoval nemalé prostředky. Přesto jsem velmi ráda, že po diskuzi a následném hlasování postoupila tentokrát do závěrečného výběru dvě “ochranářská” témata.
 
 Prvním z nich je výkup pozemků - veřejná správa, krajské samosprávy nevyjímaje, má možnost vykupovat pozemky ve zvláště chráněných územích a také další přírodně cenné pozemky. Hlavním důvodem pro takový krok je zajištění vhodného způsobu ochrany a také rozsáhlejší možnosti zadržení vody v krajině. Toto zajistí systémové budování zelené infrastruktury, která je nezbytná pro oživení a obnovu naší přírody.
 
