@@ -5,7 +5,7 @@ tags:
  - Veřejné fórum
  - Kraj Vysočina
 layout: post
-title: Blanka Lednická - Komentář k veřejnému fóru Kraje Vysočina
+title: Blanka Lednická - Komentář k Veřejnému fóru Kraje Vysočina
 author: Blanka Lednická
 authorId: blanka.lednicka
 image: posts/2021-05-05-blanka-lednicka-komentar-k-verejnemu-foru-kraje-vysocina.png
