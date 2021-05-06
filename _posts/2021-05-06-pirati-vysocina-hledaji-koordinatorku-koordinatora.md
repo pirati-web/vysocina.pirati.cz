@@ -7,7 +7,7 @@ layout: post
 title: Piráti Vysočina hledají koordinátorku/koordinátora pro Kraj Vysočina
 author: Jiří Svoboda
 authorId: jiri.svoboda
-image: posts/2021-05-06-pirati-vysocina-hledaji-koordinatorku.png
+image: posts/2021-05-06-pirati-vysocina-hledaji-koordinatorku-koordinatora.jpg
 ---
 
 Krajské sdružení Pirátů na Vysočině vyhlašuje výběrové řízení na pozici koordinátorky/koordinátora pro Kraj Vysočina. 
