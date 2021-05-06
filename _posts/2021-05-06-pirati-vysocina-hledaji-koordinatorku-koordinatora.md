@@ -94,6 +94,7 @@ neomezený telefonní tarif s internetem
 
 
 **Požadavky na zařazení do výběrového řízení:**
+
 Podmínkou zařazení do výběrového řízení je zaslání strukturovaného životopisu a motivačního dopisu obsahujícího vizi působení na dané pozici. Dále uchazeč zašle plán konkrétní akce, která by mohla být součástí kampaně do Poslanecké sněmovny. Životopis a motivační dopis vítěze výběrového řízení mohou být zveřejněny i bez předchozího souhlasu.
 
 Přihlásit se můžete [prostřednictvím tohoto formuláře](https://www.jobs.cz/rpd/1560069333/?searchId=c28b5e96-04ec-4ec9-86d7-3ab634387655&rps=233).
