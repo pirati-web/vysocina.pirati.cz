@@ -19,11 +19,15 @@ Havlíčkův Brod, 10. května 2021 - **Jarní měsíce patří tradičním úkl
 
 ![Piráti uklízeli Vysočinu](https://a.pirati.cz/vysocina/img/posts/2021-05-10-pirati-uklizeli-vysocinu-havlickuv-brod-II.jpg)
 
+![Piráti uklízeli Vysočinu](https://a.pirati.cz/vysocina/img/posts/2021-05-10-pirati-uklizeli-vysocinu-havlickuv-brod-III.jpg)
+
 **Piráti z Telče a okolí uklízeli v okolí telčského židovského hřbitova v rámci akce Ukliďme Česko (foto níže).**
 
 ![Piráti uklízeli Vysočinu](https://a.pirati.cz/vysocina/img/posts/2021-05-10-pirati-uklizeli-vysocinu-telc-I.jpg)
 
 ![Piráti uklízeli Vysočinu](https://a.pirati.cz/vysocina/img/posts/2021-05-10-pirati-uklizeli-vysocinu-telc-II.jpg)
+
+![Piráti uklízeli Vysočinu](https://a.pirati.cz/vysocina/img/posts/2021-05-10-pirati-uklizeli-vysocinu-telc-III.jpg)
 
 **Krajská zastupitelka a předsedkyně Komise pro životní prostředí Blanka Lednická šla příkladem a uklízela cesty kolem Olešné u Havlíčkova Brodu (foto níže).**
 
