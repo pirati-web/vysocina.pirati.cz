@@ -5,7 +5,7 @@ tags:
  - Veřejné fórum
  - Kraj Vysočina
 layout: post
-title: 
+title: Hlasujte ve Veřejném fóru Kraje Vysočina a rozhodněte o budoucím rozvoji
 author: Jiří Svoboda
 authorId: jiri.svoboda
 image: posts/2021-05-17-hlasujte-ve-verejnem-foru.jpg
