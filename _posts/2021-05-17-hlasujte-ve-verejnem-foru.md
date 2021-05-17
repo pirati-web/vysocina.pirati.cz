@@ -16,7 +16,7 @@ Jihlava, 17. května 2021 - **Na konci dubna proběhlo první online Veřejné f
 Kraj Vysočina, jako vůbec první v České republice, uspořádal Veřejné fórum v online formě. Na dvoudenním virtuálním setkání plném diskuzí a debat vznikl konsensus jedenácti problémů, které podpořili jak odborníci, tak i politici, podnikatelé, zástupci zájmových sdružení, ale i veřejnost. Celkem 160 účastníků vybralo nejpalčivější témata současné Vysočiny, mezi kterými nechyběla podpora cyklomobility, osvěta očkování, ochrana lesů, intenzivnější spolupráce v oblasti výzkumu, vývoje a inovací nebo rozšiřování vysokorychlostního připojení k internetu. 
 
 
-<iframe width="640" height="480" src="https://www.youtube.com/watch?v=oUqUFWh9LXE" frameborder="0"> </iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/oUqUFWh9LXE" frameborder="0"> </iframe>
 
 
 **Přehled TOP témat Kraje Vysočina definovaných účastníky Veřejného fóra 2021**
