@@ -9,6 +9,7 @@ title: Piráti a Starostové odstartovali předvolební kampaň. Do ulic vyrazil
 author: Jiří Svoboda
 authorId: jiri.svoboda
 image: posts/2021-05-19-pirati-a-starostove-odstartovali-predvolebni-kampan.jpg
+important: true
 ---
 
 Jihlava, 19. května 2021 - **S heslem – Vraťme zemi budoucnost, v Praze i po celé České republice. V úterý 18. května úderem dvanácté hodiny polední odstartovala předvolební kampaň Pirátů a Starostů. Zatímco lídr společné kandidátky Pirátů a STAN na Vysočině Milan Daďourek reprezentoval Vysočinu na velké tiskové konferenci v parku u Rudolfina na Alšově nábřeží v Praze, ostatní Piráti a Starostové vyrazili od dopoledních hodin do ulic měst a obcí po celé Vysočině, aby zahájili kampaň přímo v regionu.**
