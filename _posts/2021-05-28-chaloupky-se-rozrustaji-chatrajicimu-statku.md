@@ -8,7 +8,7 @@ layout: post
 title: Chaloupky se rozrůstají. Chátrajícímu statku v Balinách vdechly nový život
 author: Blanka Lednická
 authorId: blanka.lednicka
-image: posts/2021-05-28-chaloupky-se-rozrustaji.jpg
+image: posts/2021-05-28-chaloupky-se-rozrustaji-chatrajicimu-statku.png
 ---
 
 Olešná, 28. května 2021 - **Když před necelými třiceti lety vzniklo Středisko ekologické výchovy Chaloupky, zřejmě si nikdo nepředstavoval, jakým vývojem tato organizace v následujících desetiletích projde. Existovaly nejrůznější plány, ovšem to, že v roce 2021 budou Chaloupky působit na sedmi místech a každoročně se pod jejich vedením uskuteční stovky výukových programů, nečekal zřejmě nikdo.**
