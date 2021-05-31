@@ -8,7 +8,7 @@ layout: post
 title: Jan Břížďala - Pro modernizaci škol v kraji se použije přes 280 milionů z EU fondů
 author: Jan Břížďala
 authorId: jan.brizdala
-image: posts/2021-05-31-pro-modernizaci-skol-v-kraji.png
+image: posts/2021-05-31-jan-brizdala-pro-modernizaci-skol-v-kraji.jpg
 ---
 
 Jihlava, 31. května 2021 - **V programovém období 2021 - 2027 pro čerpání evropských dotací je pro střední a vyšší odborné školy v Kraji Vysočina alokována částka 240 milionů Kč, z kterých lze podpořit investice do těchto organizací. Při výši dotace 85 % to znamená, že reálně bude možné proinvestovat přes 280 milionů Kč. Uvedená částka je alokovaná sice pro Kraj Vysočina, který je sám zřizovatelem některých škol, avšak kritéria pro přerozdělení dotací je nutné sestavit transparentně, bez rozdílu zřizovatele.**
