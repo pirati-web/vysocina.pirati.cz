@@ -9,6 +9,7 @@ title: Milan Daďourek povede na Vysočině kandidátku Pirátů a Starostů do 
 author: Jiří Svoboda
 authorId: jiri.svoboda
 image: posts/2021-06-02-milan-dadourek-povede-na-vysocine.jpg
+important: true
 ---
 
 Jihlava, 2. června 2021 - **Ve středu 2. června proběhla v Jihlavském pirátském centru tisková konference k příležitosti představení krajské koaliční kandidátky Pirátů a Starostů do podzimních sněmovních voleb. Na tiskové konferenci nechybělo čelo kandidátky, včetně jejího lídra Milana Daďourka.**
