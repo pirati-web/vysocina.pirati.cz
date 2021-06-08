@@ -34,6 +34,8 @@ Tak snad už to klapne.
 
 Já jako personální výbava jménem Miroslava Vácha to všem zdravotníkům přeji. 
 
+Úvodní fotografie/Zdroj: Česká televize
+
 ---
 
 ***KONTAKT PRO NOVINÁŘE*** 
