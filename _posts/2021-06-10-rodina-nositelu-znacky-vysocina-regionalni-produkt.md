@@ -18,7 +18,7 @@ Náměstkyně hejtmana Hana Hajnová představila historii značky Vysočina reg
 
 *„Mezi více než pět desítek regionálních produktů v úterý přibyla další šestice certifikovaných výrobků – pramenitá voda CRYSTALIS ze Stražiště, vyzrálé hovězí maso od Vítězslava Škody z Hrotovic, originální keramika Jany Fučíkové z Koněšína, ručně vyráběné inkousty INKEBARA Dušana Prachaře z Vladislavi, masné výrobky z Řeznictví Stejskal v Chotěboři a Milovské perníčky a pralinky od Petry Kovaříkové. A právě dva posledně jmenované produkty jsme nakonec měli možnost i ochutnat. A musím potvrdit, že certifikát VYSOČINA – regionální produkt je v opravdu dobrých rukou,“* doplňuje náměstkyně pro oblast regionálního rozvoje Hana Hajnová.
 
-![Rodina nositelů značky Vysočina regionální produkt se rozrostla o šest nových výrobků](https://a.pirati.cz/vysocina/img/posts/2021-06-10-rodina-nositelu-znacky-vysocina-regionlani-produkt-se-rozrostla)
+![Rodina nositelů značky Vysočina regionální produkt se rozrostla o šest nových výrobků](https://a.pirati.cz/vysocina/img/posts/2021-06-10-rodina-nositelu-znacky-vysocina-regionlani-produkt-se-rozrostla.jpg)
 
 ---
 
