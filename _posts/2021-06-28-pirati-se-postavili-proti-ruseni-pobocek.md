@@ -8,7 +8,7 @@ layout: post
 title: Piráti se postavili proti rušení poboček České pošty v Jihlavě
 author: Jiří Svoboda
 authorId: jiri.svoboda
-image: posts/2021-06-28-pirati-se-postavili-proti-ruseni-pobocek-ceske-posty-v-jihlave.jpg
+image: posts/2021-06-28-pirati-se-postavili-proti-ruseni-pobocek.jpg
 ---
 
 Jihlava, 28. června 2021 - **V médiích, na sociálních sítích i mezi občany Jihlavy se rozšířila zpráva o plánovaném uzavření či sloučení, které se má dotknout několika poboček České pošty v nejobydlenějších lokalitách města Jihlavy. K tomuto kroku má dojít v listopadu letošního roku. Česká pošta slibuje vybudování nové pobočky, a to v obchodním centru Aventin na okraji města. Toto rozhodnutí se nelíbí ani jihlavským Pirátům, kteří mimo jiné požádali pirátského poslance Jana Pošváře, aby v této záležitosti interpeloval ministra vnitra. Jihlavští Piráti také podpořili [petici proti uzavření poboček](https://www.petice.com/zachovani_poboek_eske_poty_v_jihlav) a vedení města navrhli uspořádat debatu se zástupci veřejnosti a České pošty.**
