@@ -8,7 +8,7 @@ layout: post
 title: Hana Hajnová - Do stavby lůžkového hospice vstupuje Kraj Vysočina jako investor
 author: Hana Hajnová
 authorId: hana.hajnova
-image: posts/2021-06-29-hana-hajnova-do-stavby-luzkoveho-hospice-vstupuje-kraj-vysocina.jpg
+image: posts/2021-06-29-hana-hajnova-do-stavby-luzkoveho-hospice-vstupuje-kraj-vysocina.png
 important: true
 ---
 
