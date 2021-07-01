@@ -2,7 +2,7 @@
 date: 2021-06-29
 category: blog
 tags:
- - Piráty Vysočina
+ - Piráti Vysočina
  - pro Moravu
 layout: post
 title: Milan Daďourek – Brzy budou chybět hlavně řemeslníci
