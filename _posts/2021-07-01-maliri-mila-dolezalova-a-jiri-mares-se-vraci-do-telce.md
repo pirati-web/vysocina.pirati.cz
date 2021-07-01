@@ -6,12 +6,12 @@ tags:
  - Telč
 layout: post
 title: Malíři Míla Doleželová a Jiří Mareš se vrací do Telče
-author: 
-authorId: 
+author: redakce
+authorId: redakce
 image: posts/2021-07-01-maliri-mila-dolezalova-a-jiri-mares-se-vraci-do-telce.png
 ---
 
-Telč, 29. června 2021 - **Po složité cestě, a až téměř po třiceti letech od úmrtí významné telčské malířky Míly Doleželové, se většina jejích děl, a také děl jejího muže, rovněž akademického malíře, Jiřího Mareše, vrací zpět do Telče. Dohodli se na tom zástupci České dominikánské provincie a Univerzitního centra Masarykovy univerzity, kteří společně s městem Telč a Krajem Vysočina připravili první malou letní expozici vybranou z obrazů z pozůstalosti obou malířů, nyní Masarykově univerzitě do Telče dlouhodobě zapůjčených. Vernisáž výstavy proběhne 1. července od 16 hodin v knihovně Univerzitního centra v Telči.**
+Telč, 1. července 2021 - **Po složité cestě, a až téměř po třiceti letech od úmrtí významné telčské malířky Míly Doleželové, se většina jejích děl, a také děl jejího muže, rovněž akademického malíře, Jiřího Mareše, vrací zpět do Telče. Dohodli se na tom zástupci České dominikánské provincie a Univerzitního centra Masarykovy univerzity, kteří společně s městem Telč a Krajem Vysočina připravili první malou letní expozici vybranou z obrazů z pozůstalosti obou malířů, nyní Masarykově univerzitě do Telče dlouhodobě zapůjčených. Vernisáž výstavy proběhne 1. července od 16 hodin v knihovně Univerzitního centra v Telči.**
 
 Akademickou malířku Mílu Doleželovou, která prožila značnou část života v Telči, kde i zemřela, není milovníkům umění jistě třeba představovat. Její dílo sestávající jednak z fresek (např. lékárna v Jihlavě), a také z nesčetného množství olejomaleb a grafik, je opravdu monumentální. I když pro širší veřejnost možná trochu zapomenuté. Dodejme, že nespravedlivě. Většina z nás jistě zná její ilustrace k Příběhům dávné Indie či k romským pohádkám, které vyšly pod názvem Zpívající housle. 
 
