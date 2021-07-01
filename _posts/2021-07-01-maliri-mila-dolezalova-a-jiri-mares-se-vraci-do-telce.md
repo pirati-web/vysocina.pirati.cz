@@ -5,7 +5,7 @@ tags:
  - Ženy Vysočiny
  - Telč
 layout: post
-title: Malíři Míla Doleželová a Jiří Mareš se vrací do Telče!
+title: Malíři Míla Doleželová a Jiří Mareš se vrací do Telče
 author: 
 authorId: 
 image: posts/2021-07-01-maliri-mila-dolezalova-a-jiri-mares-se-vraci-do-telce.png
