@@ -19,7 +19,6 @@ Jak jsme vás již v předešlých dnech informovali, hejtman Kraje Vysočina V�
 
 *„Chci poděkovat radě a zastupitelstvu za rychlou reakci. Jsem ráda, že jsme se tady sešli v takto hojném počtu a říci, že za nás tu pomoc všichni podporujeme. Já jsem v té postižené oblasti byla již minulé pondělí a obdivuji to sepětí nejenom místních, ale i všech jak zasahujících jednotek, tak dobrovolníků, kteří se podíleli a budou podílet na likvidaci škod. Díky všem,“* dodala předsedkyně pirátského zastupitelského klubu Blanka Lednická.
 
-
 ---
 
 ***KONTAKT PRO NOVINÁŘE*** 
