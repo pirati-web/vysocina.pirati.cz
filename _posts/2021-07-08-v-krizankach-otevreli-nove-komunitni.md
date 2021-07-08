@@ -8,7 +8,7 @@ layout: post
 title: V Křižánkách otevřeli nové Komunitní centrum STODOLA
 author: Jiří Svoboda
 authorId: jiri.svoboda
-image: posts/2021-07-08-v krizankach-otevreli-nove.png
+image: posts/2021-07-08-v-krizankach-otevreli-nove-komunitni.png
 ---
 
 Jihlava, 8. července 2021 - **V malé obci Křižánky na Novoměstsku na českomoravském pomezí v severním okraji Kraje Vysočina otevřeli v sobotu 26. 6. 2021 za účasti náměstkyně hejtmana pro regionální rozvoj Mgr. Hany Hajnové nově zrekonstruované komunitní centrum.** 
@@ -18,8 +18,6 @@ Jihlava, 8. července 2021 - **V malé obci Křižánky na Novoměstsku na česk
 Slavnostního dne se zúčastnil i Milan Daďourek, lídr koaliční kandidátky Pirátů a Starostů na Vysočině, který se již od dob svého místostarostování v nedalekých Počítkách dobře zná se starostou Janem Sedláčkem. Ten pro něj byl vždy velkou inspirací a i proto ho mrzí, že se při této příležitosti se svou funkcí rozloučil: *„Honzu Sedláčka znám už mnoho let, dokázal v Křižánkách uvést v život zajímavé projekty (např. vlastní měnu) nebo velmi neotřele přistupovat k řešení problémů s vylidňováním obce a skupování místních nemovitostí pouze k rekreačním účelům. Bude nám se svými nápady nejen v této části regionu chybět,“* uvedl Milan Daďourek. 
 
 Slavnostního přestřižení pásky se zhostily děti z místní ZŠ a MŠ, které ji, jako zástupci nejmladší generace obce, budou také v budoucnu nejvíce využívat. Hned po něm předvedly všem shromážděným krátký kulturní program s písničkami.
-
-![V Křižánkách otevřeli nové Komunitní centrum STODOLA](https://a.pirati.cz/vysocina/img/posts/2021-07-08-v-krizankach-otevreli-nove-komunitni.png)
 
 Součástí programu slavnostního otevření byla i prohlídka dalších projektů, které jsou ve fázi realizace nebo po dokončení. Jedním z nich je i projekt na vybudování 3 obecních bytů s celkovou kapacitou 6 lůžek především pro mladé rodiny s nízkými příjmy do doby, než se zlepší jejich finanční situace. Další cílovou skupinou pro tento typ bydlení jsou naopak senioři, kteří již nemohou udržovat své domy a jenom s obtížemi se starají sami o sebe. *„Je úžasné vidět na vlastní oči, že se podobné projekty daří realizovat i v tak malých (nebo velkých) obcích jako jsou Křižánky. Myslím, že zvláště pro seniory je nenahraditelná možnost zůstat bydlet v místě, kde prožili celý svůj život, a nemuset se stěhovat do pro ně cizích a vzdálenějších sídel s domovy pro seniory. Pan starosta nám také potvrdil, že i přes to, že obec již v minulosti několik sociálních bytů v obci vybudovala, zájem stále převyšuje současné možnosti,“* doplnila Hana Hajnová.
 
