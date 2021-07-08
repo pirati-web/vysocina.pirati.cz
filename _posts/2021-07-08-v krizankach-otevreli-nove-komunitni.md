@@ -8,7 +8,7 @@ layout: post
 title: V Křižánkách otevřeli nové Komunitní centrum STODOLA
 author: redakce
 authorId: redakce
-image: posts/2021-07-08-v krizankach-otevreli-nove-komunitni-centrum.png
+image: posts/2021-07-08-v krizankach-otevreli-nove-komunitni.png
 ---
 
 Jihlava, 8. července 2021 - **V malé obci Křižánky na Novoměstsku na českomoravském pomezí v severním okraji Kraje Vysočina otevřeli v sobotu 26. 6. 2021 za účasti náměstkyně hejtmana pro regionální rozvoj Mgr. Hany Hajnové nově zrekonstruované komunitní centrum.** 
