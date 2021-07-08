@@ -6,8 +6,8 @@ tags:
  - regionální rozvoj
 layout: post
 title: V Křižánkách otevřeli nové Komunitní centrum STODOLA
-author: redakce
-authorId: redakce
+author: Jiří Svoboda
+authorId: jiri.svoboda
 image: posts/2021-07-08-v krizankach-otevreli-nove-komunitni.png
 ---
 
