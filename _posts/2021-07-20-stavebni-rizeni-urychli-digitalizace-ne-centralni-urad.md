@@ -8,7 +8,7 @@ layout: post
 title: Stavební řízení urychlí digitalizace, ne centrální úřad za miliardy
 author: Jan Břížďala
 authorId: jan.brizdala
-image: posts/2021-07-20-stavebni-rizeni-urychli-digitalizace.jpg
+image: posts/2021-07-20-stavebni-rizeni-urychli-digitalizace-ne-centralni-urad.png
 ---
 
 Jihlava, 20. července 2021 - **V minulém týdnu došlo ke schválení nového stavebního zákona. Poslanecká sněmovna přehlasovala senátní veto, které bylo velice výrazné. Při projednávání zákona v Senátu ho nepodpořil vůbec nikdo, dokonce pro něj nehlasovali ani senátoři za vládní strany. To samotné by již mělo být alarmující. Přijímat takto důležitý zákon 3 měsíce před sněmovními volbami způsobem, že se většinou 105 hlasů protlačí legislativním procesem, nepřispívá k posílení důvěryhodnosti nového opatření.**
