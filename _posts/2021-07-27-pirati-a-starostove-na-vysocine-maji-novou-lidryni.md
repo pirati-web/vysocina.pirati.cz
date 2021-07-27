@@ -9,6 +9,7 @@ title: Piráti a Starostové na Vysočině mají novou lídryni. Volební kandid
 author: Jiří Svoboda
 authorId: jiri.svoboda
 image: posts/2021-07-27-pirati-a-starostove-na-vysocine-maji-novou-lidryni.png
+important: true
 ---
 
 Jihlava, 27. července 2021 - **Včerejší první kolo volby lídra kandidátky pro podzimní sněmovní volby v Kraji Vysočina rozhodlo o tom, že jedničkou společné kandidátky Pirátů a Starostů se stává Blanka Lednická (Piráti), která získala 32 hlasů od 42 členů pirátského krajského sdružení. Blanka Lednická tak nahradí Milana Daďourka, který před necelými dvěma týdny rezignoval ze zdravotních důvodů na post lídra kandidátky.**
