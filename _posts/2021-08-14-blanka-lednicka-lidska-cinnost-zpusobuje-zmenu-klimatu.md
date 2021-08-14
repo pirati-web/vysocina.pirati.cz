@@ -8,7 +8,7 @@ layout: post
 title: Blanka Lednická – Lidská činnost způsobuje změnu klimatu
 author: Blanka Lednická
 authorId: blanka.lednicka
-image: posts/2021-08-14-blanka-lednicka-lidska-cinnost-zpusobuje-zmenu-klimatu.png
+image: posts/2021-08-14-blanka-lednicka-lidska-cinnost-zpusobuje-zmenu-klimatu.jpg
 ---
 
 Olešná, 14. srpna 2021 - **Je to týden, co byla zveřejněna [šestá zpráva Mezivládního panelu pro změnu klimatu](https://www.ipcc.ch/report/ar6/wg1/) (Intergovernmental Panel on Climate Change, IPCC). Vyvolala na několik dní bouři v médiích i na sociálních sítích, ovšem už po týdnu tato bouře utichá a v našem světě rychle plynoucích informací se přechází k jiným, neokoukaným tématům.**
@@ -20,7 +20,7 @@ IPCC poskytl celou řadu dokumentů - nejen zprávu jako takovou, která má 394
 Zpráva shrnuje, jaký je vliv jednotlivých faktorů na změnu klimatu. Dočteme se například to, že lidstvem způsobené oteplení od období let 1850-1900 je 0.8°C a 1.3°C. Že lidské působení je od 90. let 20. století hlavním důvodem pro tání ledovců nebo pro okyselení vrchní vrstvy světových oceánů.
 
 
-![Blanka Lednická – Lidská činnost způsobuje změnu klimatu](https://a.pirati.cz/vysocina/img/posts/22021-08-14-blanka-lednicka-lidska-cinnost-zpusobuje-zmenu-klimatu-graf.png)
+![Blanka Lednická – Lidská činnost způsobuje změnu klimatu](https://a.pirati.cz/vysocina/img/posts/2021-08-14-blanka-lednicka-lidska-cinnost-zpusobuje-zmenu-klimatu-graf.png)
 
 
 Změny v povrchové teplotě - pozorované a simulované. Pozorované zahrnutí lidskou i přírodní činnost, simulace pak ukazuje, jaký by byl průběh bez lidského přispění. Zdroj: SPM.
