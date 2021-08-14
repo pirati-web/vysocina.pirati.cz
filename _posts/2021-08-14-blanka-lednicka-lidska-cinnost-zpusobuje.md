@@ -19,12 +19,6 @@ IPCC poskytl celou řadu dokumentů - nejen zprávu jako takovou, která má 394
 
 Zpráva shrnuje, jaký je vliv jednotlivých faktorů na změnu klimatu. Dočteme se například to, že lidstvem způsobené oteplení od období let 1850-1900 je 0.8°C a 1.3°C. Že lidské působení je od 90. let 20. století hlavním důvodem pro tání ledovců nebo pro okyselení vrchní vrstvy světových oceánů.
 
-
-![Blanka Lednická – Lidská činnost způsobuje změnu klimatu](https://a.pirati.cz/vysocina/img/posts/2021-08-14-blanka-lednicka-lidska-cinnost-zpusobuje-zmenu-klimatu-graf.png)
-
-
-Změny v povrchové teplotě - pozorované a simulované. Pozorované zahrnutí lidskou i přírodní činnost, simulace pak ukazuje, jaký by byl průběh bez lidského přispění. Zdroj: SPM.
-
 Zpráva dále říká, že lidmi způsobená změna klimatu ovlivňují počasí a klima na mnoha místech světa. Právě kvůli ní dochází k nejrůznějším extrémním událostem, ať už se jedná o vlny horka (jako je ta, která v minulých dnech zasáhla jihovýchodní Evropu), sucho, ale i o silné srážky a další extrémní jevy.
 
 IPCC představuje pět možných scénářů dalšího vývoje. Všechny scénáře mají jedno společné - povrchová teplota Země poroste minimálně do poloviny tohoto století. Každý scénář ale nabízí jiný růst teploty. V případě, že bychom dokázali zastavit produkci skleníkových plynů, by teplota na konci 21. století byla o 1.0°C až 1.8°C vyšší než v současnosti. Pokud by ale produkce skleníkových plynů stoupla na dvojnásobek oproti současnému stavu, což je varianta, kterou představuje nejhorší scénář, narostla by do konce století teplota o 3.3°C až 5.7°C.
