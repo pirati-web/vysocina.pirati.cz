@@ -8,7 +8,7 @@ layout: post
 title: Blanka Lednická – Lidská činnost způsobuje změnu klimatu
 author: Blanka Lednická
 authorId: blanka.lednicka
-image: posts/2021-08-14-blanka-lednicka-lidska-cinnost-zpusobuje-zmenu-klimatu.jpg
+image: posts/2021-08-14-blanka-lednicka-lidska-cinnost-zpusobuje.png
 ---
 
 Olešná, 14. srpna 2021 - **Je to týden, co byla zveřejněna [šestá zpráva Mezivládního panelu pro změnu klimatu](https://www.ipcc.ch/report/ar6/wg1/) (Intergovernmental Panel on Climate Change, IPCC). Vyvolala na několik dní bouři v médiích i na sociálních sítích, ovšem už po týdnu tato bouře utichá a v našem světě rychle plynoucích informací se přechází k jiným, neokoukaným tématům.**
