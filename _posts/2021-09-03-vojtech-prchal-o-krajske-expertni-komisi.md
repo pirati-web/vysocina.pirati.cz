@@ -41,7 +41,7 @@ Jihlava, 3. září 2021 - **Je to už několik měsíců, co spatřila světlo 
 
 **Vojto, jak si představuješ fungování KEK do budoucna? Kde by měla být komise řekněme za 2 roky?**
 
-*Za sebe osobně bych byl moc rád, kdyby se nám podařilo vytvořit a udržet činnost KETů ve strategických pirátských tématech a zároveň abychom byli schopni ad hoc vytvořit operativní expertní týmy k aktuálně řešeným tématům jako např. možná dostavba jaderné elektrárny nebo příprava výstavby úložiště radioaktivního odpadu. KETy by měly být zdrojem informací a znalostí, které pomáhají dělat kvalitní, odpovědnou politiku na všech úrovních a měly by být schopny poskytnout relevantní zpětnou vazbu práce pirátským politikům. Zároveň budou sloužit jako znalostní báze pro tvorbu kvalitních volebních programů na komunální, krajské i celostátní úrovni.*
+*Za sebe osobně bych byl moc rád, kdyby se nám podařilo vytvořit a udržet činnost KETů ve strategických pirátských tématech a zároveň abychom byli schopni ad hoc vytvořit operativní expertní týmy k aktuálně řešeným tématům jako např. možná dostavba jaderné elektrárny nebo příprava výstavby úložiště radioaktivního odpadu. KETy by měly být zdrojem informací a znalostí, které pomáhají dělat kvalitní, odpovědnou politiku na všech úrovních a měly by být schopny poskytnout relevantní zpětnou vazbu pirátským politikům. Zároveň budou sloužit jako znalostní báze pro tvorbu kvalitních volebních programů na komunální, krajské i celostátní úrovni.*
 
 ---
 
