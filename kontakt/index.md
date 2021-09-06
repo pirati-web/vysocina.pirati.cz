@@ -10,7 +10,7 @@ contentSize: even
 # contentSize: even
 contentSize: even
 contactPersons:
-  - id: eva.novakova
+  - id: barbora.pokorna
     position: Koordinátorka krajského sdružení
   - id: jiri.svoboda
     position: Kontakt pro novináře

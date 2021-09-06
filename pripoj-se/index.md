@@ -9,7 +9,7 @@ address: |
   586 01 Jihlava
 addressNote:
 contactPersons:
-  - id: eva.novakova
+  - id: barbora.pokorna
     description: Kontakt pro dobrovolníky
 ---
 
