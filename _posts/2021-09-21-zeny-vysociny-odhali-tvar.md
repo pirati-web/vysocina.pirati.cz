@@ -10,7 +10,7 @@ authorId:
 image: posts/2021-09-21-zeny-vysociny-odhali-tvar.jpg
 ---
 
-*21. září 2021, Telč* – Ženy Vysočiny odhalí svou tvář veřejnosti. ***V pátek 24. září pokřtí v 16 hodin v Oblastní galerii Vysočiny (Komenského 10, Jihlava) kalendář na rok 2022 a originální plakát. Již před létem spustily webové stránky [www.zenyvysociny.cz](https://www.zenyvysociny.cz/) a nyní si je budete moci odnést s sebou domů nebo do kanceláře.***  
+*21. září 2021, Telč* – ***Ženy Vysočiny odhalí svou tvář veřejnosti. V pátek 24. září pokřtí v 16 hodin v Oblastní galerii Vysočiny (Komenského 10, Jihlava) kalendář na rok 2022 a originální plakát. Již před létem spustily webové stránky [www.zenyvysociny.cz](https://www.zenyvysociny.cz/) a nyní si je budete moci odnést s sebou domů nebo do kanceláře.***  
 
 Slavnostním odpolednem provedou přítomné autorky Žen Vysočiny – Hana Hajnová (autorka projektu), brněnská spisovatelka Alena Kastnerová (autorka textů) a ilustrátorka Julie Itusa Opletalová. Samotného křtu se ujmou rektorka brněnské univerzity **Danuše Nerudová** a básnířka a výtvarnice **Marta Veselá Jirousová**.  
 
