@@ -16,7 +16,7 @@ url: "https://vysocina.pirati.cz" # the base hostname & protocol for your site -
 mediaStorage: pvysocina #obrazky a pdf jsou na https://a.pirati.cz/vysocina/
 
 administrator:
-  email: jan.suchanek@pirati.cz # mail kam pujdou chybove vystupy
+  email: jan.suchanek@pirati.cz, marek.krejpsky@pirati.cz # mail kam pujdou chybove vystupy
 
 mediaStorage: vysocina #obrazky a pdf jsou na https://a.pirati.cz/vysocina/
 
