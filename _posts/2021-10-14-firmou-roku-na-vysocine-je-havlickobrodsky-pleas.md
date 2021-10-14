@@ -17,7 +17,9 @@ Vítězství jsem proto přála všem přítomným, i když je to soutěž a vyh
 
 A firmou roku je Pleas s r.o., společnost z Havlíčkova Brodu, kterou netřeba dlouze představovat, protože její historie sahá až do 19. století, pod značkou Pleas funguje od roku 1939. A tak trochu symbolicky naplňuje v úvodu zmíněné poselství Henryho Forda, protože podnikání zrovna v textilním průmyslu je velká výzva.
 
-Gratuluji oběma oceněným a už se moc těším na národní kolo soutěže, protože musím tak trochu neskromně říci, že letos má Kraj Vysočina v soutěži opravdu horká želízka v ohni. Držím palce
+Gratuluji oběma oceněným a už se moc těším na národní kolo soutěže, protože musím tak trochu neskromně říci, že letos má Kraj Vysočina v soutěži opravdu horká želízka v ohni. Držím palce!
+
+
 ---
 
 ***KONTAKT PRO NOVINÁŘE*** 
