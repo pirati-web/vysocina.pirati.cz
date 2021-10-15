@@ -8,7 +8,7 @@ layout: post
 title: Ve Žďáru nad Sázavou vzniká největší farma pro 3D tisk betonu v Česku
 author: Jiří Svoboda
 authorId: jiri.svoboda
-image: posts/2021-10-15-ve-zdaru-nad-sazavou-vznika.jpg
+image: posts/2021-10-15-ve-zdaru-nad-sazavou-vznika-nejvetsi.jpg
 ---
 
 Jihlava, 15. října 2021 - **Nestává se příliš často, že před vámi během tiskové konference vznikne hrubá stavba domu. Přesně to mohli vidět hosté u příležitosti slavnostního spuštění první robotické farmy na 3D tisk betonu v České republice. Tento unikátní projekt vzniká ve výrobní hale společnosti ICE Industrial Services ve Žďáru nad Sázavou.**
