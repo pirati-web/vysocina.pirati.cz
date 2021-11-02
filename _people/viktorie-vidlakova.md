@@ -4,8 +4,10 @@ name: Viktorie Vidláková
 category:
   - clenove
   - mstrebicsko
+  - pmstrebicsko
   - pks
 ordpks: 5
+ordpmstrebicsko: 1
 description: 4. místopředsedkyně KS Vysočina, předsedkyně MS Třebíčsko
 profession: studentka FM VŠE, zastupitelka obce Hvězdoňovice
 heroImg: banner-default.jpg
