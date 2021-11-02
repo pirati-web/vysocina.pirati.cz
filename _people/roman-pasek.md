@@ -6,14 +6,12 @@ titles:
   after:
 category:
   - clenove
-  #- mstrebicsko
-  - pmstrebicsko
+  - mstrebicsko
   - kz
   - zmtrebic
-ordpmstrebicsko: 3
 ordkz: 7
 ordzmtrebic: 2
-description: 2. místopředseda MS Třebíčsko
+description: člen MS Třebíčsko
 descriptionkz: neuvolněný zastupitel
 descriptionzm: neuvolněný zastupitel
 profession: student FF MUNI, zastupitel Kraje Vysočina, zastupitel Třebíče
