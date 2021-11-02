@@ -3,9 +3,7 @@ uid: milan.dadourek
 name: Milan Daďourek  	# běžně používáné jméno
 category:
   - clenove
-  - pks
-ordpks: 2
-description: 1. místopředseda KS Vysočina # zobrazuje se v lide
+description: člen KS Vysočina # zobrazuje se v lide
 profession: farmář
 heroImg: banner-default.jpg
 img: people/milan-dadourek.jpg # zakomentuj radek dokud není fotka
