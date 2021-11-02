@@ -6,7 +6,7 @@ category:
   - mstrebicsko
   - pks
 ordpks: 5
-description: členka místního sdružení Třebíčsko
+description: 4. místopředsedkyně KS Vysočina, předsedkyně MS Třebíčsko
 profession: studentka FM VŠE, zastupitelka obce Hvězdoňovice
 heroImg: banner-default.jpg
 img: people/viktorie-vidlakova.jpg
