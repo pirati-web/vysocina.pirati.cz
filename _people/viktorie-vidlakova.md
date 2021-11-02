@@ -4,6 +4,8 @@ name: Viktorie Vidláková
 category:
   - clenove
   - mstrebicsko
+  - pks
+ordpks: 5
 description: členka místního sdružení Třebíčsko
 profession: studentka FM VŠE, zastupitelka obce Hvězdoňovice
 heroImg: banner-default.jpg
