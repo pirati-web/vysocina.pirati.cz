@@ -6,8 +6,8 @@ category:
   - pks
   - mspelhrimovsko
 ordpks: 1
-description: předseda KS Vysočina, poslanec Parlamentu ČR
-profession: poslanec, vedoucí sekce slepice a zahrádky, předseda KS
+description: předseda KS Vysočina
+profession:  vedoucí sekce slepice a zahrádky, předseda KS
 heroImg: banner-default.jpg
 img: people/jan-posvar.jpg
 mail:
@@ -39,7 +39,7 @@ profiles:
 partyUid: pirati
 calendar: 3jlgg8p8nnj3k6t1gduajv0m1g%40group.calendar.google.com
 ---
-Jan Pošvář (* 16. května 1985, Kamenice nad Lipou) je poslanec zvolený za Vysočinu. V Poslanecké sněmovně se stal členem Zemědělského výboru, Kontrolního výboru, místopředsedou Podvýboru pro daně, cla, loterie a členem Volební komise. Na Vysočině je předsedou krajského sdružení Pirátské strany.
+Jan Pošvář (* 16. května 1985, Kamenice nad Lipou) je je předsedou krajského sdružení Pirátské strany na Vysočině. V Poslanecké sněmovně byl členem Zemědělského výboru, Kontrolního výboru, místopředsedou Podvýboru pro daně, cla, loterie a členem Volební komise. 
 
 Studoval na Gymnáziu v Pelhřimově a na Vysoké škole polytechnické v Jihlavě. Poté pracoval jako programátor v pražské IT společnosti T-SOFT a.s., kde se podílel na vývoji informačních systémů (například eFarmář - Privátní portál pro zemědělce). Během svého života se učil i řemeslu svého otce a v červnu 2013 získal řemeslnou živnost – malířské a natěračské práce.
 
@@ -50,11 +50,7 @@ V současnosti žije v Havlíčkově Brodě.
 V Poslanecké sněmovně se zajímá o ochranu půdy, ochranu práv vlastníků půdy, obnovu krajiny (revitalizaci toků, obnovu mokřadů, nivních luk, rybníků), podporuje zahrádkaření včetně toho komunitního a bojuje za účelnější rozdělování dotací, které budou směrovat zemědělce k nápravě zničené krajiny, provozování udržitelného nebo rovnou ekologického zemědělství.
 
 ---
-**Veřejné funkce:**
-* poslanec
-* člen zemědělského výboru Poslanecké sněmovny
-* člen kontrolního výboru Poslanecké sněmovny
-* člen volební komise
+ 
 
 **Piráti:**
 * předseda krajského sdružení Vysočina
