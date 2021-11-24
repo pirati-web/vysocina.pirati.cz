@@ -3,7 +3,7 @@ uid: viktorie.vidlakova
 name: Viktorie Vidláková
 category:
   - clenove
-  - mstrebicsko
+  #- mstrebicsko
   - pmstrebicsko
   - pks
 ordpks: 5

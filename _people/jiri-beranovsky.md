@@ -3,8 +3,10 @@ uid: jiri.beranovsky
 name: Jiří Beranovský
 category:
   - clenove
-  - mstrebicsko
-description: člen Místního sdružení Třebíčsko
+  #- mstrebicsko
+  - pmstrebicsko
+ordpmstrebicsko: 2
+description: 1. místopředseda MS Třebíčsko
 profession: stavební technik OSVČ
 heroImg: banner-default.jpg
 img: people/jiri-beranovsky.jpg
