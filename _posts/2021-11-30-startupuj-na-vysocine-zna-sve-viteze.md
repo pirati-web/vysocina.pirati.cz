@@ -5,7 +5,7 @@ tags:
  - STARTupUJ NA VYSOČINĚ
  - podnikání
 layout: post
-title: STARTupUJ NA VYSOČINĚ zná své vítěze
+title: Startupuj na Vysočině zná své vítěze
 author: Jiří Svoboda
 authorId: jiri.svoboda
 image: posts/2021-11-30-startupuj-na-vysocine-zna-sve-viteze.jpg
