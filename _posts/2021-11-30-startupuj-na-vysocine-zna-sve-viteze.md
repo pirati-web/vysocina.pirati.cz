@@ -37,3 +37,4 @@ A kdo jsou vítězové jednotlivých kategorií? Projekt Radon on-line Ing. Petr
 ***KONTAKT PRO NOVINÁŘE*** 
 
 Jiří Svoboda, 724 235 840, <jiri.svoboda.hb@pirati.cz>
+
