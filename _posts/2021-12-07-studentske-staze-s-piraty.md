@@ -10,8 +10,8 @@ author: Jiří Svoboda
 authorId: jiri.svoboda
 image: posts/2021-12-07-studentske-staze-s-piraty.jpg
 ---
-**🎓Studentské stáže s Piráty🎓**
-Chcete poznat fungování samosprávy Kraje Vysočina? Hledáte náměty na ročníkové, bakalářské či diplomové práce? Toužíte nahlédnout pod pokličku reálné politiky? Zajímají vás konkrétní projekty, které řešíme na krajském úřadě? 
+
+**🎓Chcete poznat fungování samosprávy Kraje Vysočina? Hledáte náměty na ročníkové, bakalářské či diplomové práce? Toužíte nahlédnout pod pokličku reálné politiky? Zajímají vás konkrétní projekty, které řešíme na krajském úřadě?🎓**
 
 **✋Přihlaste se na stáže s pirátskými krajskými politiky🏴🖤**
 
