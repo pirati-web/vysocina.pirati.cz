@@ -4,25 +4,34 @@ title: Krajská expertní komise
 ---
 
 <div class="container container--default pt-8 lg:py-24">
-# Vítáme tě u Pirátů!
+  <section>
+    <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-8">Krajské expertní týmy</h1>
+    <main>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
 
-## Informace pro registrované příznivce a zájemce o členství
-Pirátská strana komunikuje na [fóru](https://forum.pirati.cz/), které je otevřené pro všechny, a proto se i ty můžeš podívat na to, co právě řešíme a jaké máme názory a postoje.
+<article class="card card--hoveractive">
+  <a href="/kek/bezpecnost-social-zdravotnictvi/">
+    <img src="https://a.pirati.cz/vysocina/img/kek/bezpecnost-social-zdravotnictvi.png" alt="Bezpečnost, sociální oblast a zdravotnictví" class="w-full h-48 object-cover">
+  </a>
+  <div class="card__body p-4">
+    <h1 class="card-headline mb-2">
+      <a href="/kek/bezpecnost-social-zdravotnictvi/">Bezpečnost, sociální oblast a zdravotnictví</a>
+    </h1>
+    <p class="card-body-text"></p>
+  </div>
+</article>
 
-Pro příznivce Pirátů, kteří se chtějí více zapojit do našich aktivit, je nejjednodušší se na fóru zaregistrovat a stát se tak **registrovaným příznivcem**. Má to řadu výhod:
-
-* možnost přispívat do internetového fóra a dalších pirátských systémů
-* právo být volen do komisí a jmenován do odborů strany s výjimkou jejího vedení
-* právo ucházet se o kandidaturu do obecních voleb pod pirátskou vlajkou
-* pravidelné informace o akcích v kraji a pravidelný pirátský newsletter.
-
- <br><section>
-  <main>
-   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-
-<article class="card card--hoveractive"><a href="/kek/bezpecnost-social-zdravotnictvi/"><img src="https://a.pirati.cz/vysocina/img/kek/bezpecnost-social-zdravotnictvi.png" alt="Bezpečnost, sociální oblast a zdravotnictví" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/kek/bezpecnost-social-zdravotnictvi/">Bezpečnost, sociální oblast a zdravotnictví</a></h1> <p class="card-body-text"></p></div></article>
-
-<article class="card card--hoveractive"><a href="/kek/doprava/"><img src="https://a.pirati.cz/vysocina/img/kek/doprava.png" alt="Doprava" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/kek/doprava/">Doprava</a></h1> <p class="card-body-text"></p></div></article>
+<article class="card card--hoveractive">
+  <a href="/kek/doprava/">
+    <img src="https://a.pirati.cz/vysocina/img/kek/doprava.png" alt="Doprava" class="w-full h-48 object-cover">
+  </a>
+  <div class="card__body p-4">
+    <h1 class="card-headline mb-2">
+      <a href="/kek/doprava/">Doprava</a>
+    </h1>
+    <p class="card-body-text"></p>
+  </div>
+</article>
 
 <article class="card card--hoveractive"><a href="/kek/finance-majetek/"><img src="https://a.pirati.cz/vysocina/img/kek/finance-majetek.png" alt="Finance a majetek" class="w-full h-48 object-cover"></a> <div class="card__body p-4"><h1 class="card-headline mb-2"><a href="/kek/finance-majetek/">Finance a majetek</a></h1> <p class="card-body-text"></p></div></article>
 
