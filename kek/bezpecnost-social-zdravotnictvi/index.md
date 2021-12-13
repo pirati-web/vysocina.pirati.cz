@@ -1,5 +1,5 @@
 ---
-layout: pirate-center
+layout: ket
 description:
 keywords:
 title: Bezpečnost, sociální oblast a zdravotnictví
@@ -8,8 +8,8 @@ addressNote:
 contactPersons:
   - id: daniel.skarka
     description: Garant expertního týmu
-  - id: daniel.skarka
-    description: Kontaktní osoba expertní komise
+  - id: barbora.pokorna
+    description: Kontakt pro dobrovolníky
 ---
 
 # Bezpečnost, sociální oblast a zdravotnictví
