@@ -44,4 +44,18 @@ layout: default
       </section>
     </div>
   </main>
+  {% assign posts = page.posts | slice:0,3 %}
+  {% if page.posts.size > 0 %}
+  <section>
+    <h2 class="head-alt-md mt-8 pb-4 lg:pb-8">Moje aktuality</h2>
+    {% assign posts = page.posts | slice:0,3 %}
+    {% include articles/list-responsive.html posts=posts %}
+    {% if page.posts.size > 3 %}
+    <nav class="text-center">
+      {% capture authorUrl %}/aktuality/autori/{{ page.name | slugify: "latin" }}/{% endcapture %}
+      {% include buttons/icon.html href=authorUrl cta="Další aktuality" icon="ico--chevron-right" class="text-xl pt-8" rel="next" %}
+    </nav>
+    {% endif %}
+  </section>
+  {% endif %}
 </div>
