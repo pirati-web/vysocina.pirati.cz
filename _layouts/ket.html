@@ -2,32 +2,17 @@
 layout: default
 ---
 
-<div class="container container--default pt-8 lg:pb-16">
+<div class="container container--default py-8 lg:py-24">
   <article>
-    <meta itemprop="name" content="{{ page.title }}">
-    {% if page.shorthand %}
-      <meta itemprop="alternateName" content="{{ page.shorthand }}">
-    {% endif %}
-    {% if page.openingHoursSEO %}
-      <meta itemprop="openingHours" content="{{ page.openingHoursSEO }}">
-    {% endif %}
-    {% if page.mapIframeLink %}
-      <meta itemprop="hasMap" content="{{ page.mapIframeLink }}">
-    {% endif %}
-    <meta itemprop="url" content="{{ page.url | absolute_url }}">
-    {% if site.facebook.profilePage %}
-      <meta itemprop="sameAs" content="{{ site.facebook.profilePage }}">
-    {% endif %}
+    <header>
+      <h1 itemprop="headline" class="head-alt-md md:head-alt-lg max-w-5xl mb-4">{{ page.title }}</h1>
+    </header>
 
-    <div class="lg:flex lg:space-x-8 xl:space-x-16">
-      <div class="lg:w-3/5 xl:w-2/3">
-        <div class="content-block">
+    <div class="lg:flex mt-8 lg:space-x-16">
+      <div class="lg:w-2/3">
+        <div itemprop="description" class="w-full content-block">
           {{ content }}
         </div>
-        {% if page.calendarId or page.calendarPage %}
-          <h2 class="head-heavy-sm mb-4 mt-4">{{ page.calendarTitle | default: "Kalendář akcí" }}</h2>
-          {% include calendar.html calendarId=page.calendarId title=page.calendarTitle calendarPage=page.calendarPage hideBanner=true classes="mb-4" %}
-        {% endif %}
       </div>
       <div class="pt-8 lg:w-2/5 xl:w-1/3 lg:pt-0">
         <div class="lg:card lg:elevation-10">
@@ -60,6 +45,19 @@ layout: default
           </div>
         {% endif %}
       </div>
+
+      <div class="pt-8 lg:w-1/3 md:pt-0">
+        <div class="space-y-8">
+          {% comment %}Optional infoboxes in the right row{% endcomment %}
+          {% if page.infoboxes %}
+            {% for infobox in page.infoboxes %}
+              {% include article-infobox.html content=infobox.content %}
+            {% endfor %}
+          {% endif %}
+        </div>
+      </div>
+
     </div>
   </article>
+
 </div>
