@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean placerat. Fusce
 
 Nullam faucibus mi quis velit. In convallis. Proin pede metus, vulputate nec, fermentum fringilla, vehicula vitae, justo. Integer in sapien. Suspendisse sagittis ultrices augue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam ligula pede, sagittis quis, interdum ultricies, scelerisque eu. Mauris elementum mauris vitae tortor. Fusce suscipit libero eget elit. Nullam sapien sem, ornare ac, nonummy non, lobortis a enim. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam eget nisl. Aliquam erat volutpat. Etiam posuere lacus quis dolor. Etiam bibendum elit eget erat. Integer vulputate sem a nibh rutrum consequat. Aliquam erat volutpat. Fusce tellus odio, dapibus id fermentum quis, suscipit id erat.
 
-<a href="https://forum.pirati.cz/viewforum.php?f=1326" class="super-button" rel="Fórum">
-  <span class="super-button__body">Fórum</span>
-  <i class="super-button__icon"></i>
+<a href="https://forum.pirati.cz/viewforum.php?f=1326" class="super-button bg-black text-white container-padding--zero lg:container-padding--auto lg:w-full"   >
+  <span class="super-button__body">Sledujte naše fórum</span>
+  <i class="super-button__icon ico--bubbles"></i>
 </a>
