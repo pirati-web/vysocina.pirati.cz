@@ -18,5 +18,5 @@ Nullam faucibus mi quis velit. In convallis. Proin pede metus, vulputate nec, fe
 
 <a href="https://forum.pirati.cz/viewforum.php?f=1326" class="super-button bg-black text-white container-padding--zero lg:container-padding--auto lg:w-full">
   <span class="super-button__body" style="text-decoration: none;">Sledujte naše fórum</span>
-  <i class="super-button__icon ico--bubbles"></i>
+  <i class="super-button__icon ico--bubbles" style="text-decoration: none;"></i>
 </a>
