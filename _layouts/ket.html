@@ -67,16 +67,10 @@ layout: default
           </div>
         </div>
 
-        {% if site.facebook.profilePage or site.forum.page %}
-          <div class="flex flex-col pt-8 lg:space-y-4">
-            {% if site.facebook.profilePage %}
-              {% include buttons/super.html href=site.facebook.profilePage cta="Sledujte nás na Facebooku" icon="ico--facebook" class="bg-brands-facebook text-white container-padding--zero lg:container-padding--auto lg:w-full" %}
-            {% endif %}
-            {% if site.forum.page %}
-              {% include buttons/super.html href=site.forum.page cta="Sledujte naše fórum" icon="ico--bubbles" class="bg-black text-white container-padding--zero lg:container-padding--auto lg:w-full" %}
-            {% endif %}
-          </div>
-        {% endif %}
+        <div class="flex flex-col pt-8 lg:space-y-4">
+          {% include sharebox.html %}
+        </div>
+
       </div>
     </div>
   </article>
