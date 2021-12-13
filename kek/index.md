@@ -2,15 +2,21 @@
 layout: default
 title: Krajská expertní komise
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean placerat. Fusce suscipit libero eget elit. Aliquam ornare wisi eu metus. Nam sed tellus id magna elementum tincidunt. Suspendisse sagittis ultrices augue. Aenean id metus id velit ullamcorper pulvinar. Sed vel lectus. Donec odio tempus molestie, porttitor ut, iaculis quis, sem. In rutrum. Nulla non lectus sed nisl molestie malesuada. Curabitur bibendum justo non orci.
-
-Nullam faucibus mi quis velit. In convallis. Proin pede metus, vulputate nec, fermentum fringilla, vehicula vitae, justo. Integer in sapien. Suspendisse sagittis ultrices augue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam ligula pede, sagittis quis, interdum ultricies, scelerisque eu. Mauris elementum mauris vitae tortor. Fusce suscipit libero eget elit. Nullam sapien sem, ornare ac, nonummy non, lobortis a enim. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam eget nisl. Aliquam erat volutpat. Etiam posuere lacus quis dolor. Etiam bibendum elit eget erat. Integer vulputate sem a nibh rutrum consequat. Aliquam erat volutpat. Fusce tellus odio, dapibus id fermentum quis, suscipit id erat.
 
 <div class="container container--default pt-8 lg:py-24">
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean placerat. Fusce suscipit libero eget elit. Aliquam ornare wisi eu metus. Nam sed tellus id magna elementum tincidunt. Suspendisse sagittis ultrices augue. Aenean id metus id velit ullamcorper pulvinar. Sed vel lectus. Donec odio tempus molestie, porttitor ut, iaculis quis, sem. In rutrum. Nulla non lectus sed nisl molestie malesuada. Curabitur bibendum justo non orci.
+# Vítáme tě u Pirátů!
 
-Nullam faucibus mi quis velit. In convallis. Proin pede metus, vulputate nec, fermentum fringilla, vehicula vitae, justo. Integer in sapien. Suspendisse sagittis ultrices augue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam ligula pede, sagittis quis, interdum ultricies, scelerisque eu. Mauris elementum mauris vitae tortor. Fusce suscipit libero eget elit. Nullam sapien sem, ornare ac, nonummy non, lobortis a enim. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam eget nisl. Aliquam erat volutpat. Etiam posuere lacus quis dolor. Etiam bibendum elit eget erat. Integer vulputate sem a nibh rutrum consequat. Aliquam erat volutpat. Fusce tellus odio, dapibus id fermentum quis, suscipit id erat.
- <section>
+## Informace pro registrované příznivce a zájemce o členství
+Pirátská strana komunikuje na [fóru](https://forum.pirati.cz/), které je otevřené pro všechny, a proto se i ty můžeš podívat na to, co právě řešíme a jaké máme názory a postoje.
+
+Pro příznivce Pirátů, kteří se chtějí více zapojit do našich aktivit, je nejjednodušší se na fóru zaregistrovat a stát se tak **registrovaným příznivcem**. Má to řadu výhod:
+
+* možnost přispívat do internetového fóra a dalších pirátských systémů
+* právo být volen do komisí a jmenován do odborů strany s výjimkou jejího vedení
+* právo ucházet se o kandidaturu do obecních voleb pod pirátskou vlajkou
+* pravidelné informace o akcích v kraji a pravidelný pirátský newsletter.
+
+ <br><section>
   <main>
    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
 
