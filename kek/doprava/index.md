@@ -2,11 +2,11 @@
 layout: ket
 description:
 keywords:
-title: Bezpečnost, sociální oblast a zdravotnictví
+title: Doprava
 address:
 addressNote:
 contactPersons:
-  - id: daniel.skarka
+  - id: ondrej.tuma
     description: Garant expertního týmu
   - id: barbora.pokorna
     description: Kontakt pro dobrovolníky

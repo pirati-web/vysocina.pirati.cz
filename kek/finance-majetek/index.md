@@ -2,11 +2,11 @@
 layout: ket
 description:
 keywords:
-title: Bezpečnost, sociální oblast a zdravotnictví
+title: Finance a majetek
 address:
 addressNote:
 contactPersons:
-  - id: daniel.skarka
+  - id:
     description: Garant expertního týmu
   - id: barbora.pokorna
     description: Kontakt pro dobrovolníky

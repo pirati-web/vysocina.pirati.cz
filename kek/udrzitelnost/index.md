@@ -2,11 +2,11 @@
 layout: ket
 description:
 keywords:
-title: Bezpečnost, sociální oblast a zdravotnictví
+title: Udržitelnost
 address:
 addressNote:
 contactPersons:
-  - id: daniel.skarka
+  - id: jan.kurka
     description: Garant expertního týmu
   - id: barbora.pokorna
     description: Kontakt pro dobrovolníky
