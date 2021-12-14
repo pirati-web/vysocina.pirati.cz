@@ -35,13 +35,6 @@ Máte své téma a rádi byste jej rozpracovali na rovině krajské politiky a p
 
 * Platforma pro on-line schůzy: [Jitsi](https://jitsi.pirati.cz/SocZdravVys)
 
-**Garanti**
-* Daniel Škarka (bezpečnost)
-* Eva Nováková (sociální oblast)
-* Miroslav Vácha (zdravotnictví)
-
-**Administrativní podpora**
-* Eva Nováková 
 
 <a href="https://forum.pirati.cz/viewforum.php?f=1328" class="super-button bg-black text-white container-padding--zero lg:container-padding--auto lg:w-full" style="text-decoration: none; margin: 10px;">
   <span class="super-button__body">Sledujte naše fórum</span>
