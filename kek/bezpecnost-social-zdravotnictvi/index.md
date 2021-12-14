@@ -21,18 +21,15 @@ Krajské expertní týmy pro bezpečnost, sociální oblast a zdravotnictví byl
 Máte své téma a rádi byste jej rozpracovali na rovině krajské politiky a posunuli dál k jeho realizaci? Aktuálně se aktivněji věnujeme například systémům bydlení s podporou či oblasti drogové politiky. Jsme otevření dalším návrhům a nápadům a rádi je s vámi probereme. 
 
 **Podrobnější informace**
-
 * [Vlákno na fóru](https://forum.pirati.cz/viewforum.php?f=1328)
-
 * Zápisy a navrhování bodů programu: dokument v [Codi](https://codimd.pirati.cz/KET_SocZdravVys) 
 
-**Termíny setkání**: 
+**Termíny setkání**
 * Schůzky svoláváme na [fóru](https://forum.pirati.cz/viewtopic.php?f=1328&t=49472)
 * Svou účast můžete potvrdit v anketě na [Mraku](https://mrak.pirati.cz/apps/polls/s/EGvulZla4PyBtQpq)
 
 **Jak se zapojit?**
 * Komunikační kanál ke koordinaci, diskusi a organizační věci: [Zulip](https://zulip.pirati.cz/#narrow/stream/563-KET-Vyso.C4.8Dina.20-.20bezpe.C4.8Dnostn.C3.AD.2C.20soci.C3.A1ln.C3.AD.2C.20zdravotn.C3.AD)
-
 * Platforma pro on-line schůzy: [Jitsi](https://jitsi.pirati.cz/SocZdravVys)
 
 
