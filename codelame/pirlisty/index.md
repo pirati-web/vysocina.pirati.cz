@@ -9,8 +9,10 @@ Pravidelně nepravidelné nebo nepravidelně pravidelné tištěné vydání toh
 
 ## Pirátské listy ke stažení
 
-| Vydání       | Region              | PDF                                                               |
-|--------------|---------------------|-------------------------------------------------------------------|
+| Vydání      | Region               | PDF                                                               |
+|-------------|----------------------|-------------------------------------------------------------------|
+| podzim 2020 | Vysočina             | [odkaz](https://a.pirati.cz/vysocina/pl/2020-podzim-vysocina.pdf) |
+| jaro 2020   | Vysočina             | [odkaz](https://a.pirati.cz/vysocina/pl/2020-jaro-vysocina.pdf)   |
 | jaro 2019   | Vysočina             | [odkaz](https://a.pirati.cz/vysocina/pl/2019-jaro-eurovolby.pdf)  |
 | podzim 2018 | Jihlava              | [odkaz](https://a.pirati.cz/vysocina/pl/2018-podzim-jihlava.pdf)  |
 | podzim 2018 | Třebíč               | [odkaz](https://a.pirati.cz/vysocina/pl/2018-podzim-trebic.pdf)   |
