@@ -68,16 +68,16 @@ Hana Hajnová (*18. července 1985) je předsedkyní MS Mikroregion Telčsko, za
 
 **Čemu se věnuje jako náměstkyně Kraje Vysočina?**
 
-- prosadila v Politice územního rozvoje ČR účast krajů na procesu výběru lokalit pro úložiště radioaktivního odpadu (díky čemuž jsou teď kraje rovnocennými partnery dotčených obcí)
-- úspěšně otestovala čistě elektronický sběr žádostí o kotlíkové dotace (namísto dřívějších mnohasetmetrových front lemujících krajský úřad)
-- navýšila procento alokace pro krajskou dotační politiku z 5,5 na 6% (díky čemuž bude Kraj Vysočina v roce 2022 rozdělovat rekordních 330 milionů korun pro obce, spolky i firmy na svém území)
-- vrátila do dotační politiky kraje programy na rozvoj podnikatelů a inovací (program Rozvoj podnikatelů a Inovační vouchery)
-- zasadila se o spravedlivé rozdělení prostředků z investičního nástroje REACT-EU mezi všechny kraje v ČR (aby nemocnice na Vysočině a v dalších krajích nezůstaly kvůli špatně nastavené výzvě 98. bez dotační podpory)
+- prosadila v Politice územního rozvoje ČR [účast krajů](https://www.kr-vysocina.cz/politika-uzemniho-rozvoje-cr-kraj-vysocina-si-prosadil-primou-ucast-pri-vyberu-lokality-pro-uloziste/d-4108438/p1=3380) na procesu výběru lokalit pro úložiště radioaktivního odpadu (díky čemuž jsou teď kraje rovnocennými partnery dotčených obcí)
+- úspěšně otestovala čistě [elektronický sběr](https://www.kr-vysocina.cz/prijem-zadosti-do-dodatkove-vyzvy-kotlikovych-dotaci-iii-odstartoval/d-4109461/p1=3380) žádostí o kotlíkové dotace (namísto dřívějších mnohasetmetrových front lemujících krajský úřad)
+- navýšila procento alokace pro krajskou [dotační politiku](https://vysocina.pirati.cz/tiskove-zpravy/pirati-na-vysocine-navrhuji-vice-penez/) z 5,5 na 6% (díky čemuž bude Kraj Vysočina v roce 2022 rozdělovat rekordních 330 milionů korun pro obce, spolky i firmy na svém území)
+- vrátila do dotační politiky kraje programy na rozvoj podnikatelů a [inovací](https://vysocina.pirati.cz/tiskove-zpravy/hana-hajnova-poptavka-po-inovacnich-voucherech/) (program Rozvoj podnikatelů a Inovační vouchery)
+- zasadila se o spravedlivé rozdělení prostředků z investičního nástroje [REACT-EU](https://vysocina.pirati.cz/tiskove-zpravy/kraj-vysocina-ziska-1,3-miliard-z-financniho-nastroje-react-eu/) mezi všechny kraje v ČR (aby nemocnice na Vysočině a v dalších krajích nezůstaly kvůli špatně nastavené výzvě 98. bez dotační podpory)
 
 **Čemu se věnuje jako vysočinská Pirátka?**
 
-- úspěšně realizovala projekt [Ženy Vysočiny](https://www.zenyvysociny.cz) - projekt rozjela nejprve z pirátského participativního rozpočtu a v roce 2021 dotáhla do prvních fyzických výstupů (web, kalendář, plakát) díky pirátskému fundraisingu 
-- organizuje pravidelné úklidové akce v přírodě v rámci projektu Ukliďme Česko - v Telči už jich má za sebou celkem 5 
+- úspěšně realizovala projekt [Ženy Vysočiny](https://www.zenyvysociny.cz) - projekt rozjela nejprve z pirátského participativního rozpočtu a v roce 2021 dotáhla do prvních fyzických [výstupů](https://vysocina.pirati.cz/tiskove-zpravy/zeny-vysociny-odhalily-svou-tvar) (web, kalendář, plakát) díky pirátskému fundraisingu 
+- organizuje pravidelné úklidové akce v přírodě v rámci projektu [Ukliďme Česko](https://vysocina.pirati.cz/tiskove-zpravy/pirati-uklizeli-vysocinu/) - v Telči už jich má za sebou celkem 5 
 - vede krajský expertní tým pro oblast místního rozvoje a je členkou rezortního týmu místní rozvoj a veřejná správa
 
 **Životopis**
