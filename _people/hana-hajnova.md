@@ -66,6 +66,22 @@ partyUid: pirati
 
 Hana Hajnová (*18. července 1985) je předsedkyní MS Mikroregion Telčsko, zastupitelkou města Telče a statutární náměstkyní Kraje Vysočina. Je vdaná a má 2 děti.
 
+**Čemu se věnuje jako náměstkyně Kraje Vysočina?**
+
+- prosadila v Politice územního rozvoje ČR účast krajů na procesu výběru lokalit pro úložiště radioaktivního odpadu (díky čemuž jsou teď kraje rovnocennými partnery dotčených obcí)
+- úspěšně otestovala čistě elektronický sběr žádostí o kotlíkové dotace (namísto dřívějších mnohasetmetrových front lemujících krajský úřad)
+- navýšila procento alokace pro krajskou dotační politiku z 5,5 na 6% (díky čemuž bude Kraj Vysočina v roce 2022 rozdělovat rekordních 330 milionů korun pro obce, spolky i firmy na svém území)
+- vrátila do dotační politiky kraje programy na rozvoj podnikatelů a inovací (program Rozvoj podnikatelů a Inovační vouchery)
+- zasadila se o spravedlivé rozdělení prostředků z investičního nástroje REACT-EU mezi všechny kraje v ČR (aby nemocnice na Vysočině a v dalších krajích nezůstaly kvůli špatně nastavené výzvě 98. bez dotační podpory)
+
+**Čemu se věnuje jako vysočinská Pirátka?
+
+- úspěšně realizovala projekt [Ženy Vysočiny](https://www.zenyvysociny.cz) - projekt rozjela nejprve z pirátského participativního rozpočtu a v roce 2021 dotáhla do prvních fyzických výstupů (web, kalendář, plakát) díky pirátskému fundraisingu 
+- organizuje pravidelné úklidové akce v přírodě v rámci projektu Ukliďme Česko - v Telči už jich má za sebou celkem 5 
+- vede krajský expertní tým pro oblast místního rozvoje a je členkou rezortního týmu místní rozvoj a veřejná správa
+
+**Životopis**
+
 Vystudovala Fakultu sociálních studií Masarykovy univerzity, v bakalářském stupni v oborech Sociologie a Evropská studia, v navazujícím magisterském stupni pak v oboru Evropská studia se zaměřením na regionální politiku.
 
 Již během studia nastoupila jako projektová manažerka do brněnského Jihomoravského inovačního centra, kde pracovala až do konce roku 2019. Vzdělávala se v oblasti projektového managementu, kdy se jí podařilo získat certifikát IPMA Level D, připravovala a koordinovala projekty ze strukturálních fondů i projekty mezinárodní. Spolupracovala se začínajícími firmami, konzultovala jejich business plány, pomáhala jim vyhledávat investory i mentory. V posledních letech se pak přímo podílela na implementaci Regionální inovační strategie JMK.
