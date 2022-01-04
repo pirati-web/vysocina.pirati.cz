@@ -84,7 +84,6 @@ Ve svém volném čase se aktivně věnuje hudbě a pasivně filmu.
 * zastupitel **Kraje Vysočina**
 * předseda **Kontrolního výboru** Zastupitelstva města Třebíče
 * člen **Sociální komise** Rady města Třebíče
-* člen **Redakční rady** Třebíčského zpravodaje
 * člen **Komise kultury, cestovního ruchu a vnějších vztahů** Rady Kraje Vysočina
 
 **Piráti:**
