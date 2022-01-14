@@ -1,11 +1,10 @@
 ---
 layout: usneseni
-title: Usnesení
+title: Usnesení Krajského sdružení Vysočina
 ---
 ## 2021
 
-| Datum        | Název                                                             | Facebooková událost                                       |
-|--------------|-------------------------------------------------------------------|-----------------------------------------------------------|
-| 30. 11. 2019 | PirAgroCon 2019 - tvorba krajiny, zemědělství a životní prostředí | [odkaz](https://www.facebook.com/events/439859943393398/) |
-| 4. 5. 2019   | Nenechme si prodat půdu pod nohama!                               | -                                                         |
-| 13. 5. 2018  | Piratecon ke komunálu 2018 - Vysočina                             | -                                                         |
+| SPZN         | Téma                                         | Jednání na fóru                                              | Datum přijetí |
+|--------------|----------------------------------------------|--------------------------------------------------------------|---------------|
+| 11/2021      | Dovolba lídra kandidátky PSP 2021	          | [odkaz](https://forum.pirati.cz/viewtopic.php?f=416&t=57803) | 26. 7. 2021   |
+| 09/2021      | Novela rozpočtu 2021	            	          | [odkaz](https://forum.pirati.cz/viewtopic.php?f=416&t=56813) | 4. 5. 2021    |
