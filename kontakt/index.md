@@ -16,8 +16,6 @@ contactPersons:
     position: Kontakt pro novináře
   - id: jan.posvar
     position: Předseda krajského sdružení
-  - id: ondrej.tuma
-    position: Správce krajského sdružení
 ---
 
 <div class="o-section-header o-section-header--indented">
