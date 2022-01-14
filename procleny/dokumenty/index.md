@@ -1,9 +1,8 @@
 ---
 layout: usneseni
-title: Usnesení 2021
+title: Dokumenty Krajského sdružení Vysočina
 ---
-
-## Proběhlé Piratecony
+## 2021
 
 | Datum        | Název                                                             | Facebooková událost                                       |
 |--------------|-------------------------------------------------------------------|-----------------------------------------------------------|
