@@ -12,7 +12,7 @@ Festival svobodných filmů vznikl spontánně již na jaře roku 2013, když Pi
 | Datum        | Čas      | Místo                                   | Facebooková událost                                                     |
 |--------------|----------|-----------------------------------------|-------------------------------------------------------------------------|
 | 9. 8. 2019   | od 19:00 | **Třebíč - Trumpetka**                  | [odkaz](https://www.facebook.com/events/2363030860639892/)              |
-| 25. 1. 2020  | od 19:00 | **Třebíč - Trumpetka**                  | [odkaz](https://www.facebook.com/events/299475400911853/)               |
+| 25. 1. 2019  | od 19:00 | **Třebíč - Trumpetka**                  | [odkaz](https://www.facebook.com/events/299475400911853/)               |
 | 17. 7. 2014  | -        | **Třebíč**                              | [wiki](https://wiki.pirati.cz/regiony/vysocina/fsf#v_trebici3)          |
 | 10. 7. 2014  | -        | **Třebíč**                              | [wiki](https://wiki.pirati.cz/regiony/vysocina/fsf#v_trebici2)          |
 | 3. 7. 2014   | -        | **Třebíč - Trumpetka**                  | [wiki](https://wiki.pirati.cz/regiony/vysocina/fsf#v_trebici1)          |
