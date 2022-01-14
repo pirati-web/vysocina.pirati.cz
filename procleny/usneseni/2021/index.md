@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: usneseni
 title: Usnesení 2021
 ---
-
-Usnesení
 
 ## Proběhlé Piratecony
 
