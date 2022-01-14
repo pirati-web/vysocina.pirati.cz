@@ -1,6 +1,6 @@
 ---
 layout: usneseni
-title: Usnesení Krajského fóra Vysočina
+title: Přijatá usnesení Krajského fóra Vysočina
 ---
 ## 2021
 
