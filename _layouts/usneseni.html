@@ -4,6 +4,6 @@ layout: default
 
 {% assign usneseni = site.usneseni | where: "uid", page.usneseniListUid | first %}
 
-{% for usneseni in usneseni.head %}
+{% for usneseni in usneseni.seznam %}
   {% if include.usneseni.spzn %}
 {% endfor %}
