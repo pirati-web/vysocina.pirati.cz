@@ -3,8 +3,7 @@ uid: ondrej.tuma
 name: Ondřej Tůma
 category:
   - clenove
-  - kontaktni_osoba
-description: správce KS Vysočina
+description: člen KS Vysočina
 profession: správce JiPiCe
 heroImg: banner-default.jpg
 img: people/ondrej-tuma.jpg
