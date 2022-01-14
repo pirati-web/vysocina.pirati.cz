@@ -1,5 +1,5 @@
 ---
 layout: usneseni
 title: Usnesení KS Vysočina
-candidateListUid: kfvys2021
+usneseniListUid: kfvys2021
 ---
