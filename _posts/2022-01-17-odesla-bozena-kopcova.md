@@ -19,9 +19,9 @@ Pokud byste si chtěli připomenout dobu, ve které byla hájenka Kopcových u D
 
 ***Hana Hajnová***
 
-*"O těch vypjatých chvílích jsem si já po válce zapsala své zážitky. Později jsem je ještě doplnila o pár vzpomínek, a to proto, že se ve vesnici začalo i říkat, že kvůli našim partyzánům mohli Němci vypálit celou vesnici. Jenže kdyby nikdo z nás ve válce nic nedělal, jen čekal, jak vše dopadne – jak by to dopadlo? A řeknu vám, že nás nepopohánělo ve válce žádné kdovíjaké hrdinství. Události přicházely a byli tu „Naši“ a Němci. A to, že já - žena s jedním malým dítětem a druhým ještě nenarozeným, jsem mohla „partyzánčit?“
+*"O těch vypjatých chvílích jsem si já po válce zapsala své zážitky. Později jsem je ještě doplnila o pár vzpomínek, a to proto, že se ve vesnici začalo i říkat, že kvůli našim partyzánům mohli Němci vypálit celou vesnici. Jenže kdyby nikdo z nás ve válce nic nedělal, jen čekal, jak vše dopadne – jak by to dopadlo? A řeknu vám, že nás nepopohánělo ve válce žádné kdovíjaké hrdinství. Události přicházely a byli tu „Naši“ a Němci. A to, že já - žena s jedním malým dítětem a druhým ještě nenarozeným, jsem mohla „partyzánčit?“*
 
-I na tohle se mě lidé pak často ptali. Byl to ale právě můj domov, který mě k tomu přiměl. V domovině proti nepříteli bojuje ve válce všechno. Nejen lidé, ale každý dům, zdi, každý plot, každá píď země, každá brázda, stejně tak les, každá stezka, strom, celá krajina, každý den, noc, úsvit... To cítíte, a pak událostem se opravdu nedalo vyhnout. Navíc jsem byla vlastenecky vychovaná a moje myšlení bylo v tomto duchu. A Němci - ani ke konci války se necítili poraženi. Zfanatizovaní by snad stříleli stále. Ostatně, to jsme i my tady poznali."*
+*I na tohle se mě lidé pak často ptali. Byl to ale právě můj domov, který mě k tomu přiměl. V domovině proti nepříteli bojuje ve válce všechno. Nejen lidé, ale každý dům, zdi, každý plot, každá píď země, každá brázda, stejně tak les, každá stezka, strom, celá krajina, každý den, noc, úsvit... To cítíte, a pak událostem se opravdu nedalo vyhnout. Navíc jsem byla vlastenecky vychovaná a moje myšlení bylo v tomto duchu. A Němci - ani ke konci války se necítili poraženi. Zfanatizovaní by snad stříleli stále. Ostatně, to jsme i my tady poznali."*
 
 ***Božena Kopcová: Vzpomínky z války (2008)***
 
