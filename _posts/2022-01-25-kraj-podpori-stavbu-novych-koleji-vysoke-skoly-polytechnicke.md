@@ -8,7 +8,7 @@ layout: post
 title: Kraj podpoří stavbu nových kolejí Vysoké školy polytechnické
 author: Jiří Svoboda
 authorId: jiri.svoboda
-image: posts/2022-01-25-kraj-podpori-stavbu-novych-koleji-vysoké-skoly-polytechnicke.jpg
+image: posts/2022-01-25-kraj-podpori-stavbu-novych-koleji-vysoke-skoly-polytechnicke.jpg
 ---
 
 Jihlava, 25. ledna 2022, Vizualizace zdroj: A 32 spol. s r. o. - **Vysoká škola polytechnická Jihlava představila projekt pro výstavbu nových vysokoškolských kolejí. Na rozvojových pozemcích ve Fritzově ulici tak do 4 let vyroste moderní pětipodlažní objekt. Koleje s kapacitou 200 lůžek podpoří Kraj Vysočina částkou 90 milionů korun.**
