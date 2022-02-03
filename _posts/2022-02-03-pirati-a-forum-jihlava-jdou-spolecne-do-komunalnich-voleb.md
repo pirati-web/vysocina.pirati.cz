@@ -2,7 +2,7 @@
 date: 2022-02-03
 category: blog
 tags:
- - Piráti Jihlava
+ - Piráti Jihlavsko
  - komunální volby
 layout: post
 title: Piráti a Fórum Jihlava jdou společně do komunálních voleb
