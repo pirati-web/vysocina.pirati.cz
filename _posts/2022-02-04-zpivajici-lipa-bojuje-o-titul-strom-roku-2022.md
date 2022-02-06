@@ -17,11 +17,11 @@ Zpívající lípa velkolistá je pravděpodobně jedním z nejstarších strom�
 
 Statnou lípu si oblíbili nejenom místní, ale i turisté. Zpívající lípu do ankety o strom roku nominovaly děti ze Základní a mateřské školy Telecí. Anketou o Evropský strom roku nyní žije celý region.
 
-*„Anketu o nejlepší strom roku vyhlašuje nadace Partnerství a pro mě je to doklad, že to je opravdu významná anketa, která vede například k výchově v ekologii. Chudobínská borovice, to byl objev stromu, který republika neznala, ale je půvabný. Zpívající lípa je ale strom, kterého si všímají spisovatelé po staletí, Jirásek o ní psal, objevuje se i v čítankách. Je to náš národní a významný strom, znak vlastenectví,“* vyzdvihuje Zpívající lípu Ladislav Stalmach.
+*„Anketu Evropský strom roku spoluvyhlašuje nadace Partnerství a pro mě je to doklad, že to je opravdu významná anketa, která vede například k výchově v ekologii. Chudobínská borovice, to byl objev stromu, který republika neznala, ale je půvabný. Zpívající lípa je ale strom, kterého si všímají spisovatelé po staletí, Jirásek o ní psal, objevuje se i v čítankách. Je to náš národní a významný strom, znak vlastenectví,“* vyzdvihuje Zpívající lípu Ladislav Stalmach.
 
-*„Zpívající lípa leží asi tak dva kilometry od Vysočiny. Podobné ankety ale podporuji po celé republice. Zpívající lípa je vzdušnou čarou třináct kilometrů od Chudobínské borovice, takže tam vnímám i potenciál v turistickém ruchu,“* doplňuje Ladislav Stalmach.
+*„Zpívající lípa leží asi tak dva kilometry od Vysočiny. Podobné ankety ale podporuji po celé republice a Zpívající lípa je vzdušnou čarou třináct kilometrů od Chudobínské borovice, takže tam vnímám i potenciál v turistickém ruchu,“* doplňuje Ladislav Stalmach.
 
-*„Zkusil jsem také oslovit čerstvého ministra školství Petra Gazdíka, ať osloví školy, aby se připojily k hlasování pro českého favorita v anketě o Evropský strom roku, tak uvidíme,“* dokončuje Stalmach.
+*„Zkusil jsem také oslovit čerstvého ministra školství Petra Gazdíka, ať osloví školy, aby se připojily k hlasování pro českého favorita v anketě o Evropský strom roku a ten přislíbil podporu,“* dokončuje Stalmach.
 
 Zpívající lípa má už 30 dcer neboli semenáčků, které dnes rostou ve všech koutech naší země, ale i za našimi hranicemi, například v Rakousku, Litvě, nebo v Anglii. 
 
