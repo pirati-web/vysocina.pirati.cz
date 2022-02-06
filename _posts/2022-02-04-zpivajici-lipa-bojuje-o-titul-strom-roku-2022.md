@@ -21,7 +21,7 @@ Statnou lípu si oblíbili nejenom místní, ale i turisté. Zpívající lípu 
 
 *„Zpívající lípa leží asi tak dva kilometry od Vysočiny. Podobné ankety ale podporuji po celé republice a Zpívající lípa je vzdušnou čarou třináct kilometrů od Chudobínské borovice, takže tam vnímám i potenciál v turistickém ruchu,“* doplňuje Ladislav Stalmach.
 
-*„Zkusil jsem také oslovit čerstvého ministra školství Petra Gazdíka, ať osloví školy, aby se připojily k hlasování pro českého favorita v anketě o Evropský strom roku a ten přislíbil podporu,“* dokončuje Stalmach.
+*„Zkusil jsem také oslovit čerstvého ministra školství Petra Gazdíka, ať osloví školy, aby se připojily k hlasování pro českého favorita v anketě o Evropský strom roku, a ten přislíbil podporu,“* dokončuje Stalmach.
 
 Zpívající lípa má už 30 dcer neboli semenáčků, které dnes rostou ve všech koutech naší země, ale i za našimi hranicemi, například v Rakousku, Litvě, nebo v Anglii. 
 
