@@ -7,7 +7,7 @@ tags:
 layout: post
 title: Piráti zůstávají součástí koalice i po rozpadu uskupení Žijeme Jihlavou. Klíčové je pro ně dokončit rozpracované projekty
 author: redakce
-authorId: redakce
+authorId: 
 image: posts/2022-02-20-pirati-zustavaji-soucasti-koalice-i-po-rozpadu-uskupeni-zijeme-jihlavou.jpg
 ---
 
