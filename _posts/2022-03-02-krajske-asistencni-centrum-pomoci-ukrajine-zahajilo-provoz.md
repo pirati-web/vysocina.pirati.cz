@@ -5,7 +5,7 @@ tags:
  - Ukrajina
  - Kraj Vysočina
 layout: post
-title: 
+title: Krajské asistenční centrum pomoci Ukrajině v Jihlavě zahájilo provoz
 author: redakce
 authorId:
 image: posts/2022-03-02-krajske-asistencni-centrum-pomoci-ukrajine-zahajilo-provoz.JPG
