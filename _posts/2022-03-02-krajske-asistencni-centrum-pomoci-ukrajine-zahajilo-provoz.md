@@ -8,7 +8,7 @@ layout: post
 title: 
 author: redakce
 authorId:
-image: posts/2022-03-02-krajske-asistencni-centrum-pomoci-ukrajine-zahajilo-provoz.jpg
+image: posts/2022-03-02-krajske-asistencni-centrum-pomoci-ukrajine-zahajilo-provoz.JPG
 ---
 
 Jihlava, 2. března 2022, Foto zdroj: Kraj Vysočina - **Uprchlíci z Ukrajiny mohou od dnešního dne využívat pracoviště Krajského asistenčního centra pomoci, které bylo otevřeno v Jihlavě. Své sídlo našlo v Jihlavě na adrese Tolstého 15. Uprchlíci najdou v asistenčním centru služby cizinecké policie, odboru azylové a migrační politiky Ministerstva vnitra ČR, pracoviště Všeobecné zdravotní pojišťovny a Hasičského záchranného sboru Kraje Vysočina.**
