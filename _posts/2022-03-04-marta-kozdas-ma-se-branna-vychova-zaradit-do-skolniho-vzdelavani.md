@@ -5,7 +5,7 @@ tags:
  - komentář
  - vzdělávání
 layout: post
-title: Krajské asistenční centrum pomoci Ukrajině v Jihlavě zahájilo provoz
+title: Marta Kozdas - má se branná výchova zařadit do školního vzdělávání?
 author: Marta Kozdas
 authorId: marta.kozdas
 image: posts/2022-03-04-marta-kozdas-ma-se-branna-vychova-zaradit-do-skolniho-vzdelavani.jpg
