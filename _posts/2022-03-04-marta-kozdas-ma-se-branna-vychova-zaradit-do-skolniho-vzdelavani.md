@@ -8,7 +8,7 @@ layout: post
 title: Krajské asistenční centrum pomoci Ukrajině v Jihlavě zahájilo provoz
 author: Marta Kozdas
 authorId: marta.kozdas
-image: posts/2022-03-04-marta-kozdas-má-se-branna-vychova-zaradit-do-skolniho-vzdelavani.jpg
+image: posts/2022-03-04-marta-kozdas-ma-se-branna-vychova-zaradit-do-skolniho-vzdelavani.jpg
 ---
 
 Jihlava, 4. března 2022 - **Události započaté 24. února 2022 změnily svět. Nejdříve šok, pak smutek a zloba vůči těm, kteří se něčeho takového byli schopni dopustit. Moje zamyšlení však není přímým komentářem aktuálních událostí na Ukrajině. Jsem pedagog, proto mé úvahy směřují k dětem, k jejich bezpečnosti, k vzdělávání.**
