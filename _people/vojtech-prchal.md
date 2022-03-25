@@ -2,15 +2,12 @@
 uid: vojtech.prchal            
 name: Vojtěch Prchal       
 fullname: Vojtěch Prchal      
-category:
-  - clenove
-  - msjihlavsko             
-description: člen místního sdružení jihlavsko
+category:           
+description: zastupitel města Jihlava
 profession: zastupitel města Jihlava, podnikatel, cestovatel
 heroImg: banner-default.jpg
 img: people/vojtech-prchal.jpg
 mail:
-  - vojtech.prchal@pirati.cz
 rbar:
   - profile
   - boardzm
@@ -33,12 +30,12 @@ profiles:
   facebook:
   twitter:
   github:
-  forum: https://forum.pirati.cz/memberlist.php?mode=viewprofile&u=12451
+  forum:
   redmine:
-  web: https://lide.pirati.cz/personProfile/439/
+  web:
   blog:
   flickr:
-partyUid: pirati
+partyUid:
 ---
 
 Ing. Vojtěch Prchal. Vyrostl jsem a žiji v Jihlavě. Zajímám se o Smart cities, elektronizaci a automatizaci úřadů, kulturu, udržitelnost a všechno, co se týká inovativních technologií, které lidem usnadňují život. Průběžně si dodělávám doktorát v oboru Ekonomie a management, jsem cestovatel a dobrodruh.
@@ -51,7 +48,7 @@ Ing. Vojtěch Prchal. Vyrostl jsem a žiji v Jihlavě. Zajímám se o Smart citi
 *	člen **Komise pro informatiku a smart region** Rady Kraje Vysočina
 *	člen **řídícího výboru Fondu Vysočiny** pro Sportoviště
 
-**Piráti:**
-* od března 2021 člen
+**Piráti v minulosti:**
+* od března 2021 člen do února 2022
 * předseda **Krajské expertní komise**
 * člen **Krajského expertního týmu** - Informatika
