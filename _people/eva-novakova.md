@@ -8,9 +8,9 @@ category:
   - pmsjihlavsko
   #- koordinator
   - kz
-ordpmsjihlavsko: 3
+ordpmsjihlavsko: 1
 ordkz: 6
-description: 2. místopředsedkyně MS Jihlavsko
+description: předsedkyně MS Jihlavsko
 descriptionkz: neuvolněná zastupitelka
 profession: členka Zastupitelstva města Jihlavy a Kraje Vysočina
 heroImg: logo-wall.jpg

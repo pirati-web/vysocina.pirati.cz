@@ -3,9 +3,10 @@ uid: michaela.vodova
 name: Michaela Vodová
 category:
   - clenove
-  - msjihlavsko
-  #- pmsjihlavsko
-description: členka místního sdružení Jihlavsko
+  #- msjihlavsko
+  - pmsjihlavsko
+ordpmsjihlavsko: 3
+description: 2. místopředsedkyně MS Jihlavsko
 profession: sociální pracovnice
 heroImg: banner-default.jpg
 img: people/michaela-vodova.jpg
