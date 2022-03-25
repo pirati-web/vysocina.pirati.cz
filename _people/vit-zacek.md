@@ -5,10 +5,9 @@ name: Vít Žáček
 fullname: Vít Žáček       
 category:               
   - clenove
-  - pmsjihlavsko         
-  #- msjihlavsko            
-ordpmsjihlavsko: 1
-description: předseda MS Jihlavsko
+  #- pmsjihlavsko         
+  - msjihlavsko            
+description: člen místního sdružení Jihlavsko, člen Republikového výboru
 profession: student MFF UK, předseda místního sdružení Jihlavsko
 heroImg: banner-default.jpg
 img: people/vit-zacek.jpg
