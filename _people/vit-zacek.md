@@ -8,7 +8,7 @@ category:
   #- pmsjihlavsko         
   - msjihlavsko            
 description: člen místního sdružení Jihlavsko, člen Republikového výboru
-profession: student MFF UK, předseda místního sdružení Jihlavsko
+profession: student MFF UK, člen Republikového výboru
 heroImg: banner-default.jpg
 img: people/vit-zacek.jpg
 mail:
