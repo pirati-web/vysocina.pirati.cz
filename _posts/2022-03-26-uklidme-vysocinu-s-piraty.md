@@ -13,7 +13,7 @@ image: posts/2022-03-26-uklidme-vysocinu-s-piraty.jpg
 
 Jihlava, 26. března 2022 – **Duben je tradičním měsícem, kdy probíhají dobrovolnické úklidové akce. Těch se jako každoročně účastní také Piráti z jednotlivých místních sdružení působících na Vysočině. V letošním roce budeme společně uklízet v rámci událostí Ukliďme Česko, Čistá Vysočina a Čistá Sázava. Budeme rádi, když nám pomůžete a přidáte se k nám.**
 
-Již za týden, v sobotu 2. dubna 2022, je hlavní jarní úklidový den dobrovolnické akce Ukliďme Česko, jejímž cílem je uklidit nepořádek a nelegálně vzniklé černé skládky. Tohoto úklidu se také zúčastní Piráti z Telče a z Třebíče.
+Již za týden, v sobotu 2. dubna 2022, je hlavní jarní úklidový den dobrovolnické akce Ukliďme Česko, jejímž cílem je uklidit nepořádek a nelegálně vzniklé černé skládky. Tohoto úklidu se zúčastní také Piráti z Telče a z Třebíče.
 
 ***Pirátské úklidy budou probíhat na těchto místech:***
 
