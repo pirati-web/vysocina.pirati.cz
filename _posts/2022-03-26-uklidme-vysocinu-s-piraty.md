@@ -25,7 +25,7 @@ Odkaz na událost: [https://fb.me/e/1L6EPjsNf](https://fb.me/e/1L6EPjsNf)
 
 Odkaz na událost: [https://fb.me/e/2GKTHXXLM](https://fb.me/e/2GKTHXXLM)
 
-O týden později se do úklidu zapojí také havlíčkobrodští Piráti, kteří se vyrážejí v rámci dobrovolnické akce Čistá řeka Sázava na Vysočině 2022 uklízet břehy tohoto přírodního symbolu Havlíčkova Brodu i celé Vysočiny. *„Rozhodli jsme se, že od odpadků a nečistot uklidíme úsek Perknov – Havlíčkův Brod. Sejdeme se v sobotu 9. dubna v 9:00 u vodní elektrárny v Perknově,“* doplňuje předseda místního sdružení Piráti Havlíčkův Brod Jiří Svoboda.
+O týden později se do úklidu zapojí také havlíčkobrodští Piráti, kteří vyrážejí v rámci dobrovolnické akce Čistá řeka Sázava na Vysočině 2022 uklízet břehy tohoto přírodního symbolu Havlíčkova Brodu i celé Vysočiny. *„Rozhodli jsme se, že od odpadků a nečistot uklidíme úsek Perknov – Havlíčkův Brod. Sejdeme se v sobotu 9. dubna v 9:00 u vodní elektrárny v Perknově,“* doplňuje předseda místního sdružení Piráti Havlíčkův Brod Jiří Svoboda.
 
 **9. 4. od 9:00, Čistá řeka Sázava v Havlíčkově Brodě s Piráty**, sraz u vodní elektrárny Perknov (úsek Perknov – Havlíčkův Brod)
 
