@@ -11,7 +11,7 @@ authorId: jiri.svoboda
 image: posts/2022-04-07-kraj-vysocina-hostil-delegaci-z-finskeho-regionu-tampere.jpg
 ---
 
-Jihlava, 7. dubna 2022 – **Na pozvání Kraje Vysočina a města Jihlavy navštívila v minulém týdnu náš kraj delegace z finského regionu Tampere. Cílem setkání bylo navázání a rozvoj spolupráce mezi našimi regiony, který byl v uplynulých dvou letech utlumen pandemií koronaviru. Kraj Vysočina by rád s finskými partnery navázal spolupráci v oblastech školství, digitalizaci a inovacích.**
+Jihlava, 7. dubna 2022 – **Na pozvání Kraje Vysočina a města Jihlavy navštívila v minulém týdnu náš kraj delegace z finského regionu Tampere. Cílem setkání bylo navázání a rozvoj spolupráce mezi našimi regiony, který byl v uplynulých dvou letech utlumen pandemií koronaviru. Kraj Vysočina by rád s finskými partnery navázal spolupráci v oblastech školství, digitalizace a inovacích.**
 
 Zástupci krajské rady Hana Hajnová (Piráti) a Jan Břížďala (Piráti) absolvovali s finskou delegací dvoudenní program, během něhož si vyslechli zajímavé prezentace o finském vzdělávacím systému i rozvojových výzvách celého regionu Tampere. Hana Hajnová, náměstkyně hejtmana pro regionální rozvoj, finské delegaci prezentovala úspěšné firmy a organizace našeho regionu – jihlavskou společnost Optokon neboli předního světového výrobce a dodavatele aktivních a pasivních prvků pro vláknovou optiku a unikátní virtuální laboratoř VŠPJ pro simulaci digitalizace výrobních procesů včetně toku materiálu.
 
