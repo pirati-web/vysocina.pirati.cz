@@ -54,6 +54,9 @@ main:
   - link: /codelame/
     name: Co děláme?
     match: codelame
+  - link: /ket/
+    name: KET
+    match: ket
   - link: /kontakt/
     name: Kontakt
     match: kontakt
