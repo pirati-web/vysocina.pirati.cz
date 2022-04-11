@@ -8,7 +8,7 @@ layout: post
 title: Břížďala - Podle Rakouska můžeme učit na školách modernímu a ekologickému zemědělství
 author: redakce
 authorId: 
-image: posts/2022-04-11-brizdala-podle-rakouska-muzeme-ucit-na-skolach-modernimu-a-ekologickemu-zemedelství.jpg
+image: posts/2022-04-11-brizdala-podle-rakouska-muzeme-ucit-na-skolach-modernimu-a-ekologickemu-zemedelstvi.jpg
 ---
 
 Jihlava, 11. dubna 2022, Foto zdroj: Kraj Vysočina – **Ve středu 6. dubna navštívila Kraj Vysočina rakouská velvyslankyně Dr. Bettina Kirnbauer. Její pracovní program začal v jihlavské mateřské škole Bystrouška, kde za účasti ředitelky školy PhDr. Ljubici Váchové Novákové, krajského radního pro školství Jana Břížďaly a dalších mohla vidět, jak se předškoláci učí německy při různých aktivitních hrách. Mezinárodní projekty realizované Krajem Vysočina často zastřešuje příspěvková organizace Vysočina Education, která byla paní velvyslankyni taktéž představena.**
