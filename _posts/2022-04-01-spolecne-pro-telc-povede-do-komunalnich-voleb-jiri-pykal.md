@@ -25,6 +25,8 @@ Na konci března byla stvrzena koaliční spolupráce Pirátů a Zelených také
 
 *„I když se nám v tomto období nepodařilo vyjednat místo ve vedení města, jsem ráda, že se nám v uplynulých čtyřech letech podařilo prosadit několik klíčových bodů z našeho programu, například videopřenosy z jednání zastupitelstva, zřízení městské policie či naposledy zahájení procesu změny územního plánu, aby místo památné aleje vznikla vhodnější plocha pro výstavbu. Teď nás čeká práce na sestavení kompletní kandidátky a přípravě volební kampaně,“* doplnila Hajnová.    
 
+**Volba dalších míst za Pirátskou stranu proběhne v neděli 10. dubna od 17 hodin v Pivovaru Trojan Telč, kde bude místní sdružení volit 2. - 4. místo kandidátky.**
+
 ---
 
 ***KONTAKT PRO NOVINÁŘE*** 
