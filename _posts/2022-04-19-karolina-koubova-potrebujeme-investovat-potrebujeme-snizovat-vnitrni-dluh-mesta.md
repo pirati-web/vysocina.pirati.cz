@@ -27,7 +27,7 @@ Jihlava, 19. dubna 2022 – **Současná primátorka města Jihlavy Karolína Ko
 
 **Jste primátorkou, ženou v čele krajského města. Jaké to je, být političkou v silně mužském světě politiky?**
 
-*Já tuhle otázku nemám ráda, protože odkazuje na to, že stále dělíme svět na „mužský“ a „ženský“. Chtěla bych, aby to vůbec nebylo téma k diskusi, prostě máme každý nějaké plusy a mínusy, prostě se musíme domluvit. Ale tam ještě nejsme… Občas si mě pletou s nějakou asistentkou, občas podají ruku mému řidiči a ne mě, občas mě chce někdo sbalit proto, že jako veřejná osoba „musím mile odpovídat na všechny otázky“. To ale není o politice, to je o tom, že se pořád ještě všichni pereme s nějakými stereotypy.* 
+*Já tuhle otázku nemám ráda, protože odkazuje na to, že stále dělíme svět na „mužský“ a „ženský“. Chtěla bych, aby to vůbec nebylo téma k diskusi, prostě máme každý nějaké plusy a mínusy, prostě se musíme domluvit. Ale tam ještě nejsme… Občas si mě pletou s nějakou asistentkou, občas podají ruku mému řidiči a ne mně, občas mě chce někdo sbalit proto, že jako veřejná osoba „musím mile odpovídat na všechny otázky“. To ale není o politice, to je o tom, že se pořád ještě všichni pereme s nějakými stereotypy.* 
 
 **Zastupujete kandidátku Pirátů, Fóra Jihlava a nezávislých osobností. S jakými vizemi a cíli jdete do komunálních voleb?**
 
