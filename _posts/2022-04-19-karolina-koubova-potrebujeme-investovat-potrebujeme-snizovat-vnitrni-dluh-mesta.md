@@ -7,7 +7,7 @@ tags:
 layout: post
 title: Karolína Koubová - potřebujeme investovat, potřebujeme snižovat vnitřní dluh města a hodně opravovat naši infrastrukturu
 author: Jiří Svoboda
-authorId: Jiri.Svoboda
+authorId: jiri.svoboda
 image: posts/2022-04-19-karolina-koubova-potrebujeme-investovat-potrebujeme-snizovat-vnitrni-dluh-mesta.jpg
 ---
 
