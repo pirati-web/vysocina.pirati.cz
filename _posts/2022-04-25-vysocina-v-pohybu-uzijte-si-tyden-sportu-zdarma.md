@@ -11,7 +11,7 @@ authorId: jiri.svoboda
 image: posts/2022-04-25-vysocina-v-pohybu-uzijte-si-tyden-sportu-zdarma.jpg
 ---
 
-Jihlava, 25. dubna 2022 - **Od pondělí 25. dubna do neděle 1. května probíhá akce Vysočina v pohybu, jejímž cílem je oslovení a přilákání veřejnosti k aktivnímu trávení volného času. V rámci týdne sportu zdarma si návštěvníci mohou zacvičit v posilovnách, vyzkoušet lezecké stěny, badminton, lukostřelbu nebo program s trenéry zdarma.**
+Jihlava, 25. dubna 2022, Foto: Kraj Vysočina - **Od pondělí 25. dubna do neděle 1. května probíhá akce Vysočina v pohybu, jejímž cílem je oslovení a přilákání veřejnosti k aktivnímu trávení volného času. V rámci týdne sportu zdarma si návštěvníci mohou zacvičit v posilovnách, vyzkoušet lezecké stěny, badminton, lukostřelbu nebo program s trenéry zdarma.**
 
 Akce Vysočina v pohybu, na které spolupracují Kraj Vysočina a majitelé či provozovatelé sportovišť, má za cíl umožnit lidem pohodlný přístup ke sportu a vzbudit v nich chuť dělat něco pro sebe a své zdraví. *„Naším cílem je udělat sport dostupný pro všechny občany kraje. Touto kampaní chceme zpropagovat pohybové aktivity a motivovat lidi k návratu ke sportu i v postcovidové době,“* říká radní Kraje Vysočina pro školství, mládež, sport a ICT Jan Břížďala.
 
