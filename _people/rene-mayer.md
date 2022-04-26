@@ -3,7 +3,9 @@ uid: rene.mayer
 name: René Mayer
 category:
   - clenove
-description: člen Krajského sdružení Vysočina
+  - pmszdarsko
+ordpmszdarsko: 3
+description: 2. místopředseda MS Žďársko
 profession: revizní technik
 heroImg: banner-default.jpg
 img: people/rene-mayer.jpg

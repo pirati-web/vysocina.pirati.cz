@@ -3,7 +3,9 @@ uid: tomas.blazek
 name: Tomáš Blažek
 category:
   - clenove
-description: člen Krajského sdružení Vysočina
+  - pmszdarsko
+ordpmszdarsko: 1
+description: Předseda MS Žďársko
 profession: technik v ochraně přírody
 heroImg: banner-default.jpg
 img: people/tomas-blazek.jpg

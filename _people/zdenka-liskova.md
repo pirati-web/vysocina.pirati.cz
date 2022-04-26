@@ -5,8 +5,8 @@ category:
   - clenove
   - pmspelhrimovsko
   #- mspelhrimovsko
-ordpmspelhrimovsko: 3
-description: 2. místopředsedkyně MS Pelhřimovsko
+ordpmspelhrimovsko: 2
+description: 1. místopředsedkyně MS Pelhřimovsko
 profession: technický pracovník
 heroImg: banner-default.jpg
 img: people/zdenka-liskova.jpg

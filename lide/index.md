@@ -24,6 +24,9 @@ groups:
   - name: Předsednictvo místního sdružení Pelhřimovsko
     sort: ordpmspelhrimovsko
     category: pmspelhrimovsko
+  - name: Předsednictvo místního sdružení Žďársko
+    sort: ordpmszdarsko
+    category: pmszdarsko
   - name: Členové krajského sdružení Vysočina
     sort: ordclenove
     category: clenove

@@ -3,10 +3,9 @@ uid: petr.kozel
 name: Petr Kozel
 category:
   - clenove
-  - pmspelhrimovsko
-  #- mspelhrimovsko
+
 ordpmspelhrimovsko: 2
-description: 1. místopředseda MS Pelhřimovsko
+description: člen MS Pelhřimovsko
 profession: ekonom
 heroImg: banner-default.jpg
 img: people/petr-kozel.jpg

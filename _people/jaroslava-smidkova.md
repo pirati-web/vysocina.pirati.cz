@@ -3,7 +3,9 @@ uid: jaroslava.smidkova
 name: Jaroslava Šmídková
 category:
   - clenove
-description: členka Krajského sdružení Vysočina
+  - pmszdarsko
+ordpmszdarsko: 2
+description: 1. místopředsedkyně MS Žďársko
 profession: komunitní manažerka
 heroImg: banner-default.jpg
 img: people/jaroslava-smidkova.jpg
