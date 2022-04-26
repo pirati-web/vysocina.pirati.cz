@@ -6,7 +6,7 @@
 #
 
 title: Pirátská strana Vysočina
-email: pirati.vysocina@gmail.com
+email: barbora.pokorna@pirati.cz
 description: >-
   Oficiální stránka Krajského sdružení Vysočina České pirátské strany
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
@@ -23,14 +23,9 @@ mediaStorage: vysocina #obrazky a pdf jsou na https://a.pirati.cz/vysocina/
 organization:
   name: Krajské sdružení Vysočina
   shortName: Krajské sdružení Vysočina
-  contactUid: ondrej.tuma
-  email: ondrej.tuma@pirati.cz
-  phone: +420 770 113 639
-  address:
-    Matky Boží 9,
-    Jihlava
-  residenceImg: https://a.pirati.cz/vysocina/img/jipice/jipice_header.jpg
-  mapLink: https://goo.gl/maps/uCjxZoD47N82
+  contactUid: barbora.pokorna
+  email: barbora.pokorna@pirati.cz
+  phone: +420 776 147 766
   redmineLink: https://redmine.pirati.cz/projects/kraj-vysocina/issues/new
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
@@ -85,8 +80,8 @@ github:
 matomo:
   loadSDK: false
   siteId: 51
-  
-  
+
+
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
