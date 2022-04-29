@@ -8,7 +8,7 @@ category:
   - pmstelcsko
 ordpks: 4
 ordpmstelcsko: 3
-description: 3. místopředseda KS Vysočina, 2. místopředseda MS Telčsko
+description: 2. místopředseda KS Vysočina, 2. místopředseda MS Telčsko
 profession: záchranář, člen Bezpečnostní a Zdravotní komise Kraje Vysočina
 heroImg: banner-default.jpg
 img: people/miroslav-vacha.jpg

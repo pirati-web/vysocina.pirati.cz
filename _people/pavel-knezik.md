@@ -10,7 +10,7 @@ category:
 ordpmspelhrimovsko: 1
 ordpks: 5
 ordkz: 5
-description: 4. místopředseda KS Vysočina, předseda MS Pelhřimovsko
+description: 3. místopředseda KS Vysočina, předseda MS Pelhřimovsko
 descriptionkz: neuvolněný zastupitel
 heroImg: banner-default.jpg
 img: people/pavel-knezik.jpg
