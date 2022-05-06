@@ -47,7 +47,7 @@ Jihlava, 6. 5. 2022, Foto: Libor Blažek/Město Havlíčkův Brod – **Na zač�
 
 **A na závěr se nejde nezeptat – na jaký film se letos nejvíc těšíš? A uvidíme ho v OKU?**
 
-*Těch je. Tato filmová sezóna nabídla, a ještě nabídne hodně filmových zážitků. Z těch již odpromítaných jste mohli navštívit filmy Promlčeno, Nejhorší člověk na světě, René – vězeň svobody, Betlémské světlo, Malířka a zloděj, Bod varu, Poslední závod nebo Paříž, 13. obvod. No a napjatě očekávám odezvu na filmy Chinaski: Každej ví kulový, Tři tygři ve filmu: Jackpot, Párty Hárder, Planeta Praha nebo Grand Prix. A samozřejmě se nemůžu dočkat premiéry nejdražšího filmu Jan Žižka.* 
+*Těch je. Tato filmová sezóna nabídla, a ještě nabídne hodně filmových zážitků. Z těch již odpromítaných jste mohli navštívit filmy Promlčeno, Nejhorší člověk na světě, René – vězeň svobody, Betlémské světlo, Malířka a zloděj, Bod varu, Poslední závod nebo Paříž, 13. obvod. No a napjatě očekávám odezvu na filmy Chinaski: Každej ví kulový, Tři tygři ve filmu: Jackpot, Párty Hárder, Planeta Praha nebo Grand Prix. A samozřejmě se nemůžu dočkat premiéry nejdražšího českého filmu Jan Žižka.* 
 
 
 ---
