@@ -8,7 +8,7 @@ layout: post
 title: Břížďala - Výběr kvalitního ředitele je pro rozvoj škol klíčový
 author: redakce
 authorId: 
-image: posts/2022-05-12-brizdala-vyber-kvalitniho-reditele.jpg
+image: posts/2022-05-12-brizdala-vyber-kvalitniho-reditele-je-pro-rozvoj.jpg
 ---
 
 Jihlava, 12. května 2022 - **K 3. výročí novelizace vyhlášky o náležitostech konkursního řízení a konkursních komisí se uskutečnila na magistrátu hlavního města Prahy konference Lepší škola 2020: Jak vybrat dobrého ředitele. Jejím cílem bylo sdílet zkušenosti s konkursními řízeními od jednotlivých zřizovatelů a přidat k tomu pohledy zástupců Ministerstva školství, mládeže a tělovýchovy ČR, České školní inspekce i odborné veřejnosti. Za krajské samosprávy byl do diskuze pozván Jan Břížďala (Piráti), radní Kraje Vysočina pro oblast školství, mládeže a sportu, informatiky a komunikačních technologií.**
