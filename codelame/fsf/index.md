@@ -11,6 +11,7 @@ Festival svobodných filmů vznikl spontánně již na jaře roku 2013, když Pi
 
 | Datum        | Čas      | Místo                                   | Facebooková událost                                                     |
 |--------------|----------|-----------------------------------------|-------------------------------------------------------------------------|
+| 18. 5. 2022  | od 17:00 | **Třebíč - KaTr**                       | [odkaz](https://www.facebook.com/events/1069872720595014/)              |
 | 9. 8. 2019   | od 19:00 | **Třebíč - Trumpetka**                  | [odkaz](https://www.facebook.com/events/2363030860639892/)              |
 | 25. 1. 2019  | od 19:00 | **Třebíč - Trumpetka**                  | [odkaz](https://www.facebook.com/events/299475400911853/)               |
 | 17. 7. 2014  | -        | **Třebíč**                              | [wiki](https://wiki.pirati.cz/regiony/vysocina/fsf#v_trebici3)          |
