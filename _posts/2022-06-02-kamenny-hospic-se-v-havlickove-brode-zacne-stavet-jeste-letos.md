@@ -21,7 +21,7 @@ Pozemek pro umístění hospice poskytlo město Havlíčkův Brod. Hospic vyrost
 
 *„Jsem velice rád, že v této ideální lokalitě, která byla v rezervě města přesně pro tyto účely, se podařilo prosadit stavbu kamenného hospice. Toto zařízení v našem kraji delší dobu chybí a bude to jistě velký posun v rámci sociální péče, kterou dokáže město/kraj svým občanům poskytnout,“* doplnil havlíčkobrodský pirátský zastupitel Jan Kerber.
 
-Budova kamenného hospice je navržena jako jednopodlažní objekt s kapacitou 18 lůžek pro dospělé a 2 pro děti. Na zastavěné ploše 1575 m2 se světlými pokoji respektujícími soukromí, s denní zónou, kaplí či administrativní částí. Okolí hospice bude doplněno sadovou úpravou. Pro rodiny klientů, hosty i zaměstnance bude k dispozici parkoviště s kapacitou 17 parkovacích míst.
+Budova kamenného hospice je navržena jako jednopodlažní objekt s kapacitou 18 lůžek pro dospělé a 2 pro děti. Na zastavěné ploše 1575 m2 vyroste budova se světlými pokoji respektujícími soukromí, s denní zónou, kaplí či administrativní částí. Okolí hospice bude doplněno sadovou úpravou. Pro rodiny klientů, hosty i zaměstnance bude k dispozici parkoviště s kapacitou 17 parkovacích míst.
 
 ---
 
