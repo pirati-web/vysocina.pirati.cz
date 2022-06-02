@@ -15,7 +15,7 @@ Jihlava, 2. června 2022, Foto: Kraj Vysočina – **V okamžiku, kdy bude Kraji
 
 O vybudování kamenného hospice v Havlíčkově Brodě se již několik let snažil spolek Mezi stromy, kterému se však z důvodu nemožnosti čerpat na projekt dotaci nepodařilo stavbu realizovat. Po převzetí projektu Krajem Vysočina, který se zároveň stane hlavním investorem, byla ministerstvem zdravotnictví dotace přislíbena.
 
-*„Jsem ráda, že se nakonec podařilo najít řešení, aby mohl dlouho plánovaný kamenný hospic na Vysočině přece jen vyrůst. Poděkování patří spolku Mezi stromy, který nám poskytl připravený stavební projekt a kolegům z krajské rady, kteří vyjednali na ministerstvu zdravotnictví dotaci, která s výstavbou pomůže. Z celkových předpokládaných nákladů 100 milionů korun by měla dotace pokrýt 67 milionů,“* řekla náměstkyně hejtmana pro oblast regionálního rozvoje za Piráty Hana Hajnová.
+*„Jsem ráda, že se nakonec podařilo najít řešení, aby mohl dlouho plánovaný kamenný hospic na Vysočině přece jen vyrůst. Poděkování patří spolku Mezi stromy, který nám poskytl připravený stavební projekt a kolegům z krajské rady, kteří vyjednali na ministerstvu zdravotnictví dotaci, která s výstavbou pomůže. Z celkových předpokládaných nákladů 100 milionů korun by měla dotace pokrýt 67 milionů,“* řekla náměstkyně hejtmana Kraje Vysočina pro oblast regionálního rozvoje za Piráty Hana Hajnová.
 
 Pozemek pro umístění hospice poskytlo město Havlíčkův Brod. Hospic vyroste na pozemcích sousedících s krajskou nemocnicí a psychiatrickou nemocnicí. Zařízení nebude sloužit jen občanům Havlíčkova Brodu, ale i celého Kraje Vysočina a doplní tak síť terénních služeb hospicové a paliativní péče. 
 
