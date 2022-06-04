@@ -29,6 +29,6 @@ profiles:
   #instagram:  
 partyUid: pirati
 ---
-Jakub Šafář, DiS. (* 1976) je táta jednoho prcka, čerstvě přestěhovaný z Prahy do Telče. Kontinuálně se vzdělává, aktuálně na dvouletém sebezkušenostním studiu Kreativní pedagogiky na DAMU. Mezi témata, kterým se dlouhodobě věnuje, patří informatika, seberozvoj a sport - který je teď na druhé koleji.
+Jakub Šafář (* 1976) je táta jednoho prcka, čerstvě přestěhovaný z Prahy do Telče. Kontinuálně se vzdělává, aktuálně na dvouletém sebezkušenostním studiu Kreativní pedagogiky na DAMU. Mezi témata, kterým se dlouhodobě věnuje, patří informatika, seberozvoj a sport - který je teď na druhé koleji.
 
 ---
