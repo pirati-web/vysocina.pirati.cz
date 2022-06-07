@@ -8,7 +8,7 @@ layout: post
 title: Tradiční ankety Kraje Vysočina Skutek roku a Zlatá jeřabina znají své vítěze
 author: Jiří Svoboda
 authorId: jiri.svoboda
-image: posts/2022-06-07-tradicni-ankety-kraje-vysocina-skutek-roku-a-zlata-jerabina-znaji-sve-viteze.jpg
+image: posts/2022-06-07-tradicni-ankety-kraje-vysocina-skutek-roku-a-zlata-jerabina-znaji-sve-viteze-I.jpg
 ---
 
 Jihlava, 7. června 2022 – **V pondělí 6. června, úderem sedmnácté hodiny odpolední, byla v prostorách premonstrátského kláštera v Nové Říši zahájena slavnostní událost u příležitosti ocenění tradičních anket Kraje Vysočina. Vyhlášení anket se zúčastnili také pirátští krajští radní a zastupitelé.**
@@ -16,7 +16,7 @@ Jihlava, 7. června 2022 – **V pondělí 6. června, úderem sedmnácté hodin
 Klášter Panny Marie v Nové Říši nedaleko Telče byl založen řeholními sestrami svatého Norberta. A právě symbolicky 6. června, tedy v den svátku svatého Norberta, byla na tomto nádherném místě vítězům anket Zlatá jeřabina a Skutek roku předána ocenění v podobě finančního daru a symbolu těchto anket… šneka a plodu jeřabiny.
 
 
-![Tradiční ankety Kraje Vysočina Skutek roku a Zlatá jeřabina znají své vítěze](https://a.pirati.cz/vysocina/img/posts/2022-06-07-tradicni-ankety-kraje-vysocina-skutek-roku-a-zlata-jerabina-znaji-sve-viteze-I.jpg)
+![Tradiční ankety Kraje Vysočina Skutek roku a Zlatá jeřabina znají své vítěze](https://a.pirati.cz/vysocina/img/posts/2022-06-07-tradicni-ankety-kraje-vysocina-skutek-roku-a-zlata-jerabina-znaji-sve-viteze.jpg)
 
 
 O hudební úvod večera se postaralo smyčcové kvarteto z Třebíče Cordial String Quartet, které zahrálo skladbu od Pavla Vranického, hudebního skladatele, dirigenta, houslisty a rodáka z Nové Říše. Úvodní přivítání patřilo opatovi premonstrátského kláštera Panny Marie Rudolfovi Kosíkovi, po němž nás přivítal hejtman Kraje Vysočina Vítězslav Schrek a vyhlašovatelé anket, tedy 1. náměstkyně hejtmana pro oblast regionálního rozvoje Hana Hajnová a náměstek hejtmana pro oblast kultury Roman Fabeš.
