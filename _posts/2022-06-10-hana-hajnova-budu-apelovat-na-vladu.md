@@ -5,7 +5,7 @@ tags:
  - Hlubinné úložiště
  - Francie
 layout: post
-title: Hana Hajnová – budu apelovat na vládu, aby se v otázce ukládání radioaktivního odpadu nedála inspirovat v zahraničí a otevřela prostor pro skutečný dialog
+title: Hana Hajnová – budu apelovat na vládu, aby se v otázce ukládání radioaktivního odpadu nebála inspirovat v zahraničí a otevřela prostor pro skutečný dialog
 author: Jiří Svoboda
 authorId: jiri.svoboda
 image: posts/2022-06-10-hana-hajnova-budu-apelovat-na-vladu.jpg
