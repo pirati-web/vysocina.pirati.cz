@@ -4,8 +4,7 @@ name: Stanislav Neuman
 category:
   - clenove
   #- mstrebicsko
-  - pmstrebicsko
-ordpmstrebicsko: 3
+  #- pmstrebicsko
 description: 2. místopředseda MS Třebíčsko
 profession: vedoucí sportovní prodejny
 heroImg: banner-default.jpg

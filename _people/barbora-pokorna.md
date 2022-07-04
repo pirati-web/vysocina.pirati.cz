@@ -3,11 +3,11 @@ uid: barbora.pokorna
 name: Barbora Pokorná
 category:
   - clenove
-  - mstrebicsko
-  #- pmstrebicsko
-#ordpmstrebicsko: 1
-description: členka MS Třebíčsko
-profession: členka MS Třebíčsko
+  - #mstrebicsko
+  - pmstrebicsko
+ordpmstrebicsko: 2
+description: 1. místopředsedkyně MS Třebíčsko
+profession: koordinátorka Krajského sdružení
 heroImg: banner-default.jpg
 img: people/barbora-pokorna.jpg
 mail: barbora.pokorna@pirati.cz

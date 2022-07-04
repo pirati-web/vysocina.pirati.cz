@@ -3,8 +3,9 @@ uid: tomas.veverka
 name: Tomáš Veverka
 category:
   - clenove
-  - mstrebicsko
-description: člen Místního sdružení Třebíčsko
+  - pmstrebicsko
+ordpmstrebicsko: 3
+description: 2. místopředseda MS Třebíčsko
 profession:
 heroImg: banner-default.jpg
 img: people/tomas-veverka.jpg
