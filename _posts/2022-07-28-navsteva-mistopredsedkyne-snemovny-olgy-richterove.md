@@ -12,7 +12,7 @@ authorId:
 image: posts/2022-07-28-navsteva-mistopredsedkyne-snemovny-olgy-richterove.jpg
 ---
 
-Jihlava, 28. července 2022 - **V úterý 19. července navštívila Kraj Vysočina místopředsedkyně Poslanecké sněmovny Parlamentu ČR Olga Richterová, náměstkyně ministra práce a sociálních věcí Zuzana Freitas Lopesová a radní pro sociální oblast Jihomoravského kraje Jana Leitnerová. Návštěvu iniciovala náměstkyně hejtmana Hana Hajnová, která své kolegyně Pirátky pozvala, aby se seznámily se zkušenostmi Kraje Vysočina v oblasti transformace sociálních služeb a také prvními výstupy projektu sociálně-zdravotního pomezí.**
+Jihlava, 28. července 2022, Foto: Kraj Vysočina - **V úterý 19. července navštívila Kraj Vysočina místopředsedkyně Poslanecké sněmovny Parlamentu ČR Olga Richterová, náměstkyně ministra práce a sociálních věcí Zuzana Freitas Lopesová a radní pro sociální oblast Jihomoravského kraje Jana Leitnerová. Návštěvu iniciovala náměstkyně hejtmana Hana Hajnová, která své kolegyně Pirátky pozvala, aby se seznámily se zkušenostmi Kraje Vysočina v oblasti transformace sociálních služeb a také prvními výstupy projektu sociálně-zdravotního pomezí.**
 
 *„Troufnu si tvrdit, že Kraj Vysočina je v transformaci sociálních služeb lídrem mezi kraji a i v dalších oblastech sociální politiky – jako je například paliativní péče nebo projekt sociálně – zdravotního pomezí, patříme mezi průkopníky a inovátory, kteří mohou být inspirací nejen pro krajské samosprávy, ale i  pro samotné ministerstvo,“* uvedla Hajnová.
 
