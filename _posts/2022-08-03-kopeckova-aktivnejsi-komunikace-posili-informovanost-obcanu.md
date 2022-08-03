@@ -8,7 +8,7 @@ tags:
 layout: post
 title: Kopečková – Aktivnější komunikace posílí informovanost občanů a zkvalitní řešení problémů
 author: Petra Kopečková
-authorId: petra.kopeckova
+authorId:
 image: posts/2022-08-03-kopeckova-aktivnejsi-komunikace-posili-informovanost-obcanu.jpg
 ---
 
