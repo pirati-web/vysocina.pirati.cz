@@ -11,7 +11,7 @@ authorId: jiri.svoboda
 image: posts/2022-09-14-safranek-chceme-chotebor-moderni-otevrenou-chytrou.jpg
 ---
 
-Jihlava, 14. září 2022 - **Do letošních komunálních voleb vyplouvají Piráti a Pirátky se svými posádkami v 10 městech a obcích na Vysočině. Někde s posádkou čistě pirátskou, někde koaliční, ale všude s odvahou dělat, co je správné. V našem volebním seriálu přinášíme rozhovory se všemi devíti lídry a lídryněmi, aby představili svoje týmy a programové priority, které pro voliče připravili. Dnes jsme vyzpovídali místostarostu města Chotěboř a lídra kandidátky POKRAČUJME V TOM SPOLEČNĚ Mgr. Bc. Davida Šafránka.**
+Jihlava, 14. září 2022 - **Do letošních komunálních voleb vyplouvají Piráti a Pirátky se svými posádkami v 10 městech a obcích na Vysočině. Někde s posádkou čistě pirátskou, někde koaliční, ale všude s odvahou dělat, co je správné. V našem volebním seriálu přinášíme rozhovory s lídry a lídryněmi, aby představili svoje týmy a programové priority, které pro voliče připravili. Dnes jsme vyzpovídali místostarostu města Chotěboř a lídra kandidátky POKRAČUJME V TOM SPOLEČNĚ Mgr. Bc. Davida Šafránka.**
 
 **Jak bys představil vaši kandidátku pro letošní volby?**
 
