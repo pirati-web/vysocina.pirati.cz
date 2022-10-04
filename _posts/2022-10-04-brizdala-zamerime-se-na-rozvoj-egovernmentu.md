@@ -11,7 +11,7 @@ authorId: jiri.svoboda
 image: posts/2022-10-04-brizdala-zamerime-se-na-rozvoj-egovernmentu.jpg
 ---
 
-Jihlava, 4. října 2022 - **Sdílení informací a dokumentů mezi všemi účastníky průběhu výstavby, jasná kontrola veřejných stavebních zakázek, digitální otevřený úřad, dokumentace žáků v elektronické podobě. To je jen malý výčet služeb, které pokryje projekt eGovernment 2022, jehož záměr dnes schválila Rada Kraje Vysočina.**
+Jihlava, 4. října 2022, Foto: Kraj Vysočina - **Sdílení informací a dokumentů mezi všemi účastníky průběhu výstavby, jasná kontrola veřejných stavebních zakázek, digitální otevřený úřad, dokumentace žáků v elektronické podobě. To je jen malý výčet služeb, které pokryje projekt eGovernment 2022, jehož záměr dnes schválila Rada Kraje Vysočina.**
 
 Rada Kraje Vysočina dnes schválila podání žádosti projektu eGovernment 2022 do výzvy Integrovaného regionálního operačního programu (IROP). V případě úspěšného přijetí žádosti tak budou v letech 2022-2027 realizovány IT projekty, které pomohou rozvíjet elektronickou veřejnou správu v Kraji Vysočina. *„Považujeme za důležité realizovat projekty zaměřené na digitalizaci služeb, rozvoj e-governmentu a práci s otevřenými daty, která mají být dostupná široké veřejnosti,“* doplňuje radní pro školství, informatiku a komunikační technologie Jan Břížďala (Piráti).
 
