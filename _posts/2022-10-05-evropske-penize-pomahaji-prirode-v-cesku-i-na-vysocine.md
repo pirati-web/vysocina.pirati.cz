@@ -7,7 +7,7 @@ tags:
 layout: post
 title: Evropské peníze pomáhají přírodě v Česku. I na Vysočině
 author: redakce
-authorId: 
+authorId:
 image: posts/2022-10-05-evropske-penize-pomahaji-prirode-v-cesku-i-na-vysocine.jpg
 ---
 
