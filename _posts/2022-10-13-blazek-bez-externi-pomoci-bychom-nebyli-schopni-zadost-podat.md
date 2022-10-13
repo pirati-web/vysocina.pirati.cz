@@ -8,7 +8,7 @@ layout: post
 title: Blažek – Bez externí pomoci bychom nebyli v tuhle chvíli schopni žádost podat
 author: Jiří Svoboda
 authorId: jiri.svoboda
-image: posts/2022-13-10-blazek-bez-externi-pomoci-bychom-nebyli-schopni-zadost-podat.jpg
+image: posts/2022-10-13-blazek-bez-externi-pomoci-bychom-nebyli-schopni-zadost-podat.jpg
 ---
 
 Jihlava, 10. října 2022 - **Před týdnem jsme na našem webu rozjeli miniseriál článků zaměřených na oblast ochrany životního prostředí, péči o krajinu a roli nestátních neziskových organizací. A právě do jedné *„neziskovky“*, starající se o ochranu přírody na Vysočině, se v posledním článku minisérie podíváme. Představíme vám Sdružení Krajina, podrobněji se podíváme na jeho financování a nahlédneme i pod pokličku dotačních možností, které může tento spolek čerpat.**
