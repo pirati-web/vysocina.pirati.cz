@@ -11,7 +11,7 @@ authorId: jiri.svoboda
 image: posts/2022-10-13-blazek-bez-externi-pomoci-bychom-nebyli-schopni-zadost-podat.jpg
 ---
 
-Jihlava, 10. října 2022 - **Před týdnem jsme na našem webu rozjeli miniseriál článků zaměřených na oblast ochrany životního prostředí, péči o krajinu a roli nestátních neziskových organizací. A právě do jedné *„neziskovky“*, starající se o ochranu přírody na Vysočině, se v posledním článku minisérie podíváme. Představíme vám Sdružení Krajina, podrobněji se podíváme na jeho financování a nahlédneme i pod pokličku dotačních možností, které může tento spolek čerpat.**
+Jihlava, 13. října 2022 - **Před týdnem jsme na našem webu rozjeli miniseriál článků zaměřených na oblast ochrany životního prostředí, péči o krajinu a roli nestátních neziskových organizací. A právě do jedné *„neziskovky“*, starající se o ochranu přírody na Vysočině, se v posledním článku minisérie podíváme. Představíme vám Sdružení Krajina, podrobněji se podíváme na jeho financování a nahlédneme i pod pokličku dotačních možností, které může tento spolek čerpat.**
 
 Sdružení Krajina je spolek sdružující lidi se zájmem o přírodu a krajinu a její praktickou ochranu. Hlavní činností je sečení podmáčených luk s výskytem vzácných druhů rostlin a živočichů. *„Ve spolupráci s místním farmářem louky také vypásáme. Vedle toho budujeme tůně, vysazujeme stromořadí, věnujeme se odborné činnosti. Poměrně čerstvě se zabýváme tvorbou regionálního osiva pro louky Žďárských vrchů. Do naší činnosti zapojujeme širokou veřejnost,“* říká zástupce ředitele Sdružení Krajina Tomáš Blažek. Kvůli dlouhodobé stabilitě působení spolku, funguje Sdružení Krajina také jako pozemkový spolek a k obhospodařovaným pozemkům získává právní vztahy. 
 
