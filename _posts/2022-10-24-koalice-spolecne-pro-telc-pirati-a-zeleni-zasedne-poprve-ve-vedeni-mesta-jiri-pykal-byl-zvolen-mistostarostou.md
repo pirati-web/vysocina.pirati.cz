@@ -7,7 +7,7 @@ tags:
 layout: post
 title: Koalice Společně pro Telč - Piráti a Zelení zasedne poprvé ve vedení města Telče. Jiří Pykal byl zvolen místostarostou
 author: redakce
-authorId: redakce
+authorId:
 image: posts/2022-10-24-koalice-spolecne-pro-telc-pirati-a-zeleni-zasedne-poprve-ve-vedeni-mesta-jiri-pykal-byl-zvolen-mistostarostou.jpg
 ---
 
