@@ -13,7 +13,7 @@ image: posts/2022-10-25-anketa-ucitel-vysociny-2022-zna-sve-letosni-ocenene.jpg
 
 Jihlava, 25. října 2022 - **Minulý pátek si v historické aule Vysoké školy polytechnické Jihlava převzalo deset pedagogů ocenění Učitel Vysočiny 2022. Slavnostní události se účastnil také krajský radní pro oblast školství Jan Břížďala (Piráti).**
 
-Do letošního ročníku ankety, kterou vyhlašuje krajská příspěvková organizace Vysočina Education ve spolupráci s Krajem Vysočina, bylo letos přihlášeno 18 pedagogů, z nichž odborná komise složená z vedoucích pracovníků škol a odborníků z řad Národního pedagogického institutu nebo České školní inspekce navrhla v tomto roce k ocenění 10 kandidátů. 
+Do letošního ročníku ankety, kterou vyhlašuje krajská příspěvková organizace Vysočina Education ve spolupráci s Krajem Vysočina, bylo přihlášeno 18 pedagogů, z nichž odborná komise složená z vedoucích pracovníků škol a odborníků z řad Národního pedagogického institutu nebo České školní inspekce navrhla v tomto roce k ocenění 10 kandidátů. 
 
 *„Anketa má za cíl vyzdvihnout náročnost učitelského povolání, podpořit jeho prestiž a ocenit kvalitní a inovativní pedagogy, kteří do své práce vkládají vždy něco navíc. Za mě je důležité ukazovat příklady dobré praxe a sdílet zkušenosti mezi sebou,“* doplňuje Jan Břížďala.
 
