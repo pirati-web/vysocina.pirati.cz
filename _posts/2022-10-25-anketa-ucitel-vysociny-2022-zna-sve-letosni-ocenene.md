@@ -5,7 +5,7 @@ tags:
  - Učitel Vysočiny 2022
  - školství
 layout: post
-title: Pelhřimovští Piráti zasednou v radě města. Chtějí se zaměřit na rozvoj IT a digitalizace
+title: Anketa Učitel Vysočiny 2022 zná své letošní oceněné 
 author: redakce
 authorId: redakce
 image: posts/2022-10-25-anketa-ucitel-vysociny-2022-zna-sve-letosni-ocenene.jpg
