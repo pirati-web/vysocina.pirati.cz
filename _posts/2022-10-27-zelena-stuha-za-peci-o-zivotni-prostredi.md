@@ -1,13 +1,13 @@
---
+---
 date: 2022-10-27
 category: blog
 tags:
- - Zelená stuha
  - Dolní Město
+ - Kraj Vysočina
 layout: post
-title: Zelená stuha za péči o životní prostředí míří do Dolního Města na Havlíčkobrodsku
+title: Zelená stuha za péči o životní prostředí míří do Dolního Města
 author: redakce
-authorId: redakce
+authorId:
 image: posts/2022-10-27-zelena-stuha-za-peci-o-zivotni-prostredi.jpg
 ---
 
