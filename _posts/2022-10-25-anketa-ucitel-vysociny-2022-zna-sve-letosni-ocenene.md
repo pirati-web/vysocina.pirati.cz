@@ -7,7 +7,7 @@ tags:
 layout: post
 title: Anketa Učitel Vysočiny 2022 zná své letošní oceněné 
 author: redakce
-authorId: redakce
+authorId:
 image: posts/2022-10-25-anketa-ucitel-vysociny-2022-zna-sve-letosni-ocenene.jpg
 ---
 
