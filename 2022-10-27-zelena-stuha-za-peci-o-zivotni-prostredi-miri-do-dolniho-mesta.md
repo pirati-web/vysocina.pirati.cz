@@ -4,7 +4,6 @@ category: blog
 tags:
  - Zelená stuha
  - Dolní Město
- - Kraj Vysočina
 layout: post
 title: Zelená stuha za péči o životní prostředí míří do Dolního Města 
 author: redakce
