@@ -5,7 +5,7 @@ tags:
  - Zelená stuha
  - Dolní Město
 layout: post
-title: Zelená stuha za péči o životní prostředí míří do Dolního Města
+title: Zelená stuha za péči o životní prostředí míří do Dolního Města na Havlíčkobrodsku
 author: redakce
 authorId: redakce
 image: posts/2022-10-27-zelena-stuha-za-peci-o-zivotni-prostredi.jpg
