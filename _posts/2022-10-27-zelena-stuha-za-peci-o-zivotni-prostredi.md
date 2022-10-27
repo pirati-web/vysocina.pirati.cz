@@ -11,7 +11,7 @@ authorId:
 image: posts/2022-10-27-zelena-stuha-za-peci-o-zivotni-prostredi.jpg
 ---
 
-Jihlava, 27. října 2022, Foto Kraj Vysočina - **Celostátním vítězem soutěže Zelená stuha České republiky 2002 se stala obec Dolní Město na Havlíčkobrodsku. Dolní Město získalo ocenění za mimořádný, vyvážený a příkladný přístup obce a občanů ke zlepšení životního prostředí a péči o historické kulturní dědictví. Zelenou stuhu za péči o zeleň a životní prostředí získala obec také v krajském kole soutěže Vesnice Vysočiny 2022.**
+Jihlava, 27. října 2022, Foto Kraj Vysočina - **Celostátním vítězem soutěže Zelená stuha České republiky 2022 se stala obec Dolní Město na Havlíčkobrodsku. Dolní Město získalo ocenění za mimořádný, vyvážený a příkladný přístup obce a občanů ke zlepšení životního prostředí a péči o historické kulturní dědictví. Zelenou stuhu za péči o zeleň a životní prostředí získala obec také v krajském kole soutěže Vesnice Vysočiny 2022.**
 
 *„Dolní Město bude díky získání tohoto celorepublikového titulu reprezentovat Českou republiku na mezinárodní soutěži Evropská kvetoucí města, která se bude konat příští rok. Garantem české účasti v této mezinárodní soutěži je Ministerstvo životního prostředí a organizátorem soutěže v ČR od samého počátku české účasti, tedy od roku 2002, je Společnost pro zahradní a krajinářskou tvorbu, občanské sdružení. Do soutěže je v současnosti zapojeno hned několik evropských zemí, z nichž každá vysílá po jednom ze svých zástupců za obec a město,“* doplňuje Hana Hajnová, náměstkyně hejtmana Kraje Vysočina pro oblast regionálního rozvoje.
 
