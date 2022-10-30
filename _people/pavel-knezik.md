@@ -1,6 +1,6 @@
 ---
 uid: pavel.knezik
-name: Pavel Knežik
+name: Pavel Kněžík
 category:
   - clenove
   - pks
@@ -45,7 +45,7 @@ profiles:
 partyUid: pirati
 ---
 
-Pavel Knežik (19. října 1979 Čadca, SR) od útlého věku jsem vyrůstal na Vysočině, konkrétně město Pelhřimov (Starý Pelhřimov) kde žiji do teď.
+Pavel Kněžík (19. října 1979 Čadca, SR) od útlého věku jsem vyrůstal na Vysočině, konkrétně město Pelhřimov (Starý Pelhřimov) kde žiji do teď.
 
 Studium - Střední průmyslová škola a Vyšší odborná škola, Písek - obor Elektronické počítače.
 
