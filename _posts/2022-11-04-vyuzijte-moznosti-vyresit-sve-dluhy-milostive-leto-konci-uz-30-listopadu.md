@@ -17,7 +17,7 @@ Důležitou podmínkou je, že se musí jednat o dluh, který začal být vymáh
 A jak na to? Do 15. 11. 2022 doručte exekutorovi doporučený dopis, ve kterém ho informujte, že využíváte Milostivé léto 2022. V dopise požádejte o vyčíslení dlužné jistiny a sdělení čísla účtu, na který máte zaslat peníze.  Až budete vědět, kolik jistina činí, tak ji stačí do 30. listopadu zaplatit; nezapomeňte k ní připočíst poplatek exekutorovi (1815 Kč). Poté bude exekuce zastavena a ukončena. 
 
 
-<iframe width="640" height="480" src="https://www.youtube.com/watch?v=L_3H-Fgw6_k" frameborder="0"> </iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/L_3H-Fgw6_k" frameborder="0"> </iframe>
 
 
 
