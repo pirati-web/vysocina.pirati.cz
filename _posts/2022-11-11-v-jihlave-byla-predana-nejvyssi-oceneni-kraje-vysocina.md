@@ -5,7 +5,7 @@ tags:
  - Nejvyšší ocenění Kraje Vysočina
  - Milan Peňáz
 layout: post
-title: V Jihlavě byla předána nejvyšší ocenění Kraje Vysočina. Skleněnou medaili získal pirátský nominant Milan Peňáz
+title: V Jihlavě byla předána nejvyšší ocenění Kraje Vysočina. Skleněnou medaili získal Milan Peňáz
 author: Jiří Svoboda
 authorId: jiri.svoboda
 image: posts/2022-11-11-v-jihlave-byla-predana-nejvyssi-oceneni-kraje-vysocina.jpg
