@@ -7,7 +7,7 @@ tags:
 layout: post
 title: Kraj Vysočina podepsal memorandum o spolupráci s Masarykovou univerzitou Brno
 author: redakce
-authorId: redakce
+authorId:
 image: posts/2022-11-14-kraj-vysocina-podepsal-memorandum-o-spolupraci-s-masarykovou-univerzitou-brno.jpg
 ---
 
