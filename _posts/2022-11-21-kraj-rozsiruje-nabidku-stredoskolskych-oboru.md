@@ -6,8 +6,8 @@ tags:
  - rozhovor
 layout: post
 title: Kraj rozšiřuje nabídku středoškolských oborů
-author: redakce
-authorId:
+author: Jiří Svoboda
+authorId: jiri.svoboda
 image: posts/2022-11-21-kraj-rozsiruje-nabidku-stredoskolskych-oboru.jpg
 ---
 
