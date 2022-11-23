@@ -11,7 +11,7 @@ authorId: jiri.svoboda
 image: posts/2022-11-23-kraj-vysocina-ziskal-krabici-od-vina-za-nejlepsiho-zadavatele-verejnych-zakazek.jpg
 ---
 
-Jihlava, 23. listopadu 2022, Foto Kraj Vysočina - **Hana Hajnová, náměstkyně hejtmana Kraje Vysočina pro oblast regionálního rozvoje, si na Ministerstvu pro místní rozvoj převzala *„Krabici od vína“* neboli ocenění za transparentní a hospodárné veřejné zakázky. V hodnocení zadavatelů veřejných zakázek ve městech s ročními nákupy mezi 30 a 300 mil. Kč uspěl již podruhé také Žďár nad Sázavou.**
+Jihlava, 23. listopadu 2022 - **Hana Hajnová, náměstkyně hejtmana Kraje Vysočina pro oblast regionálního rozvoje, si na Ministerstvu pro místní rozvoj převzala *„Krabici od vína“* neboli ocenění za transparentní a hospodárné veřejné zakázky. V hodnocení zadavatelů veřejných zakázek ve městech s ročními nákupy mezi 30 a 300 mil. Kč uspěl již podruhé také Žďár nad Sázavou.**
 
 V desátém hodnocení žebříčku Zindex.cz, který porovnává jednotlivé zadavatele a poskytuje jim zpětnou vazbu, zda postupují s doporučeními pro hospodárné zadávání dle MMR či Evropské komise, uspěl Kraj Vysočina, a to znamená, že trofej v podobě *„Krabice od vína“* putuje na Vysočinu. Právě podoba trofeje, tedy krabice od vína, odkazuje na fakt, že stovky úřadů v ČR nakupují transparentně a nezaslouží si nálepku korupce. Kraj Vysočina získal od dodavatelů maximální hodnocení. 
 
