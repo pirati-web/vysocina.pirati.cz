@@ -122,8 +122,8 @@ Ve svém volném čase ráda sportuje, čte knížky, hraje kroket nebo trajdá 
 </style>
 
 <div class="mobile">
-  <p align="center"><a href="https://calendar.google.com/calendar/embed?src=hana.hajnova%40kroket.org&ctz=Europe%2FPrague"><b>Veřejný kalendář</b></a></p>
+  <p align="center"><a href="https://calendar.google.com/calendar/embed?src=hajnova.pirati%40gmail.com&ctz=Europe%2FPrague"><b>Veřejný kalendář</b></a></p>
 </div>
 <div class="hidden lg:block">
-  <p align="center"><iframe src="https://calendar.google.com/calendar/embed?src=hana.hajnova%40kroket.org&ctz=Europe%2FPrague" style="border: 0" width="700" height="480" frameborder="0" scrolling="no"></iframe></p>
+  <p align="center"><iframe src="https://calendar.google.com/calendar/embed?src=hajnova.pirati%40gmail.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe></p>
 </div>
