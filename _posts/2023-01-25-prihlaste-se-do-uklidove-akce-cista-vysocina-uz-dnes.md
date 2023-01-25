@@ -7,7 +7,7 @@ tags:
 layout: post
 title: Přihlaste se do úklidové akce Čistá Vysočina už dnes
 author: redakce
-authorId: redakce
+authorId:
 image: posts/2023-01-25-prihlaste-se-do-uklidove-akce-cista-vysocina-uz-dnes.jpg
 ---
 
