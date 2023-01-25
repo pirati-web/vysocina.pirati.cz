@@ -8,7 +8,7 @@ layout: post
 title: Přihlaste se do úklidové akce Čistá Vysočina už dnes
 author: redakce
 authorId: redakce
-image: posts/2023-01-25-prihlaste-se-do-uklidove-akce-cista-vysocina-uz-dnes-I.jpg
+image: posts/2023-01-25-prihlaste-se-do-uklidove-akce-cista-vysocina-uz-dnes.jpg
 ---
 
 Jihlava, 25. ledna 2023, Foto Josef Vak - **V rámci celosvětové kampaně Den Země, který připadá na 22. dubna, pořádá Kraj Vysočina další ročník osvětové akce Čistá Vysočina spojené s úklidem přírody. Sběr odpadků proběhne od 10. do 23. dubna především v okolí silnic a na veřejných prostranstvích v obcích a městech na Vysočině. Dobrovolníci se mohou už nyní registrovat na webu Kraje Vysočina, registrace bude otevřená až do konce února.**
