@@ -13,7 +13,8 @@ category:
 ordkz: 7
 ordzmtrebic: 2
 ordpmstrebicsko: 1
-description: místopředseda KS Vysočina, předseda MS Třebíčsko
+ordpks: 3
+description: 3. místopředseda KS Vysočina, předseda MS Třebíčsko
 descriptionkz: neuvolněný zastupitel
 descriptionzm: neuvolněný zastupitel
 profession: student FF MUNI, zastupitel Kraje Vysočina, zastupitel Třebíče
