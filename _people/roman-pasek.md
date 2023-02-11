@@ -8,11 +8,12 @@ category:
   - clenove
   - pmstrebicsko
   - kz
+  - pks
   - zmtrebic
 ordkz: 7
 ordzmtrebic: 2
 ordpmstrebicsko: 1
-description: předseda MS Třebíčsko
+description: místopředseda KS Vysočina, předseda MS Třebíčsko
 descriptionkz: neuvolněný zastupitel
 descriptionzm: neuvolněný zastupitel
 profession: student FF MUNI, zastupitel Kraje Vysočina, zastupitel Třebíče
@@ -71,7 +72,7 @@ profiles:
 partyUid: pirati
 ---
 
-Roman Pašek (* 6. května 1993 v Třebíči) je 2. místopředsedou MS Třebíčsko, zastupitelem města Třebíče a zastupitelem Kraje Vysočina.
+Roman Pašek (* 6. května 1993 v Třebíči) je místopředsedou KS Vysočina, 2. místopředsedou MS Třebíčsko, zastupitelem města Třebíče a zastupitelem Kraje Vysočina.
 
 Vystudoval Střední průmyslovou školu Třebíč v oboru Elektronické počítačové systémy. Aktuálně studuje kombinovanou formou studia na Filozofické fakultě Masarykovy univerzity obor Sdružená uměnovédná studia.
 
@@ -90,6 +91,7 @@ Ve svém volném čase se aktivně věnuje hudbě a pasivně filmu.
 **Piráti:**
 * od ledna 2018 členem
 * od října 2020 2. místopředsedou **MS Třebíčsko**
+* od ledna 2023 místopředsedou **KS Vysočina**
 * podílí se na tvorbě **Pirátských listů** - krajské mutace na Vysočině
 * organizátor **VyOsení**
 * organizátor **Festivalu svobodných filmů**
