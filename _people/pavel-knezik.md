@@ -1,6 +1,6 @@
 ---
 uid: pavel.knezik
-name: Pavel Kněžík
+name: Pavel Knežik
 category:
   - clenove
   - pks
@@ -10,7 +10,7 @@ category:
 ordpmspelhrimovsko: 1
 ordpks: 5
 ordkz: 5
-description: 3. místopředseda KS Vysočina, předseda MS Pelhřimovsko
+description: předseda KS Vysočina, předseda MS Pelhřimovsko
 descriptionkz: neuvolněný zastupitel
 heroImg: banner-default.jpg
 img: people/pavel-knezik.jpg
@@ -45,7 +45,7 @@ profiles:
 partyUid: pirati
 ---
 
-Pavel Kněžík (19. října 1979 Čadca, SR) od útlého věku jsem vyrůstal na Vysočině, konkrétně město Pelhřimov (Starý Pelhřimov) kde žiji do teď.
+Pavel Knežik (19. října 1979 Čadca, SR) od útlého věku jsem vyrůstal na Vysočině, konkrétně město Pelhřimov (Starý Pelhřimov) kde žiji do teď.
 
 Studium - Střední průmyslová škola a Vyšší odborná škola, Písek - obor Elektronické počítače.
 
