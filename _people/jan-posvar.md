@@ -4,9 +4,8 @@ name: Jan Pošvář
 category:
   - clenove
   - pks
-  - mspelhrimovsko
 ordpks: 1
-description: předseda KS Vysočina
+description: místopředseda KS Vysočina
 profession:  vedoucí sekce slepice a zahrádky, předseda KS
 heroImg: banner-default.jpg
 img: people/jan-posvar.jpg
@@ -14,16 +13,8 @@ mail:
   - jan.posvar@pirati.cz
 mob:
   - 773 111 185
-asistenti:
-  - name: Martin Huňady
-    tel: 732 251 216
-    mail: hunadym@psp.cz
-  - name: Ondřej Beníček
-    tel: 777 814 824
-    mail: beniceko@psp.cz
-office:
-  - address: Matky Boží 1182/9, 586 01  Jihlava
-    opening: pondělí 12&#58;00 - 17&#58;00
+
+
 profiles:
   wikipedia: https://cs.wikipedia.org/wiki/Jan_Po%C5%A1v%C3%A1%C5%99
   facebook: https://www.facebook.com/ArAx666
@@ -39,7 +30,7 @@ profiles:
 partyUid: pirati
 calendar: 3jlgg8p8nnj3k6t1gduajv0m1g%40group.calendar.google.com
 ---
-Jan Pošvář (* 16. května 1985, Kamenice nad Lipou) je je předsedou krajského sdružení Pirátské strany na Vysočině. V Poslanecké sněmovně byl členem Zemědělského výboru, Kontrolního výboru, místopředsedou Podvýboru pro daně, cla, loterie a členem Volební komise. 
+Jan Pošvář (* 16. května 1985, Kamenice nad Lipou) je místopředsedou krajského sdružení Pirátské strany na Vysočině. V Poslanecké sněmovně byl členem Zemědělského výboru, Kontrolního výboru, místopředsedou Podvýboru pro daně, cla, loterie a členem Volební komise. 
 
 Studoval na Gymnáziu v Pelhřimově a na Vysoké škole polytechnické v Jihlavě. Poté pracoval jako programátor v pražské IT společnosti T-SOFT a.s., kde se podílel na vývoji informačních systémů (například eFarmář - Privátní portál pro zemědělce). Během svého života se učil i řemeslu svého otce a v červnu 2013 získal řemeslnou živnost – malířské a natěračské práce.
 
@@ -53,11 +44,11 @@ V Poslanecké sněmovně se zajímá o ochranu půdy, ochranu práv vlastníků 
  
 
 **Piráti:**
-* předseda krajského sdružení Vysočina
+* místopředseda krajského sdružení Vysočina
 * od 2010 člen
 
 **Piráti v minulosti:**
-* místopředseda krajského sdružení Vysočina
+* místopředseda MS Pelhřimovsko
 
 ---
 <style>
