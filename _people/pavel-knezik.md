@@ -8,7 +8,7 @@ category:
   #- mspelhrimovsko
   - kz
 ordpmspelhrimovsko: 1
-ordpks: 5
+ordpks: 1
 ordkz: 5
 description: předseda KS Vysočina, předseda MS Pelhřimovsko
 descriptionkz: neuvolněný zastupitel
