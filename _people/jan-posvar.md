@@ -4,8 +4,8 @@ name: Jan Pošvář
 category:
   - clenove
   - pks
-ordpks: 1
-description: místopředseda KS Vysočina
+ordpks: 3
+description: 2. místopředseda KS Vysočina
 profession:  vedoucí sekce slepice a zahrádky, předseda KS
 heroImg: banner-default.jpg
 img: people/jan-posvar.jpg
