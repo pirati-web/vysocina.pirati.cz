@@ -3,12 +3,10 @@ uid: miroslav.vacha
 name: Miroslav Vácha
 category:
   - clenove
-  - pks
-  #- mstelcsko
   - pmstelcsko
 ordpks: 4
 ordpmstelcsko: 3
-description: 2. místopředseda KS Vysočina, 2. místopředseda MS Telčsko
+description: 2. místopředseda MS Telčsko
 profession: záchranář, člen Bezpečnostní a Zdravotní komise Kraje Vysočina
 heroImg: banner-default.jpg
 img: people/miroslav-vacha.jpg
@@ -30,7 +28,7 @@ profiles:
   #instagram:  
 partyUid: pirati
 ---
-Miroslav Vácha, DiS. (* 14. dubna 1984 v Jihlavě) je zdravotnický záchranář, 3. místopředseda krajského sdružení Vysočina, 2. místopředseda místního sdružení Mikroregion Telčsko, člen Bezpečnostní a Zdravotní komise Kraje Vysočina a otec čtyř dětí.
+Miroslav Vácha, DiS. (* 14. dubna 1984 v Jihlavě) je zdravotnický záchranář,  2. místopředseda místního sdružení Mikroregion Telčsko, člen Bezpečnostní a Zdravotní komise Kraje Vysočina a otec čtyř dětí.
 
 Vystudoval Vyšší zdravotnickou školu v Brně v oboru Zdravotnický záchranář a je absolventem DAMU - akreditovaného studia Kreativní pedagogiky na Katedře autorské tvorby a pedagogiky.
 
